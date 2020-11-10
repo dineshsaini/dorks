@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2010
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allintext:"SuperCali Event Calendar"
+Description:      allintext:"SuperCali Event Calendar"
+
+
+SuperCali PHP Event Calendar 0.4.0 SQL Injection Vulnerability - CVE: 2007-3582: https://www.exploit-db.com/exploits/4141

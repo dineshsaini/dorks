@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4710
+Category:         Sensitive Directories
+Published Date:   2018-03-27
+Author:           Bruno Schmid
+GoogleDork:       inurl:"apps/backend/config/"
+Description:      inurl:"apps/backend/config/"
+
+
+Directories containing Symfony CMS juicy info and files    Bruno Schmid 

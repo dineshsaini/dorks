@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5278
+Category:         Pages Containing Login Portals
+Published Date:   2019-07-15
+Author:           Zayed AlJaberi
+GoogleDork:       inurl:/en-US/account/login?return_to=
+Description:      inurl:/en-US/account/login?return_to=
+
+
+# Google Search: inurl:/en-US/account/login?return_to= # Google Dork Description: [Servers that running Splunk Enterprise (SIEM)] # Date: [12-July-2019] # Exploit Author: [Zayed AlJaberi] # Vendor Homepage: [https://www.splunk.com/] 

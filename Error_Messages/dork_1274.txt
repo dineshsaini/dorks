@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1274
+Category:         Error Messages
+Published Date:   2006-03-13
+Author:           anonymous
+GoogleDork:       filetype:asp + "[ODBC SQL"
+Description:      filetype:asp + "[ODBC SQL"
+
+
+This search returns more than just the one I saw already here. This one will return all ODBC SQL error pages including all data returned in the error. The information can range from simple data such as the table/row queried to full Database name etc.An attacker could take this information and use it to gain a foot hold into the SQL server and could use the information for an SQL injection attack.

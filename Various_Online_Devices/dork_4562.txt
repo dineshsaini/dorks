@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4562
+Category:         Various Online Devices
+Published Date:   2017-07-31
+Author:           anonymous
+GoogleDork:       inurl:"/api/index.php" intitle:UniFi
+Description:      inurl:"/api/index.php" intitle:UniFi
+
+
+Finds the UniFi API browser with juicy Information such as WiFi passwords redstoner2014 

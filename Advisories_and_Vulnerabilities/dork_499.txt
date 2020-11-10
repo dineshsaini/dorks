@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/499
+Category:         Advisories and Vulnerabilities
+Published Date:   2004-09-23
+Author:           anonymous
+GoogleDork:       filetype:php inurl:index.php inurl:"module=subjects" inurl:"func=*" (listpages| viewpage | listcat)
+Description:      filetype:php inurl:index.php inurl:"module=subjects" inurl:"func=*" (listpages| viewpage | listcat)
+
+
+Reportedly the PostNuke Modules Factory Subjects module is affected by a remote SQL injection vulnerability. http://securityfocus.com/bid/11148/discussion/

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2559
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"vcalendar_asp"
+Description:      inurl:"vcalendar_asp"
+
+
+VCalendar (VCalendar.mdb) Remote Database Disclosure Vulnerability: https://www.exploit-db.com/exploits/7180

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1393
+Category:         Various Online Devices
+Published Date:   2006-06-25
+Author:           anonymous
+GoogleDork:       allintitle: Axis 2.10 OR 2.12 OR 2.30 OR 2.31 OR 2.32 OR 2.33 OR 2.34 OR 2.40 OR 2.42 OR 2.43 "Network Camera "
+Description:      allintitle: Axis 2.10 OR 2.12 OR 2.30 OR 2.31 OR 2.32 OR 2.33 OR 2.34 OR 2.40 OR 2.42 OR 2.43 "Network Camera "
+
+
+No one search will reveal all Axis cameras. This is a variant for the 2xxx series.

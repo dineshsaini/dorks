@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/874
+Category:         Various Online Devices
+Published Date:   2005-02-12
+Author:           anonymous
+GoogleDork:       intext:"Please enter correct password for Administrator Access. Thank you" "Copyright Ãƒâ€šÃ‚Â© 2003 SMC Networks, Inc. All rights reserved."
+Description:      intext:"Please enter correct password for Administrator Access. Thank you" "Copyright Ãƒâ€šÃ‚Â© 2003 SMC Networks, Inc. All rights reserved."
+
+
+Finds SMC Routers.

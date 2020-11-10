@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6510
+Category:         Files Containing Passwords
+Published Date:   2020-09-01
+Author:           Alexandros Pappas
+GoogleDork:       "/** MySQL database password */" ext:txt | ext:cfg | ext:env | ext:ini
+Description:      "/** MySQL database password */" ext:txt | ext:cfg | ext:env | ext:ini
+
+
+# Google Dork: "/** MySQL database password */" ext:txt | ext:cfg | ext:env | ext:ini  # MySQL database usernames and passwords.  # Date: 1/09/2020  # Exploit Author: Alexandros Pappas 

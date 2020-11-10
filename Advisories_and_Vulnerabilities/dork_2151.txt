@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2151
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Copyright MaxiSepet ©"
+Description:      "Copyright MaxiSepet ©"
+
+
+MaxiSepet 1.0 (link) SQL Injection Vulnerability: https://www.exploit-db.com/exploits/1900

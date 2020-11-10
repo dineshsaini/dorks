@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3520
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "powered by php photo album" -demo2 -pitanje"
+Description:      "powered by php photo album" -demo2 -pitanje"
+
+
+PHP Album 0.3.2.3 Remote Command Execution: https://www.exploit-db.com/exploits/1678

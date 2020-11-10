@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3679
+Category:         Advisories and Vulnerabilities
+Published Date:   2011-01-23
+Author:           anonymous
+GoogleDork:       "Powered by: PHP Link Directory"
+Description:      "Powered by: PHP Link Directory"
+
+
+CSRF Vuln: https://www.exploit-db.com/exploits/16037/

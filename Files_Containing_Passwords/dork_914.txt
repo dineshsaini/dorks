@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/914
+Category:         Files Containing Passwords
+Published Date:   2005-03-28
+Author:           anonymous
+GoogleDork:       wwwboard WebAdmin inurl:passwd.txt wwwboard|webadmin
+Description:      wwwboard WebAdmin inurl:passwd.txt wwwboard|webadmin
+
+
+This is a filtered version of previous 'inurl:passwd' searches, focusing on WWWBoard [1]. There are different crypt functions involved [2], but the default username and password is 'WebAdmin:WebBoard' without the quotes. This is my first Googledork entry, so be gentle :)Funny enough, many of the DES hashes seem to use a salt of "ae". I tried just using this string along with the inurl portion, but it seemed to inappropriately restrict the search. Couple this with [3] and, um, yeah.cykyc[1]http://www.scriptarchive.com/wwwboard.html[2]http://www.scriptarchive.com/faq/wwwboard.html#q2[3]http://johnny.ihackstuff.com/index.php?module=prodreviews&amp;func=showcontent&amp;id=625

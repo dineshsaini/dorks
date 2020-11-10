@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4606
+Category:         Web Server Detection
+Published Date:   2017-10-31
+Author:           Visakh V Nair
+GoogleDork:       inurl:phpmyadmin/themes intext:"pmahomme"
+Description:      inurl:phpmyadmin/themes intext:"pmahomme"
+
+
+This will help to identify websites that host phpmyadmin by detecting the exposed theme files  Visakh V Nair 

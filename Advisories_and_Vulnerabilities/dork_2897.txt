@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2897
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by MyHobbySite 1.01
+Description:      Powered by MyHobbySite 1.01
+
+
+MyHobbySite 1.01 SQL Injection and Authentication Bypass Vulnerability: https://www.exploit-db.com/exploits/14977

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/267
+Category:         Pages Containing Login Portals
+Published Date:   2004-05-30
+Author:           anonymous
+GoogleDork:       inurl:search/admin.php
+Description:      inurl:search/admin.php
+
+
+phpMySearch is a personal search engine that one can use to provide a search feature for one's own Web site. With this search an attacker can find admin logon screens. This software does not seem to be very popular yet, but would allow attackers to access indexed information about the host if compromised.

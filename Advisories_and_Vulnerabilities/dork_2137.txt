@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2137
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:tr.php?id= Reminder Service
+Description:      inurl:tr.php?id= Reminder Service
+
+
+YourFreeWorld Reminder Service (id) SQL Injection Vulnerability - CVE: 2008-4881: https://www.exploit-db.com/exploits/6943

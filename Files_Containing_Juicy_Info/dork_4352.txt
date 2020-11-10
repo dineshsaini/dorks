@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4352
+Category:         Files Containing Juicy Info
+Published Date:   2016-11-09
+Author:           anonymous
+GoogleDork:       https://paper.dropbox.com inurl:/doc/
+Description:      https://paper.dropbox.com inurl:/doc/
+
+
+site:https://notes.dropbox.com inurl:/hp/ A google dork for Dropbox Paper that will allow us to access documents of other users and see their email address that they use on Dropbox. https://secuna.ph https://medium.com/@atom Allan Jay Dumanhug

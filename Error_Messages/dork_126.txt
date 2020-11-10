@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/126
+Category:         Error Messages
+Published Date:   2004-03-16
+Author:           anonymous
+GoogleDork:       "Fatal error: Call to undefined function" -reply -the -next
+Description:      "Fatal error: Call to undefined function" -reply -the -next
+
+
+This error message can reveal information such as compiler used, language used, line numbers, program names and partial source code.

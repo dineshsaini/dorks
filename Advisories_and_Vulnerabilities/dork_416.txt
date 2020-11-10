@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/416
+Category:         Advisories and Vulnerabilities
+Published Date:   2004-08-09
+Author:           anonymous
+GoogleDork:       ext:pl inurl:cgi intitle:"FormMail *" -"*Referrer" -"* Denied" -sourceforge -error -cvs -input
+Description:      ext:pl inurl:cgi intitle:"FormMail *" -"*Referrer" -"* Denied" -sourceforge -error -cvs -input
+
+
+FormMail is a Perl script written by Matt Wright to send mail with sendmail from the cgi-gateway. Early version didn' have a referer check. New versions could be misconfigured. Spammers are known to hunt them down (by means of cgi-scanning) and abuse them for their own evil purposes if the admin forgot to check the settings.http://www.securityfocus.com/bid/3954/discussion/

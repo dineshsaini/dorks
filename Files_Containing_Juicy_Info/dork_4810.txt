@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4810
+Category:         Files Containing Juicy Info
+Published Date:   2018-05-09
+Author:           Sang Bui
+GoogleDork:       intitle:"Powered by Qualys SSL Labs"
+Description:      intitle:"Powered by Qualys SSL Labs"
+
+
+Search for the SSL security report on the server with some sensitive information.  Sang Bui 

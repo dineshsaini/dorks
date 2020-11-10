@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/307
+Category:         Files Containing Passwords
+Published Date:   2004-07-06
+Author:           anonymous
+GoogleDork:       psyBNC config files
+Description:      psyBNC config files
+
+
+psyBNC is an IRC-Bouncer with many features. It compiles on Linux, FreeBSD, SunOs and Solaris. The configuration file for psyBNC is called psybnc.conf (duh).An attacker can use the password, host and portinformation in this file to bounce his IRC connection through these bouncers, providing some privacy or just to show off some fancy irc hostname that are usually linked to those IP addresses.

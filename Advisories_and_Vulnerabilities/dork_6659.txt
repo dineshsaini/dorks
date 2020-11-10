@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6659
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-11-06
+Author:           Alexandros Pappas
+GoogleDork:       intitle:"Powered by Pro Chat Rooms"
+Description:      intitle:"Powered by Pro Chat Rooms"
+
+
+# Google Dork: intitle:"Powered by Pro Chat Rooms" # Pro Chat Rooms v8.2.0 - Multiple Vulnerabilities. CVE-2014-5275, CVE-2014-5276. https://www.exploit-db.com/exploits/34275 # Date: 29/10/2020 # Exploit Author: Alexandros Pappas 

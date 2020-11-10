@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6206
+Category:         Files Containing Juicy Info
+Published Date:   2020-06-04
+Author:           Abhi Chitkara
+GoogleDork:       intitle:"index of" "auth.config"
+Description:      intitle:"index of" "auth.config"
+
+
+Dork: intitle:"index of" "auth.config" Description: This google dorks lists out authentication config files on web servers. Author: Abhi Chitkara 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1561
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by osCSS
+Description:      Powered by osCSS
+
+
+osCSS v1.2.1 Database Backups Disclosure: https://www.exploit-db.com/exploits/11612

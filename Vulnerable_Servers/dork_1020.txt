@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1020
+Category:         Vulnerable Servers
+Published Date:   2005-06-11
+Author:           anonymous
+GoogleDork:       "html allowed" guestbook
+Description:      "html allowed" guestbook
+
+
+When this is typed in google it finds websites which have HTML Enabled guestbooks. This is really stupid as users could totally mess up their guestbook by adding commands like or adding a loop javascript pop-up

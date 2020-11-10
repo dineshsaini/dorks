@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3669
+Category:         Files Containing Passwords
+Published Date:   2011-01-09
+Author:           anonymous
+GoogleDork:       inurl:config/databases.yml -trac -trunk -"Google Code" -source -repository
+Description:      inurl:config/databases.yml -trac -trunk -"Google Code" -source -repository
+
+
+Google search for web site build with symfony framework. This file contains the login / password for the databases Author: Simon Leblanc

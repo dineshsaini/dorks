@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4107
+Category:         Sensitive Directories
+Published Date:   2015-10-30
+Author:           anonymous
+GoogleDork:       intitle:index.of parent inurl:repos
+Description:      intitle:index.of parent inurl:repos
+
+
+http://www.google.com/search?q=intitle:index.of parent inurl:repos Shared repositories. Very interesting... Decoy

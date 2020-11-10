@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/290
+Category:         Web Server Detection
+Published Date:   2004-06-18
+Author:           anonymous
+GoogleDork:       allinurl:".nsconfig" -sample -howto -tutorial
+Description:      allinurl:".nsconfig" -sample -howto -tutorial
+
+
+Access to a Web server's content, CGI scripts, and configuration files is controlled by entries in an access file. On Apache and NCSA Web servers the file is .htaccess, on Netscape servers it is .nsconfig.These files associate users, groups, and IP addresses with various levels of permissions: GET (read), POST (execute), PUT (write), and DELETE. For example, a FrontPage author would have permission to use HTTP POST commands (to save new content), and a user with browse permissions would be permitted to use HTTP GET commands (to read content).

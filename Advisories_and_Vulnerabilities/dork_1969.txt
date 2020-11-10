@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1969
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"com_acprojects"
+Description:      inurl:"com_acprojects"
+
+
+Joomla Component com_acprojects Sql Injection Vulnerability: https://www.exploit-db.com/exploits/11480

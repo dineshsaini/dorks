@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5934
+Category:         Various Online Devices
+Published Date:   2020-04-21
+Author:           Nicholas Doropoulos
+GoogleDork:       inurl:mainFrame.cgi intext:"RICOH"
+Description:      inurl:mainFrame.cgi intext:"RICOH"
+
+
+Category: Various Online Devices Nicholas Doropoulos

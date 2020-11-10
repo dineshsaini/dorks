@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4634
+Category:         Pages Containing Login Portals
+Published Date:   2017-12-07
+Author:           P5N4PPZ
+GoogleDork:       intitle:"Panel Administracyjny"
+Description:      intitle:"Panel Administracyjny"
+
+
+*Google Dork : intitle:"Panel Administracyjny"*  *Description : Show admin panel of .pl (Poland) websites. * *Author: P5N4PPZ* 

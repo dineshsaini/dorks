@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/685
+Category:         Files Containing Juicy Info
+Published Date:   2004-11-16
+Author:           anonymous
+GoogleDork:       filetype:config web.config -CVS
+Description:      filetype:config web.config -CVS
+
+
+Through Web.config an IIS adminstrator can specify settings like custom 404 error pages, authentication and authorization settings for the Web site. This file can hold a plaintext password in the worst case or just reveil the full path info on a 404 error.

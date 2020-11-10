@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/659
+Category:         Files Containing Juicy Info
+Published Date:   2004-11-07
+Author:           anonymous
+GoogleDork:       ext:conf NoCatAuth -cvs
+Description:      ext:conf NoCatAuth -cvs
+
+
+NoCatAuth configuration file. This reveals the configuration details of wirless gateway including ip addresses, device names and pathes.

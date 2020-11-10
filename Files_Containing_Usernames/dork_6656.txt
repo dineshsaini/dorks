@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6656
+Category:         Files Containing Usernames
+Published Date:   2020-11-06
+Author:           Alexandros Pappas
+GoogleDork:       intitle:"index of" "filezilla.xml"
+Description:      intitle:"index of" "filezilla.xml"
+
+
+# Google Dork: intitle:"index of" "filezilla.xml"  # Sensitive directories containing many times usernames and passwords.  # Date: 5/11/2020  # Exploit Author: Alexandros Pappas 

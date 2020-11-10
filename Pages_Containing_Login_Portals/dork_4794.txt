@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4794
+Category:         Pages Containing Login Portals
+Published Date:   2018-04-25
+Author:           Nisankh Acharjya
+GoogleDork:       inurl:/mailscanner/login.php
+Description:      inurl:/mailscanner/login.php
+
+
+Google Dork :: inurl:/mailscanner/login.php to get email filter  appliance login page (MailWatch Login)   Nisankh Acharjya  

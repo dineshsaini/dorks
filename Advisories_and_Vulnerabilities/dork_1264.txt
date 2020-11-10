@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1264
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-02-26
+Author:           anonymous
+GoogleDork:       intitle:"4images - Image Gallery Management System" and intext:"Powered by 4images 1.7.1"
+Description:      intitle:"4images - Image Gallery Management System" and intext:"Powered by 4images 1.7.1"
+
+
+Find web app: 4Images = 1.7.1This web app is vulenrable to remote code execution exploit.The url of exploit is this: http://milw0rm.com/id.php?id=1533Good hackingBy HaVoC

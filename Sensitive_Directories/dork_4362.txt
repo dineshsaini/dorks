@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4362
+Category:         Sensitive Directories
+Published Date:   2016-11-29
+Author:           anonymous
+GoogleDork:       inurl:".esy.es/default.php"
+Description:      inurl:".esy.es/default.php"
+
+
+Dork: inurl:".esy.es/default.php"    You can add “Here is a list of files in your public_html folder” in the dork ……    Dork by INILERM

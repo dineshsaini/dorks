@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4824
+Category:         Pages Containing Login Portals
+Published Date:   2018-05-16
+Author:           Bruno Schmid
+GoogleDork:       intitle:login laboratory | "nuclear" | physics "password" authentication
+Description:      intitle:login laboratory | "nuclear" | physics "password" authentication
+
+
+Login portals of specific interest  For other fields also try:  intitle:login institute of | national | center of | embassy | federation | deputy "password"  intitle:login medicine | genetics | microbiology | cancer | neurologic "password"  intitle:login democratic | nationalist | republican | socialist | federal "password"  intitle:login aviatics | aviation | aeronautic | naval "password"   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/629
+Category:         Vulnerable Files
+Published Date:   2004-10-27
+Author:           anonymous
+GoogleDork:       inurl:click.php intext:PHPClickLog
+Description:      inurl:click.php intext:PHPClickLog
+
+
+A script written in PHP 4 which logs a user's statistics when they click on a link. The log is stored in a flatfile (text) database and can be viewed/inspected through an administration section.

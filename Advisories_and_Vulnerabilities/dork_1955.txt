@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1955
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       ''com_noticias''
+Description:      ''com_noticias''
+
+
+Joomla Component com_noticias 1.0 SQL Injection Vulnerability - CVE: 2008-0670: https://www.exploit-db.com/exploits/5081

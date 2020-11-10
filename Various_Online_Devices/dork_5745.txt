@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5745
+Category:         Various Online Devices
+Published Date:   2020-02-20
+Author:           MuckT
+GoogleDork:       inurl:/swagger/index.html
+Description:      inurl:/swagger/index.html
+
+
+# Exploit Title: Publicly Exposed Swagger API Documentation # Google Dork: inurl:/swagger/index.html # Date: 02/19/2020 # Exploit Author: MuckT  

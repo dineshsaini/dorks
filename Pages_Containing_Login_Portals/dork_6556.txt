@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6556
+Category:         Pages Containing Login Portals
+Published Date:   2020-09-22
+Author:           Sanu Jose M
+GoogleDork:       inurl:"sms login"
+Description:      inurl:"sms login"
+
+
+#Exploit Title : Dork shows login pages of various sites. #Google Dork : inurl:"sms login" #Date : 22/09/2020 #Exploit Author : Sanu Jose M  Thanks &amp; Regards,  Sanu Jose M 

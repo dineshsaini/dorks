@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5966
+Category:         Files Containing Juicy Info
+Published Date:   2020-04-30
+Author:           Abhi Chitkara
+GoogleDork:       intitle:"index of" db.json
+Description:      intitle:"index of" db.json
+
+
+Dork: intitle:"index of" db.json Description: This Google dork lists out sensitive .json database files for websites Author: Abhi Chitkara 

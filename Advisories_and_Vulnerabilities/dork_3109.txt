@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3109
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Devana is an open source project !"
+Description:      "Devana is an open source project !"
+
+
+Devana SQL Injection vulnerability - CVE: 2010-2673: https://www.exploit-db.com/exploits/11922

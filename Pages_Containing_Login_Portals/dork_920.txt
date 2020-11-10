@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/920
+Category:         Pages Containing Login Portals
+Published Date:   2005-03-31
+Author:           anonymous
+GoogleDork:       inurl:bin.welcome.sh | inurl:bin.welcome.bat | intitle:eHealth.5.0
+Description:      inurl:bin.welcome.sh | inurl:bin.welcome.bat | intitle:eHealth.5.0
+
+
+eHealth, a network management solution, enables its users to manage performance and availability of LANs, WANs, routers, Switches, Frame Relay, ATM, Remote Access Equipment, QoS, Wireless LAN, DAL, Voice and Cable technologies.

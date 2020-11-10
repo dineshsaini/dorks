@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4316
+Category:         Various Online Devices
+Published Date:   2016-08-16
+Author:           anonymous
+GoogleDork:       inurl:/Portal/Portal.mwsl
+Description:      inurl:/Portal/Portal.mwsl
+
+
+This is a dork for the Siemens S7 series of PLC controllers. (SCADA) Ps. Some are unrestricted *Supernova*

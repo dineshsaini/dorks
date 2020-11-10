@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1093
+Category:         Advisories and Vulnerabilities
+Published Date:   2005-09-05
+Author:           anonymous
+GoogleDork:       "Powered by MD-Pro" | "made with MD-Pro"
+Description:      "Powered by MD-Pro" | "made with MD-Pro"
+
+
+MAXdev MD-Pro 1.0.73 (possibly prior versions) remote code execution/ cross site scripting / path disclosure. This search does not find vulnerable versions.software:site: http://www.maxdev.com/description: http://www.maxdev.com/AboutMD.phtmloriginal advisory: http://rgod.altervista.org/maxdev1073.html

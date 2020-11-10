@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4192
+Category:         Files Containing Juicy Info
+Published Date:   2016-02-02
+Author:           anonymous
+GoogleDork:       intitle:"TurnKey LAMP" intext:"turnkey lamp release notes" "Apache PHP information"
+Description:      intitle:"TurnKey LAMP" intext:"turnkey lamp release notes" "Apache PHP information"
+
+
+Detail:     Google results shows turnkey lamp default page which discloses information server like PHPINFO page, Apache server Status, webmin login page and many more. [ Silent Z3R0 ]-[Pakistan Cyber Army]

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4235
+Category:         Pages Containing Login Portals
+Published Date:   2016-03-14
+Author:           anonymous
+GoogleDork:       intitle:"Honeywell XL Web Controller - Login" (inurl:"standard/default.php" | inurl:"standard/header/header.php" | inurl:"standard/mainframe.php" | inurl:"standard/footer/footer.php" | inurl:"standard/update.php")
+Description:      intitle:"Honeywell XL Web Controller - Login" (inurl:"standard/default.php" | inurl:"standard/header/header.php" | inurl:"standard/mainframe.php" | inurl:"standard/footer/footer.php" | inurl:"standard/update.php")
+
+
+Description: Honeywell XL Web Controller login page Google search: intitle:"Honeywell XL Web Controller - Login" (inurl:"standard/default.php" | inurl:"standard/header/header.php" | inurl:"standard/mainframe.php" | inurl:"standard/footer/footer.php" | inurl:"standard/update.php") Author: nebo_oben

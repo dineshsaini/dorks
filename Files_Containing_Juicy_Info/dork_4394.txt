@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4394
+Category:         Files Containing Juicy Info
+Published Date:   2017-02-08
+Author:           anonymous
+GoogleDork:       intitle:"FormAssembly Enterprise :"
+Description:      intitle:"FormAssembly Enterprise :"
+
+
+FormAssembly installation finder. Contains forms organizations use to collect information. Some sensitive. Some random. Enjoy. Dork Keyword: intitle:"FormAssembly Enterprise :" Vendor Homepage: https://www.formassembly.com/enterprise/ Category: Files Containing Juicy Info ------------ Discovered By: Matt - @novpn --------------

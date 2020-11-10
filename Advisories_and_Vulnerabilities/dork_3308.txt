@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3308
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"com_icrmbasic"
+Description:      inurl:"com_icrmbasic"
+
+
+Joomla IRCm Basic SQL Injection: https://www.exploit-db.com/exploits/9812

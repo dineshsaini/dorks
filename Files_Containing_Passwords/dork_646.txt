@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/646
+Category:         Files Containing Passwords
+Published Date:   2004-11-06
+Author:           anonymous
+GoogleDork:       inurl:chap-secrets -cvs
+Description:      inurl:chap-secrets -cvs
+
+
+linux vpns store their usernames and passwords for CHAP authentification in a file called "chap-secrets" where the usernames and the passwords are in cleartext.

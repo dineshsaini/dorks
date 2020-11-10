@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3890
+Category:         Various Online Devices
+Published Date:   2013-09-24
+Author:           anonymous
+GoogleDork:       intitle:"RouterOS router configuration page"
+Description:      intitle:"RouterOS router configuration page"
+
+
+Returns login portals for Microtik routers running RouterOS version 5 and up. 4N6 Security

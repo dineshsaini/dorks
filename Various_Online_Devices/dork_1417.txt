@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1417
+Category:         Various Online Devices
+Published Date:   2006-10-02
+Author:           anonymous
+GoogleDork:       "Welcome to the CyberGuard unit!"
+Description:      "Welcome to the CyberGuard unit!"
+
+
+"Welcome to the CyberGuard unit! To begin configuring your CyberGuard unit now, use the menu to the left, or the Quick Setup Wizard .." :)

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/269
+Category:         Vulnerable Servers
+Published Date:   2004-06-04
+Author:           anonymous
+GoogleDork:       filetype:php inurl:vAuthenticate
+Description:      filetype:php inurl:vAuthenticate
+
+
+vAuthenticate is a multi-platform compatible PHP and MySQL script which allows creation of new user accounts new user groups, activate/inactivate groups or individual accounts, set user level, etc. There are two admin users by default with an easy to guess password. The backup admin user can *not* be deleted. There is also a test account with the same password that can not be deleted.An attacker can find the default passwords by downloading the software and browsing the .sql files. Default passwords are seldom changed if the user is not *forced* to change them first before using the sofware. This software doesn't enforce such a rule.

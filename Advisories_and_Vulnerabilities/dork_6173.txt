@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6173
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-06-04
+Author:           Abhi Chitkara
+GoogleDork:       inurl:wp-content/plugins/mappress-google-maps-for-wordpress
+Description:      inurl:wp-content/plugins/mappress-google-maps-for-wordpress
+
+
+Dork: inurl:wp-content/plugins/mappress-google-maps-for-wordpress Description: This google dork lists out Advisories and Vulnerabilities regarding the mappress-google-maps-for-wordpress plugin. Ref: https://wpvulndb.com/vulnerabilities/10246 Author: Abhi Chitkara 

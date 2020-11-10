@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2354
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by YaBBSM V2.5.0 Based on YABB SE
+Description:      Powered by YaBBSM V2.5.0 Based on YABB SE
+
+
+YaBBSM 3.0.0 (Offline.php) Remote File Include Vulnerability - CVE: 2006-5413: https://www.exploit-db.com/exploits/2553

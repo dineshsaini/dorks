@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6006
+Category:         Pages Containing Login Portals
+Published Date:   2020-05-04
+Author:           Nicholas Doropoulos
+GoogleDork:       inurl:/dynamic/login.html intext:"Linksys Smart Wi-Fi Sign In"
+Description:      inurl:/dynamic/login.html intext:"Linksys Smart Wi-Fi Sign In"
+
+
+Category: Pages Containing Login Portals Nicholas Doropoulos

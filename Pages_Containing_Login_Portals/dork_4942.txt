@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4942
+Category:         Pages Containing Login Portals
+Published Date:   2018-09-10
+Author:           Hamoji
+GoogleDork:       intitle:"phpVirtualBox - VirtualBox Web Console"
+Description:      intitle:"phpVirtualBox - VirtualBox Web Console"
+
+
+# Exploit Title: Find phpVirtualBox login portail  # Google Dork: intitle:"phpVirtualBox - VirtualBox Web Console"  # Date: 10/09/2018  # Exploit Author: Hamoji  # Vendor Homepage: https://github.com/phpvirtualbox/phpvirtualbox  # Version: 4.3-3, 5.0-5 

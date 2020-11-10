@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/923
+Category:         Web Server Detection
+Published Date:   2005-03-29
+Author:           anonymous
+GoogleDork:       thttpd webserver
+Description:      thttpd webserver
+
+
+thttpd is is a webserver written in C and should compile and run on most unix-like systems. As of version 2.20 or later, thttpd is known to build and run on the following platforms, usually on at least recent platform versions: Advisories_and_Vulnerabilities Error_Messages Files_Containing_Juicy_Info Files_Containing_Passwords Files_Containing_Usernames Footholds ghdb_dorks.sh logs.txt Network_or_Vulnerability_Data Pages_Containing_Login_Portals Sensitive_Directories Sensitive_Online_Shopping_Info Various_Online_Devices Vulnerable_Files Vulnerable_Servers Web_Server_Detection FreeBSD* NetBSD* BSD/OS* Solaris* Tru64 / DIGITAL UNIX / OSF/1* SunOS* Linux* HP-UX* MacOS X* UnixWare* AMIGAOS* NCR MP-RAS BASE 3.02 (EISA/MCA)* Sega Dreamcast* Compaq iPaq 3765* Windows 2000/XP (port of 2.07 only)

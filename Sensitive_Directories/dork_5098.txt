@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5098
+Category:         Sensitive Directories
+Published Date:   2019-02-12
+Author:           Manish Bhandarkar
+GoogleDork:       allintitle:"Index of /ThinkPHP" | inurl: "/ThinkPHP/"
+Description:      allintitle:"Index of /ThinkPHP" | inurl: "/ThinkPHP/"
+
+
+Category : Sensitive Directories  Description : Dork for finding list of private directories such as library, licence, config files and more in ThinkPHP framework used for websites  Dork : allintitle:"Index of /ThinkPHP" | inurl: "/ThinkPHP/"  Date : 10/2/2019  Author : Manish Bhandarkar (https://hackingforsecurity.blogspot.com/) 

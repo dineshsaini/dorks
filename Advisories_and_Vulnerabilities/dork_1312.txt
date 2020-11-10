@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1312
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-02-28
+Author:           anonymous
+GoogleDork:       intitle:admbook intitle:version filetype:php
+Description:      intitle:admbook intitle:version filetype:php
+
+
+intitle:admbook intitle:version filetype:php tested version: 1.2.2, you can inject php code in config-data.php and execute commands on target through X-FOWARDED FOR http header when you post a message also you can see phpinfo(): http://[target]/[path]/admin/info.phpperl exploit:http://retrogod.altervista.org/admbook_122_xpl.html

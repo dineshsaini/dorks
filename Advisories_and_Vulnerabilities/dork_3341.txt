@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3341
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by wpQuiz"
+Description:      "Powered by wpQuiz"
+
+
+wpQuiz 2.7 Multiple Remote SQL Injection Vulnerabilities - CVE: 2007-6172: https://www.exploit-db.com/exploits/4668

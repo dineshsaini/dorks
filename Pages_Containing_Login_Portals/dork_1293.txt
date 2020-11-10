@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1293
+Category:         Pages Containing Login Portals
+Published Date:   2006-03-21
+Author:           anonymous
+GoogleDork:       inurl:"vsadmin/login" | inurl:"vsadmin/admin" inurl:.php|.asp -"Response.Buffer = True" -javascript
+Description:      inurl:"vsadmin/login" | inurl:"vsadmin/admin" inurl:.php|.asp -"Response.Buffer = True" -javascript
+
+
+Ecommerce templates makes a online shopping cart solution. This search finds the admin login.

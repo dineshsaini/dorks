@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2411
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"simpleblog3"
+Description:      inurl:"simpleblog3"
+
+
+SimpleBlog 3.0 (simpleBlog.mdb) Database Disclosure Vulnerability: https://www.exploit-db.com/exploits/7232

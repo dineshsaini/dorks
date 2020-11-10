@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6117
+Category:         Pages Containing Login Portals
+Published Date:   2020-05-22
+Author:           Alexandros Pappas
+GoogleDork:       inurl:client_id=
+Description:      inurl:client_id=
+
+
+# Google Dork: inurl:client_id=  # Various pages containing login portals.  # Date: 22/05/2020  # Author: Alexandros Pappas 

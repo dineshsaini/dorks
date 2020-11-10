@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1360
+Category:         Pages Containing Login Portals
+Published Date:   2006-05-03
+Author:           anonymous
+GoogleDork:       intitle:IMP inurl:imp/index.php3
+Description:      intitle:IMP inurl:imp/index.php3
+
+
+Webmail Login pages for IMP"IMP is a set of PHP scripts that implement an IMAP based webmail system. Assuming you have an account on a server that supports IMAP, you can use an installation of IMP to check your mail from anywhere that you have web access."

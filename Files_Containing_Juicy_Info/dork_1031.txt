@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1031
+Category:         Files Containing Juicy Info
+Published Date:   2005-07-08
+Author:           anonymous
+GoogleDork:       filetype:PS ps
+Description:      filetype:PS ps
+
+
+PS is for "postscript"...which basically means you get the high quality press data for documents. Just run 'adobe distiller' or alike to produce a readable PDF. Found items include complete books as sold on amazon, annual reports and even juicier stuff.

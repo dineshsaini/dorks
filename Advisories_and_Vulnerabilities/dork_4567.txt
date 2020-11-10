@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4567
+Category:         Advisories and Vulnerabilities
+Published Date:   2017-08-01
+Author:           anonymous
+GoogleDork:       inurl:"/wp-admin/setup-config.php" intitle:"Setup Configuration File"
+Description:      inurl:"/wp-admin/setup-config.php" intitle:"Setup Configuration File"
+
+
+Finds Wordpress unfinished installations.  Like published at defcon:  https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEFCON-25-Hanno-Boeck-Abusing-Certificate-Transparency-Logs.pdf    Dork:  inurl:"/wp-admin/setup-config.php" intitle:"Setup Configuration File"    B0x41S  X-ray IT

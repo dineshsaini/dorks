@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4773
+Category:         Sensitive Directories
+Published Date:   2018-04-16
+Author:           Parth S. Patel
+GoogleDork:       :DIR | intitle:index of inurl://whatsapp/
+Description:      :DIR | intitle:index of inurl://whatsapp/
+
+
+Unconfirmed Websites leaking Whatsapp Databases.   Author: Parth S. Patel https://ca.linkedin.com/in/parthpateloscp  

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1981
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Designed by:InterTech Co
+Description:      Designed by:InterTech Co
+
+
+InterTech Co 1.0 SQL Injection: https://www.exploit-db.com/exploits/11440

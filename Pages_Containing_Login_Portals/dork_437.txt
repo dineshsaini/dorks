@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/437
+Category:         Pages Containing Login Portals
+Published Date:   2004-08-16
+Author:           anonymous
+GoogleDork:       Novell NetWare intext:"netware management portal version"
+Description:      Novell NetWare intext:"netware management portal version"
+
+
+Netware servers ( v5 and up ) use a web-based management utility called Portal services, which can be used to view files on a volume, view server health statistics, etc. While you must log into the Portal Manager to view any of the data, it will accept blank passwords. So any Netware username defined in the server's NDS database w/o a password can authenticate.After the Google results are displayed, an attacker wil go to the company base web url and learn about employees, preferably their email addresses. Then bounce to the portal management login and try their username w/o a password.

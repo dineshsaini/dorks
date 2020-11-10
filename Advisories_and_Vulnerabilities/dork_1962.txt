@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1962
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by Clicknet CMS"
+Description:      "Powered by Clicknet CMS"
+
+
+Clicknet CMS 2.1 (side) Arbitrary File Disclosure Vulnlerability - CVE: 2009-2325: https://www.exploit-db.com/exploits/9037

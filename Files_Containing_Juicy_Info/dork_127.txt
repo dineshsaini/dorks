@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/127
+Category:         Files Containing Juicy Info
+Published Date:   2004-03-16
+Author:           anonymous
+GoogleDork:       inurl:admin filetype:xls
+Description:      inurl:admin filetype:xls
+
+
+This search can find Excel spreadsheets in an administrative directory or of an administrative nature. Many times these documents contain sensitive information.

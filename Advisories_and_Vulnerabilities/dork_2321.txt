@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2321
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by DZcms"
+Description:      "Powered by DZcms"
+
+
+DZcms v.3.1 (products.php pcat) Remote SQL Injection Vulnerability: https://www.exploit-db.com/exploits/7722

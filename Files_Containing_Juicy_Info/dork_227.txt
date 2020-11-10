@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/227
+Category:         Files Containing Juicy Info
+Published Date:   2004-05-13
+Author:           anonymous
+GoogleDork:       intitle:"index of" mysql.conf OR mysql_config
+Description:      intitle:"index of" mysql.conf OR mysql_config
+
+
+This file contains port number, version number and path info to MySQL server.

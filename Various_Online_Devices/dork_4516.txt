@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4516
+Category:         Various Online Devices
+Published Date:   2017-06-09
+Author:           anonymous
+GoogleDork:       inurl:"8080/jmx-console"
+Description:      inurl:"8080/jmx-console"
+
+
+This dork will list all unauthenticated jboss servers with jmx-console access. -- İsmail Baydan

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3151
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by www.aspportal.net"
+Description:      "Powered by www.aspportal.net"
+
+
+ASPPortal Free Version (Topic_Id) Remote SQL Injection Vulnerability - CVE: 2008-5268: https://www.exploit-db.com/exploits/5775

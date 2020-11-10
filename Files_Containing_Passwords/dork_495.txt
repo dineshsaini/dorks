@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/495
+Category:         Files Containing Passwords
+Published Date:   2004-09-16
+Author:           anonymous
+GoogleDork:       filetype:config config intext:appSettings "User ID"
+Description:      filetype:config config intext:appSettings "User ID"
+
+
+These files generally contain configuration information for a .Net Web Application. Things like connection strings to databases file directories and more. On a properly setup IIS these files are normally not served to the public.

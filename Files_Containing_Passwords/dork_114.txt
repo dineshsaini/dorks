@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/114
+Category:         Files Containing Passwords
+Published Date:   2004-03-04
+Author:           anonymous
+GoogleDork:       inurl:secring ext:skr | ext:pgp | ext:bak
+Description:      inurl:secring ext:skr | ext:pgp | ext:bak
+
+
+This file is the secret keyring for PGP encryption. Armed with this file (and perhaps a passphrase), a malicious user can read all your encrypted files! This should not be posted on the web!

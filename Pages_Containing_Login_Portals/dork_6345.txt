@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6345
+Category:         Pages Containing Login Portals
+Published Date:   2020-06-30
+Author:           Ambadi MP
+GoogleDork:       inurl:"backend/web/site/login"
+Description:      inurl:"backend/web/site/login"
+
+
+# Dork : inurl:"backend/web/site/login" # Backend Login Portals # Author : Ambadi MP 

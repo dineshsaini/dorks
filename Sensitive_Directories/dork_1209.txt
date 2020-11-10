@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1209
+Category:         Sensitive Directories
+Published Date:   2005-11-28
+Author:           anonymous
+GoogleDork:       "Welcome to the directory listing of" "NetworkActiv-Web-Server"
+Description:      "Welcome to the directory listing of" "NetworkActiv-Web-Server"
+
+
+this is for NetworkActiv-Web-Server directory listing

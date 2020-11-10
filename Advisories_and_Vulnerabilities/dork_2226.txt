@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2226
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"click.php?hostid="
+Description:      inurl:"click.php?hostid="
+
+
+Adult Banner Exchange Website (targetid) SQL Injection Vulnerability - CVE: 2008-6101: https://www.exploit-db.com/exploits/6909

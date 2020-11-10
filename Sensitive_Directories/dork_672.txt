@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/672
+Category:         Sensitive Directories
+Published Date:   2004-11-07
+Author:           anonymous
+GoogleDork:       "intitle:Index.Of /" stats merchant cgi-* etc
+Description:      "intitle:Index.Of /" stats merchant cgi-* etc
+
+
+This search looks for indexes with the following subdirectories: stats, merchant, online-store and cgi-local or cgi-bin. These servers have a shopping cart application called softcart in their cgi-local or cgi-bin directory. Reportedly, it is possible to execute arbitrary code by passing a malformed CGI parameter in an HTTP GET request. This issue is known to affect SoftCart version 4.00b.

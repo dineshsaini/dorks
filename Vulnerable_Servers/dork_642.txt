@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/642
+Category:         Vulnerable Servers
+Published Date:   2004-11-05
+Author:           anonymous
+GoogleDork:       natterchat inurl:home.asp -site:natterchat.co.uk
+Description:      natterchat inurl:home.asp -site:natterchat.co.uk
+
+
+NatterChat is a webbased chat system written in ASP.An SQL injection vulnerability is identified in the application that may allow attackers to pass malicious input to database queries, resulting in the modification of query logic or other attacks. This allows the attacker to gain admin access...

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4688
+Category:         Sensitive Directories
+Published Date:   2018-03-07
+Author:           ManhNho
+GoogleDork:       intext:"Powered by ViewVC" | intitle:"ViewVC Repository Listing"
+Description:      intext:"Powered by ViewVC" | intitle:"ViewVC Repository Listing"
+
+
+intext:"Powered by ViewVC" | intitle:"ViewVC Repository Listing"  ViewVC Repository Listing  ManhNho 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4013
+Category:         Files Containing Juicy Info
+Published Date:   2015-05-29
+Author:           anonymous
+GoogleDork:       intitle:"index of" "archive.pst" -contrib
+Description:      intitle:"index of" "archive.pst" -contrib
+
+
+Google Dork: intitle:"index of" "archive.pst" -contrib Author: Sphearis This dork allows you to see Outlook archive files stored in the open. These files can be opened with a simple .pst viewer to read all emails it contains. The "-contrib" has been added to filter Cran installations which uses a directory structure similar to the search terms.

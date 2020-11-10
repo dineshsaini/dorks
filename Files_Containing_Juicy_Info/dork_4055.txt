@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4055
+Category:         Files Containing Juicy Info
+Published Date:   2015-08-18
+Author:           anonymous
+GoogleDork:       filetype:pac inurl:"/proxy"
+Description:      filetype:pac inurl:"/proxy"
+
+
+Search the Web Proxy Autodiscovery Protocol Ing. Daniel Maldonadohttp://www.caceriadespammers.com.ar

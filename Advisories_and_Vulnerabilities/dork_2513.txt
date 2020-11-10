@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2513
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       photokorn 1.52
+Description:      photokorn 1.52
+
+
+PhotoKorn Gallery 1.52 (dir_path) Remote File Include Vulnerabilities - CVE: 2006-4670: https://www.exploit-db.com/exploits/2327

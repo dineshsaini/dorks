@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4778
+Category:         Files Containing Passwords
+Published Date:   2018-04-16
+Author:           Bruno Schmid
+GoogleDork:       filetype:config "" "password" "web.config" -stackoverflow -youtube.com -github
+Description:      filetype:config "" "password" "web.config" -stackoverflow -youtube.com -github
+
+
+Passwords which are stored in the ASP.NET Web.config file which is also  an XML file. This file is mostly used for Authentication, Authorization,  Membership Provider, Role Provider and Profile Provider Settings. Other  juicy info shall be in the file as well.   Bruno Schmid  https://www.linkedin.com/in/schmidbruno 

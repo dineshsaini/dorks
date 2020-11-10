@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5540
+Category:         Sensitive Directories
+Published Date:   2019-09-17
+Author:           Sanyam Chawla
+GoogleDork:       indexof:backup/mysql
+Description:      indexof:backup/mysql
+
+
+Dork: indexof:backup/mysql Author: Sanyam Chawla 

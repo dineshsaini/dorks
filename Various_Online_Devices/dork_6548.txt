@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6548
+Category:         Various Online Devices
+Published Date:   2020-09-18
+Author:           Alexandros Pappas
+GoogleDork:       inurl:/CgiStart?page
+Description:      inurl:/CgiStart?page
+
+
+# Google Dork: inurl:/CgiStart?page # Various online devices (webcams). # Date: 18/09/2020 # Exploit Author: Alexandros Pappas 

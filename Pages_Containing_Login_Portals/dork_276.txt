@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/276
+Category:         Pages Containing Login Portals
+Published Date:   2004-06-10
+Author:           anonymous
+GoogleDork:       intitle:"Welcome Site/User Administrator" "Please select the language" -demos
+Description:      intitle:"Welcome Site/User Administrator" "Please select the language" -demos
+
+
+service providers worldwide use Ensim's products to automate the management of their hosting services. Currently it hosts more than 500,000 Web sites and five million mailboxes.Ensim's uses a control panel GUI to manage the servers. It has four levels of priviledges. The software runs on TCP port 19638, but access is normally limited to trusted hosts only. A local exploit was found by badc0ded.org in virthostmail, part of Ensim WEBppliance Pro.

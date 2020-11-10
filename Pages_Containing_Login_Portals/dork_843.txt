@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/843
+Category:         Pages Containing Login Portals
+Published Date:   2005-01-27
+Author:           anonymous
+GoogleDork:       intitle:Group-Office "Enter your username and password to login"
+Description:      intitle:Group-Office "Enter your username and password to login"
+
+
+Group-Office is a Groupware suite containing a base system and different modules. The modules are designed in a way that groups of people can collaborate online.

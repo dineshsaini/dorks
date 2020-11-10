@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3643
+Category:         Vulnerable Servers
+Published Date:   2010-12-10
+Author:           anonymous
+GoogleDork:       inurl:/vb/install/upgrade.php
+Description:      inurl:/vb/install/upgrade.php
+
+
+Vbulletin custom updrade wizards. Author: ScOrPiOn

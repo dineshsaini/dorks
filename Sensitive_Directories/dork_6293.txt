@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6293
+Category:         Sensitive Directories
+Published Date:   2020-06-16
+Author:           Anjali Prakash
+GoogleDork:       inurl:admin/data* intext:index of
+Description:      inurl:admin/data* intext:index of
+
+
+*GOOGLE DORK : inurl:admin/data* intext:index of*  *AUTHOR : ANJALI PRAKASH* 

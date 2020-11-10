@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1291
+Category:         Various Online Devices
+Published Date:   2006-03-21
+Author:           anonymous
+GoogleDork:       "OK logout" inurl:vb.htm?logout=1
+Description:      "OK logout" inurl:vb.htm?logout=1
+
+
+This is a google dork for Hunt Electronics web cams. To get to the cameras remove the vb.htm?logout=1 from the url.

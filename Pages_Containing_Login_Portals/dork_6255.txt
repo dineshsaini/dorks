@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6255
+Category:         Pages Containing Login Portals
+Published Date:   2020-06-09
+Author:           Shankar bhuvanesh
+GoogleDork:       inurl:.*org/login
+Description:      inurl:.*org/login
+
+
+#* Google Dork: inurl:.*org/login  *# google dork to list login portal in .org domain*   *# Author: Shankar bhuvanesh https://www.linkedin.com/in/bhuvaneshshankar/ 

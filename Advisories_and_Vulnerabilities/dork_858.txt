@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/858
+Category:         Advisories and Vulnerabilities
+Published Date:   2005-02-07
+Author:           anonymous
+GoogleDork:       "IceWarp Web Mail 5.3.0" "Powered by IceWarp"
+Description:      "IceWarp Web Mail 5.3.0" "Powered by IceWarp"
+
+
+IceWarp Web Mail 5.3.0Multiple cross-site scripting and HTML injection vulnerabilities.http://www.securityfocus.com/bid/12396/

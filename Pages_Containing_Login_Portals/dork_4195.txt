@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4195
+Category:         Pages Containing Login Portals
+Published Date:   2016-02-09
+Author:           anonymous
+GoogleDork:       intitle:"Welcome | PRTG Network Monitor" inurl:/index.htm
+Description:      intitle:"Welcome | PRTG Network Monitor" inurl:/index.htm
+
+
+Login screen for network monitoring system. Author: Manuel Mancera (@sinkmanu)

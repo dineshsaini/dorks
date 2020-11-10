@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5629
+Category:         Sensitive Directories
+Published Date:   2019-11-07
+Author:           Mattias Borg
+GoogleDork:       intext:"index of" intext:..bak intext:config
+Description:      intext:"index of" intext:..bak intext:config
+
+
+Div backup files  Author: Mattias Borg @mattiasborg82 

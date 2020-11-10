@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1369
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-05-04
+Author:           anonymous
+GoogleDork:       intext:"This site is using phpGraphy" | intitle:"my phpgraphy site"
+Description:      intext:"This site is using phpGraphy" | intitle:"my phpgraphy site"
+
+
+found this: a remote user can have access to some edit functionalities to "modify" html. Impact: cross site scripting, denial of service references:http://retrogod.altervista.org/phpgraphy_0911_adv.htmlhttp://secunia.com/advisories/19705

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6061
+Category:         Files Containing Juicy Info
+Published Date:   2020-05-07
+Author:           Alexandros Pappas
+GoogleDork:       intitle:"index of" "token_info.json" OR "get_access_token.json"
+Description:      intitle:"index of" "token_info.json" OR "get_access_token.json"
+
+
+# Google Dork: intitle:"index of" "token_info.json" OR "get_access_token.json"  # Juicy information.  # Date: 7/05/2020  # Author: Alexandros Pappas 

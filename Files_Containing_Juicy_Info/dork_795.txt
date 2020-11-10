@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/795
+Category:         Files Containing Juicy Info
+Published Date:   2004-12-30
+Author:           anonymous
+GoogleDork:       filetype:blt "buddylist"
+Description:      filetype:blt "buddylist"
+
+
+AIM buddylists.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3363
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Nwahy.com 2.1 , inurl:'add-site.html'
+Description:      Nwahy.com 2.1 , inurl:'add-site.html'
+
+
+Nwahy Dir 2.1 Arbitrary Change Admin Password: https://www.exploit-db.com/exploits/9087

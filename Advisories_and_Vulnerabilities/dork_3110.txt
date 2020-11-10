@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3110
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"com_jpodium"
+Description:      inurl:"com_jpodium"
+
+
+Joomla JPodium Component (com_jpodium) SQL Injection Vulnerability: https://www.exploit-db.com/exploits/14232

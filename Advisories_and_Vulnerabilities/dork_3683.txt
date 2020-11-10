@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3683
+Category:         Advisories and Vulnerabilities
+Published Date:   2011-02-05
+Author:           anonymous
+GoogleDork:       allintext: /qcodo/_devtools/codegen.php
+Description:      allintext: /qcodo/_devtools/codegen.php
+
+
+Information Disclosure: https://www.exploit-db.com/exploits/16116

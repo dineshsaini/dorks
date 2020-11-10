@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3846
+Category:         Various Online Devices
+Published Date:   2013-04-22
+Author:           anonymous
+GoogleDork:       inurl:/voice/advanced/ intitle:Linksys SPA configuration
+Description:      inurl:/voice/advanced/ intitle:Linksys SPA configuration
+
+
+This allows you to look at linksys VOIP Router Config pages. 

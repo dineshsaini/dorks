@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4374
+Category:         Various Online Devices
+Published Date:   2016-12-14
+Author:           anonymous
+GoogleDork:       intitle:"Log In to AR Web"
+Description:      intitle:"Log In to AR Web"
+
+
+Huawei AR Routers login panels Google Dork: intitle:"Log In to AR Web" Date: 2016-12-14 Author: Devendra Singh Solanki

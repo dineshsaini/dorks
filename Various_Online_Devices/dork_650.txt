@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/650
+Category:         Various Online Devices
+Published Date:   2004-11-06
+Author:           anonymous
+GoogleDork:       WebControl intitle:"AMX NetLinx"
+Description:      WebControl intitle:"AMX NetLinx"
+
+
+AMX Netlink is a server appliance which connects various devices like a beamer, laptop or video recorder to the internet.

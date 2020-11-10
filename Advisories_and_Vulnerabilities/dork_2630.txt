@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2630
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allintext:"Powered By Buddy Zone"
+Description:      allintext:"Powered By Buddy Zone"
+
+
+Buddy Zone 1.5 (view_sub_cat.php cat_id) SQL Injection Vulnerability - CVE: 2007-3549: https://www.exploit-db.com/exploits/4127

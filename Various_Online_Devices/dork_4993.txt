@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4993
+Category:         Various Online Devices
+Published Date:   2018-10-19
+Author:           Bruno Schmid
+GoogleDork:       inurl:home.tcl intitle:gaia
+Description:      inurl:home.tcl intitle:gaia
+
+
+Check Point Firewalls &amp; Clusters   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

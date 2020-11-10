@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2927
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:com_ice "catid"
+Description:      inurl:com_ice "catid"
+
+
+Joomla Component Ice Gallery 0.5b2 (catid) Blind SQL Injection Vuln - CVE: 2008-6852: https://www.exploit-db.com/exploits/7572

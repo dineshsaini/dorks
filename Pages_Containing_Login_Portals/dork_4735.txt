@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4735
+Category:         Pages Containing Login Portals
+Published Date:   2018-04-02
+Author:           Bruno Schmid
+GoogleDork:       intitle:"login" | intitle:"sign in" "member" "private" "admin" "club" -stackoverflow -github -youtube
+Description:      intitle:"login" | intitle:"sign in" "member" "private" "admin" "club" -stackoverflow -github -youtube
+
+
+More login portals    Bruno Schmid 

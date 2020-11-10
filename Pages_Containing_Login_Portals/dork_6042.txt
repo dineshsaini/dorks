@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6042
+Category:         Pages Containing Login Portals
+Published Date:   2020-05-06
+Author:           MiningOmerta
+GoogleDork:       site:*/dana-na/auth/welcome.cgi?p=rolelogo
+Description:      site:*/dana-na/auth/welcome.cgi?p=rolelogo
+
+
+Author: MiningOmerta  Finds some pretty sensitive login portals.  https://google.com/search?q=site:*/dana-na/auth/welcome.cgi?p=rolelogo  site:*/dana-na/auth/welcome.cgi?p=rolelogo 

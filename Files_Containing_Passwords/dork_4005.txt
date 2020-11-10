@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4005
+Category:         Files Containing Passwords
+Published Date:   2015-05-19
+Author:           anonymous
+GoogleDork:       ext:csv intext:"password"
+Description:      ext:csv intext:"password"
+
+
+This dork finds csv files containing passwords and other juicy information. Author:NickiK.

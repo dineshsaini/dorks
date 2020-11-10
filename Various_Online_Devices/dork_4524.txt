@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4524
+Category:         Various Online Devices
+Published Date:   2017-06-14
+Author:           anonymous
+GoogleDork:       intitle:"Setup Home" "Internet Status" -belkin
+Description:      intitle:"Setup Home" "Internet Status" -belkin
+
+
+Finds lots of internet-connected Arris routers Dxtroyer

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5374
+Category:         Pages Containing Login Portals
+Published Date:   2019-08-19
+Author:           Reza Abasi
+GoogleDork:       site:/*:81 -site:/*:8080 intitle:"::: Login :::"
+Description:      site:/*:81 -site:/*:8080 intitle:"::: Login :::"
+
+
+Login Page for online cams:  site:/*:81 -site:/*:8080 intitle:"::: Login :::" site:/*:88 -site:/*:8080 intitle:"::: Login :::"  Reza Abasi(Turku) 

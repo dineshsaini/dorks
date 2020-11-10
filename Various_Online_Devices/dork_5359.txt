@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5359
+Category:         Various Online Devices
+Published Date:   2019-08-15
+Author:           Reza Abasi
+GoogleDork:       inurl:ftp://ftp robots.txt
+Description:      inurl:ftp://ftp robots.txt
+
+
+finding robots.txt in ftp sites:  inurl:ftp://ftp robots.txt  Reza Abasi(Turku) 

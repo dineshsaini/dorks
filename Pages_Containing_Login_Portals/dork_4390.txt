@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4390
+Category:         Pages Containing Login Portals
+Published Date:   2017-02-01
+Author:           anonymous
+GoogleDork:       intitle:Login "Login to pfSense" "Password" "LLC"
+Description:      intitle:Login "Login to pfSense" "Password" "LLC"
+
+
+Google Dork: intitle:Login "Login to pfSense" "Password" "LLC" #Title: pfSense firewall administrative login page #Author: Simon Gurney #Website: blog.synack.co.uk Admin login pages for pfSense firewalls. 

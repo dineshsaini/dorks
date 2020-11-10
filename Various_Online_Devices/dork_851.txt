@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/851
+Category:         Various Online Devices
+Published Date:   2005-01-28
+Author:           anonymous
+GoogleDork:       intitle:"EpsonNet WebAssist Rev"
+Description:      intitle:"EpsonNet WebAssist Rev"
+
+
+This reveals the Epson Web Assist page (internal to the machine)

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5054
+Category:         Pages Containing Login Portals
+Published Date:   2018-12-14
+Author:           Steph Jensen
+GoogleDork:       inurl:webman/index.cgi
+Description:      inurl:webman/index.cgi
+
+
+inurl:webman/index.cgi  NAS DiskStation Login portals  ~ B15mu7h

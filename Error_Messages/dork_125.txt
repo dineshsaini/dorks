@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/125
+Category:         Error Messages
+Published Date:   2004-03-16
+Author:           anonymous
+GoogleDork:       filetype:asp "Custom Error Message" Category Source
+Description:      filetype:asp "Custom Error Message" Category Source
+
+
+This is an ASP error message that can reveal information such as compiler used, language used, line numbers, program names and partial source code.

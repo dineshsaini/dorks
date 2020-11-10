@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2231
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by ThinkAdmin
+Description:      Powered by ThinkAdmin
+
+
+ThinkAdmin (page.php) Sql Injection Vulnerability: https://www.exploit-db.com/exploits/11296

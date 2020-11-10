@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4974
+Category:         Pages Containing Login Portals
+Published Date:   2018-10-16
+Author:           Bruno Schmid
+GoogleDork:       intext:"authentication" intranet password login inurl:account ext:(doc | pdf | xls| psw | ppt | pps | xml | txt | ps | rtf | odt | sxw | xlsx | docx | mail)
+Description:      intext:"authentication" intranet password login inurl:account ext:(doc | pdf | xls| psw | ppt | pps | xml | txt | ps | rtf | odt | sxw | xlsx | docx | mail)
+
+
+A mix of login portals and passwords   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

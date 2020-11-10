@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2736
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered By Pligg | Legal: License and Source
+Description:      Powered By Pligg | Legal: License and Source
+
+
+Pligg CMS 9.9.0 (story.php id) Remote SQL Injection Vulnerability - CVE: 2008-3366: https://www.exploit-db.com/exploits/6146

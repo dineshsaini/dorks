@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4858
+Category:         Files Containing Usernames
+Published Date:   2018-06-14
+Author:           ManhNho
+GoogleDork:       "username.xlsx" ext:xlsx
+Description:      "username.xlsx" ext:xlsx
+
+
+"username.xlsx" ext:xlsx  excel files containing username  ManhNho 

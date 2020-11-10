@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4338
+Category:         Pages Containing Login Portals
+Published Date:   2016-10-04
+Author:           anonymous
+GoogleDork:       inurl:"https://vdi"
+Description:      inurl:"https://vdi"
+
+
+VMware Horizon Logins Also other dorks inurl:/portal/webclient/index.html#/warning inurl:"https://mydesktop-" inurl:"https://view" inurl:"https://mypc" -Xploit 

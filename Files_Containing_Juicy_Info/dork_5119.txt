@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5119
+Category:         Files Containing Juicy Info
+Published Date:   2019-02-15
+Author:           FlyingFrog
+GoogleDork:       inurl:"/cgi-bin/WS_FTP.LOG"
+Description:      inurl:"/cgi-bin/WS_FTP.LOG"
+
+
+AUTHOR: FlyingFrog  Twitter: @ItsKarl0z  ++ Find filed in cgi-bin directories ++  inurl:"/cgi-bin/WS_FTP.LOG" 

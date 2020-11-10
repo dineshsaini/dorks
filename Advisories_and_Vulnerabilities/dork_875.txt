@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/875
+Category:         Advisories and Vulnerabilities
+Published Date:   2005-02-17
+Author:           anonymous
+GoogleDork:       "delete entries" inurl:admin/delete.asp
+Description:      "delete entries" inurl:admin/delete.asp
+
+
+As described in OSVDB article #13715:"AspJar contains a flaw that may allow a malicious user to delete arbitrary messages. The issue is triggered when the authentication method is bypassed and /admin/delete.asp is accessed directly. It is possible that the flaw may allow a malicious user to delete messages resulting in a loss of integrity."The company supporting this software is no longer in business and the software is no longer being updated. Therefore, versions should not matter in this dork.

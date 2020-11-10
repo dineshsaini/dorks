@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1388
+Category:         Various Online Devices
+Published Date:   2006-06-25
+Author:           anonymous
+GoogleDork:       allintitle: EDR1600 login | Welcome
+Description:      allintitle: EDR1600 login | Welcome
+
+
+Everfocus EDR1600

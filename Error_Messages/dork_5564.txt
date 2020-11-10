@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5564
+Category:         Error Messages
+Published Date:   2019-10-04
+Author:           Reza Abasi
+GoogleDork:       site:*/wp-includes/Requests/php_errorlog
+Description:      site:*/wp-includes/Requests/php_errorlog
+
+
+Error Pages:  site:*/wp-includes/Requests/php_errorlog site:*/wp-includes/Requests/Hooks.php intext:"Fatal error:Interface"  Reza Abasi(Turku) 

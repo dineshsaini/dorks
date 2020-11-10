@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2287
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"catalog/product/detail.php?cat="
+Description:      inurl:"catalog/product/detail.php?cat="
+
+
+Webthaiapp detail.php(cat) Blind Sql injection Vulnerability: https://www.exploit-db.com/exploits/12467

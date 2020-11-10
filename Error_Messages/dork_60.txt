@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/60
+Category:         Error Messages
+Published Date:   2004-03-04
+Author:           anonymous
+GoogleDork:       sitebuilderfiles
+Description:      sitebuilderfiles
+
+
+This is a default directory for the sitebuilder web design software program. If these people posted web pages with default sitebuilder sirectory names, I wonder what else they got wrong?

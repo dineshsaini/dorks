@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5032
+Category:         Sensitive Directories
+Published Date:   2018-11-20
+Author:           PUNIT DARJI
+GoogleDork:       inurl:/wp-content/uploads/wp-backup-plus/
+Description:      inurl:/wp-content/uploads/wp-backup-plus/
+
+
+Dork *inurl:/wp-content/uploads/wp-backup-plus/* 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4101
+Category:         Advisories and Vulnerabilities
+Published Date:   2015-10-20
+Author:           anonymous
+GoogleDork:       inurl:cgi-bin/webproc?getpage=
+Description:      inurl:cgi-bin/webproc?getpage=
+
+
+inurl:cgi-bin/webproc?getpage= https://www.exploit-db.com/exploits/38488/ By JeJe Plus

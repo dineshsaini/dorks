@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3847
+Category:         Files Containing Usernames
+Published Date:   2013-04-22
+Author:           anonymous
+GoogleDork:       inurl:"/root/etc/passwd" intext:"home/*:"
+Description:      inurl:"/root/etc/passwd" intext:"home/*:"
+
+
+inurl:"/root/etc/passwd" intext:"home/*:"

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/425
+Category:         Vulnerable Servers
+Published Date:   2004-08-13
+Author:           anonymous
+GoogleDork:       intext:"Warning: * am able * write ** configuration file" "includes/configure.php" -Forums
+Description:      intext:"Warning: * am able * write ** configuration file" "includes/configure.php" -Forums
+
+
+OsCommerce has some security issues, including the following warning message: "Warning: I am able to write to the configuration file". Additional information on this can be found at http://www.fluxforums.com/showthread.php?p=14883#post14883With this search an attacker can find vulnerable OsCommerce servers and can build his attack from there.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1392
+Category:         Various Online Devices
+Published Date:   2006-06-25
+Author:           anonymous
+GoogleDork:       intitle:"Live View / - AXIS" | inurl:view/view.shtml OR inurl:view/indexFrame.shtml | intitle:"MJPG Live Demo" | "intext:Select preset position"
+Description:      intitle:"Live View / - AXIS" | inurl:view/view.shtml OR inurl:view/indexFrame.shtml | intitle:"MJPG Live Demo" | "intext:Select preset position"
+
+
+No one search will reveal all Axis cameras. This is my mod of one of the queries. It usualy returns 990-1000 of the 1000 results google allows.

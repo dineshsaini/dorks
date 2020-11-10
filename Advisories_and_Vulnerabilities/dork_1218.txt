@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1218
+Category:         Advisories and Vulnerabilities
+Published Date:   2005-12-12
+Author:           anonymous
+GoogleDork:       "Powered By phpCOIN 1.2.2"
+Description:      "Powered By phpCOIN 1.2.2"
+
+
+PhpCOIN 1.2.2 arbitrary remote\local inclusion / blind sql injection / path disclosureadvisory:http://rgod.altervista.org/phpcoin122.htmlmore generic:"Powered By phpCOIN"to see previous verions (not tested)

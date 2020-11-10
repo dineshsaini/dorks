@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1667
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "com_joom12pic"
+Description:      "com_joom12pic"
+
+
+Joomla Component joom12Pic 1.0 Remote File Inclusion Vulnerability - CVE: 2007-4954: https://www.exploit-db.com/exploits/4416

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3798
+Category:         Pages Containing Login Portals
+Published Date:   2012-08-21
+Author:           anonymous
+GoogleDork:       intitle:"DVR+Web+Client"
+Description:      intitle:"DVR+Web+Client"
+
+
+This dork will find most Linux-based DVR web clients that are accessible to the web and through SSH. Linux-based DVR web clients are login portals for surveillance web cameras wherein you can spy in other peoples cameras. *Default Usernames:* admin, guest, root *Default Passwords:* admin, guest, root *Author:* shipcode

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4193
+Category:         Pages Containing Login Portals
+Published Date:   2016-02-08
+Author:           anonymous
+GoogleDork:       site:www.tribunale.*.*.* inurl:login
+Description:      site:www.tribunale.*.*.* inurl:login
+
+
+# Exploit Title: Dork to find Tribunale Websites. # Google Dork: site:www.tribunale.*.*.* inurl:login # Description : Finds out login portals on Tribunale Websites. Gov related # Date: 07/02/2016 # Exploit Author: XDarkCoder

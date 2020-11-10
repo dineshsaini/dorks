@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3569
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by XMB"
+Description:      "Powered by XMB"
+
+
+XMB 1.9.6 Final basename() Remote Command Execution - CVE: 2006-4191: https://www.exploit-db.com/exploits/2178

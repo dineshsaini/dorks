@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/156
+Category:         Files Containing Usernames
+Published Date:   2004-04-13
+Author:           anonymous
+GoogleDork:       index.of perform.ini
+Description:      index.of perform.ini
+
+
+This file contains information about the mIRC client and may include channel and user names.

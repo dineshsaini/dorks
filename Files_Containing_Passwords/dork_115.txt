@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/115
+Category:         Files Containing Passwords
+Published Date:   2004-03-04
+Author:           anonymous
+GoogleDork:       intitle:Index.of etc shadow
+Description:      intitle:Index.of etc shadow
+
+
+This file contains usernames and (lame) encrypted passwords! Armed with this file and a decent password cracker, an attacker can crack passwords and log into a UNIX system.

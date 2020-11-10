@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/786
+Category:         Sensitive Directories
+Published Date:   2004-12-19
+Author:           anonymous
+GoogleDork:       intitle:index.of abyss.conf
+Description:      intitle:index.of abyss.conf
+
+
+These directories reveal the configuration file of the abyss webserver. These files can contain passwords.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6184
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-06-04
+Author:           Abhinav Porwal
+GoogleDork:       inurl:wp-content/plugins/ajax-load-more/lang/
+Description:      inurl:wp-content/plugins/ajax-load-more/lang/
+
+
+ Dork: inurl:wp-content/plugins/ajax-load-more/lang/  Description: This google dork lists out Advisories and Vulnerabilities regarding the ajax load more WordPress plugin. Ref: https://wpvulndb.com/vulnerabilities/10230  Author: Abhinav Porwal 

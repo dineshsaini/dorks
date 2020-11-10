@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1331
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-04-15
+Author:           anonymous
+GoogleDork:       inurl:perldiver.cgi ext:cgi
+Description:      inurl:perldiver.cgi ext:cgi
+
+
+dork: inurl:perldiver.cgi ext:cgi some interesting info about server and a cross site scripting vulnerability, poc: http://[target]/[path]/cgi-bin/perldiver.cgi?action=20&amp;alert("lol")other reference:http://secunia.com/advisories/16888/

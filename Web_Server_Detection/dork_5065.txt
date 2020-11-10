@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5065
+Category:         Web Server Detection
+Published Date:   2019-01-02
+Author:           ManhNho
+GoogleDork:       intitle:Test Page for the Nginx HTTP Server on Fedora
+Description:      intitle:Test Page for the Nginx HTTP Server on Fedora
+
+
+Web server detected - Happy new year 2019  ManhNho 

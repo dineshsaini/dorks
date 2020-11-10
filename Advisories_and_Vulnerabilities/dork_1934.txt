@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1934
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       (c) SriptBux 2008 | Powered By ScriptBux version 2.50 beta 1
+Description:      (c) SriptBux 2008 | Powered By ScriptBux version 2.50 beta 1
+
+
+Bux.to Clone Script Insecure Cookie Handling Vulnerability - CVE: 2008-6162: https://www.exploit-db.com/exploits/6652

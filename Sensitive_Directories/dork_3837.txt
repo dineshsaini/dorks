@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3837
+Category:         Sensitive Directories
+Published Date:   2013-04-09
+Author:           anonymous
+GoogleDork:       "index of" inurl:sym
+Description:      "index of" inurl:sym
+
+
+Google Dork: "index of" inurl:sym You can Steal the symlinks of other Servers Author: Un0wn_X

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/593
+Category:         Pages Containing Login Portals
+Published Date:   2004-10-06
+Author:           anonymous
+GoogleDork:       inurl:"calendar.asp?action=login"
+Description:      inurl:"calendar.asp?action=login"
+
+
+aspWebCalendar is a browser based software package that runs over a standard web browser, such as Internet Explorer from Microsoft, and allows an organization of any size to easily and cost effectively provide personal and group calendar functions to everyone in the organization.A vulnerability has been found for the (SQL version) script family from Full Revolution. Affected software is: aspWebAlbum, aspWebCalendar, aspWebHeadlines, aspWebMail. You can check it here: http://www.securityfocus.com/bid/11246Searches for aspWebAlbum and aspWebHeadlines:inurl:"album.asp?action=login"inurl:"news.asp?action=login"

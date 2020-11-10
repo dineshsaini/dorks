@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5547
+Category:         Sensitive Directories
+Published Date:   2019-09-18
+Author:           Vyshnav nk
+GoogleDork:       indexof:backup/web.config
+Description:      indexof:backup/web.config
+
+
+Google Dork Description: indexof:backup/web.config Author Name: Vyshnav nk 

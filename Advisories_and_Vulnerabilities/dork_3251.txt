@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3251
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intext:Powered by Mobilelib Gold v3
+Description:      intext:Powered by Mobilelib Gold v3
+
+
+Mobilelib Gold v3 (Auth Bypass/SQL) Multiple Remote Vulnerabilities - CVE: 2009-2788: https://www.exploit-db.com/exploits/9327

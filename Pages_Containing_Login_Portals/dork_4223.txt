@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4223
+Category:         Pages Containing Login Portals
+Published Date:   2016-03-11
+Author:           anonymous
+GoogleDork:       inurl:"/,DanaInfo="
+Description:      inurl:"/,DanaInfo="
+
+
+Yet another Remote Login Dork. -Xploit 

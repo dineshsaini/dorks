@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1038
+Category:         Pages Containing Login Portals
+Published Date:   2005-07-22
+Author:           anonymous
+GoogleDork:       intitle:"TOPdesk ApplicationServer"
+Description:      intitle:"TOPdesk ApplicationServer"
+
+
+Topdesk is some kind of incident ticket system with a webinterface. It requires: Windows 98 and Windows NT, Windows 2000, Windows XP, OS/2. It installs a webserver called: Jetty/4.2.2 and the default password (operator login) is admin/admin. The HTTP server header reveals the OS it's running on.

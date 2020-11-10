@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1536
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:com_clanlist
+Description:      inurl:com_clanlist
+
+
+Joomla Component (com_clanlist) SQL Injection Vulnerability: https://www.exploit-db.com/exploits/15456

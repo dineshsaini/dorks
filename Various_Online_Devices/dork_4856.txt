@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4856
+Category:         Various Online Devices
+Published Date:   2018-06-14
+Author:           ManhNho
+GoogleDork:       intext:"default values: admin/1234"
+Description:      intext:"default values: admin/1234"
+
+
+intext:"default values: admin/1234"  default password of WATTrouter M - System Web Interface  ManhNho 

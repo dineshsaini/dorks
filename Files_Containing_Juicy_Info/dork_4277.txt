@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4277
+Category:         Files Containing Juicy Info
+Published Date:   2016-05-04
+Author:           anonymous
+GoogleDork:       index of /wp-content/uploads/userpro
+Description:      index of /wp-content/uploads/userpro
+
+
+Alot of juicy info found, some csv files found that had alot of personal information. Sometimes if you type ConversationUnread you can get the same results. stag_1

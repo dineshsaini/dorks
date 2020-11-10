@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2694
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Copyright 2008 Free Image &amp; File Hosting
+Description:      Copyright 2008 Free Image &amp; File Hosting
+
+
+Free Image &amp; File Hosting Upload Vulnerability: https://www.exploit-db.com/exploits/12105

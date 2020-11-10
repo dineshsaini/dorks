@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6583
+Category:         Pages Containing Login Portals
+Published Date:   2020-09-29
+Author:           Javier Bernardo
+GoogleDork:       inurl:console-selfservice
+Description:      inurl:console-selfservice
+
+
+# Google Dork: inurl:console-selfservice# Date: 9/10/2020 # Exploit Author: Javier Bernardo # RSA Login pages  Javier Bernardo *Ethical Hacker | Information Security Engineer*  Buenos Aires - Argentina 

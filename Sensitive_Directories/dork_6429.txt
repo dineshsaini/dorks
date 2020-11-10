@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6429
+Category:         Sensitive Directories
+Published Date:   2020-07-21
+Author:           Pratik Khalane
+GoogleDork:       Index: /wp-includes/Text/Diff
+Description:      Index: /wp-includes/Text/Diff
+
+
+Google Dork : Index: /wp-includes/Text/Diff  Description: This dork will help to find sensitive directories. (Sensitive Data)  Author : Pratik Khalane  Date: 18/07/2020 

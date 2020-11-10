@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2170
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       browse_videos.php?
+Description:      browse_videos.php?
+
+
+phpVID 0.9.9 (categories_type.php cat) SQL Injection Vulnerability - CVE: 2007-3610: https://www.exploit-db.com/exploits/4153

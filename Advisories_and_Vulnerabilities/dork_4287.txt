@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4287
+Category:         Advisories and Vulnerabilities
+Published Date:   2016-05-26
+Author:           anonymous
+GoogleDork:       inurl:"/webmail/" intitle:"Mail - AfterLogic WebMail" -site:afterlogic.org -site:afterlogic.com
+Description:      inurl:"/webmail/" intitle:"Mail - AfterLogic WebMail" -site:afterlogic.org -site:afterlogic.com
+
+
+inurl:"/webmail/" intitle:"Mail - AfterLogic WebMail" -site:afterlogic.org -site:afterlogic.com AfterLogic WebMail XXE Injection Vulnerability https://www.exploit-db.com/exploits/39850/ Decoy

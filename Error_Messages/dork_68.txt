@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/68
+Category:         Error Messages
+Published Date:   2004-03-04
+Author:           anonymous
+GoogleDork:       IIS web server error messages
+Description:      IIS web server error messages
+
+
+This query finds various types of IIS servers. This error message is fairly indicative of a somewhat unmodified IIS server, meaning it may be easier to break into...

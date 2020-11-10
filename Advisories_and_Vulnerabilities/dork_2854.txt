@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2854
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Vibro-School CMS by nicLOR.net
+Description:      Vibro-School CMS by nicLOR.net
+
+
+Vibro-School-CMS (nID) Remote SQL injection Vulnerability - CVE: 2008-6795: https://www.exploit-db.com/exploits/6981

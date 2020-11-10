@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/834
+Category:         Web Server Detection
+Published Date:   2005-01-26
+Author:           anonymous
+GoogleDork:       "Netware * Home" inurl:nav.html
+Description:      "Netware * Home" inurl:nav.html
+
+
+Rather than submitting various searches for all kinds of NetWare related pages, Novell NetWare's Home Page is a good place to start for profiling the services available on a NetWare powered system. The results will often include all (or at least some) of the following links to different services on a system - including Server Certificates, iFolder, iManager, NetStorage, Enterprise Web Server Management and the Web Search Manager!

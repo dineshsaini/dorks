@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1003
+Category:         Advisories and Vulnerabilities
+Published Date:   2005-06-03
+Author:           anonymous
+GoogleDork:       "portailphp v1.3" inurl:"index.php?affiche" inurl:"PortailPHP" -site:safari-msi.com
+Description:      "portailphp v1.3" inurl:"index.php?affiche" inurl:"PortailPHP" -site:safari-msi.com
+
+
+Vulnerability has been found in parameter "id". If this variableAny value it is possible to replace it with a sign ' is transferredSince this parameter is involved in all modules, all of themAre vulnerable.It occurs because of absence of a filtration of parameter id.Exampleshttp://example/index.php?affiche=News&amp;id='[SQL inj]http://example/index.php?affiche=File&amp;id='[SQL inj]http://example/index.php?affiche=Liens&amp;id='[SQL inj]http://example/index.php?affiche=Faq&amp;id='[SQL inj]The conclusionVulnerability is found out in version 1.3, on other versionsDid not check. Probably they too are vulnerable.

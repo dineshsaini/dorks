@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/504
+Category:         Advisories and Vulnerabilities
+Published Date:   2004-09-23
+Author:           anonymous
+GoogleDork:       "Powered by IceWarp Software" inurl:mail
+Description:      "Powered by IceWarp Software" inurl:mail
+
+
+IceWarp Web Mail is reported prone to multiple input validation vulnerabilities. Few details regarding the specific vulnerabilities are known. These vulnerabilities are reported to affect all versions of IceWarp Web Mail prior to version 5.2.8.There are two ways to find installations of IceWarp:"Powered by IceWarp Software" inurl:mailintitle:"IceWarp Web Mail" inurl:":32000/mail/"http://www.securityfocus.com/bid/10920

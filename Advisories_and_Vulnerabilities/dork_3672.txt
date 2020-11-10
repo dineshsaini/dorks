@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3672
+Category:         Advisories and Vulnerabilities
+Published Date:   2011-01-11
+Author:           anonymous
+GoogleDork:       inurl:"/modules.php?name=" "Maximus CMS"
+Description:      inurl:"/modules.php?name=" "Maximus CMS"
+
+
+Maximus CMS (FCKeditor) File Upload Vulnerability https://www.exploit-db.com/exploits/15960 Author: eidelweiss

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6642
+Category:         Files Containing Juicy Info
+Published Date:   2020-10-28
+Author:           Alexandros Pappas
+GoogleDork:       intitle:"index of" "/xampp/htdocs" | "C:/xampp/htdocs/"
+Description:      intitle:"index of" "/xampp/htdocs" | "C:/xampp/htdocs/"
+
+
+# Google Dork: intitle:"index of" "/xampp/htdocs" | "C:/xampp/htdocs/" # Sensitive directories. # Date: 10/10/2020 # Exploit Author: Alexandros Pappas 

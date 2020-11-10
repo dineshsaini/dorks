@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/176
+Category:         Pages Containing Login Portals
+Published Date:   2004-04-21
+Author:           anonymous
+GoogleDork:       "VNC Desktop" inurl:5800
+Description:      "VNC Desktop" inurl:5800
+
+
+VNC is a remote-controlled desktop product. Depending on the configuration, remote users may not be presented with a password. Even when presented with a password, the mere existance of VNC can be important to an attacker, as is the open port of 5800.

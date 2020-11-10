@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4157
+Category:         Various Online Devices
+Published Date:   2015-12-18
+Author:           anonymous
+GoogleDork:       inurl:/tcpipv6.htm
+Description:      inurl:/tcpipv6.htm
+
+
+inurl:/tcpipv6.htm Description: This google dork can access many HP LASER JET printers without login.. By Sivabalan ( CYBER GENIUS )..

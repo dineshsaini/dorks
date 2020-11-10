@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3841
+Category:         Pages Containing Login Portals
+Published Date:   2013-04-09
+Author:           anonymous
+GoogleDork:       intext:THIS IS A PRIVATE SYSTEM AUTHORISED ACCESS ONLY inurl:login.aspx
+Description:      intext:THIS IS A PRIVATE SYSTEM AUTHORISED ACCESS ONLY inurl:login.aspx
+
+
+Category : Pages containing login portals Description : Dork for finding sensitive login portals Dork : intext:THIS IS A PRIVATE SYSTEM AUTHORISED ACCESS ONLY inurl:login.aspx Link : https://encrypted.google.com/#hl=en&amp;output=search&amp;sclient=psy-ab&amp;q=intext:THIS+IS+A+PRIVATE+SYSTEM+AUTHORISED+ACCESS+ONLY+inurl%3Alogin.aspx&amp;oq=intext:THIS+IS+A+PRIVATE+SYSTEM+AUTHORISED+ACCESS+ONLY+inurl%3Alogin.aspx&amp;gs_l=hp.3...852.852.0.983.1.1.0.0.0.0.121.121.0j1.1.0...0.0...1c.1.7.psy-ab.664iAsY450k&amp;pbx=1&amp;bav=on.2,or.r_qf.&amp;bvm=bv.44011176,d.d2k&amp;fp=7b93b16efbccc178&amp;biw=1362&amp;bih=667 Date : 20/3/2013 Exploit Author: Scott Sturrock Email: f00bar'at'linuxmail'dot'org

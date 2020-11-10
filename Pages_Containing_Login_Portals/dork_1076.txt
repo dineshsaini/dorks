@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1076
+Category:         Pages Containing Login Portals
+Published Date:   2005-08-28
+Author:           anonymous
+GoogleDork:       inurl:csCreatePro.cgi
+Description:      inurl:csCreatePro.cgi
+
+
+Create Pro logon pages.

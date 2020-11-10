@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4578
+Category:         Files Containing Juicy Info
+Published Date:   2017-09-11
+Author:           anonymous
+GoogleDork:       inurl:/maint/repair.php?repair=1
+Description:      inurl:/maint/repair.php?repair=1
+
+
+Wordpress database repair displaying active tables - ThePentester

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4155
+Category:         Advisories and Vulnerabilities
+Published Date:   2015-12-17
+Author:           anonymous
+GoogleDork:       inurl:/node/add/event
+Description:      inurl:/node/add/event
+
+
+Dorks For Drupal HTML&amp; Arbitrary File Upload Vulnerabilities inurl:/node/add/event inurl:/node/add/announcement This Dork Original By Mr.XSecr3t :p NO COPAS brooh :v ~GAME OVER~

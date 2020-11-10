@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1722
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intext:"powered by tincan ltd"
+Description:      intext:"powered by tincan ltd"
+
+
+tincan ltd (section) SQL Injection Vulnerability: https://www.exploit-db.com/exploits/11113

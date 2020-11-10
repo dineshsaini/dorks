@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1545
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "SimpleBlog 2.3 by 8pixel.net"
+Description:      "SimpleBlog 2.3 by 8pixel.net"
+
+
+SimpleBlog 2.3 (admin/edit.asp) Remote SQL Injection Vulnerability - CVE: 2006-6191: https://www.exploit-db.com/exploits/2853

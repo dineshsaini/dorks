@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1428
+Category:         Files Containing Juicy Info
+Published Date:   2010-11-10
+Author:           anonymous
+GoogleDork:       "Cisco PIX Security Appliance Software Version" + "Serial Number" + "show ver" -inurl
+Description:      "Cisco PIX Security Appliance Software Version" + "Serial Number" + "show ver" -inurl
+
+
+Google search for Pix Authorization Keys Author: fdisk

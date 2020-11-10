@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/195
+Category:         Files Containing Juicy Info
+Published Date:   2004-05-03
+Author:           anonymous
+GoogleDork:       intext:"Tobias Oetiker" "traffic analysis"
+Description:      intext:"Tobias Oetiker" "traffic analysis"
+
+
+This is the MRTG traffic analysis pages. This page lists information about machines on the network including CPU load, traffic statistics, etc. This information can be useful in mapping out a network.

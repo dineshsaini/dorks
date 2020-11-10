@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5534
+Category:         Files Containing Passwords
+Published Date:   2019-09-16
+Author:           The Dexter
+GoogleDork:       "contrasena" filetype:sql -github.com
+Description:      "contrasena" filetype:sql -github.com
+
+
+Google Dork: "contrasena" filetype:sql -github.com Date: 09/14/2019 Exploit Author: th3d3xt3r Category: Files containing passwords 

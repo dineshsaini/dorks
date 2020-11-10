@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4461
+Category:         Pages Containing Login Portals
+Published Date:   2017-05-04
+Author:           anonymous
+GoogleDork:       inurl:/j_security_check;jsessionid=
+Description:      inurl:/j_security_check;jsessionid=
+
+
+Google dork : inurl:/j_security_check;jsessionid= Description : This google dork can access a lot of login pages  Created by dekingofcyber ( sivabalan )

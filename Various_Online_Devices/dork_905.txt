@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/905
+Category:         Various Online Devices
+Published Date:   2005-03-20
+Author:           anonymous
+GoogleDork:       intitle:"actiontec" main setup status "Copyright 2001 Actiontec Electronics Inc"
+Description:      intitle:"actiontec" main setup status "Copyright 2001 Actiontec Electronics Inc"
+
+
+Actiontec Routers.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6485
+Category:         Files Containing Juicy Info
+Published Date:   2020-08-20
+Author:           Mayank Sharma
+GoogleDork:       ext:log intext:NetworkManager "systemd"
+Description:      ext:log intext:NetworkManager "systemd"
+
+
+Google Dork: ext:log intext:NetworkManager "systemd" By using this dork one can list the indexed log files present on the internet. This dork basically fetches either juicy information from the logs or if lucky whole log files.  Please review my submission towards GHDB. I look forward to your response.  Regards! Mayank Sharma 

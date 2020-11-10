@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2523
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"com_photoblog"
+Description:      inurl:"com_photoblog"
+
+
+Joomla (com_photoblog) Blind Sql Injection Vulnerability - CVE: 2010-0610: https://www.exploit-db.com/exploits/11337

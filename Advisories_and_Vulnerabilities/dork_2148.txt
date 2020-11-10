@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2148
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intitle:"Shorty (Beta)"
+Description:      intitle:"Shorty (Beta)"
+
+
+Shorty 0.7.1b (Auth Bypass) Insecure Cookie Handling Vulnerability: https://www.exploit-db.com/exploits/9419

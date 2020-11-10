@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1250
+Category:         Sensitive Directories
+Published Date:   2006-01-16
+Author:           anonymous
+GoogleDork:       inurl:install.pl intext:"Reading path paramaters" -edu
+Description:      inurl:install.pl intext:"Reading path paramaters" -edu
+
+
+Excelent information for foot holds. Everything from OS, to forum software, etc. Other exploits possible

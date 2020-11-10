@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3469
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Portal By vbPortal Version 3.5.0
+Description:      Portal By vbPortal Version 3.5.0
+
+
+vbPortal 3.0.2 3.6.0 b1 (cookie) Remote Code Excution - CVE: 2006-4004: https://www.exploit-db.com/exploits/2087

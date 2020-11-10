@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4728
+Category:         Pages Containing Login Portals
+Published Date:   2018-04-02
+Author:           Bruno Schmid
+GoogleDork:       intitle:"partners login"
+Description:      intitle:"partners login"
+
+
+Login portals    Bruno Schmid  

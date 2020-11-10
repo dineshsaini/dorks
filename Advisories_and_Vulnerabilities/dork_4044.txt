@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4044
+Category:         Advisories and Vulnerabilities
+Published Date:   2015-08-10
+Author:           anonymous
+GoogleDork:       inurl:/plugins/aviary-image-editor-add-on-for-gravity-forms/
+Description:      inurl:/plugins/aviary-image-editor-add-on-for-gravity-forms/
+
+
+www.exploit-db.com/exploits/37275/ Dork: inurl:/plugins/aviary-image-editor-add-on-for-gravity-forms/ sincerely, Zeel Chavda

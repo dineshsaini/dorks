@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1684
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "© 2009 Azimut Technologie"
+Description:      "© 2009 Azimut Technologie"
+
+
+Azimut Technologie Admin Login Bypass vulnerability: https://www.exploit-db.com/exploits/12695

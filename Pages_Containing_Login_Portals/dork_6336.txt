@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6336
+Category:         Pages Containing Login Portals
+Published Date:   2020-06-30
+Author:           Alexandros Pappas
+GoogleDork:       site:vpn.*.*/ intext:"login" intitle:"login"
+Description:      site:vpn.*.*/ intext:"login" intitle:"login"
+
+
+# Google Dork: site:vpn.*.*/ intext:"login" intitle:"login" # Various VPN login pages. # Date: 29/06/2020 # Exploit Author: Alexandros Pappas 

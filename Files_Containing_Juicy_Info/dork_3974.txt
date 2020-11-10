@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3974
+Category:         Files Containing Juicy Info
+Published Date:   2014-11-18
+Author:           anonymous
+GoogleDork:       ext:txt inurl:gov intext:"Content-Type: text/plain; charset=utf-8" AND intext:"Received: from "
+Description:      ext:txt inurl:gov intext:"Content-Type: text/plain; charset=utf-8" AND intext:"Received: from "
+
+
+ext:txt inurl:gov intext:"Content-Type: text/plain; charset=utf-8" AND intext:"Received: from " Dork to find gov't emails. ~ Carl

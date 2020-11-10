@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/959
+Category:         Footholds
+Published Date:   2005-04-27
+Author:           anonymous
+GoogleDork:       intitle:"ERROR: The requested URL could not be retrieved" "While trying to retrieve the URL" "The following error was encountered:"
+Description:      intitle:"ERROR: The requested URL could not be retrieved" "While trying to retrieve the URL" "The following error was encountered:"
+
+
+squid error messages, most likely from reverse proxy servers.

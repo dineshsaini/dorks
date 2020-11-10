@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3862
+Category:         Vulnerable Servers
+Published Date:   2013-08-08
+Author:           anonymous
+GoogleDork:       inurl:.php? intext:CHARACTER_SETS,COLLATIONS, ?intitle:phpmyadmin
+Description:      inurl:.php? intext:CHARACTER_SETS,COLLATIONS, ?intitle:phpmyadmin
+
+
+inurl:.php? intext:CHARACTER_SETS,COLLATIONS, ?intitle:phpmyadmin view phpMyAdmin of web sites Author: Un0wn_X Follow: @UnownSec E-Mail: unownsec@gmail.com

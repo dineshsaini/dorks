@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/438
+Category:         Advisories and Vulnerabilities
+Published Date:   2004-08-16
+Author:           anonymous
+GoogleDork:       Achievo webbased project management
+Description:      Achievo webbased project management
+
+
+Achievo is a free web-based project management tool for business-environments. Achievo's is mainly used for its project management capabilities. According to the site securitytracker.com remote code execution is possible by modifying a certain php script in this software suite. More information is available at: http://www.securitytracker.com/alerts/2002/Aug/1005121.html

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6122
+Category:         Pages Containing Login Portals
+Published Date:   2020-05-25
+Author:           Manish Kumar
+GoogleDork:       inurl:login.jsf
+Description:      inurl:login.jsf
+
+
+Dork:- inurl:login.jsf  Description:- This Dork id used to find the Login portal of web page developed under java based technology login web page.  Author:- Manish Kumar 

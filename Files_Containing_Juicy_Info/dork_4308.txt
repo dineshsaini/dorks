@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4308
+Category:         Files Containing Juicy Info
+Published Date:   2016-07-07
+Author:           anonymous
+GoogleDork:       filetype:sql intext:wp_users phpmyadmin
+Description:      filetype:sql intext:wp_users phpmyadmin
+
+
+# Exploit Title: (Google Dork) filetype:sql intext:wp_users phpmyadmin # Google Dork: filetype:sql intext:wp_users phpmyadmin # Date: 2016-07-06 # Exploit Author: RuBiQc Description: Finds SQL dump files of Wordpress sites with usernames and passwords. Pretty funny that people make these publicly available!

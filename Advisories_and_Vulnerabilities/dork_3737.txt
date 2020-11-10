@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3737
+Category:         Advisories and Vulnerabilities
+Published Date:   2011-08-06
+Author:           anonymous
+GoogleDork:       intitle:"vtiger CRM 5 - Commercial Open Source CRM"
+Description:      intitle:"vtiger CRM 5 - Commercial Open Source CRM"
+
+
+vtiger CRM version 5.x presence -- LiquidWorm

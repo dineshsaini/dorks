@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5088
+Category:         Various Online Devices
+Published Date:   2019-02-05
+Author:           Brain Reflow
+GoogleDork:       intitle:"Screenly OSE" intext:"Schedule Overview" AND "Active Assets" AND "Inactive Assets"
+Description:      intitle:"Screenly OSE" intext:"Schedule Overview" AND "Active Assets" AND "Inactive Assets"
+
+
+Dork about Screenly OSE Is the most popular open source digital signage software for the Raspberry Pi  intitle:"Screenly OSE" intext:"Schedule Overview" AND "Active Assets" AND "Inactive Assets"   Author : *.doc-TOR aka Brain Reflow https://twitter.com/The_d0c_T0R 

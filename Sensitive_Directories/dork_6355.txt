@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6355
+Category:         Sensitive Directories
+Published Date:   2020-06-30
+Author:           Pawan Chhabria
+GoogleDork:       "Index of" "/monitoring"
+Description:      "Index of" "/monitoring"
+
+
+Google Dork: "Index of" "/monitoring" Category: Files containing Juicy Information  Let me know, how shall we proceed further.  Kind Regards, Pawan Chhabria 

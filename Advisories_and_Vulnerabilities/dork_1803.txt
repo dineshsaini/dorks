@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1803
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl: Powered by Traidnt UP Version 1.0.
+Description:      inurl: Powered by Traidnt UP Version 1.0.
+
+
+Traidnt UP Version 1.0 Remote File Upload Vulnerability: https://www.exploit-db.com/exploits/8006

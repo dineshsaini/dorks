@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4679
+Category:         Footholds
+Published Date:   2018-02-21
+Author:           Nisankh Acharjya
+GoogleDork:       inurl:/install/stringnames.txt
+Description:      inurl:/install/stringnames.txt
+
+
+inurl:/install/stringnames.txt  this DORK is useful to search moodle cms with install folder left on the hosted server 

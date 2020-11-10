@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2616
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:com_products "intCategoryId"
+Description:      inurl:com_products "intCategoryId"
+
+
+Joomla com_products 'intCategoryId' Remote Sql Injection Vulnerability: https://www.exploit-db.com/exploits/11691

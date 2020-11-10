@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4102
+Category:         Files Containing Passwords
+Published Date:   2015-10-22
+Author:           anonymous
+GoogleDork:       filetype:log intext:password | pass | pw
+Description:      filetype:log intext:password | pass | pw
+
+
+http://www.google.com/search?q=filetype:log intext:password | pass | pw Log files containing passwords... Decoy

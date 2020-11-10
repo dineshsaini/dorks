@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6289
+Category:         Pages Containing Login Portals
+Published Date:   2020-06-16
+Author:           Priyanka Prasad
+GoogleDork:       intext:"index of /" "customer.php" "~Login"
+Description:      intext:"index of /" "customer.php" "~Login"
+
+
+Dork: intext:"index of /" "customer.php" "~Login" Description: will give information related to customer and login info. Author: Priyanka Prasad 

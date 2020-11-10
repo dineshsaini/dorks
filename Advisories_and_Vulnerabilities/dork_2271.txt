@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2271
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "This site is powered by CMS Made Simple version 1."
+Description:      "This site is powered by CMS Made Simple version 1."
+
+
+CMS Made Simple 1.6.2 Local File Disclosure Vulnerability: https://www.exploit-db.com/exploits/9407

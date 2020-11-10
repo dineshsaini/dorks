@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/303
+Category:         Web Server Detection
+Published Date:   2004-07-02
+Author:           anonymous
+GoogleDork:       Environment vars
+Description:      Environment vars
+
+
+This is a generic way of grabbing those CGI-spewed environmental var lists. To narrow to things down, an attacker could use any of the following: SERVER_SIGNATURE, SERVER_SOFTWARE, TNS_ADMIN, DOCUMENT_ROOT, etc.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4697
+Category:         Various Online Devices
+Published Date:   2018-03-14
+Author:           Sohaib E.B.
+GoogleDork:       intitle:"Yawcam" inurl:8081
+Description:      intitle:"Yawcam" inurl:8081
+
+
+# Dork Title: [unprotected Yawcam webcam] # Google Dork: [intitle:"Yawcam" inurl:8081] # Description: Access to unprotected Yawcam webcams via browser. # Date: [01/03/2018] # Dork Author: [Sohaib E.B.] # Vendor Homepage: [http://www.yawcam.com] 

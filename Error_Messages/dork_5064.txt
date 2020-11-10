@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5064
+Category:         Error Messages
+Published Date:   2019-01-02
+Author:           deadroot
+GoogleDork:       "dispatch=debugger."
+Description:      "dispatch=debugger."
+
+
+# Exploit Title: CS-Cart debug and configuration information # Google Dork:  "dispatch=debugger."  # Date: 28, Dec, 2018 # Vendor Homepage: https://www.cs-cart.com/  # Exploit Author: deadroot

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4514
+Category:         Files Containing Juicy Info
+Published Date:   2017-06-08
+Author:           anonymous
+GoogleDork:       inurl:"idx_config"
+Description:      inurl:"idx_config"
+
+
+Finds grabbed config by shell (database,cpanel,smtp....) Dork: inurl:"idx_config" Shad Karim Thanks to :Anon Defacer

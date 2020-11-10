@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6203
+Category:         Pages Containing Login Portals
+Published Date:   2020-06-04
+Author:           Md Anzaruddin
+GoogleDork:       Google Dork
+Description:      Google Dork
+
+
+# Google Dork : inurl:admlogin.asp #Description:- This Page contains various asp admin login pages for a web server #Author: Md Anzaruddin #Date: 04-June-2020  -- Regards, Md Anzaruddin 

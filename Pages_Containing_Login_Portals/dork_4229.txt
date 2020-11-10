@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4229
+Category:         Pages Containing Login Portals
+Published Date:   2016-03-14
+Author:           anonymous
+GoogleDork:       intext:"Powered by net2ftp"
+Description:      intext:"Powered by net2ftp"
+
+
+Description: Web based FTP client login page Google search: intext:"Powered by net2ftp" Author: nebo_oben

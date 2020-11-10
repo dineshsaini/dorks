@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1279
+Category:         Various Online Devices
+Published Date:   2006-03-18
+Author:           anonymous
+GoogleDork:       intitle:"AR-*" "browser of frame dealing is necessary"
+Description:      intitle:"AR-*" "browser of frame dealing is necessary"
+
+
+A few Sharp printers ..

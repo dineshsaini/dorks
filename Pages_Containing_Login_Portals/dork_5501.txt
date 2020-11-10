@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5501
+Category:         Pages Containing Login Portals
+Published Date:   2019-09-04
+Author:           MiningOmerta
+GoogleDork:       inurl:/awcuser*
+Description:      inurl:/awcuser*
+
+
+An additional dork for finding Mitel login screens, previous presentations, and documents.  Author Name: MiningOmerta 

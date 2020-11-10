@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4247
+Category:         Error Messages
+Published Date:   2016-03-29
+Author:           anonymous
+GoogleDork:       inurl:/siteminderagent/ | app:"Error 404: java.io.FileNotFoundException: SRVE0190E: File not found: /siteminderagent/"
+Description:      inurl:/siteminderagent/ | app:"Error 404: java.io.FileNotFoundException: SRVE0190E: File not found: /siteminderagent/"
+
+
+CA Technologies CA Single Sign-On (CA SSO) Error's.  -Xploit

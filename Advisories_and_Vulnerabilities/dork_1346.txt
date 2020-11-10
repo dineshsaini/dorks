@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1346
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-04-25
+Author:           anonymous
+GoogleDork:       "You have not provided a survey identification number" ERROR -xoops.org "please contact"
+Description:      "You have not provided a survey identification number" ERROR -xoops.org "please contact"
+
+
+sql injection:http://www.securityfocus.com/bid/16077/discussremote command execution:http://retrogod.altervista.org/phpsurveyor_0995_xpl.html

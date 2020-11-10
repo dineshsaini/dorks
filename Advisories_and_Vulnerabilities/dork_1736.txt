@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1736
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered By CMS-BRD"
+Description:      "Powered By CMS-BRD"
+
+
+CMS-BRD (menuclick) Remote SQL Injection Vulnerability - CVE: 2008-2837: https://www.exploit-db.com/exploits/5863

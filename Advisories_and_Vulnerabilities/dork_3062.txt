@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3062
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by NovaBoard v1.0.0"
+Description:      "Powered by NovaBoard v1.0.0"
+
+
+NovaBoard 1.0.0 Multiple Remote Vulnerabilities: https://www.exploit-db.com/exploits/8063

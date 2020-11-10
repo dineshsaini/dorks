@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5176
+Category:         Error Messages
+Published Date:   2019-04-10
+Author:           botsec0
+GoogleDork:       site:com inurl:jboss filetype:log -github.com
+Description:      site:com inurl:jboss filetype:log -github.com
+
+
+Dork : site:com inurl:jboss filetype:log -github.com  Description : this dork gives you jboss error logs.  Author : botsec0 

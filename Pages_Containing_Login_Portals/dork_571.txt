@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/571
+Category:         Pages Containing Login Portals
+Published Date:   2004-10-16
+Author:           anonymous
+GoogleDork:       "WebExplorer Server - Login" "Welcome to WebExplorer Server"
+Description:      "WebExplorer Server - Login" "Welcome to WebExplorer Server"
+
+
+WebExplorer Server is a web-based file management system for sharing files with user permissions and quota limits. It features easy user interface and online administration which will allow you to manage users/groups/permissions without the need of server configuration knowledge. It can be used for remote file storage(eg FreeDrive)/hosting services, Companies/Educational institutions that need to share documents among people.

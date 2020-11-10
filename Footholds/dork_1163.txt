@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1163
+Category:         Footholds
+Published Date:   2005-10-06
+Author:           anonymous
+GoogleDork:       inurl:polly/CP
+Description:      inurl:polly/CP
+
+
+You can get into admin panel without logging.

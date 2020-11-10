@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3656
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-12-24
+Author:           anonymous
+GoogleDork:       "Powered by CubeCart 3.0.4"
+Description:      "Powered by CubeCart 3.0.4"
+
+
+CSRF:https://www.exploit-db.com/exploits/15822

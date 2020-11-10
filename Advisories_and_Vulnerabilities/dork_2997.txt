@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2997
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:com_jepoll
+Description:      inurl:com_jepoll
+
+
+Joomla Component com_jepoll (pollid) SQL Injection Vulnerability: https://www.exploit-db.com/exploits/12781

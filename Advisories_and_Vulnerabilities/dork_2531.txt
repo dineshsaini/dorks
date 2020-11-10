@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2531
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by PG Online Training Solution - learning management system"
+Description:      "Powered by PG Online Training Solution - learning management system"
+
+
+Pilot Group eTraining (news_read.php id) SQL Injection Vulnerability - CVE: 2008-4709: https://www.exploit-db.com/exploits/6613

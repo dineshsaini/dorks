@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2069
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by yappa-ng 2.3.1" AND "Powered by yappa-ng 2.3.1"
+Description:      "Powered by yappa-ng 2.3.1" AND "Powered by yappa-ng 2.3.1"
+
+
+yappa-ng 2.3.1 (admin_modules) Remote File Include Vulnerability: https://www.exploit-db.com/exploits/2292

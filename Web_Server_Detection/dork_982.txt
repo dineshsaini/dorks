@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/982
+Category:         Web Server Detection
+Published Date:   2005-05-20
+Author:           anonymous
+GoogleDork:       intitle:"Welcome to 602LAN SUITE *"
+Description:      intitle:"Welcome to 602LAN SUITE *"
+
+
+The 602LAN SUITE runs on a webserver called WEB602/1.04 and includes webmail.

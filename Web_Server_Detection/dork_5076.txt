@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5076
+Category:         Web Server Detection
+Published Date:   2019-01-14
+Author:           FlyingFrog
+GoogleDork:       intext:" - 2019 Cott Systems, Inc."
+Description:      intext:" - 2019 Cott Systems, Inc."
+
+
+AUTHOR: FlyingFrog Twitter: @ItsKarl0z   ++ Local Government Websites (American) ++  intext:"  - 2019 Cott Systems, Inc."  Cott Systems develops a lot of the local government document search portals in the U.S.  Data you can find:     - Search Portals for:         - Clerk Offices         - Personal Data         - Property Data (Tax, Debt, Deed etc.)         - Internal Search engines     - Foothold in potentially vulnerable .gov Websites     - local government is usually not well funded, their cybersecurity is not very good       chances of finding bugs are very high  ++ 307 results at the time of writing ++   DISCLAIMER: The vulnerabilities are suggestions, none of them have been tested by me, always request permission before testing anything on someone else system. This dork is made by myself, I give you permission to share it as you please, I would appreciate a shoutout ! 

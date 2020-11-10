@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3634
+Category:         Vulnerable Servers
+Published Date:   2010-12-07
+Author:           anonymous
+GoogleDork:       "r57shell 1.4"
+Description:      "r57shell 1.4"
+
+
+Locates r57 web shells Author: ScOrPiOn

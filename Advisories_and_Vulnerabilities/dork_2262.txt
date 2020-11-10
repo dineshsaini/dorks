@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2262
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by Locazolist Copyright © 2006"
+Description:      "Powered by Locazolist Copyright © 2006"
+
+
+LocazoList 2.01a beta5 (subcatID) Remote SQL Injection Vulnerability - CVE: 2007-0129: https://www.exploit-db.com/exploits/3073

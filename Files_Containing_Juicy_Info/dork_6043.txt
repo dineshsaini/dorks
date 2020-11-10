@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6043
+Category:         Files Containing Juicy Info
+Published Date:   2020-05-06
+Author:           Irshad Ahamed
+GoogleDork:       intitle:"index of" "cfg.go"
+Description:      intitle:"index of" "cfg.go"
+
+
+The configuration file of the websites using GOLANG in backend can be easily found by using this dork  DORK: intitle:"index of" "cfg.go"  ~ Irshad Ahamed 

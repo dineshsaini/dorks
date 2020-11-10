@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2565
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       powered by joovili
+Description:      powered by joovili
+
+
+Joovili 3.0.6 (joovili.images.php) Remote File Disclosure Vulnerability - CVE: 2007-6621: https://www.exploit-db.com/exploits/4799

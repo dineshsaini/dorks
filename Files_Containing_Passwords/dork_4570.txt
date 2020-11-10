@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4570
+Category:         Files Containing Passwords
+Published Date:   2017-08-03
+Author:           anonymous
+GoogleDork:       inurl:_vti_pvt/administrators.pwd
+Description:      inurl:_vti_pvt/administrators.pwd
+
+
+Here is a Google Dork to retrieve *sensitive information Login/password for MS FrontPage share point* inurl:_vti_pvt/administrators.pwd Sold1er .

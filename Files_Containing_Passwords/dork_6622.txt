@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6622
+Category:         Files Containing Passwords
+Published Date:   2020-10-19
+Author:           Sajan Dhakate
+GoogleDork:       ext:log password END_FILE
+Description:      ext:log password END_FILE
+
+
+Dear Team,  # Exploit Title: *ext:log password END_FILE* # Google Dork: *ext:log password END_FILE* # Juicy Information : Java password files # Date: 18/10/2020 # Exploit Author: Sajan Dhakate  Thanks &amp; Regards Sajan Dhakate 

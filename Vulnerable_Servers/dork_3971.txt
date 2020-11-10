@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3971
+Category:         Vulnerable Servers
+Published Date:   2014-11-03
+Author:           anonymous
+GoogleDork:       inurl:CHANGELOG.txt intext:drupal intext:"SA-CORE" -intext:7.32 -site:github.com -site:drupal.org
+Description:      inurl:CHANGELOG.txt intext:drupal intext:"SA-CORE" -intext:7.32 -site:github.com -site:drupal.org
+
+
+inurl:CHANGELOG.txt intext:drupal intext:"SA-CORE" -intext:7.32 -site:github.com -site:drupal.org look for a CHANGELOG.txt file that has drupal and SA-CORE in the text, but not the latest 7.32 patch. Ignore github and drupal.org 

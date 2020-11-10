@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/818
+Category:         Pages Containing Login Portals
+Published Date:   2005-01-15
+Author:           anonymous
+GoogleDork:       inurl:"Activex/default.htm" "Demo"
+Description:      inurl:"Activex/default.htm" "Demo"
+
+
+This search will reveal the active X plugin page that allows someone to access PC Anywhere from, well, anywhere! This should primarily be considered as a frontdoor, as most PC Anywhere servers are password protected. Still this is extremely dangerous to have exposed to the web.

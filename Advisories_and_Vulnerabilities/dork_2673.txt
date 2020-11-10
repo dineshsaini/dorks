@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2673
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"index.php?option=com_simplefaq"
+Description:      inurl:"index.php?option=com_simplefaq"
+
+
+Mambo Component SimpleFAQ 2.11 Remote SQL Injection Vulnerability - CVE: 2007-4456: https://www.exploit-db.com/exploits/4296

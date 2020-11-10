@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1030
+Category:         Advisories and Vulnerabilities
+Published Date:   2005-07-08
+Author:           anonymous
+GoogleDork:       "powered by PhpBB 2.0.15" -site:phpbb.com
+Description:      "powered by PhpBB 2.0.15" -site:phpbb.com
+
+
+Another php vulnerabilty, as seen here http://www.frsirt.com/exploits/20050704.phpbbSecureD.pl.phpphpBB 2.0.15 Viewtopic.PHP Remote Code Execution VulnerabilityThis exploit gives the user all the details about the databaseconnection such as database host, username, password anddatabase name.

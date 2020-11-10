@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5296
+Category:         Sensitive Directories
+Published Date:   2019-07-30
+Author:           Mayur Parmar
+GoogleDork:       intitle:"Index of" wp-config
+Description:      intitle:"Index of" wp-config
+
+
+Dork: intitle:"Index of" wp-config  info:contains wordpress senstive files  Author:Mayur Parmar 

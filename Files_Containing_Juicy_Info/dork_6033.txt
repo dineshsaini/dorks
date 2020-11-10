@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6033
+Category:         Files Containing Juicy Info
+Published Date:   2020-05-06
+Author:           Abhi Chitkara
+GoogleDork:       intitle:"index of" "debian-security.log"
+Description:      intitle:"index of" "debian-security.log"
+
+
+Dork:  intitle:"index of" "debian-security.log" intitle:"index of" "linux.log"  Description: This google dork lists out the debian security logs for websites. Author: Abhi Chitkara 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2084
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"/tagit2b/"
+Description:      inurl:"/tagit2b/"
+
+
+TagIt! Tagboard 2.1.b b2 (index.php) Remote File Include Vulnerability - CVE: 2006-5093: https://www.exploit-db.com/exploits/2450

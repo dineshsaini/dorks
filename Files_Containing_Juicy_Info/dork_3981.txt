@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3981
+Category:         Files Containing Juicy Info
+Published Date:   2014-12-31
+Author:           anonymous
+GoogleDork:       inurl:"installer-log.txt" intext:"DUPLICATOR INSTALL-LOG"
+Description:      inurl:"installer-log.txt" intext:"DUPLICATOR INSTALL-LOG"
+
+
+Files found with this google dork will show juicy information about a migration of a complete wordpress site, including the location of a .zip file where the complete site is stored including "wp-config.php", ".htaccess" and other interesting private files. This file is the result of a migration with the Wordpress plugin "Duplicator". Author: @felmoltor

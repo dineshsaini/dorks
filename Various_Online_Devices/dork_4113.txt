@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4113
+Category:         Various Online Devices
+Published Date:   2015-11-09
+Author:           anonymous
+GoogleDork:       intitle:index.of inurl:openwebmail -site:openwebmail.org
+Description:      intitle:index.of inurl:openwebmail -site:openwebmail.org
+
+
+Sites with openwebmail installs. Decoy

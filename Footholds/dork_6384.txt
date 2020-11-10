@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6384
+Category:         Footholds
+Published Date:   2020-07-08
+Author:           Priyanka Prasad
+GoogleDork:       intitle:"Index of /" +.htaccess
+Description:      intitle:"Index of /" +.htaccess
+
+
+Dork:intitle:"Index of /" +.htaccess Description: Access to the parent directory and more... Author: Priyanka Prasad 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5050
+Category:         Sensitive Directories
+Published Date:   2018-12-04
+Author:           Lazy Hacker
+GoogleDork:       intitle:"Index of /private/"
+Description:      intitle:"Index of /private/"
+
+
+Search Private directories also work on Yahoo  Google Dorks: *intitle:"Index of /private/"*  Author: Rishabh Sharma (Lazy Hacker) 

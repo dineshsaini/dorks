@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1405
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-08-13
+Author:           anonymous
+GoogleDork:       "powered by xmb"
+Description:      "powered by xmb"
+
+
+this is for XMB

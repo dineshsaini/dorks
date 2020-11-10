@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1916
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"articles.php?topic="
+Description:      inurl:"articles.php?topic="
+
+
+jPORTAL 2.3.1 articles.php Remote SQL Injection Vulnerability - CVE: 2007-5973: https://www.exploit-db.com/exploits/4614

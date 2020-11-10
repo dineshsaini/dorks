@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4057
+Category:         Sensitive Directories
+Published Date:   2015-08-19
+Author:           anonymous
+GoogleDork:       intitle:"Index of" "DCIM"
+Description:      intitle:"Index of" "DCIM"
+
+
+A lot of Camera Photos Dump. Have Fun!. Rootkit.

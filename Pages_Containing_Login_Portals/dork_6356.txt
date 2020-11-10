@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6356
+Category:         Pages Containing Login Portals
+Published Date:   2020-06-30
+Author:           Juan Christian
+GoogleDork:       inurl:passwordvault intext:cyberark
+Description:      inurl:passwordvault intext:cyberark
+
+
+# Google Dork: inurl:passwordvault intext:cyberark # Description: discover publicly available CyberArk’s PVWA portal # Author: Juan Christian (https://www.linkedin.com/in/juanchristian) 

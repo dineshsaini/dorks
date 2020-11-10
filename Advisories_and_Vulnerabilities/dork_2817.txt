@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2817
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by Discuz! 1.0 © 2002, Crossday Studio of 11cn.org
+Description:      Powered by Discuz! 1.0 © 2002, Crossday Studio of 11cn.org
+
+
+Discuz 1.03 SQL Injection Exploit Vulnerability: https://www.exploit-db.com/exploits/10861

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1305
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-02-13
+Author:           anonymous
+GoogleDork:       intext:"LinPHA Version" intext:"Have fun"
+Description:      intext:"LinPHA Version" intext:"Have fun"
+
+
+this is for Linpha

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1477
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "RS MAXSOFT"
+Description:      "RS MAXSOFT"
+
+
+RX Maxsoft (popup_img.php fotoID) Remote SQL Injection Vulnerability - CVE: 2008-4912: https://www.exploit-db.com/exploits/5426

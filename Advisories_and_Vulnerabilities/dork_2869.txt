@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2869
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:/components/je-media-player.html?
+Description:      inurl:/components/je-media-player.html?
+
+
+Joomla JE Media Player Component LFI Vulnerability: https://www.exploit-db.com/exploits/14060

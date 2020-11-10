@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/810
+Category:         Sensitive Directories
+Published Date:   2005-01-07
+Author:           anonymous
+GoogleDork:       "Web File Browser" "Use regular expression"
+Description:      "Web File Browser" "Use regular expression"
+
+
+This will ask google to search for a php script used to manage files on a server. The script "Web File Browser" enables users to change files on the server. The script comes un-protected, which means that anyone who knows the exact path of the php file can have admin access to files on that server.

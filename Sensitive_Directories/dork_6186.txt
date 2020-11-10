@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6186
+Category:         Sensitive Directories
+Published Date:   2020-06-04
+Author:           Abhi Chitkara
+GoogleDork:       intitle:"index of" inurl:ftp intext:admin
+Description:      intitle:"index of" inurl:ftp intext:admin
+
+
+Dork: intitle:"index of" inurl:ftp intext:admin Description: This google dorks lists out admin folders on ftp servers. Author: Abhi Chitkara 

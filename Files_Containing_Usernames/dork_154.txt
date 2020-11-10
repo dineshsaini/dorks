@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/154
+Category:         Files Containing Usernames
+Published Date:   2004-04-13
+Author:           anonymous
+GoogleDork:       "index of" / lck
+Description:      "index of" / lck
+
+
+These lock files often contain usernames of the user that has locked the file. Username harvesting can be done using this technique.

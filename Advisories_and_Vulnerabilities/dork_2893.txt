@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2893
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"com_simpledownload"
+Description:      inurl:"com_simpledownload"
+
+
+Joomla Component simpledownload LFI Vulnerability - CVE: 2010-2122: https://www.exploit-db.com/exploits/12618

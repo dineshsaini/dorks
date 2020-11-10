@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2117
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "powered by phpGreetCards"
+Description:      "powered by phpGreetCards"
+
+
+phpGreetCards XSS/Arbitrary File Upload Vulnerability - CVE: 2008-6848: https://www.exploit-db.com/exploits/7561

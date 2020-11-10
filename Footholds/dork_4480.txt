@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4480
+Category:         Footholds
+Published Date:   2017-05-11
+Author:           anonymous
+GoogleDork:       inurl:"go.cgi?url="
+Description:      inurl:"go.cgi?url="
+
+
+Finds pages which can be exploited to redirect to any site (You could use this for phishing, etc.) Dxtroyer

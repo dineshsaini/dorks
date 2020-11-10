@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4001
+Category:         Sensitive Directories
+Published Date:   2015-04-23
+Author:           anonymous
+GoogleDork:       intitle:index.of.dropbox
+Description:      intitle:index.of.dropbox
+
+
+Sensitive Directories Ariel Anonis - @ariel_anonis

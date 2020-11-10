@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2734
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by PHP Image Gallery
+Description:      Powered by PHP Image Gallery
+
+
+SoftComplex PHP Image Gallery 1.0 (Auth Bypass) SQL Injection Vuln - CVE: 2008-6488: https://www.exploit-db.com/exploits/7021

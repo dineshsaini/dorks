@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/69
+Category:         Files Containing Juicy Info
+Published Date:   2004-03-04
+Author:           anonymous
+GoogleDork:       phpMyAdmin dumps
+Description:      phpMyAdmin dumps
+
+
+From phpmyadmin.net : "phpMyAdmin is a tool written in PHP intended to handle the administration of MySQL over the WWW." Great, easy to use, but don't leave your database dumps laying around on the web. They contain all SORTS of sensitive information...

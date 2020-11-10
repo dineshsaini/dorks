@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/951
+Category:         Pages Containing Login Portals
+Published Date:   2005-04-27
+Author:           anonymous
+GoogleDork:       intitle:"SFXAdmin - sfx_global" | intitle:"SFXAdmin - sfx_local" | intitle:"SFXAdmin - sfx_test"
+Description:      intitle:"SFXAdmin - sfx_global" | intitle:"SFXAdmin - sfx_local" | intitle:"SFXAdmin - sfx_test"
+
+
+Just another logon page search, this one is for SFXÃƒâ€šÃ‚Â®, a link server from Ex Libris, delivers linking services in the scholarly information environment. SFX is also a component in the management of electronic resources in a library.

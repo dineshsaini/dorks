@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/550
+Category:         Various Online Devices
+Published Date:   2004-10-10
+Author:           anonymous
+GoogleDork:       camera linksys inurl:main.cgi
+Description:      camera linksys inurl:main.cgi
+
+
+Another webcam, Linksys style.

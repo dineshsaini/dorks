@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2494
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       powered by sX-Shop
+Description:      powered by sX-Shop
+
+
+sX-Shop (view_image.php) SQL Injection Vulnerability: https://www.exploit-db.com/exploits/14557

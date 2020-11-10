@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2123
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:/wp-content/plugins/wpSS/
+Description:      inurl:/wp-content/plugins/wpSS/
+
+
+Wordpress Plugin Spreadsheet 0.6 SQL Injection Vulnerability - CVE: 2008-1982: https://www.exploit-db.com/exploits/5486

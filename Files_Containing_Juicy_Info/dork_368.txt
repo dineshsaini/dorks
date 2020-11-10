@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/368
+Category:         Files Containing Juicy Info
+Published Date:   2004-07-21
+Author:           anonymous
+GoogleDork:       intitle:"index of" +myd size
+Description:      intitle:"index of" +myd size
+
+
+The MySQL data directory uses subdirectories for each database and common files for table storage. These files have extensions like: .myd, .myi or .frm. An attacker can copy these files to his machine and using a tool like 'strings' possibly view the contents of the database.

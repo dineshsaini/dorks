@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/54
+Category:         Files Containing Juicy Info
+Published Date:   2003-08-19
+Author:           anonymous
+GoogleDork:       mystuff.xml - Trillian data files
+Description:      mystuff.xml - Trillian data files
+
+
+This particular file contains web links that trillian users have entered into the tool. Trillian combines many different messaging programs into one tool. AIM, MSN, Yahoo, ICQ, IRC, etc. Although this particular file is fairly benign, check out the other files in the same directory. There is usually great stuff here!

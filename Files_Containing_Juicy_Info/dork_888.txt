@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/888
+Category:         Files Containing Juicy Info
+Published Date:   2005-02-15
+Author:           anonymous
+GoogleDork:       filetype:ora tnsnames
+Description:      filetype:ora tnsnames
+
+
+This searches for tns names files. This is an Oracle configuration file that sets up connection strings for someone's Oracle client to contact the various databases it is managing. This file contains ports, IP's and server names of these database machines. What I think is more telling is that in most cases, this file is stored in Oracle's installation directory which can probably be more telling.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1663
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:index.php?option=com_directory
+Description:      inurl:index.php?option=com_directory
+
+
+Joomla Component mosDirectory 2.3.2 (catid) SQL Injection Vulnerability - CVE: 2008-0690: https://www.exploit-db.com/exploits/5047

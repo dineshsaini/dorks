@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6343
+Category:         Pages Containing Login Portals
+Published Date:   2020-06-30
+Author:           Alexandros Pappas
+GoogleDork:       allinurl:tsweb/default.htm
+Description:      allinurl:tsweb/default.htm
+
+
+# Google Dork: allinurl:tsweb/default.htm # Juicy information and sensitive directories regarding Remote Desktop Web # Connection # Date: 29/06/2020 # Exploit Author: Alexandros Pappas 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3447
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       POWERED BY ALITALK
+Description:      POWERED BY ALITALK
+
+
+ALITALK 1.9.1.1 Multiple Remote Vulnerabilities - CVE: 2008-0371: https://www.exploit-db.com/exploits/4922

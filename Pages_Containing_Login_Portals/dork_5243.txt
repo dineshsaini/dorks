@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5243
+Category:         Pages Containing Login Portals
+Published Date:   2019-06-03
+Author:           Bruno Schmid
+GoogleDork:       inurl:"CookieAuth.dll?GetLogon?" intext:log on
+Description:      inurl:"CookieAuth.dll?GetLogon?" intext:log on
+
+
+Some Microsoft &amp; Netscaler login portals.   Bruno Schmid https://ch.linkedin.com/in/schmidbruno @brulliant 

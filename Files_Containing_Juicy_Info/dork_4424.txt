@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4424
+Category:         Files Containing Juicy Info
+Published Date:   2017-04-10
+Author:           anonymous
+GoogleDork:       "havij report" "Target" ext:html
+Description:      "havij report" "Target" ext:html
+
+
+Dork who show the havij sqli injection reports. Dork by Rootkit Pentester.

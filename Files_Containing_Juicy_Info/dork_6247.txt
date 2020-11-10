@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6247
+Category:         Files Containing Juicy Info
+Published Date:   2020-06-09
+Author:           Alexandros Pappas
+GoogleDork:       "root.log" ext:log
+Description:      "root.log" ext:log
+
+
+# Google Dork: "root.log" ext:log # Juicy information and sensitive directories. # Date: 2020-06-09 # Exploit Author: Alexandros Pappas 

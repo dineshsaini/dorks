@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5634
+Category:         Sensitive Directories
+Published Date:   2019-11-11
+Author:           Ismail Tasdelen
+GoogleDork:       intitle:index.of "htaccess.txt"
+Description:      intitle:index.of "htaccess.txt"
+
+
+Dork: intitle:index.of "htaccess.txt" Author:Ismail Tasdelen  Info: It contains htaccess.txt clear text sensitive information. 

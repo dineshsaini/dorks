@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6127
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-05-26
+Author:           Alexandros Pappas
+GoogleDork:       inurl:"index.php?option=com_ccnewsletter" inurl:sbid
+Description:      inurl:"index.php?option=com_ccnewsletter" inurl:sbid
+
+
+# Google Dork: inurl:"index.php?option=com_ccnewsletter" inurl:sbid  # Joomla! Component CCNewsLetter 2.1.9 - 'sbid' SQL Injection. This dork is linked to the following existing exploit: https://www.exploit-db.com/exploits/42387  # Date: 26/05/2020  # Author: Alexandros Pappas 

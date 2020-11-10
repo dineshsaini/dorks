@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1151
+Category:         Various Online Devices
+Published Date:   2005-09-26
+Author:           anonymous
+GoogleDork:       intitle:"Netcam" intitle:"user login"
+Description:      intitle:"Netcam" intitle:"user login"
+
+
+just yet other online cam.

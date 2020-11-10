@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5431
+Category:         Files Containing Juicy Info
+Published Date:   2019-08-22
+Author:           Midhun Biju
+GoogleDork:       intitle:index.of.?.config.ini
+Description:      intitle:index.of.?.config.ini
+
+
+Google Dork: intitle:index.of.?.config.ini  Category: Sensitive Directories  Description: Used to find sensitive configuration file (config.ini) from the website directory, that contains database name, username &amp; password  Author: Midhun Biju 

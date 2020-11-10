@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6065
+Category:         Pages Containing Login Portals
+Published Date:   2020-05-08
+Author:           Jinson Varghese Behanan
+GoogleDork:       "index of" "adminer.php"
+Description:      "index of" "adminer.php"
+
+
+Dork: "index of" "adminer.php" Description: This Google dork can be used to discover servers with adminer.php files which can be accessed to try and log in to the database. Author: Jinson Varghese Behanan (@JinsonCyberSec) Author Homepage: https://www.jinsonvarghese.com 

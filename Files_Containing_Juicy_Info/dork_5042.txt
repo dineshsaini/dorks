@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5042
+Category:         Files Containing Juicy Info
+Published Date:   2018-11-28
+Author:           CrimsonTorso
+GoogleDork:       "site:hastebin.com " / " "
+Description:      "site:hastebin.com " / " "
+
+
+Find recently created documents and pastes for Hastebin.com. If nothing comes up, click "*repeat the search with the omitted results included*."  ~ CrimsonTorso 

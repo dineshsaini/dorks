@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2412
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allinurl:/m2f_usercp.php?
+Description:      allinurl:/m2f_usercp.php?
+
+
+mail2forum phpBB Mod 1.2 (m2f_root_path) Remote Include Vulns - CVE: 2006-3735: https://www.exploit-db.com/exploits/2019

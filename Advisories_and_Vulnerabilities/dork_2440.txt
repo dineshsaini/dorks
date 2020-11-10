@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2440
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "2007 BookmarkX script"
+Description:      "2007 BookmarkX script"
+
+
+BookmarkX script 2007 (topicid) Remote SQL Injection Vulnerability - CVE: 2008-0695: https://www.exploit-db.com/exploits/5040

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5211
+Category:         Pages Containing Login Portals
+Published Date:   2019-05-13
+Author:           Isaiah Puzon
+GoogleDork:       inurl:office365 AND intitle:"Sign In | Login | Portal"
+Description:      inurl:office365 AND intitle:"Sign In | Login | Portal"
+
+
+Dork: inurl:office365 AND intitle:"Sign In | Login | Portal"  Description: Office 365 Login Portals 

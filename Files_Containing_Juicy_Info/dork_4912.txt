@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4912
+Category:         Files Containing Juicy Info
+Published Date:   2018-08-13
+Author:           Bruno Schmid
+GoogleDork:       intitle:"index of" "config.yml" | "config.xml" intext:login | auth
+Description:      intitle:"index of" "config.yml" | "config.xml" intext:login | auth
+
+
+Dorks containing login credentials and more.  You can also try.  intitle:"index of" "config.yml" | "config.xml" intext:user | auth | pass intitle:"index of" "config.yml" | "config.xml" intext:passwd | auth | password  Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

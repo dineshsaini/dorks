@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2674
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:couponsite/index.php?page=
+Description:      inurl:couponsite/index.php?page=
+
+
+Coupon Script 4.0 (id) Remote SQL Injection Vulnerability - CVE: 2008-4090: https://www.exploit-db.com/exploits/6348

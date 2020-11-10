@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4836
+Category:         Pages Containing Login Portals
+Published Date:   2018-06-04
+Author:           LewisBugBounty
+GoogleDork:       "Powered by Open Source Chat Platform Rocket.Chat."
+Description:      "Powered by Open Source Chat Platform Rocket.Chat."
+
+
+This Google Dork displays open Login Portals for RocketChat.  Found by Lewis, @LewisBugBounty // fifteen@riseup.net. 

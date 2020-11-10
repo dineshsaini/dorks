@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5702
+Category:         Files Containing Juicy Info
+Published Date:   2020-01-23
+Author:           Bruno Schmid
+GoogleDork:       "fetchmailrc" intitle:"index of" -linux
+Description:      "fetchmailrc" intitle:"index of" -linux
+
+
+Fetchmail files containing juicy info and sometimes passwords   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

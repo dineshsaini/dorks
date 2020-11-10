@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5812
+Category:         Web Server Detection
+Published Date:   2020-03-20
+Author:           Alexandros Pappas
+GoogleDork:       "Powered by phpBB" inurl:"index.php?s" OR inurl:"index.php?style"
+Description:      "Powered by phpBB" inurl:"index.php?s" OR inurl:"index.php?style"
+
+
+# Google Dork: "Powered by phpBB" inurl:"index.php?s" OR inurl:"index.php?style"  # By using this dork, vulnerable web sites running phpBB can be found.  # Date: 20/03/2020  # Exploit Author: Alexandros Pappas 

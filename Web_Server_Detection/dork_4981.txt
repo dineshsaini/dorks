@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4981
+Category:         Web Server Detection
+Published Date:   2018-10-16
+Author:           Bruno Schmid
+GoogleDork:       intext:"Powered by (Quantum | Quantum CMS | CMS)
+Description:      intext:"Powered by (Quantum | Quantum CMS | CMS)
+
+
+Sites using Quantum CMS builder   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

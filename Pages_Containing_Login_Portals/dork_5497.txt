@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5497
+Category:         Pages Containing Login Portals
+Published Date:   2019-09-04
+Author:           MiningOmerta
+GoogleDork:       inurl:show_port_res_settings
+Description:      inurl:show_port_res_settings
+
+
+Google Dork Submission for finding Mitel Audio and Web Conferencing login pages.  Author name: MiningOmerta 

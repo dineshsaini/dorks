@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4725
+Category:         Files Containing Juicy Info
+Published Date:   2018-04-02
+Author:           Rootkit_Pentester
+GoogleDork:       allinurl:mc4wp-debug.log ext:log
+Description:      allinurl:mc4wp-debug.log ext:log
+
+
+Dork: Mail Chimp log.  Enjoy. Dork by Rootkit Pentester!. 

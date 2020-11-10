@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4563
+Category:         Files Containing Passwords
+Published Date:   2017-07-31
+Author:           anonymous
+GoogleDork:       inurl:"sitemanager.xml" ext:xml -git
+Description:      inurl:"sitemanager.xml" ext:xml -git
+
+
+Finds FileZilla site manager files, containing FTP usernames and passwords Dxtroyer

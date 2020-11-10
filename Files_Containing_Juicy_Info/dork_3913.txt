@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3913
+Category:         Files Containing Juicy Info
+Published Date:   2013-11-25
+Author:           anonymous
+GoogleDork:       filetype:bak (inurl:php | inurl:asp | inurl:rb)
+Description:      filetype:bak (inurl:php | inurl:asp | inurl:rb)
+
+
+This one could be used to find all sorts of backup data, but this example is limited to just common webapp extensions -- -[Voluntas Vincit Omnia]- website http://www.erisresearch.org/ Google+ https://plus.google.com/u/0/114827336297709201563

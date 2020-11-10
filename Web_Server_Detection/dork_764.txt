@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/764
+Category:         Web Server Detection
+Published Date:   2004-12-13
+Author:           anonymous
+GoogleDork:       allintext:"Powered by LionMax Software" "WWW File Share"
+Description:      allintext:"Powered by LionMax Software" "WWW File Share"
+
+
+WWW File Share Pro is a small HTTP server that can help you share files with your friends. They can download files from your computer or upload files from theirs. Simply specify a directory for downloads and a directory for uploads. All servers can be accessed anonymously

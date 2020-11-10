@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1327
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-04-10
+Author:           anonymous
+GoogleDork:       intitle:PHPOpenChat inurl:"index.php?language="
+Description:      intitle:PHPOpenChat inurl:"index.php?language="
+
+
+exploit:http://retrogod.altervista.org/phpopenchat_30x_sql_xpl.htmlalso, information disclosure:http://[target]/[path]/include/adodb/tests/tmssql.php?do=phpinfoand denial of service on some windows system, multiple requests of:http://[target]/[path]/include/adodb/tests/tmssql.php?do=closelog

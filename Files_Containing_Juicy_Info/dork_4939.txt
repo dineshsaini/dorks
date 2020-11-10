@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4939
+Category:         Files Containing Juicy Info
+Published Date:   2018-09-04
+Author:           Hesam Bazvand
+GoogleDork:       inurl:/wp-content/ai1wm-backups + wpress
+Description:      inurl:/wp-content/ai1wm-backups + wpress
+
+
+inurl:/wp-content/ai1wm-backups + wpress 

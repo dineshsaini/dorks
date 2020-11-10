@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/77
+Category:         Error Messages
+Published Date:   2004-03-04
+Author:           anonymous
+GoogleDork:       Internal Server Error
+Description:      Internal Server Error
+
+
+This one shows the type of web server running on the site, and has the ability to show other information depending on how the message is internally formatted.

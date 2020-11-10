@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6391
+Category:         Pages Containing Login Portals
+Published Date:   2020-07-10
+Author:           Sanu Jose M
+GoogleDork:       inurl:client_password=
+Description:      inurl:client_password=
+
+
+Google Dork: inurl:client_password= Exploit Title: various pages containing password reset &amp; reminder portals and login portals. Date: 10/07/2020 Exploit Author: Sanu Jose M

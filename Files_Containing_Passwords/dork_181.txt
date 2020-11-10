@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/181
+Category:         Files Containing Passwords
+Published Date:   2004-04-26
+Author:           anonymous
+GoogleDork:       intitle:"index of" intext:connect.inc
+Description:      intitle:"index of" intext:connect.inc
+
+
+These files often contain usernames and passwords for connection to mysql databases. In many cases, the passwords are not encoded or encrypted.

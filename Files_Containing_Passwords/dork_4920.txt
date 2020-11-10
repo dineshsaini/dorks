@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4920
+Category:         Files Containing Passwords
+Published Date:   2018-08-14
+Author:           Bruno Schmid
+GoogleDork:       intext:"rabbit_password" | "service_password" filetype:conf
+Description:      intext:"rabbit_password" | "service_password" filetype:conf
+
+
+Passwords in openstack setups.  Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4699
+Category:         Files Containing Juicy Info
+Published Date:   2018-03-16
+Author:           screetsec
+GoogleDork:       filetype:sql intext:password | pass | passwd intext:username intext:INSERT INTO `users` VALUES
+Description:      filetype:sql intext:password | pass | passwd intext:username intext:INSERT INTO `users` VALUES
+
+
+Google Dork : filetype:sql intext:password | pass | passwd intext:username intext:INSERT INTO `users` VALUES  Author: screetsec  Description: This dork allow you to specific find file contains Username, Password, Secret Keys and allows you to search for sql configuration file 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5203
+Category:         Files Containing Passwords
+Published Date:   2019-05-07
+Author:           Dec0y
+GoogleDork:       inurl:login.txt filetype:txt
+Description:      inurl:login.txt filetype:txt
+
+
+I used this dork while doing some botnet research. All sorts of interesting files pertaining to usernames/passwords for various C&amp;C servers, devices, etc.  inurl:login.txt filetype:txt 

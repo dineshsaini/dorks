@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6236
+Category:         Sensitive Directories
+Published Date:   2020-06-08
+Author:           Vidhun k
+GoogleDork:       intitle:"Dashboard [Jenkins]"
+Description:      intitle:"Dashboard [Jenkins]"
+
+
+Google Dork: intitle:"Dashboard [Jenkins]"  Category: Sensitive Directories  Used to find Jenkins Dashboard  Author Name: Vidhun k 

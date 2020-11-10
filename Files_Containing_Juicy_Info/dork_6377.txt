@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6377
+Category:         Files Containing Juicy Info
+Published Date:   2020-07-07
+Author:           NaveenKumar
+GoogleDork:       intitle:"Index of /" "joomla/database"
+Description:      intitle:"Index of /" "joomla/database"
+
+
+Dork: intitle:"Index of /" "joomla/database"  This google dork gives us about joomla related database files and source code related to websites running joomla it will also expose directory listing of websites  Thanks NaveenKumar 

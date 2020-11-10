@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5523
+Category:         Sensitive Directories
+Published Date:   2019-09-12
+Author:           Thejus Krishnan
+GoogleDork:       intitle:index.of./.htaccess
+Description:      intitle:index.of./.htaccess
+
+
+Dork Description : intitle:index.of./.htaccess Category : Sensitive Directories. 

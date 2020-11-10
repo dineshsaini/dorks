@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3920
+Category:         Various Online Devices
+Published Date:   2013-11-25
+Author:           anonymous
+GoogleDork:       filetype:jnlp
+Description:      filetype:jnlp
+
+
+Java Web Start (Java Network Launch Protocol) -- -[Voluntas Vincit Omnia]- website http://www.erisresearch.org/ Google+ https://plus.google.com/u/0/114827336297709201563

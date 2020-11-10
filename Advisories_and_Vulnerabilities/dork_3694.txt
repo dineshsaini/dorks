@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3694
+Category:         Advisories and Vulnerabilities
+Published Date:   2011-03-08
+Author:           anonymous
+GoogleDork:       intext:"Web Design by Webz" filetype:asp
+Description:      intext:"Web Design by Webz" filetype:asp
+
+
+Submitter: p0pc0rn http://site.com/xxx.asp?id=[SQL] http://site.com/xxx.asp?catID=[SQL] http://site.com/xxx.asp?brandID=[SQL]

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3439
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "powered by yourtube"
+Description:      "powered by yourtube"
+
+
+YourTube 2.0 Arbitrary Database Disclosure: https://www.exploit-db.com/exploits/9073

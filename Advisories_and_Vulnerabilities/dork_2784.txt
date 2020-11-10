@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2784
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by Mitra Informatika Solusindo
+Description:      Powered by Mitra Informatika Solusindo
+
+
+Mitra Informatika Solusindo cart Remote SQL Injection Vulnerability: https://www.exploit-db.com/exploits/5214

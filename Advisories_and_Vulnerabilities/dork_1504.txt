@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1504
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"section.php?name=singers"
+Description:      inurl:"section.php?name=singers"
+
+
+6rbScript 3.3 (singerid) Remote SQL Injection Vulnerability - CVE: 2008-6454: https://www.exploit-db.com/exploits/6511

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/643
+Category:         Files Containing Juicy Info
+Published Date:   2004-11-05
+Author:           anonymous
+GoogleDork:       filetype:inf inurl:capolicy.inf
+Description:      filetype:inf inurl:capolicy.inf
+
+
+The CAPolicy.inf file provides Certificate Servicces configuration information, which is read during initial CA installation an whenever you renew a CA certificate. The CApolicy.inf file defines settings specific to root CAs, as well as settings that affect all CAs in the CA hierarchiy.

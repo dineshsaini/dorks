@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1399
+Category:         Files Containing Usernames
+Published Date:   2006-07-31
+Author:           anonymous
+GoogleDork:       site:extremetracking.com inurl:"login="
+Description:      site:extremetracking.com inurl:"login="
+
+
+The search reveals usernames (right in the URL in green) and links to the sites that are signed up with extremetracking.com. From here an attacker can view any of the sites stats, including all the visitors to the site that is being tracked, including their IP adresses.

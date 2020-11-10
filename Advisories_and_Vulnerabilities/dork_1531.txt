@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1531
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       index.php?option=com_pcchess
+Description:      index.php?option=com_pcchess
+
+
+PrinceClan Chess Mambo Com 0.8 Remote Inclusion Vulnerability - CVE: 2006-5044: https://www.exploit-db.com/exploits/2069

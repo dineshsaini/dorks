@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2761
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "pages.php?page_ID=" "K9 Kreativity"
+Description:      "pages.php?page_ID=" "K9 Kreativity"
+
+
+K9 Kreativity Design (pages.php) SQL Injection Vulnerability: https://www.exploit-db.com/exploits/12866

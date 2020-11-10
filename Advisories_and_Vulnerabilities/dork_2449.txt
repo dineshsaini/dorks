@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2449
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:index.php?ini[langpack]=
+Description:      inurl:index.php?ini[langpack]=
+
+
+Weatimages 1.7.1 ini[langpack] Remote File Inclusion Vulnerability - CVE: 2007-1999: https://www.exploit-db.com/exploits/3700

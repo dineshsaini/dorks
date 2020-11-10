@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4246
+Category:         Error Messages
+Published Date:   2016-03-29
+Author:           anonymous
+GoogleDork:       inurl:/smpwservices.fcc | "/lm_private/CkeSetter.aspx"
+Description:      inurl:/smpwservices.fcc | "/lm_private/CkeSetter.aspx"
+
+
+CA Technologies CA Single Sign-On (CA SSO) Error's.  -Xploit 

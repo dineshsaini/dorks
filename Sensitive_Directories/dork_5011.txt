@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5011
+Category:         Sensitive Directories
+Published Date:   2018-11-06
+Author:           ManhNho
+GoogleDork:       intitle:" - Revision" + "subversion version"
+Description:      intitle:" - Revision" + "subversion version"
+
+
+Apache subversion directory listing  ManhNho 

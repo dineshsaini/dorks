@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2233
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:gotourl.php?id=
+Description:      inurl:gotourl.php?id=
+
+
+PozScripts Classified Auctions (gotourl.php id) SQL Injection Vuln - CVE: 2008-4755: https://www.exploit-db.com/exploits/6839

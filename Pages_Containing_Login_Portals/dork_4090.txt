@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4090
+Category:         Pages Containing Login Portals
+Published Date:   2015-10-15
+Author:           anonymous
+GoogleDork:       intitle:Parallels Plesk Panel for Microsoft Windows /login_up.php3
+Description:      intitle:Parallels Plesk Panel for Microsoft Windows /login_up.php3
+
+
+Login for Parallels Plesk Panel for Microsoft Windows -Xploit

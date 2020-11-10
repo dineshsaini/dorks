@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2314
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allinurl: "com_estateagent"
+Description:      allinurl: "com_estateagent"
+
+
+Mambo Component EstateAgent 0.1 Remote SQL Injection Vulnerability - CVE: 2008-0517: https://www.exploit-db.com/exploits/5016

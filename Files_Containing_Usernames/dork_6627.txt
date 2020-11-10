@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6627
+Category:         Files Containing Usernames
+Published Date:   2020-10-21
+Author:           Virendra Tiwari
+GoogleDork:       inurl:user intitle:index of ext:sql | xls | xml | json | csv
+Description:      inurl:user intitle:index of ext:sql | xls | xml | json | csv
+
+
+# Title: Sensitive Data Exposure # Google Dork: inurl:user intitle:index of ext:sql | xls | xml | json | csv # Date: 2020-09-24  # Author: Virendra Tiwari # LinkedIn: https://www.linkedin.com/in/virendratiwari/  Thanks and Regards, Virendra Tiwari 

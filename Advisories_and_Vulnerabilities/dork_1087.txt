@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1087
+Category:         Advisories and Vulnerabilities
+Published Date:   2005-08-30
+Author:           anonymous
+GoogleDork:       "Powered by FUDForum 2.7" -site:fudforum.org -johnny.ihackstuff
+Description:      "Powered by FUDForum 2.7" -site:fudforum.org -johnny.ihackstuff
+
+
+FUDforum is prone to a remote arbitrary PHP file upload vulnerability.An attacker can merge an image file with a script file and upload it to an affected server.This issue can facilitate unauthorized remote access.FUDforum versions prior to 2.7.1 are reported to be affected. Currently Symantec cannot confirm if version 2.7.1 is affected as well.Affected versions:2.7

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3497
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "by eXtreme Crew"
+Description:      "by eXtreme Crew"
+
+
+extreme-fusion 4.02 Remote Code Execution: https://www.exploit-db.com/exploits/2937

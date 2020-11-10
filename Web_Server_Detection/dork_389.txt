@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/389
+Category:         Web Server Detection
+Published Date:   2004-07-29
+Author:           anonymous
+GoogleDork:       "powered by" "shoutstats" hourly daily
+Description:      "powered by" "shoutstats" hourly daily
+
+
+shoutstats is a fast, free Shoutcast server statistic analysis program. It produces instant and dynamic usage reports in HTML format, for viewing in a standard browser. Shoutstats is a bunch of php scripts and a RRDtool database. It has been written under a Debian GNU/Linux.http://www.glop.org/projects/shoutstatsThis search can be used to find Shoutcast servers.

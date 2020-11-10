@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6081
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-05-14
+Author:           Alexandros Pappas
+GoogleDork:       inurl:index.php?option=com_newsfeeds
+Description:      inurl:index.php?option=com_newsfeeds
+
+
+# Google Dork: inurl:index.php?option=com_newsfeeds  # Joomla! Component com_newsfeeds 1.0 - 'feedid' SQL Injection. This dork is linked to the following existing exploit: https://www.exploit-db.com/exploits/48202  # Date: 14/05/2020  # Exploit Author: Alexandros Pappas 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/947
+Category:         Files Containing Juicy Info
+Published Date:   2005-04-26
+Author:           anonymous
+GoogleDork:       ext:plist filetype:plist inurl:bookmarks.plist
+Description:      ext:plist filetype:plist inurl:bookmarks.plist
+
+
+These Safari bookmarks that might show very interesting info about a user's surfing habits

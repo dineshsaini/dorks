@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3812
+Category:         Various Online Devices
+Published Date:   2012-11-02
+Author:           anonymous
+GoogleDork:       inurl:32400/web/index.html
+Description:      inurl:32400/web/index.html
+
+
+Submitting this for the GHDB. These are web accessible Plex Media Servers where you can watch/listen to other people's media collections. FYI

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4662
+Category:         Files Containing Juicy Info
+Published Date:   2018-01-24
+Author:           sandeep
+GoogleDork:       intitle:"PHP Web Stat - Sysinfo" intext:php inurl:stat/sysinfo.php
+Description:      intitle:"PHP Web Stat - Sysinfo" intext:php inurl:stat/sysinfo.php
+
+
+This dork list all server statistics , hardware details and installed software details because of exposed phpsysinfo script 

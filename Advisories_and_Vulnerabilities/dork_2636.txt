@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2636
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "PHP WEBQUEST VERSION " or inurl:"/phpwebquest/"
+Description:      "PHP WEBQUEST VERSION " or inurl:"/phpwebquest/"
+
+
+PHP Webquest 2.6 Get Database Credentials Vulnerability - CVE: 2008-0249: https://www.exploit-db.com/exploits/4872

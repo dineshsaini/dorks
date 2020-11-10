@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4863
+Category:         Pages Containing Login Portals
+Published Date:   2018-06-21
+Author:           CrimsonTorso
+GoogleDork:       "2004 - 2018 iboss, Inc. All rights reserved."
+Description:      "2004 - 2018 iboss, Inc. All rights reserved."
+
+
+Find iBoss login portals.   ~ CrimsonTorso 

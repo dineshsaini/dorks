@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3525
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       index.php?option=com_ezine
+Description:      index.php?option=com_ezine
+
+
+Joomla Component D4JeZine 2.8 Remote BLIND SQL Injection - CVE: 2007-1776: https://www.exploit-db.com/exploits/3590

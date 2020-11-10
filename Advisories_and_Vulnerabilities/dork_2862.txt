@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2862
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by UNAK-CMS"
+Description:      "Powered by UNAK-CMS"
+
+
+UNAK-CMS 1.5 (dirroot) Remote File Include Vulnerabilities - CVE: 2006-4890: https://www.exploit-db.com/exploits/2380

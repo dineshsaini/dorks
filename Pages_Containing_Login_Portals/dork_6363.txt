@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6363
+Category:         Pages Containing Login Portals
+Published Date:   2020-07-02
+Author:           Dharmveer Singh
+GoogleDork:       site:gov.*.*/ intext:"login" intitle:"login"
+Description:      site:gov.*.*/ intext:"login" intitle:"login"
+
+
+Description: *site:gov.*.*/ intext:"login" intitle:"login"* *Various government website login pages.*  

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/494
+Category:         Files Containing Juicy Info
+Published Date:   2004-09-22
+Author:           anonymous
+GoogleDork:       filetype:vcs vcs
+Description:      filetype:vcs vcs
+
+
+Filext.com says: "Various programs use the *.VCS extension; too many to list individually. Take clues from the location of the file as a possible pointer to exactly which program is producing the file. The file's date and time can also help if you know which programs you were running when the file was written."The most common use is the "vCalendar File", used by Outlook for example. It can also belong to a "Palm vCal Desktop Application". For those who prefer clean searches, try these variations (with less results):"PRODID: PalmDesktop Generated"filetype:vcs VCALENDAR filetype:vcs BEGIN:VCALENDAR

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4530
+Category:         Files Containing Juicy Info
+Published Date:   2017-06-16
+Author:           anonymous
+GoogleDork:       "Protocol=unreal" ext:ini -git
+Description:      "Protocol=unreal" ext:ini -git
+
+
+People are going to hate me for this :P Finds Unreal game files, potentially containing admin passwords Dxtroyer

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3126
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by Bug Software intext:Your Cart Contains
+Description:      Powered by Bug Software intext:Your Cart Contains
+
+
+BugMall Shopping Cart 2.5 (SQL/XSS) Multiple Remote Vulnerabilities - CVE: 2007-3448: https://www.exploit-db.com/exploits/4103

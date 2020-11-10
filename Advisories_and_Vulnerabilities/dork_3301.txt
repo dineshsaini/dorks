@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3301
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "powered by DreamAccount 3.1"
+Description:      "powered by DreamAccount 3.1"
+
+
+DreamAccount 3.1 (auth.api.php) Remote File Include - CVE: 2006-6232: https://www.exploit-db.com/exploits/1954

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1282
+Category:         Various Online Devices
+Published Date:   2006-03-18
+Author:           anonymous
+GoogleDork:       intitle:"NAS" inurl:indexeng.html
+Description:      intitle:"NAS" inurl:indexeng.html
+
+
+Disk Online Server NAS device.

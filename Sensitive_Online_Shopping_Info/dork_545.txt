@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/545
+Category:         Sensitive Online Shopping Info
+Published Date:   2004-10-10
+Author:           anonymous
+GoogleDork:       inurl:shopdbtest.asp
+Description:      inurl:shopdbtest.asp
+
+
+shopdbtest is an ASP page used by several e-commerce products. A vulnerability in the script allows remote attackers toview the database location, and since that is usually unprotected, the attacker can then download the web site's database by simly clicking on a URL (that displays the active database). The page shopdbtest.asp is visible to all the users and contains the full configuration information. An attacker ca therefore download the MDB (Microsoft Database file), and gain access to sensitive information about orders, users, password, ect.

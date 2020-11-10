@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3212
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"com_fastball"
+Description:      inurl:"com_fastball"
+
+
+Joomla Fastball component 1.1.0-1.2 SQL Injection - CVE: 2009-3443: https://www.exploit-db.com/exploits/9822

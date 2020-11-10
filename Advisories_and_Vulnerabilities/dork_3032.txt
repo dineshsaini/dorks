@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3032
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:index.php?option=com_races "raceId"
+Description:      inurl:index.php?option=com_races "raceId"
+
+
+Joomla Component com_races Blind SQL Injection Vulnerability: https://www.exploit-db.com/exploits/11710

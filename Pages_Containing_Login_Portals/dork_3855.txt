@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3855
+Category:         Pages Containing Login Portals
+Published Date:   2013-08-08
+Author:           anonymous
+GoogleDork:       inurl:"dasdec/dasdec.csp"
+Description:      inurl:"dasdec/dasdec.csp"
+
+
+inurl:"dasdec/dasdec.csp" DASDEC II Emergency Alert System User Manual: http://www.digitalalertsystems.com/pdf/DASDEC_II_manual.pdf Default username: Admin Default password: dasdec

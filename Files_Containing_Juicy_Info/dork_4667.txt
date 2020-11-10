@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4667
+Category:         Files Containing Juicy Info
+Published Date:   2018-02-08
+Author:           batgab
+GoogleDork:       inurl:module=coreHome
+Description:      inurl:module=coreHome
+
+
+Piwik web analytics shows statistics for web servers including who is visiting the site, what pages they visit, number of hits, referrers, and more.  -batgab 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6388
+Category:         Files Containing Juicy Info
+Published Date:   2020-07-09
+Author:           Alexandros Pappas
+GoogleDork:       intitle:"report" ("OpenVAS" | "Nikto") ext:pdf OR ext:html
+Description:      intitle:"report" ("OpenVAS" | "Nikto") ext:pdf OR ext:html
+
+
+# Google Dork: intitle:"report" ("OpenVAS" | "Nikto") ext:pdf OR ext:html # OpenVAS and Nikto vulnerability reports. # Date: 8/07/2020 # Exploit Author: Alexandros Pappas 

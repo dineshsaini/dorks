@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2859
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Developed by Infoware Solutions"
+Description:      "Developed by Infoware Solutions"
+
+
+My PHP Dating (success_story.php id) SQL Injection Vulnerability - CVE: 2008-4705: https://www.exploit-db.com/exploits/6754

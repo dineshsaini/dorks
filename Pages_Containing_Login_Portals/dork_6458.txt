@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6458
+Category:         Pages Containing Login Portals
+Published Date:   2020-07-29
+Author:           Aditya Rana
+GoogleDork:       intitle:"Remote Desktop Web Connection" inurl:tsweb
+Description:      intitle:"Remote Desktop Web Connection" inurl:tsweb
+
+
+Description: intitle:"Remote Desktop Web Connection" inurl:tsweb  This dork gives RDP login portals.  

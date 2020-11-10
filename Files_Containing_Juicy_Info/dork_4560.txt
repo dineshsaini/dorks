@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4560
+Category:         Files Containing Juicy Info
+Published Date:   2017-07-28
+Author:           anonymous
+GoogleDork:       "TX_start" "card_name" ext:log
+Description:      "TX_start" "card_name" ext:log
+
+
+Finds transaction logs from stores, containing juicy credit/debit card info. Dxtroyer 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1967
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by PWP Version 1-5-1" AND inurl:"/wiki/run.php"
+Description:      "Powered by PWP Version 1-5-1" AND inurl:"/wiki/run.php"
+
+
+PWP Wiki Processor 1-5-1 Remote File Upload Vulnerability: https://www.exploit-db.com/exploits/7740

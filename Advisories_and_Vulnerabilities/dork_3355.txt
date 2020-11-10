@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3355
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "PHP Project Management 0.8.10"
+Description:      "PHP Project Management 0.8.10"
+
+
+PHP Project Management 0.8.10 Multiple RFI / LFI Vulnerabilities - CVE: 2007-5641: https://www.exploit-db.com/exploits/4549

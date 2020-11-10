@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5821
+Category:         Files Containing Passwords
+Published Date:   2020-03-23
+Author:           Alexandros Pappas
+GoogleDork:       "create account" admin ext:cfg
+Description:      "create account" admin ext:cfg
+
+
+# Google Dork: "create account" admin ext:cfg  # By using this dork, admin passwords in configuration files can be found.  # Date: 21/03/2020  # Exploit Author: Alexandros Pappas 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2454
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Emanuele Guadagnoli" "CcMail"
+Description:      "Emanuele Guadagnoli" "CcMail"
+
+
+CcMail

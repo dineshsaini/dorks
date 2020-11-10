@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3035
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"cont_form.php?cf_id="
+Description:      inurl:"cont_form.php?cf_id="
+
+
+WebDM CMS SQL Injection Vulnerability - CVE: 2010-2689: https://www.exploit-db.com/exploits/14123

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5651
+Category:         Files Containing Juicy Info
+Published Date:   2019-11-20
+Author:           Reza Abasi
+GoogleDork:       intext:"@gmail.com" ext:log
+Description:      intext:"@gmail.com" ext:log
+
+
+Files containing juicy nfo:  intext:"@gmail.com" ext:log  Reza Abasi(Turku) 

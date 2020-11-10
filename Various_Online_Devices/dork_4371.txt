@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4371
+Category:         Various Online Devices
+Published Date:   2016-12-08
+Author:           anonymous
+GoogleDork:       site:webex.com inurl:tc3000
+Description:      site:webex.com inurl:tc3000
+
+
+This dorks can access to some meetings information. site:webex.com inurl:tc3000 site:webex.com inurl:siteurl=meetings

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3803
+Category:         Vulnerable Servers
+Published Date:   2012-08-21
+Author:           anonymous
+GoogleDork:       intext: intext: intext: intext: intext:
+Description:      intext: intext: intext: intext: intext:
+
+
+More than 100k sites affected It will show asp sites that are vulnerable to sql injection (These links actually show pages which are attacked by mass Sql Injection...which means they are vulnerable to sql Injection) #Author ----- pgolecha Palash Golecha twitter- @pgolecha12

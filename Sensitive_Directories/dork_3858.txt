@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3858
+Category:         Sensitive Directories
+Published Date:   2013-08-08
+Author:           anonymous
+GoogleDork:       intitle:index.of intext:.bash_history
+Description:      intitle:index.of intext:.bash_history
+
+
+the GHDB on subject (intitle:index.of intext:.bash_history) finds all home users directory path indexed. I've test it and google return 943 results! -Andrea Menin

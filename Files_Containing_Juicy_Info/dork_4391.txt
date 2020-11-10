@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4391
+Category:         Files Containing Juicy Info
+Published Date:   2017-02-03
+Author:           anonymous
+GoogleDork:       inurl:/o/oauth2 inurl:client_id
+Description:      inurl:/o/oauth2 inurl:client_id
+
+
+Searching for this will return various Client ID’s used with the authentication process within the OAuth2 protocol. - therealjayvi

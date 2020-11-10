@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4012
+Category:         Files Containing Passwords
+Published Date:   2015-05-29
+Author:           anonymous
+GoogleDork:       intext:DB_PASSWORD ext:env
+Description:      intext:DB_PASSWORD ext:env
+
+
+This dork finds env files, usually used in Laravel configuration, containing passwords and other juicy information. Author: Augusto Pereira

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5992
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-05-04
+Author:           Alexandros Pappas
+GoogleDork:       inurl:zdm logon
+Description:      inurl:zdm logon
+
+
+# Google Dork: inurl:zdm logon  # Sites vulnerable to Citrix XenMobile Server 10.8 - XML External Entity Injection. This dork is linked to the following existing exploit: https://www.exploit-db.com/exploits/47951  # Date: 2/05/2020  # Author: Alexandros Pappas 

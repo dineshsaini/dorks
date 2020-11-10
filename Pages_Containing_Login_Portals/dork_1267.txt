@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1267
+Category:         Pages Containing Login Portals
+Published Date:   2006-02-09
+Author:           anonymous
+GoogleDork:       inurl:ids5web
+Description:      inurl:ids5web
+
+
+EasyAccess Web is a application to view radiological images online.Like in hospitals or universities.Problem is the default administrative login: wadm/wadmBe able to watch sensitive data and images.very bad...

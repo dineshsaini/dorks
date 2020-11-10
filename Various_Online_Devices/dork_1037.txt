@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1037
+Category:         Various Online Devices
+Published Date:   2005-07-22
+Author:           anonymous
+GoogleDork:       intitle:"Veo Observer Web Client"
+Description:      intitle:"Veo Observer Web Client"
+
+
+Another online camera search. This one uses ActiveX thingies, so you need a M$ browser. Append "LGI_en.htm" to the URL for the english version. The embedded webserver is called Ubicom/1.1. Defaults are admin/password. The manual very cleary warns owners to change that.

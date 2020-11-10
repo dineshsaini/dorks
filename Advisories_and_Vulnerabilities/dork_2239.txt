@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2239
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by Orca Interactive Forum Script"
+Description:      "Powered by Orca Interactive Forum Script"
+
+
+Orca 2.0/2.0.2 (params.php) Remote File Inclusion Vulnerability - CVE: 2008-5167: https://www.exploit-db.com/exploits/5955

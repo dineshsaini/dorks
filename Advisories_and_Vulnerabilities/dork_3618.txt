@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3618
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-25
+Author:           anonymous
+GoogleDork:       "Powered by SiteEngine"
+Description:      "Powered by SiteEngine"
+
+
+SiteEngine 7.1 SQL injection Vulnerability: https://www.exploit-db.com/exploits/15612

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1730
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by samart-cms"
+Description:      "Powered by samart-cms"
+
+
+samart-cms 2.0 (contentsid) Remote SQL Injection Vulnerability: https://www.exploit-db.com/exploits/5862

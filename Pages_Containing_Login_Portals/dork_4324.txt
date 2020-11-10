@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4324
+Category:         Pages Containing Login Portals
+Published Date:   2016-09-01
+Author:           anonymous
+GoogleDork:       intitle:Sign In inurl:/adfs/ls/?wa=wsignin1.0
+Description:      intitle:Sign In inurl:/adfs/ls/?wa=wsignin1.0
+
+
+Description: Exposed Active Directory Federation Services (ADFS or AD FS) User Sign-in Pages Google search: intitle:Sign In inurl:/adfs/ls/?wa=wsignin1.0 Dork Author: Serhii Pronin 

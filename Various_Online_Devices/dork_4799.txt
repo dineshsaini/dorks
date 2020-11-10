@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4799
+Category:         Various Online Devices
+Published Date:   2018-04-30
+Author:           ManhNho
+GoogleDork:       intitle:Munin :: overview
+Description:      intitle:Munin :: overview
+
+
+intitle:Munin :: overview  Munin - Open Source System Monitoring system (No Auth)  ManhNho 

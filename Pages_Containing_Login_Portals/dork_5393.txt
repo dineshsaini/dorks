@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5393
+Category:         Pages Containing Login Portals
+Published Date:   2019-08-19
+Author:           Reza Abasi
+GoogleDork:       site:sso.*.* intitle:"Login"
+Description:      site:sso.*.* intitle:"Login"
+
+
+Login page :  site:sso.*.* intitle:"Login" site:ssologin.*.* intitle:"Single sign on" site:*/sso/XUI/#login/  Reza Abasi(Turku) 

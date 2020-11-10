@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2164
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by WHMCompleteSolution - OR inurl:WHMCS OR announcements.php
+Description:      Powered by WHMCompleteSolution - OR inurl:WHMCS OR announcements.php
+
+
+WHMCS Control 2 (announcements.php) SQL Injection: https://www.exploit-db.com/exploits/12481

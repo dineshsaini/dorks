@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4047
+Category:         Files Containing Juicy Info
+Published Date:   2015-08-10
+Author:           anonymous
+GoogleDork:       intext:"Full path to a .htpasswd file in this dir:" filetype:php
+Description:      intext:"Full path to a .htpasswd file in this dir:" filetype:php
+
+
+Files containing Juicy information from web online tools for generating .htpasswd and giving full web path . by - l1kw1d 

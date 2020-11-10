@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6194
+Category:         Various Online Devices
+Published Date:   2020-06-04
+Author:           Alexandros Pappas
+GoogleDork:       allinurl:top.htm?Currenttime
+Description:      allinurl:top.htm?Currenttime
+
+
+# Google Dork: allinurl:top.htm?Currenttime # Just a few internet D-Link Cameras. # Date: 2020-05-29 # Exploit Author: Alexandros Pappas 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4953
+Category:         Files Containing Juicy Info
+Published Date:   2018-09-14
+Author:           Gionathan Reale
+GoogleDork:       intitle:"index of" intext:twr.html
+Description:      intitle:"index of" intext:twr.html
+
+
+intitle:"index of" intext:twr.html  This Google Dork discovers badly configured servers exposing sensitive  Tripwire reports.    - Gionathan "John" Reale (https://www.exploit-db.com/author/?a=9609) 

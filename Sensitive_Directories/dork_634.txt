@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/634
+Category:         Sensitive Directories
+Published Date:   2004-10-31
+Author:           anonymous
+GoogleDork:       intitle:"index of" intext:"content.ie5"
+Description:      intitle:"index of" intext:"content.ie5"
+
+
+This dork indicates the "Local settings" dir in most cases, and browseble server directories in general.

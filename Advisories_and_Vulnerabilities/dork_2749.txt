@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2749
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by SazCart"
+Description:      "Powered by SazCart"
+
+
+SazCart 1.5.1 (prodid) Remote SQL Injection - CVE: 2008-2411: https://www.exploit-db.com/exploits/5576

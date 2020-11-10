@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5740
+Category:         Files Containing Juicy Info
+Published Date:   2020-02-19
+Author:           Hilary Soita
+GoogleDork:       intitle:index.of "awsconfig.json"
+Description:      intitle:index.of "awsconfig.json"
+
+
+Find some AWS authentication configurations.  --  *Hilary Soita.* 

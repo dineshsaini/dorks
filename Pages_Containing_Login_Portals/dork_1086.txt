@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1086
+Category:         Pages Containing Login Portals
+Published Date:   2005-08-30
+Author:           anonymous
+GoogleDork:       intitle:"web-cyradm"|"by Luc de Louw" "This is only for authorized users" -tar.gz -site:web-cyradm.org -johnny.ihackstuff
+Description:      intitle:"web-cyradm"|"by Luc de Louw" "This is only for authorized users" -tar.gz -site:web-cyradm.org -johnny.ihackstuff
+
+
+Web-cyradm is a software that glues topnotch mailing technologies together. The focus is on administrating small and large mailing environments.Web-cyradm is used by many different users. At the low end this are homeusers which are providing mailadresses to their family. On the mid to top end users are SME enterprises, educational and other organizations.The software on which web-cyradm relies on is completely free and opensource software. So you get the maximung flexibility which the lowest TCO.

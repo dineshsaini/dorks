@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1302
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-02-13
+Author:           anonymous
+GoogleDork:       ("This DragonflyÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ installation was" | "Thanks for downloading Dragonfly") -inurl:demo -inurl:cpgnuke.com
+Description:      ("This DragonflyÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ installation was" | "Thanks for downloading Dragonfly") -inurl:demo -inurl:cpgnuke.com
+
+
+exploit and short explaination: http://retrogod.altervista.org/dragonfly9.0.6.1_incl_xpl.html

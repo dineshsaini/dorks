@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4118
+Category:         Sensitive Directories
+Published Date:   2015-11-11
+Author:           anonymous
+GoogleDork:       inurl:"wp-content/uploads/private"
+Description:      inurl:"wp-content/uploads/private"
+
+
+Directories with juicy data. Dork by Rootkit Pentester.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/310
+Category:         Pages Containing Login Portals
+Published Date:   2004-07-09
+Author:           anonymous
+GoogleDork:       filetype:php inurl:"webeditor.php"
+Description:      filetype:php inurl:"webeditor.php"
+
+
+This is a standard login portal for the webadmin program.

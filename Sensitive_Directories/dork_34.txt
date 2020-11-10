@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/34
+Category:         Sensitive Directories
+Published Date:   2003-06-27
+Author:           anonymous
+GoogleDork:       private
+Description:      private
+
+
+What kinds of things might you find in directories marked "private?" let's find out....

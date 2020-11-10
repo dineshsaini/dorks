@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3204
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "index.php?option=com_resman"
+Description:      "index.php?option=com_resman"
+
+
+Joomla Component Car Manager 1.1 Remote SQL Injection - CVE: 2007-1704: https://www.exploit-db.com/exploits/3564

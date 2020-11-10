@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3896
+Category:         Pages Containing Login Portals
+Published Date:   2013-09-24
+Author:           anonymous
+GoogleDork:       intitle:"Comrex ACCESS Rack"
+Description:      intitle:"Comrex ACCESS Rack"
+
+
+IP Codecs offering "studio quality audio and video over wired and wireless IP circuits". Used in studio-grade radio broadcasting over the web. More product information here: http://www.comrex.com/products.html. This Google search will return (some, but not hundreds of) web-facing login portals for this type of device. Requires JavaScript and Flash for viewer to work. Default login: comrex comrex. 4N6 Security

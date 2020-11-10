@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2605
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"photo_album.php?alb_id="
+Description:      inurl:"photo_album.php?alb_id="
+
+
+SpireCMS v2.0 SQL Injection Vulnerability: https://www.exploit-db.com/exploits/10408

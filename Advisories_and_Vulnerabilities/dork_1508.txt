@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1508
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:comment.asp intext:Your e-mail address will be used to send you voting and comment activity. Inclusion of your address is optional but Battle Blog cannot notify you of these activities unless you supply an accurate e-mail.
+Description:      inurl:comment.asp intext:Your e-mail address will be used to send you voting and comment activity. Inclusion of your address is optional but Battle Blog cannot notify you of these activities unless you supply an accurate e-mail.
+
+
+Battle Blog 1.25 Auth Bypass SQL Injection / HTML Injection Vulns - CVE: 2009-3718: https://www.exploit-db.com/exploits/9183

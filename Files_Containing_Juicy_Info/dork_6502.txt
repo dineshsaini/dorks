@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6502
+Category:         Files Containing Juicy Info
+Published Date:   2020-08-28
+Author:           Reza Abasi
+GoogleDork:       site:ftp://ftp.*.* ext:sql
+Description:      site:ftp://ftp.*.* ext:sql
+
+
+Dork: site:ftp://ftp.*.* ext:sql Files containing Juicy info:  site:ftp://ftp.*.* ext:sql BR, Reza Abasi(Turku) 

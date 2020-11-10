@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1538
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:classified/product_desc.php?id=
+Description:      inurl:classified/product_desc.php?id=
+
+
+GreenCart PHP Shopping Cart (id) Remote SQL Injection Vulnerability - CVE: 2008-3585: https://www.exploit-db.com/exploits/6189

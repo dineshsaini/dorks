@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4761
+Category:         Pages Containing Login Portals
+Published Date:   2018-04-12
+Author:           Bruno Schmid
+GoogleDork:       inurl:"/initiatesso?providerid=" -github.com
+Description:      inurl:"/initiatesso?providerid=" -github.com
+
+
+Pages containing login portals with high probability to be an Oracle Access Manager portal typical containing "initiatesso?providerid" in the url      Bruno Schmid 

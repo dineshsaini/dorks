@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4414
+Category:         Advisories and Vulnerabilities
+Published Date:   2017-04-06
+Author:           Dxtroyer
+GoogleDork:       inurl:".php?cat=" inurl:"'"
+Description:      inurl:".php?cat=" inurl:"'"
+
+
+Finds sites vulnerable to SQL Injection!    Dxtroyer

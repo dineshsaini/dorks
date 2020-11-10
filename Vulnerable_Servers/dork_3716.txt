@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3716
+Category:         Vulnerable Servers
+Published Date:   2011-05-03
+Author:           anonymous
+GoogleDork:       intitle:Locus7shell intext:"Software:"
+Description:      intitle:Locus7shell intext:"Software:"
+
+
+intitle:Locus7shell intext:"Software:" Submitted by lionaneesh -- Thanks Aneesh Dogra (lionaneesh)

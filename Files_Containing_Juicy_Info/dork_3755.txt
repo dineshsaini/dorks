@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3755
+Category:         Files Containing Juicy Info
+Published Date:   2011-11-24
+Author:           anonymous
+GoogleDork:       filetype:old (mysql_connect) ()
+Description:      filetype:old (mysql_connect) ()
+
+
+There are three of mysql_connects but that all search in .inc or warnings, non search for .old . Dot old is something that all devs to to hide old files they do not want to delete immediatly but almost always forget to delete. The server lang can be changed. :D -- Gerald J. Pottier III Senior Managed Systems Engineer :STG inc. Hereford, AZ 85615 [Home] 520.843.0135 [Work] 520.538.9684

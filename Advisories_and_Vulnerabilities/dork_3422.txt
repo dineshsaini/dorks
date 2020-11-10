@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3422
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Galerie 3.2 Â© 2004 by progressive"
+Description:      "Galerie 3.2 Â© 2004 by progressive"
+
+
+Galerie 3.2 (pic) WBB Lite Addon Blind SQL Injection - CVE: 2008-4516: https://www.exploit-db.com/exploits/6675

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1375
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-05-04
+Author:           anonymous
+GoogleDork:       intitle:"X7 Chat Help Center" | "Powered By X7 Chat" -milw0rm -exploit
+Description:      intitle:"X7 Chat Help Center" | "Powered By X7 Chat" -milw0rm -exploit
+
+
+this is for X7 Chat

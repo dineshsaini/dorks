@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3660
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-12-29
+Author:           anonymous
+GoogleDork:       "/index.php?id=cmp-noticias"
+Description:      "/index.php?id=cmp-noticias"
+
+
+Submitter: xoron http://server/index.php?id=cmp-noticias&amp;n=[SQLi]

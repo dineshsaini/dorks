@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2383
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"phpsecurepages"
+Description:      inurl:"phpsecurepages"
+
+
+phpSecurePages 0.28b (secure.php) Remote File Include Vulnerability: https://www.exploit-db.com/exploits/2452

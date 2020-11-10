@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/897
+Category:         Various Online Devices
+Published Date:   2005-03-20
+Author:           anonymous
+GoogleDork:       intitle:asterisk.management.portal web-access
+Description:      intitle:asterisk.management.portal web-access
+
+
+Coalescent Systems Inc. launched The Asterisk Management Portal project to bring together best-of-breed applications to produce a "canned" (but fully functional) turn-key small business phone system based on The Asterisk Open Source PBX.

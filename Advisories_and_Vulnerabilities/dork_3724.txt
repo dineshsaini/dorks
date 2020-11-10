@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3724
+Category:         Advisories and Vulnerabilities
+Published Date:   2011-06-14
+Author:           anonymous
+GoogleDork:       inurl:"clsUploadtest.asp"
+Description:      inurl:"clsUploadtest.asp"
+
+
+Submitter: KDGCrew http://www.site.com/clsUpload/clsUploadtest.asp http://www.site.com/clsUpload/nameshell.php

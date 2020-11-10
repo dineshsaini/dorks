@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1944
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intitle:"Answer Builder" Ask a question
+Description:      intitle:"Answer Builder" Ask a question
+
+
+Expert Advisior (index.php id) Remote SQL Injection Vulnerbility - CVE: 2007-3882: https://www.exploit-db.com/exploits/4189

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1347
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-04-25
+Author:           anonymous
+GoogleDork:       intitle:"HelpDesk" "If you need additional help, please email helpdesk at"
+Description:      intitle:"HelpDesk" "If you need additional help, please email helpdesk at"
+
+
+it's another helpdesk application.my exploit:http://fr0zen.no-ip.org/phphelpdesk-0.6.16_rcxcn_xpl.phps

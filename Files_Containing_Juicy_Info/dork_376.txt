@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/376
+Category:         Files Containing Juicy Info
+Published Date:   2004-07-26
+Author:           anonymous
+GoogleDork:       intitle:"Index Of" cookies.txt size
+Description:      intitle:"Index Of" cookies.txt size
+
+
+searches for cookies.txt file. On MANY servers this file holds all cookie information, which may include usernames, passwords, but also gives an attacker some juicy information on this users surfing habits.

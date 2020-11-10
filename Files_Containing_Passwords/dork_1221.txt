@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1221
+Category:         Files Containing Passwords
+Published Date:   2005-12-19
+Author:           anonymous
+GoogleDork:       inurl:ventrilo_srv.ini adminpassword
+Description:      inurl:ventrilo_srv.ini adminpassword
+
+
+This search reveals the ventrilo (voice communication program used by many online gamers) passwords for many servers. Possiblity of gaining control of the entire server.

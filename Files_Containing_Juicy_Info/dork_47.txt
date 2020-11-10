@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/47
+Category:         Files Containing Juicy Info
+Published Date:   2003-07-10
+Author:           anonymous
+GoogleDork:       site:edu admin grades
+Description:      site:edu admin grades
+
+
+I never really thought about this until I started coming up with juicy examples for DEFCON 11.. A few GLARINGLY bad examples contain not only student grades and names, but also social security numbers, securing the highest of all googledork ratings!

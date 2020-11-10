@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2288
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl: user_info.php?user_id= " Or " inurl: index.php?catid= "
+Description:      inurl: user_info.php?user_id= " Or " inurl: index.php?catid= "
+
+
+Free Advertisment cms (user_info.php) SQL Injection Vulnerability: https://www.exploit-db.com/exploits/12572

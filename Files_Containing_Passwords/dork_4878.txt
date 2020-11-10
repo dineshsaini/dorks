@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4878
+Category:         Files Containing Passwords
+Published Date:   2018-07-02
+Author:           Mattias Borg
+GoogleDork:       intext:define('AUTH_KEY',     ' wp-config.php filetype:txt
+Description:      intext:define('AUTH_KEY',     ' wp-config.php filetype:txt
+
+
+WordPress config files  Mattias Borg

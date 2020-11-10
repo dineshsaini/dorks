@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5458
+Category:         Sensitive Directories
+Published Date:   2019-08-27
+Author:           Reza Abasi
+GoogleDork:       intitle:"index of" /config.ini
+Description:      intitle:"index of" /config.ini
+
+
+files containing password,sensitive info:  intitle:"index of" /config.ini  Reza Abasi(Turku) 

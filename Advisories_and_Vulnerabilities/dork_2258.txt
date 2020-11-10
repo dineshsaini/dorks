@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2258
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl: "tops_top.php? id_cat ="
+Description:      inurl: "tops_top.php? id_cat ="
+
+
+Million Pixels 3 (id_cat) Remote SQL Injection Vulnerability - CVE: 2008-3204: https://www.exploit-db.com/exploits/6044

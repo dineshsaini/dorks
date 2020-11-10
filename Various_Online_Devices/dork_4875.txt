@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4875
+Category:         Various Online Devices
+Published Date:   2018-06-26
+Author:           ManhNho
+GoogleDork:       intitle:"UltraDNS Client Redirection Service"
+Description:      intitle:"UltraDNS Client Redirection Service"
+
+
+intitle:"UltraDNS Client Redirection Service"  UltraDNS client  ManhNho 

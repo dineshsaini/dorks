@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6359
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-06-30
+Author:           Pierguido Iezzi
+GoogleDork:       intext:piwik "Sign in"
+Description:      intext:piwik "Sign in"
+
+
+# Dork: intext:piwik "Sign in" # PIWIK LOGIN PAGES # Author : Pierguido Iezzi  

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1265
+Category:         Files Containing Juicy Info
+Published Date:   2006-02-22
+Author:           anonymous
+GoogleDork:       "not for public release" -.edu -.gov -.mil
+Description:      "not for public release" -.edu -.gov -.mil
+
+
+if you search through lots of these then you find some really juicy things, there files from police, airports, government companies all kind of stuff that is not meant to be seen by normal people.

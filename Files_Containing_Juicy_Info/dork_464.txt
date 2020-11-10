@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/464
+Category:         Files Containing Juicy Info
+Published Date:   2004-09-07
+Author:           anonymous
+GoogleDork:       filetype:rdp rdp
+Description:      filetype:rdp rdp
+
+
+These are Remote Desktop Connection (rdp) files. They contain the settings and sometimes the credentials to connect to another windows computer using the RDP protocols.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/230
+Category:         Files Containing Usernames
+Published Date:   2004-05-13
+Author:           anonymous
+GoogleDork:       filetype:log username putty
+Description:      filetype:log username putty
+
+
+These log files record info about the SSH client PUTTY. These files contain usernames, site names, IP addresses, ports and various other information about the SSH server connected to.

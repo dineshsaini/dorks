@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2384
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allinurl: "index.php?mod=galerie"action=gal
+Description:      allinurl: "index.php?mod=galerie"action=gal
+
+
+KwsPHP Module Galerie (id_gal) Remote SQL Injection Vulnerability - CVE: 2008-6197: https://www.exploit-db.com/exploits/5350

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4029
+Category:         Files Containing Juicy Info
+Published Date:   2015-06-30
+Author:           anonymous
+GoogleDork:       phpMyAdmin SQL Dump
+Description:      phpMyAdmin SQL Dump
+
+
+# Exploit Title: [phpMyAdmin SQL Dump] # Google Dork: [intext:SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO"; = ext:txt] # Date: [6/29/2015] # Exploit Author: [Daz Holmes]

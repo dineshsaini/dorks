@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1494
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl: modifyform.html?code=
+Description:      inurl: modifyform.html?code=
+
+
+modifyform (modifyform.html) Remote File Inclusion Vulnerability: https://www.exploit-db.com/exploits/4423

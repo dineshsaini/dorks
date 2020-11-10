@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6460
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-08-04
+Author:           Gal Nagli
+GoogleDork:       inurl:wp-content/plugins/wpdiscuz
+Description:      inurl:wp-content/plugins/wpdiscuz
+
+
+Dork: inurl:wp-content/plugins/wpdiscuz Description: This google dork lists out Advisories and Vulnerabilities regarding the wpdiscuz wordpress plugin. Ref: ‏⁨https://wpvulndb.com/vulnerabilities/10333⁩ ‏ Author: Gal Nagli   

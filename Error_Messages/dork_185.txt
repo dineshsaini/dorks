@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/185
+Category:         Error Messages
+Published Date:   2004-04-28
+Author:           anonymous
+GoogleDork:       intitle:"Execution of this script not permitted"
+Description:      intitle:"Execution of this script not permitted"
+
+
+This is a cgiwrap error message which displays admin name and email, port numbers, path names, and may also include optional information like phone numbers for support personnel.

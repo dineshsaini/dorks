@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1230
+Category:         Various Online Devices
+Published Date:   2005-12-31
+Author:           anonymous
+GoogleDork:       inurl:/img/vr.htm
+Description:      inurl:/img/vr.htm
+
+
+Linksys wireless G Camera.

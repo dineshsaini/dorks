@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2585
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intext:"Powered by the 1-2-3 music store"
+Description:      intext:"Powered by the 1-2-3 music store"
+
+
+Easybe 1-2-3 Music Store (process.php) Remote SQL Injection Vuln - CVE: 2007-3520: https://www.exploit-db.com/exploits/4134

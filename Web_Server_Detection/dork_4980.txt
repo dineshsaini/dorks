@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4980
+Category:         Web Server Detection
+Published Date:   2018-10-16
+Author:           Bruno Schmid
+GoogleDork:       intext:"Powered by Typesetter"
+Description:      intext:"Powered by Typesetter"
+
+
+Typesetter CMS dorks   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

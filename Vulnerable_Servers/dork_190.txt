@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/190
+Category:         Vulnerable Servers
+Published Date:   2004-04-28
+Author:           anonymous
+GoogleDork:       inurl:pls/admin_/gateway.htm
+Description:      inurl:pls/admin_/gateway.htm
+
+
+This is a default login portal used by Oracle. In addition to the fact that this file can be used to footprint a web server and determine it's version and software, this page has been targeted in many vulnerability reports as being a source of an SQL injection vulnerability. This problem, when exploited can lead to unauthorized privileges to the databse. In addition, this page may allow unauthorized modification of parameters on the server.

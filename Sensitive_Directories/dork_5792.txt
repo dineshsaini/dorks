@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5792
+Category:         Sensitive Directories
+Published Date:   2020-03-16
+Author:           Rohit Gautam
+GoogleDork:       intitle:"index of" "maven-metadata.xml" "Port 80"
+Description:      intitle:"index of" "maven-metadata.xml" "Port 80"
+
+
+Google Dork Query to find out insecure maven meta data stored in XML format to identify the older versions which are also running on Port 80.  Google Dork Query: i*ntitle:"index of" "maven-metadata.xml" "Port 80"* 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6395
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-07-13
+Author:           Abhi Chitkara
+GoogleDork:       inurl:wp-content/plugins/newsletter
+Description:      inurl:wp-content/plugins/newsletter
+
+
+Dork: inurl:wp-content/plugins/newsletter Description: This google dork lists out Advisories and Vulnerabilities regarding the newsletter wordpress plugin. Ref: https://wpvulndb.com/vulnerabilities/10304 Author: Abhi Chitkara 

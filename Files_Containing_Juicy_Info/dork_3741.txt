@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3741
+Category:         Files Containing Juicy Info
+Published Date:   2011-09-26
+Author:           anonymous
+GoogleDork:       +intext:"AWSTATS DATA FILE" filetype:txt
+Description:      +intext:"AWSTATS DATA FILE" filetype:txt
+
+
+Shows data downloads containing statistics on the site.Made by AwstatsThe best dork for that system.By: 67pc 

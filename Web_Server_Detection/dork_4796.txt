@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4796
+Category:         Web Server Detection
+Published Date:   2018-04-25
+Author:           Alfie
+GoogleDork:       inurl:rvsindex.php &amp; /rvsindex.php?/user/login
+Description:      inurl:rvsindex.php &amp; /rvsindex.php?/user/login
+
+
+*Google* dork *description: *sites running the rvsitebuilder CMS  *Google Search: inurl:rvsindex.php &amp; /rvsindex.php?/user/login*  *Submitted by:* Alfie  *Website: (*https://the-infosec.com*)* 

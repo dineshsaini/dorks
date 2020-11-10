@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2827
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       FrontAccounting
+Description:      FrontAccounting
+
+
+FrontAccounting 1.12 Build 31 Remote File Inclusion Vulnerability - CVE: 2007-4279: https://www.exploit-db.com/exploits/4269

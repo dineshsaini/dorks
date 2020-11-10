@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4260
+Category:         Pages Containing Login Portals
+Published Date:   2016-04-11
+Author:           anonymous
+GoogleDork:       inurl:https://pma.
+Description:      inurl:https://pma.
+
+
+Google dork Description: inurl:https://pma. Google search: inurl:https://pma. Date: 2016-11-04 Author: khajj16 Summary: phpmyadmin login portals intended to handle the administration of MySQL or MariaDB with the use of a web browser.

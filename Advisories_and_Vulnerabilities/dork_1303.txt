@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1303
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-02-13
+Author:           anonymous
+GoogleDork:       inurl:docmgr | intitle:"DocMGR" "enter your Username and"|"und Passwort bitte"|"saisir votre nom"|"su nombre de usuario" -ext:pdf -inurl:"download.php
+Description:      inurl:docmgr | intitle:"DocMGR" "enter your Username and"|"und Passwort bitte"|"saisir votre nom"|"su nombre de usuario" -ext:pdf -inurl:"download.php
+
+
+exploit and short explaination: http://retrogod.altervista.org/docmgr_0542_incl_xpl.html

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3534
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by Quick.Cms"
+Description:      "Powered by Quick.Cms"
+
+
+Quick.Cms.Lite 0.3 (Cookie sLanguage) Local File Include - CVE: 2006-5834: https://www.exploit-db.com/exploits/2719

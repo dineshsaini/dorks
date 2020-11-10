@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/285
+Category:         Files Containing Passwords
+Published Date:   2004-06-18
+Author:           anonymous
+GoogleDork:       inurl:ccbill filetype:log
+Description:      inurl:ccbill filetype:log
+
+
+CCBill.com sells E-tickets to online entertainment and subscription-based websites. CCBill.com gives consumers access to the hottest entertainment sites on the World Wide Web. The word "hot" in this context seems apropriate when considering the type of sites that use e-tickets :)CCBill log files contain usernames and password information, but are protected with DES encryption. An attacker can crack these using the information provided on this site: http://www.jaddo.net/forums/index.php?&amp;act=ST&amp;f=19&amp;t=4242.

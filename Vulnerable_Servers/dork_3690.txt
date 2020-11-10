@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3690
+Category:         Vulnerable Servers
+Published Date:   2011-02-24
+Author:           anonymous
+GoogleDork:       intitle:cyber anarchy shell
+Description:      intitle:cyber anarchy shell
+
+
+Submitter: eXeSoul cyber anarchy shell

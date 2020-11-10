@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1210
+Category:         Various Online Devices
+Published Date:   2005-11-28
+Author:           anonymous
+GoogleDork:       intitle:"Snap Server" intitle:"Home" "Active Users"
+Description:      intitle:"Snap Server" intitle:"Home" "Active Users"
+
+
+This an online device, you can search for unpassworded shares on Snap Appliance Server.Moderator notes:This was found by golfo on sep 8th, but he forgot to submit it (ouch).. Before that mlynch was the first to discover it. See:http://johnny.ihackstuff.com/index.php?name=PNphpBB2&amp;file=viewtopic&amp;t=2784&amp;highlight=snap+serverhttp://johnny.ihackstuff.com/index.php?module=prodreviews&amp;func=showcontent&amp;id=180

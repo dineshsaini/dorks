@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/409
+Category:         Files Containing Passwords
+Published Date:   2004-08-05
+Author:           anonymous
+GoogleDork:       "AutoCreate=TRUE password=*"
+Description:      "AutoCreate=TRUE password=*"
+
+
+This searches the password for "Website Access Analyzer", a Japanese software that creates webstatistics. For those who can read Japanese, check out the author's site at: http://www.coara.or.jp/~passy/Note: google to find the results of this software.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4874
+Category:         Pages Containing Login Portals
+Published Date:   2018-06-25
+Author:           CrimsonTorso
+GoogleDork:       "PaperCut Login"
+Description:      "PaperCut Login"
+
+
+Find login portals for PaperCut printing software.  ~CrimsonTorso 

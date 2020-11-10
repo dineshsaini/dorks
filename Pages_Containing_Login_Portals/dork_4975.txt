@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4975
+Category:         Pages Containing Login Portals
+Published Date:   2018-10-16
+Author:           Bruno Schmid
+GoogleDork:       inurl:login intext:"reset your password"
+Description:      inurl:login intext:"reset your password"
+
+
+Information on how login portals reset their users/customers passwords and so on.   Bruno Schmid https://ch.linkedin.com/in/schm  

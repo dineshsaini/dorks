@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3927
+Category:         Footholds
+Published Date:   2014-01-03
+Author:           anonymous
+GoogleDork:       intitle:"WSO 2.4" [ Sec. Info ], [ Files ], [ Console ], [ Sql ], [ Php ], [ Safe mode ], [ String tools ], [ Bruteforce ], [ Network ], [ Self remove ]
+Description:      intitle:"WSO 2.4" [ Sec. Info ], [ Files ], [ Console ], [ Sql ], [ Php ], [ Safe mode ], [ String tools ], [ Bruteforce ], [ Network ], [ Self remove ]
+
+
+dork to find uploaded WSO 2.4 shell by hackers. found by Anon?M ID

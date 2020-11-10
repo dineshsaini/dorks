@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/663
+Category:         Files Containing Passwords
+Published Date:   2004-11-08
+Author:           anonymous
+GoogleDork:       "liveice configuration file" ext:cfg -site:sourceforge.net
+Description:      "liveice configuration file" ext:cfg -site:sourceforge.net
+
+
+This finds the liveice.cfg file which contains all configuration data for an Icecast server. Passwords are saved unencrypted in this file.

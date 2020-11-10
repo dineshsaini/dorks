@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4136
+Category:         Pages Containing Login Portals
+Published Date:   2015-11-19
+Author:           anonymous
+GoogleDork:       intitle:"Mail - AfterLogic WebMail"
+Description:      intitle:"Mail - AfterLogic WebMail"
+
+
+AfterLogic WebMail Login Portals. Decoy

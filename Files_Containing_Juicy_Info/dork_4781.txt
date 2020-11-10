@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4781
+Category:         Files Containing Juicy Info
+Published Date:   2018-04-16
+Author:           Bruno Schmid
+GoogleDork:       ext:adr adr filetype:adr "bookmarks.adr"
+Description:      ext:adr adr filetype:adr "bookmarks.adr"
+
+
+Dorks containing Opera bookmarks, some with juicy info.    Bruno Schmid   https://ch.linkedin.com/in/schmidbruno 

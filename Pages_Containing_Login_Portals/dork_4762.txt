@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4762
+Category:         Pages Containing Login Portals
+Published Date:   2018-04-12
+Author:           Bruno Schmid
+GoogleDork:       "Oracle peoplesoft sign in" inurl:"cmd=login?" -github -stackoverflow -gitlab
+Description:      "Oracle peoplesoft sign in" inurl:"cmd=login?" -github -stackoverflow -gitlab
+
+
+Oracle PeopleSoft login portals     Bruno Schmid 

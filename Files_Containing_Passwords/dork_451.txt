@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/451
+Category:         Files Containing Passwords
+Published Date:   2004-08-25
+Author:           anonymous
+GoogleDork:       filetype:ini wcx_ftp
+Description:      filetype:ini wcx_ftp
+
+
+This searches for Total commander FTP passwords (encrypted) in a file called wcx_ftp.ini. Only 6 hits at the moment, but there may be more in the future.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4539
+Category:         Files Containing Juicy Info
+Published Date:   2017-06-26
+Author:           anonymous
+GoogleDork:       "Blocking Reason:" ext:log -git
+Description:      "Blocking Reason:" ext:log -git
+
+
+Finds security breach logs Dxtroyer

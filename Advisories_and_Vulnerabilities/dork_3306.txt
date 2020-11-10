@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3306
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intitle:admbook intitle:version filetype:php
+Description:      intitle:admbook intitle:version filetype:php
+
+
+Admbook 1.2.2 (X-Forwarded-For) Remote Command Execution - CVE: 2006-0852: https://www.exploit-db.com/exploits/1512

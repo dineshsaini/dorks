@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2809
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intitle:phpMyAdmin
+Description:      intitle:phpMyAdmin
+
+
+phpMyAdmin Code Injection RCE - CVE: 2009-1151: https://www.exploit-db.com/exploits/8992

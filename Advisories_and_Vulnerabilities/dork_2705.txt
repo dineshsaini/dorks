@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2705
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Vivid Ads Shopping Cart"
+Description:      "Vivid Ads Shopping Cart"
+
+
+Vivid Ads Shopping Cart (prodid) Remote SQL Injection: https://www.exploit-db.com/exploits/10297

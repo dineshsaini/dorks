@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3748
+Category:         Files Containing Juicy Info
+Published Date:   2011-11-19
+Author:           anonymous
+GoogleDork:       inurl:"/includes/config.php"
+Description:      inurl:"/includes/config.php"
+
+
+The Dork Allows you to get data base information from config files. Author: XeNon

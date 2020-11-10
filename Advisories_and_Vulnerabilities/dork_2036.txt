@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2036
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allinurl: com_gallery "func"
+Description:      allinurl: com_gallery "func"
+
+
+Mambo Component com_gallery Remote SQL Injection Vulnerability - CVE: 2008-0746: https://www.exploit-db.com/exploits/5084

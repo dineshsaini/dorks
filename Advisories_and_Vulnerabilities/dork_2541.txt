@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2541
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Bu Site Ticimax E-Ticaret yazılımı ile hazırlanmıştır."
+Description:      "Bu Site Ticimax E-Ticaret yazılımı ile hazırlanmıştır."
+
+
+Ticimax E-Ticaret ( SQL Injection ): https://www.exploit-db.com/exploits/12841

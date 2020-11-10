@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4883
+Category:         Sensitive Directories
+Published Date:   2018-07-04
+Author:           Bl4kd43m0n
+GoogleDork:       inurl:/wp-includes/certificates/
+Description:      inurl:/wp-includes/certificates/
+
+
+inurl:/wp-includes/certificates/  Find a lot of certificates from websites 

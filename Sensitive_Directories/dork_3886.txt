@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3886
+Category:         Sensitive Directories
+Published Date:   2013-09-24
+Author:           anonymous
+GoogleDork:       intitle:"index of" myshare
+Description:      intitle:"index of" myshare
+
+
+Google search for shared HDD directories or shared directories on servers. Gives access to often unconsciously shared documents, programs or sensitive information. Also are often other directories on these drives accessible. Dork by : redN00ws

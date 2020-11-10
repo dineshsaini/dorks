@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4998
+Category:         Sensitive Directories
+Published Date:   2018-10-25
+Author:           Boumediene KADDOUR
+GoogleDork:       inurl:filebrowser.wcgp?subDir Communigate
+Description:      inurl:filebrowser.wcgp?subDir Communigate
+
+
+Google Dork Description: Access Public and protected CommunigatePro mail server users' files. Author: Boumediene KADDOUR date: 10/25/2018 Google Search: inurl:filebrowser.wcgp?subDir Communigate 

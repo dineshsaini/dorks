@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4802
+Category:         Web Server Detection
+Published Date:   2018-05-03
+Author:           ManhNho
+GoogleDork:       intitle:"Apache2 Debian Default Page: It works"
+Description:      intitle:"Apache2 Debian Default Page: It works"
+
+
+intitle:"Apache2 Debian Default Page: It works"  Default Apache2 html page  ManhNho 

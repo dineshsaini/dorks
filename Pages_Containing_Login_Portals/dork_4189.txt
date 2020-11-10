@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4189
+Category:         Pages Containing Login Portals
+Published Date:   2016-01-27
+Author:           anonymous
+GoogleDork:       site:www.comune.*.*.* inurl:login
+Description:      site:www.comune.*.*.* inurl:login
+
+
+# Exploit Title: Dork to find Comune Websites. # Google Dork: site:www.comune.*.*.* inurl:login # Description : Finds out login portals to Comune Websites. # Date: 27/01/2016 # Author: XDarkCoder 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6298
+Category:         Web Server Detection
+Published Date:   2020-06-17
+Author:           krushna Lipane
+GoogleDork:       inurl:"id=*" &amp; intext:"warning mysql_fetch_array()"
+Description:      inurl:"id=*" &amp; intext:"warning mysql_fetch_array()"
+
+
+Google Dork: inurl:"id=*" &amp; intext:"warning mysql_fetch_array()" Description: List out all pages vulnerable to SQL Injection Author: Krushna Lipane

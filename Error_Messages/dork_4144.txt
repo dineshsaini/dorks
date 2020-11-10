@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4144
+Category:         Error Messages
+Published Date:   2015-12-08
+Author:           anonymous
+GoogleDork:       inurl:/uniquesig0/ or inurl:/uniquesig0/InternalSite/
+Description:      inurl:/uniquesig0/ or inurl:/uniquesig0/InternalSite/
+
+
+Microsoft Forefront Unified Access Gateway - Error Pages/Logins/LogOffMsg's -Xploit 

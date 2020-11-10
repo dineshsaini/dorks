@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6022
+Category:         Various Online Devices
+Published Date:   2020-05-05
+Author:           Abhi Chitkara
+GoogleDork:       inurl:/db.php?path_local=
+Description:      inurl:/db.php?path_local=
+
+
+Dork: inurl:/db.php?path_local= Description: This Google dork lists out local test db paths for a web-server. Author: Abhi Chitkara 

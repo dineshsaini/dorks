@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/325
+Category:         Sensitive Directories
+Published Date:   2004-10-31
+Author:           anonymous
+GoogleDork:       inurl:explorer.cfm inurl:(dirpath|This_Directory)
+Description:      inurl:explorer.cfm inurl:(dirpath|This_Directory)
+
+
+Filemanager without authentication.

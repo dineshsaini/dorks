@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4893
+Category:         Files Containing Juicy Info
+Published Date:   2018-07-17
+Author:           Aamir Rehman
+GoogleDork:       inurl:"debug/default/view?panel=config"
+Description:      inurl:"debug/default/view?panel=config"
+
+
+inurl:"debug/default/view?panel=config"  This dork will open the debug page of Yii framework. Which discloses all the requests to Yii framework, in some cases POST request contains clear text username/password, it also discloses server Phpinfo details and database queries.  Thanks Aamir Rehman  

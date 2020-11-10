@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6303
+Category:         Files Containing Juicy Info
+Published Date:   2020-06-17
+Author:           Alexandros Pappas
+GoogleDork:       intext:"Not to be distributed" ext:doc OR ext:pdf OR ext:xls OR ext:xlsx
+Description:      intext:"Not to be distributed" ext:doc OR ext:pdf OR ext:xls OR ext:xlsx
+
+
+# Google Dork: intext:"Not to be distributed" ext:doc OR ext:pdf OR ext:xls OR ext:xlsx # Sensitive stuff. # Date: 17/06/2020 # Exploit Author: Alexandros Pappas 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/476
+Category:         Files Containing Juicy Info
+Published Date:   2004-09-18
+Author:           anonymous
+GoogleDork:       filetype:asp DBQ=" * Server.MapPath("*.mdb")
+Description:      filetype:asp DBQ=" * Server.MapPath("*.mdb")
+
+
+This search finds sites using Microsoft Access databases, by looking for the the database connection string. There are forums and tutorials in the results, but also the real databases. An attacker can use this to find the name and location of the database and download it for his viewing pleasure, which may lead to information leakage or worse.

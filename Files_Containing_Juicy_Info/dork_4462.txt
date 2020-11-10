@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4462
+Category:         Files Containing Juicy Info
+Published Date:   2017-05-05
+Author:           anonymous
+GoogleDork:       inurl:"Makefile.in" ext:in
+Description:      inurl:"Makefile.in" ext:in
+
+
+Finds config files with private server information Dxtroyer

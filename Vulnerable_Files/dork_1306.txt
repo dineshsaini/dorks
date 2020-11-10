@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1306
+Category:         Vulnerable Files
+Published Date:   2006-02-28
+Author:           anonymous
+GoogleDork:       inurl:updown.php | intext:"Powered by PHP Uploader Downloader"
+Description:      inurl:updown.php | intext:"Powered by PHP Uploader Downloader"
+
+
+this (evil ) script lets you to upload a php shell on target server, in most cases not password protected dork: inurl:updown.php | intext:"Powered by PHP Uploader Downloader" a note: sometimes you don't see a link to a list of uploaded files... just switch to http://[target]/[path]/updown.php?action=download

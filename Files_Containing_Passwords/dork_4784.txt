@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4784
+Category:         Files Containing Passwords
+Published Date:   2018-04-17
+Author:           Arya Usha
+GoogleDork:       Codeigniter filetype:sql intext:password | pwd intext:username | uname intext: Insert into users values
+Description:      Codeigniter filetype:sql intext:password | pwd intext:username | uname intext: Insert into users values
+
+
+This dork allow you to specific find file contains Username, Password, Secret Keys and allows you to search for sql configuration file.  Arya Usha 

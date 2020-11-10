@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/669
+Category:         Various Online Devices
+Published Date:   2004-11-13
+Author:           anonymous
+GoogleDork:       intext:"Ready with 10/100T Ethernet"
+Description:      intext:"Ready with 10/100T Ethernet"
+
+
+Xerox 860 and 8200 Printers.

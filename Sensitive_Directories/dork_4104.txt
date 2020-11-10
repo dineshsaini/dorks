@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4104
+Category:         Sensitive Directories
+Published Date:   2015-10-22
+Author:           anonymous
+GoogleDork:       "Desktop" parent intitle:index.of
+Description:      "Desktop" parent intitle:index.of
+
+
+http://www.google.com/search?q="Desktop" parent intitle:index.of Desktops shared on the interwebs... Decoy

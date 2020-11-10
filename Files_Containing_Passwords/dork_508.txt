@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/508
+Category:         Files Containing Passwords
+Published Date:   2004-09-24
+Author:           anonymous
+GoogleDork:       "Powered By Elite Forum Version *.*"
+Description:      "Powered By Elite Forum Version *.*"
+
+
+Elite forums is one of those Microsoft Access .mdb file based forums. This one is particularly dangerous, because the filename and path are hardcoded in the software. An attacker can modify index.php for ./data/users/userdb.dat, open the file and see something like this:42administrat4571XXX367b52XXXb33b6ce74df1e0170(data was xx'd)These are MD5 digests and can be brute forced (with enough time) or dictionary cracked by a malicious user, thus giving adminstrator access to the forum.

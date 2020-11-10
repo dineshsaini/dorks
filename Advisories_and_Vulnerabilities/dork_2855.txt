@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2855
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Absolute Poll Manager XE"
+Description:      "Absolute Poll Manager XE"
+
+
+Absolute Poll Manager XE 4.1 Cookie Handling Vulnerability - CVE: 2008-6860: https://www.exploit-db.com/exploits/6883

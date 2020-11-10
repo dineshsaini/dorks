@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4838
+Category:         Pages Containing Login Portals
+Published Date:   2018-06-04
+Author:           Brain Reflow
+GoogleDork:       inurl:'/blog/Account/login.aspx'
+Description:      inurl:'/blog/Account/login.aspx'
+
+
+Dorks about BlogEngine.NET login panel  Author: Brain Reflow 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2558
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by Battle Blog"
+Description:      "Powered by Battle Blog"
+
+
+Battle Blog 1.25 (comment.asp) Remote SQL Injection Vulnerability - CVE: 2008-2626: https://www.exploit-db.com/exploits/5731

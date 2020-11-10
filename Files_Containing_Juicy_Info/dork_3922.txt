@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3922
+Category:         Files Containing Juicy Info
+Published Date:   2013-11-27
+Author:           anonymous
+GoogleDork:       inurl:mikrotik filetype:backup
+Description:      inurl:mikrotik filetype:backup
+
+
+mikrotik url backups uploaded.. then.. credentials cracked via http://mikrotikpasswordrecovery.com Best Regards, kn0wl13dg3 - underc0de team.- www.underc0de.org kn0w13dg3.blogspot.com

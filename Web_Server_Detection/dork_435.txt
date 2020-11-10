@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/435
+Category:         Web Server Detection
+Published Date:   2004-08-16
+Author:           anonymous
+GoogleDork:       intext:"404 Object Not Found" Microsoft-IIS/5.0
+Description:      intext:"404 Object Not Found" Microsoft-IIS/5.0
+
+
+This search finds IIS 5.0 error pages = IIS 5.0 Server

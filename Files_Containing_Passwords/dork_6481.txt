@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6481
+Category:         Files Containing Passwords
+Published Date:   2020-08-17
+Author:           Alexandros Pappas
+GoogleDork:       "EMAIL_HOST_PASSWORD" ext:yml | ext:env | ext:txt | ext:log
+Description:      "EMAIL_HOST_PASSWORD" ext:yml | ext:env | ext:txt | ext:log
+
+
+# Google Dork: "EMAIL_HOST_PASSWORD" ext:yml | ext:env | ext:txt | ext:log # Exposed passwords. # Date: 14/08/2020 # Exploit Author: Alexandros Pappas 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/954
+Category:         Various Online Devices
+Published Date:   2005-05-02
+Author:           anonymous
+GoogleDork:       ext:dhtml intitle:&amp;quot;document centre|(home)&amp;quot; OR intitle:&amp;quot;xerox&amp;quot;
+Description:      ext:dhtml intitle:&amp;quot;document centre|(home)&amp;quot; OR intitle:&amp;quot;xerox&amp;quot;
+
+
+Various Online Devices&gt;Xerox (*Centre)

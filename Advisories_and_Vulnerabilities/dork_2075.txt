@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2075
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by Content Injector v1.52"
+Description:      "Powered by Content Injector v1.52"
+
+
+Content Injector 1.52 (index.php cat) Remote SQL Injection Vulnerability - CVE: 2007-6137: https://www.exploit-db.com/exploits/4645

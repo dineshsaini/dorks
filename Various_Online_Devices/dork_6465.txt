@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6465
+Category:         Various Online Devices
+Published Date:   2020-08-06
+Author:           Aditya Rana
+GoogleDork:       intitle:"webcam" inurl:login
+Description:      intitle:"webcam" inurl:login
+
+
+My name is Aditya Rana and I would like to report this new google dork. Description- intitle:"webcam" inurl:login This dork gives various online devices login page.  Proof of concept 

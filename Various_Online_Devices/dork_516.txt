@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/516
+Category:         Various Online Devices
+Published Date:   2004-09-29
+Author:           anonymous
+GoogleDork:       Aficio 1022
+Description:      Aficio 1022
+
+
+The Ricoh Aficio 1022 is a digital multifunctional B&amp;W copier, easily upgraded to include network printing, network scanning, standard/LAN faxing and storage capabilities.

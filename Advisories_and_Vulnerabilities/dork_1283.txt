@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1283
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-03-18
+Author:           anonymous
+GoogleDork:       "Thank You for using WPCeasy"
+Description:      "Thank You for using WPCeasy"
+
+
+There is a SQL injection vulnerability in WPC.easy, resulting in full admin access to any remote attacker. Vendor was notified. http://www.securityfocus.com/archive/1/425395

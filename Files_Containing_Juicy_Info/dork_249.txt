@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/249
+Category:         Files Containing Juicy Info
+Published Date:   2004-05-24
+Author:           anonymous
+GoogleDork:       inurl:"/cricket/grapher.cgi"
+Description:      inurl:"/cricket/grapher.cgi"
+
+
+This search reveals information about internal networks, such as configuration, services, bandwidth.

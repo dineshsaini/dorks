@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4470
+Category:         Files Containing Passwords
+Published Date:   2017-05-08
+Author:           anonymous
+GoogleDork:       inurl:"/zebra.conf" ext:conf -git
+Description:      inurl:"/zebra.conf" ext:conf -git
+
+
+Finds GNU Zebra login credentials Dxtroyer

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/251
+Category:         Files Containing Juicy Info
+Published Date:   2004-05-24
+Author:           anonymous
+GoogleDork:       intitle:"System Statistics" +"System and Network Information Center"
+Description:      intitle:"System Statistics" +"System and Network Information Center"
+
+
+This search reveals internal network information including network configuratino, ping times, services, and host info.

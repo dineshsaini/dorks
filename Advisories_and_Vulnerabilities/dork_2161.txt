@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2161
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by FlashGameScript"
+Description:      "Powered by FlashGameScript"
+
+
+FlashGameScript 1.7 (user) Remote SQL Injection Vulnerability - CVE: 2007-3646: https://www.exploit-db.com/exploits/4161

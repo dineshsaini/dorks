@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4561
+Category:         Files Containing Juicy Info
+Published Date:   2017-07-28
+Author:           anonymous
+GoogleDork:       inurl:"wp-content/uploads/file-manager/log.txt"
+Description:      inurl:"wp-content/uploads/file-manager/log.txt"
+
+
+WordPress Plugin File Manager log file with interesting information. Ing. Daniel Maldonado http://www.caceriadespammers.com.ar

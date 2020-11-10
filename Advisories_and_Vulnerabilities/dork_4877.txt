@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4877
+Category:         Advisories and Vulnerabilities
+Published Date:   2018-06-27
+Author:           CrimsonTorso
+GoogleDork:       "Powered by 2Moons"
+Description:      "Powered by 2Moons"
+
+
+Find websites using 2Moons ogame software.  https://www.exploit-db.com/exploits/37713/

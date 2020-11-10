@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2913
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by Fantastic News v2.1.4
+Description:      Powered by Fantastic News v2.1.4
+
+
+Fantastic News 2.1.4 Multiple Remote File Include Vulnerabilities: https://www.exploit-db.com/exploits/3027

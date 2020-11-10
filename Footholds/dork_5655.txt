@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5655
+Category:         Footholds
+Published Date:   2019-11-22
+Author:           Santhosh Kumar Kuppan
+GoogleDork:       inurl:"index of" wso
+Description:      inurl:"index of" wso
+
+
+Dork:inurl:"index of" wso Author:Santhosh Kumar Kuppan Information: Access to WSO shell infected domains. 

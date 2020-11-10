@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1121
+Category:         Pages Containing Login Portals
+Published Date:   2005-09-21
+Author:           anonymous
+GoogleDork:       intitle:"PHProjekt - login" login password
+Description:      intitle:"PHProjekt - login" login password
+
+
+PHProjekt is a group managing software for online calenders, chat, forums, etc. I looked around and i think the default admin login/pass is root/root. Results 1 - 23 of about 851 when i posted this

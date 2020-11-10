@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6075
+Category:         Files Containing Juicy Info
+Published Date:   2020-05-11
+Author:           Alexandros Pappas
+GoogleDork:       intitle:"index of" "*root.pem"
+Description:      intitle:"index of" "*root.pem"
+
+
+# Google Dork: intitle:"index of" "*root.pem"  # Juicy and sensitive information.  # Date: 10/05/2020  # Author: Alexandros Pappas 

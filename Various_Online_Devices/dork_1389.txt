@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1389
+Category:         Various Online Devices
+Published Date:   2006-06-25
+Author:           anonymous
+GoogleDork:       allintitle: EDR400 login | Welcome
+Description:      allintitle: EDR400 login | Welcome
+
+
+Everfocus EDR400

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5726
+Category:         Web Server Detection
+Published Date:   2020-02-04
+Author:           Reza Abasi
+GoogleDork:       intitle:"Welcome to nginx!" intext:"Welcome to nginx on Debian!" intext:"Thank you for"
+Description:      intitle:"Welcome to nginx!" intext:"Welcome to nginx on Debian!" intext:"Thank you for"
+
+
+Web Server Detection:  intitle:"Welcome to nginx!" intext:"Welcome to nginx on Debian!" intext:"Thank you for"  Reza Abasi(Turku) 

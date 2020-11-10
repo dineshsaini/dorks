@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/486
+Category:         Advisories and Vulnerabilities
+Published Date:   2004-09-21
+Author:           anonymous
+GoogleDork:       "Powered by DCP-Portal v5.5"
+Description:      "Powered by DCP-Portal v5.5"
+
+
+DCP-Portal is more a community system than a CMS - it nevertheless calls itsself CMS. They have never seen a real CMS. Version 5.5 is vulnerable sql injection.Vulnerabilities: http://search.securityfocus.com/swsearch?query=dcp-portal&amp;sbm=bid&amp;submit=Search%21&amp;metaname=alldoc

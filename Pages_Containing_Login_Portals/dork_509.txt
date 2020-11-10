@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/509
+Category:         Pages Containing Login Portals
+Published Date:   2004-09-24
+Author:           anonymous
+GoogleDork:       intitle:"microsoft certificate services" inurl:certsrv
+Description:      intitle:"microsoft certificate services" inurl:certsrv
+
+
+Microsoft Certificate Services Authority (CA) software can be used to issue digital certificates. These are often used as "proof" that someone or something is what they claim they are. The Microsoft certificates are meant to be used with IIS for example with Outlook Web Access. The users of these certificates have to decide if they trust it or not. If they do, they can import a root certificate into their browsers (IE).Anyways, this search by JimmyNeutron uncovers a few of these certificate servers directly connected to the Internet. Which (in theory) means anyone could issue a certificate from these sites and abuse it to mislead websurfers in phishing scams and such.

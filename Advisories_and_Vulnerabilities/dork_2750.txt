@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2750
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intext:"Powered by Max.Blog"
+Description:      intext:"Powered by Max.Blog"
+
+
+Max.Blog 1.0.6 (offline_auth.php) Offline Authentication Bypass - CVE: 2009-0409: https://www.exploit-db.com/exploits/7899

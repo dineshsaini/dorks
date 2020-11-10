@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5070
+Category:         Sensitive Directories
+Published Date:   2019-01-09
+Author:           FlyingFrog
+GoogleDork:       inurl:"/irj/go/km/docs/"
+Description:      inurl:"/irj/go/km/docs/"
+
+
+AUTHOR: FlyingFrog Twitter: @ItsKarl0z   ++ SAP files, filesystem information, file structure ++  inurl:”/irj/go/km/docs/” - Large amounts of information - User data - Sensitive data - Documents - File structure of server - To exploit go to site and click on “Navigation user interface” - You can download the entire SAP servers directory - 86.600 results at the time of writing  DISCLAIMER: (The vulnerabilities are suggestions, none of them have been tested by me, always request permission before testing anything on someone else system) Some of these are sourced from Onapsis, ERPscan and Rapid7 all have great sources on SAP testing  

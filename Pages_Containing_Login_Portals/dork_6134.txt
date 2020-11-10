@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6134
+Category:         Pages Containing Login Portals
+Published Date:   2020-05-27
+Author:           Manish Kumar
+GoogleDork:       inurl:"forgotpassword.aspx"
+Description:      inurl:"forgotpassword.aspx"
+
+
+Dork:- inurl:"forgotpassword.aspx"  Description:- This google dork lists out out asp.net server page based forgot password page.  Author:- Manish Kumar

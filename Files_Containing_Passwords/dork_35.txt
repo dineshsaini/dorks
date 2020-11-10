@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/35
+Category:         Files Containing Passwords
+Published Date:   2003-06-27
+Author:           anonymous
+GoogleDork:       etc (index.of)
+Description:      etc (index.of)
+
+
+This search gets you access to the etc directory, where many many many types of password files can be found. This link is not as reliable, but crawling etc directories can be really fun!

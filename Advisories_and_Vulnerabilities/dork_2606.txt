@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2606
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intext : "Website by conceptinternetltd"
+Description:      intext : "Website by conceptinternetltd"
+
+
+Concept E-commerce SQL Injection Vulnerability: https://www.exploit-db.com/exploits/14512

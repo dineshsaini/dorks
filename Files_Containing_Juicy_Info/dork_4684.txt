@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4684
+Category:         Files Containing Juicy Info
+Published Date:   2018-02-28
+Author:           ManhNho
+GoogleDork:       inurl:/fantastico_fileslist.txt + ext:txt
+Description:      inurl:/fantastico_fileslist.txt + ext:txt
+
+
+inurl:/fantastico_fileslist.txt + ext:txt  This dork show results which have fantastico_fileslist.txt This file contains a list of all the files from the current directory. The contents of this file may expose sensitive information to an attacker.  ManhNho 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/417
+Category:         Files Containing Juicy Info
+Published Date:   2004-08-09
+Author:           anonymous
+GoogleDork:       (inurl:"robot.txt" | inurl:"robots.txt" ) intext:disallow filetype:txt
+Description:      (inurl:"robot.txt" | inurl:"robots.txt" ) intext:disallow filetype:txt
+
+
+Webmasters wanting to exclude search engine robots from certain parts of their site often choose the use of a robot.txt file on the root of the server. This file basicly tells the bot which directories are supposed to be off-limits.An attacker can easily obtain that information by very simply opening that plain text file in his browser. Webmasters should *never* rely on this for real security issues. Google helps the attacker by allowing a search for the "disallow" keyword.

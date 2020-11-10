@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5802
+Category:         Files Containing Passwords
+Published Date:   2020-03-18
+Author:           Alexandros Pappas
+GoogleDork:       intitle:"index of" "passwords.yml"
+Description:      intitle:"index of" "passwords.yml"
+
+
+# Google Dork: intitle:"index of" "passwords.yml"  # By using this dork, usernames and passwords can be found.  # Date: 18/03/2020  # Exploit Author: Alexandros Pappas 

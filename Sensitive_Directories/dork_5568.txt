@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5568
+Category:         Sensitive Directories
+Published Date:   2019-10-18
+Author:           Paras Arora
+GoogleDork:       site:* index of: *.exe
+Description:      site:* index of: *.exe
+
+
+*DORK: *site:* index of: *.exe *AUTHOR*: Paras Arora(PAC Security) *DATE*: 12 October 2019 *Category*: Juicy Files 

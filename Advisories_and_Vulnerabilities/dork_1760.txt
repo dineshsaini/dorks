@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1760
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "SQuery 4.5" |"SQuery 4.0" |"SQuery 3.9" | inurl:"modules.php?name=SQuery"
+Description:      "SQuery 4.5" |"SQuery 4.0" |"SQuery 3.9" | inurl:"modules.php?name=SQuery"
+
+
+SQuery 4.5 (gore.php) Remote File Inclusion Vulnerability: https://www.exploit-db.com/exploits/2003

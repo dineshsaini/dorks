@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2956
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"com_mojo"
+Description:      inurl:"com_mojo"
+
+
+Joomla MojoBlog Component v0.15 Multiple Remote File Include Vulnerabilities - CVE: 2009-4789: https://www.exploit-db.com/exploits/10273

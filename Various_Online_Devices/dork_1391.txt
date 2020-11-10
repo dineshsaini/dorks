@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1391
+Category:         Various Online Devices
+Published Date:   2006-06-25
+Author:           anonymous
+GoogleDork:       intitle:"Divar Web Client"
+Description:      intitle:"Divar Web Client"
+
+
+Boshe/Divar Net Cameras. Uses ActiveX - IE only.

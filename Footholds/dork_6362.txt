@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6362
+Category:         Footholds
+Published Date:   2020-07-01
+Author:           Alexandros Pappas
+GoogleDork:       "radius-server key" ext:cfg OR ext:log OR ext:txt
+Description:      "radius-server key" ext:cfg OR ext:log OR ext:txt
+
+
+# Google Dork: "radius-server key" ext:cfg OR ext:log OR ext:txt # By using this dork some radius-server keys can be found. # Date: 1/07/2020 # Author: Alexandros Pappas 

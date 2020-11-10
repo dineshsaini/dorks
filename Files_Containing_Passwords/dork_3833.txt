@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3833
+Category:         Files Containing Passwords
+Published Date:   2013-02-05
+Author:           anonymous
+GoogleDork:       filetype:inc OR filetype:bak OR filetype:old mysql_connect OR mysql_pconnect
+Description:      filetype:inc OR filetype:bak OR filetype:old mysql_connect OR mysql_pconnect
+
+
+Aggregates previous mysql_(p)connect google dorks and adds a new filetype. Searches common file extensions used as backups by PHP developers. These extensions are normally not interpreted as code by their server, so their database connection credentials can be viewed in plaintext. - Andy G - twitter.com/vxhex

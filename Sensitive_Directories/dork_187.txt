@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/187
+Category:         Sensitive Directories
+Published Date:   2004-04-28
+Author:           anonymous
+GoogleDork:       inurl:j2ee/examples/jsp
+Description:      inurl:j2ee/examples/jsp
+
+
+This directory contains sample JSP scripts which are installed on the server. These programs may have security vulnerabilities and can be used by an attacker to footprint the server.

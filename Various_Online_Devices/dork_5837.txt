@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5837
+Category:         Various Online Devices
+Published Date:   2020-03-27
+Author:           Nicholas Doropoulos
+GoogleDork:       inurl:hp/device/deviceinformation
+Description:      inurl:hp/device/deviceinformation
+
+
+Category: Various Online Devices  inurl:hp/device/deviceinformation inurl:hp/device/firmwareupgrade  Nicholas Doropoulos 

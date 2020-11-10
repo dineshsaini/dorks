@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/479
+Category:         Vulnerable Files
+Published Date:   2004-09-18
+Author:           anonymous
+GoogleDork:       filetype:lit lit (books|ebooks)
+Description:      filetype:lit lit (books|ebooks)
+
+
+Tired of websearching ? Want something to read ? You can find Ebooks (thousands of them) with this search..LIT files can be opened with Microsoft Reader (http://www.microsoft.com/reader/)

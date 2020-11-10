@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4274
+Category:         Pages Containing Login Portals
+Published Date:   2016-04-29
+Author:           anonymous
+GoogleDork:       inurl:"/owncloud/index.php" -github -forum
+Description:      inurl:"/owncloud/index.php" -github -forum
+
+
+Google dork Description: inurl:"/owncloud/index.php" -github -forum Google search: inurl:"/owncloud/index.php" -github -forum Date: 2016-29-04 Author: khajj16 Summary: Owncloud login portal.

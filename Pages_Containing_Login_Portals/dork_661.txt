@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/661
+Category:         Pages Containing Login Portals
+Published Date:   2004-11-07
+Author:           anonymous
+GoogleDork:       intitle:"Icecast Administration Admin Page"
+Description:      intitle:"Icecast Administration Admin Page"
+
+
+Icecast streaming audio server web admin.This gives you a list of connected clients. Interesting way of finding attackable client computers.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4999
+Category:         Various Online Devices
+Published Date:   2018-10-26
+Author:           sandeep
+GoogleDork:       inurl:phpPgAdmin intext:"Cappuccino" | intext:"Blue/Green"
+Description:      inurl:phpPgAdmin intext:"Cappuccino" | intext:"Blue/Green"
+
+
+This dork will identifies websites that have phpPgAdmin ,a web-based administration tool for PostgreSQL  Sandeep S S 

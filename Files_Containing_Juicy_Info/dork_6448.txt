@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6448
+Category:         Files Containing Juicy Info
+Published Date:   2020-07-26
+Author:           Anurag Kumar
+GoogleDork:       intitle:"index of" jboss-service.xml
+Description:      intitle:"index of" jboss-service.xml
+
+
+Description : intitle:"index of" jboss-service.xml  The Google dork of intitle:"intitle:"index of" jboss-service.xml gives juicy information of JBoss Application Server  Author:- Anurag Kumar 

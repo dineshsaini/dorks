@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3229
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       © 1998 - 2010 Video Battle Script
+Description:      © 1998 - 2010 Video Battle Script
+
+
+PHP Video Battle SQL Injection Vulnerability - CVE: 2010-1701: https://www.exploit-db.com/exploits/12444

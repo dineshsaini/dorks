@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5164
+Category:         Sensitive Directories
+Published Date:   2019-04-03
+Author:           Inspira Enterprise Pvt Ltd
+GoogleDork:       intitle: "index of" "./" "./bitcoin"
+Description:      intitle: "index of" "./" "./bitcoin"
+
+
+Search: BitCoin Directory Listing  Google Dorks: intitle: "index of" "./" "./bitcoin"  Category : Sensitive Directories  Exploit Authors:- Om Ahuja Jayesh Thakur Mukul Kulshrestha Harsh Mukeshbhai Joshi Sagar Shetty  https://www.inspiraenterprise.com/

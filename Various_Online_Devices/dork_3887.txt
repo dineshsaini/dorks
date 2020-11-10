@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3887
+Category:         Various Online Devices
+Published Date:   2013-09-24
+Author:           anonymous
+GoogleDork:       intitle:"SPA504G Configuration"
+Description:      intitle:"SPA504G Configuration"
+
+
+Dork : intitle:"SPA504G Configuration" Result : Gives access to Cisco SPA504G Configuration Utility for IP phones Screenshot Google Dork Dork found by : redN00ws

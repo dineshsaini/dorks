@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6228
+Category:         Files Containing Juicy Info
+Published Date:   2020-06-08
+Author:           Hemant Patidar
+GoogleDork:       intitle:"index of" "wp-admin.zip"
+Description:      intitle:"index of" "wp-admin.zip"
+
+
+*Dork:* intitle:"index of" "wp-admin.zip" *Description:* This Google dork can be used to discover publicly available ZIP files containing wp-admin.php file which has sensitive WordPress Information. *Author:* Hemant Patidar (HemantSolo) *Linkedin: *https://www.linkedin.com/in/hemantsolo/   

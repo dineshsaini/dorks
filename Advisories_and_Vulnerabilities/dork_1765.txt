@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1765
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"index.php?option=com_djiceshoutbox"
+Description:      inurl:"index.php?option=com_djiceshoutbox"
+
+
+Joomla Djice Shoutbox 1.0 Permanent XSS Vulnerability: https://www.exploit-db.com/exploits/8197

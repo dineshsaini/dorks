@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/939
+Category:         Various Online Devices
+Published Date:   2005-04-11
+Author:           anonymous
+GoogleDork:       Winamp Web Interface
+Description:      Winamp Web Interface
+
+
+Just a bit of fun, should reveal a few instances of a Winamp HTTP control program. Without login, you can't do much except see the currently playing track. With login you can have a bit more fun by changing the volume, currently playing track, viewing playlists, etc. With admin access you can delete tracks... I'll leave it to others to find out if anything cool can be done with this.Just a note, you *can't* hear the music the person is playing, it's not a stream interface, just a control interface.

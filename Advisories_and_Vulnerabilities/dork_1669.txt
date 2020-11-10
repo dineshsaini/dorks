@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1669
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Liberum Help Desk, Copyright (C) 2001 Doug Luxem. Please view the license
+Description:      "Liberum Help Desk, Copyright (C) 2001 Doug Luxem. Please view the license
+
+
+Liberum Help Desk 0.97.3 (details.asp) SQL Injection Vulnerability - CVE: 2006-6160: https://www.exploit-db.com/exploits/2846

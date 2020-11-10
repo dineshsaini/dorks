@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/555
+Category:         Advisories and Vulnerabilities
+Published Date:   2004-10-11
+Author:           anonymous
+GoogleDork:       "BosDates Calendar System " "powered by BosDates v3.2 by BosDev"
+Description:      "BosDates Calendar System " "powered by BosDates v3.2 by BosDev"
+
+
+"BosDates is a flexible calendar system which allows for multiple calendars, email notifications, repeating events and much more. All of which are easily maintained by even the least technical users." There is a vulnerability in BosDates that allows an attacker to disclose sensitive information via SQL injection.

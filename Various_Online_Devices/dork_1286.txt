@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1286
+Category:         Various Online Devices
+Published Date:   2006-03-18
+Author:           anonymous
+GoogleDork:       intitle:"GigaDrive Utility"
+Description:      intitle:"GigaDrive Utility"
+
+
+Linksys GigaDrive network storage utility.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5684
+Category:         Various Online Devices
+Published Date:   2020-01-06
+Author:           Alfie
+GoogleDork:       intitle:"Home - Mongo Express"
+Description:      intitle:"Home - Mongo Express"
+
+
+Google dork description: Mongo Express instances. Most have no authentication enabled  Google Search: intitle:"Home - Mongo Express"  Submitted by: Alfie  Twitter: https://twitter.com/emenalf   --  Regards, Alfie. the-infosec.com 

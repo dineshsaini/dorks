@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3729
+Category:         Files Containing Juicy Info
+Published Date:   2011-07-18
+Author:           anonymous
+GoogleDork:       site:docs.google.com intitle:(cv Or resume OR curriculum vitae)
+Description:      site:docs.google.com intitle:(cv Or resume OR curriculum vitae)
+
+
+Searches GoogleDocs for publicly avaliable PDF's containing information used in a CV/Resume/Curriculum Vitae which can therefore be used in a Social Engineering based vector attack. -- Trevor Starick

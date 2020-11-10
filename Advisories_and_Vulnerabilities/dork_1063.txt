@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1063
+Category:         Advisories and Vulnerabilities
+Published Date:   2005-08-10
+Author:           anonymous
+GoogleDork:       intitle:"blog torrent upload"
+Description:      intitle:"blog torrent upload"
+
+
+Blog Torrent is free, open-source software that provides a way to share large files on your website.vulnerability: free access to the password filehttp://[target]/[path_of_blog]/data/newusersadvisory:http://www.securitytracker.com/alerts/2005/Jul/1014449.htmlAll current versions could be vulnerable depending on directory permissions.

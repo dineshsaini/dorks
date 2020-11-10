@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/271
+Category:         Vulnerable Servers
+Published Date:   2004-06-04
+Author:           anonymous
+GoogleDork:       "Welcome to the Prestige Web-Based Configurator"
+Description:      "Welcome to the Prestige Web-Based Configurator"
+
+
+This is the configuration screen for a Prestige router. This page indicates that the router has not yet been setup and any web user can make changes to the router.

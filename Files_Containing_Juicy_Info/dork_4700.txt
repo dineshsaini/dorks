@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4700
+Category:         Files Containing Juicy Info
+Published Date:   2018-03-16
+Author:           Shadow0pz
+GoogleDork:       inurl:/gravity_forms/logs ext:txt
+Description:      inurl:/gravity_forms/logs ext:txt
+
+
+Exposes gravity forms WordPress plugin and add-on debugging logs. This can lead to exposure of form submission information including transaction data, PII and disclosure of plugin versions and directory structures.  Happy Hunting  @Shadow0pz

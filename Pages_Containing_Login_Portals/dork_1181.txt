@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1181
+Category:         Pages Containing Login Portals
+Published Date:   2005-11-12
+Author:           anonymous
+GoogleDork:       intitle:"OnLine Recruitment Program - Login" -johnny.ihackstuff
+Description:      intitle:"OnLine Recruitment Program - Login" -johnny.ihackstuff
+
+
+This is the Employer's Interface of eRecruiter, a 100% Paper Less Recruitment Solution implemented by Universal Virtual Office. The only time you need to use paper is when you give out the appointment letter.The access to the Employer's Zone is restricted to authorized users only. Please authenticate your identity.

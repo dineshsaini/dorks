@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/781
+Category:         Various Online Devices
+Published Date:   2004-12-19
+Author:           anonymous
+GoogleDork:       intitle:"Cayman-DSL.home"
+Description:      intitle:"Cayman-DSL.home"
+
+
+Cayman DSL modems. Many Cayman units have a weakness where even if remote administration is disabled, some older firmwares will still allow validation if proper login credentials are supplied. In many cases, simply hitting enter will be enough to authenticate. It's worth noting, many of the vulnerable devices also support telnet right out of the box, as opposed to the linksys models which require a firmware patch.

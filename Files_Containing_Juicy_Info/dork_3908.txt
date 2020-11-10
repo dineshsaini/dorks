@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3908
+Category:         Files Containing Juicy Info
+Published Date:   2013-11-25
+Author:           anonymous
+GoogleDork:       site:github.com inurl:"id_rsa" -inurl:"pub"
+Description:      site:github.com inurl:"id_rsa" -inurl:"pub"
+
+
+Finds private SSH keys on GitHub. - Andy G - twitter.com/vxhex

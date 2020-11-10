@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3816
+Category:         Footholds
+Published Date:   2012-11-02
+Author:           anonymous
+GoogleDork:       inurl:"r00t.php"
+Description:      inurl:"r00t.php"
+
+
+This dork finds websites that were hacked, backdoored and contains their system information e.g: Linux web.air51.ru 2.6.32-41-server #89-Ubuntu SMP Fri Apr 27 22:33:31 UTC 2012 x86_64. Jay Turla a.k.a shipcode 

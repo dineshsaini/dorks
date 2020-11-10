@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2037
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "pForum 1.29a" OR ""Powie's PSCRIPT Forum 1.26"
+Description:      "pForum 1.29a" OR ""Powie's PSCRIPT Forum 1.26"
+
+
+Powies pForum 1.29a (editpoll.php) SQL Injection Vulnerability - CVE: 2006-6038: https://www.exploit-db.com/exploits/2797

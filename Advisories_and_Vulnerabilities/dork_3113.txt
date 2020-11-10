@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3113
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:option=com_agenda
+Description:      inurl:option=com_agenda
+
+
+Joomla Component com_agenda 1.0.1 (id) SQL Injection Vulnerability - CVE: 2010-1716: https://www.exploit-db.com/exploits/12132

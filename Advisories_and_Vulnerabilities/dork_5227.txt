@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5227
+Category:         Advisories and Vulnerabilities
+Published Date:   2019-05-29
+Author:           Deepak Joshi
+GoogleDork:       intitle:"report" ("qualys" | "acunetix" | "nessus" | "netsparker" | "nmap") filetype:pdf
+Description:      intitle:"report" ("qualys" | "acunetix" | "nessus" | "netsparker" | "nmap") filetype:pdf
+
+
+This dork allows identification and detection of vulnerabilities arising from mis-configurations or flawed programming within a network-based asset such as a firewall, router, web server, application server, etc from already scanned reports.  *Google Dork :* intitle:"report" ("qualys" | "acunetix" | "nessus" | "netsparker" | "nmap") filetype:pdf  *Exploit Author*:- Deepak Joshi 

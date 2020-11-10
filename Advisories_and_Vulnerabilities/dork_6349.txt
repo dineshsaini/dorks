@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6349
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-06-30
+Author:           Ambadi MP
+GoogleDork:       intitle:"IceWarp WebClient"
+Description:      intitle:"IceWarp WebClient"
+
+
+# Dork :intitle:"IceWarp WebClient" # IceWarp WebClient Login panel # Author : Ambadi MP 

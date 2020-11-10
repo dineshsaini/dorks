@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4339
+Category:         Pages Containing Login Portals
+Published Date:   2016-10-04
+Author:           anonymous
+GoogleDork:       "This WebUI administration tool requires scripting support" intitle:'Login' intext:'Admin Name:' -score
+Description:      "This WebUI administration tool requires scripting support" intitle:'Login' intext:'Admin Name:' -score
+
+
+Pages containing Login Portals Juniper Netscreen WebUI login page.

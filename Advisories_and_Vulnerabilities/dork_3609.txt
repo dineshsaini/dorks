@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3609
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-18
+Author:           DigiP
+GoogleDork:       inurl:"jscripts/tiny_mce/plugins/tinybrowser/"
+Description:      inurl:"jscripts/tiny_mce/plugins/tinybrowser/"
+
+
+inurl:"jscripts/tiny_mce/plugins/tinybrowser/"    or refined    inurl:"jscripts/tiny_mce/plugins/tinybrowser/" "index of"    Various "tinybrowser" vulnerabilities:   https://www.exploit-db.com/exploits/9296/    DigiP   

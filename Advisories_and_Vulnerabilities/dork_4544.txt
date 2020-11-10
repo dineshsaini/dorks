@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4544
+Category:         Advisories and Vulnerabilities
+Published Date:   2017-07-07
+Author:           echobb8
+GoogleDork:       filetype:ini "wordfence"
+Description:      filetype:ini "wordfence"
+
+
+Google Dork: filetype:ini "wordfence"    Description: finds WordPress websites that are running the Wordfence WAF,  and by proxy, reveals the full site directory path.    Author: echobb8

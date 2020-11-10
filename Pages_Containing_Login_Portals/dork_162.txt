@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/162
+Category:         Pages Containing Login Portals
+Published Date:   2004-04-16
+Author:           anonymous
+GoogleDork:       allinurl:"exchange/logon.asp"
+Description:      allinurl:"exchange/logon.asp"
+
+
+According to Microsoft "Microsoft (R) Outlook (TM) Web Access is a Microsoft Exchange Active Server Application that gives you private access to your Microsoft Outlook or Microsoft Exchange personal e-mail account so that you can view your Inbox from any Web Browser. It also allows you to view Exchange server public folders and the Address Book from the World Wide Web. Anyone can post messages anonymously to public folders or search for users in the Address Book. " Now, consider for a moment and you will understand why this could be potentially bad.

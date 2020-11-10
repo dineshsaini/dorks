@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4559
+Category:         Various Online Devices
+Published Date:   2017-07-27
+Author:           anonymous
+GoogleDork:       intitle:"Namenode information" AND inurl:":50070/dfshealth.html"
+Description:      intitle:"Namenode information" AND inurl:":50070/dfshealth.html"
+
+
+NameNode Storage Information for Infrastructure Hadoop ------------------------------ Ing. Daniel Maldonado http://caceriadespammers.com.ar

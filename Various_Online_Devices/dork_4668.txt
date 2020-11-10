@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4668
+Category:         Various Online Devices
+Published Date:   2018-02-09
+Author:           Nisankh Acharjya
+GoogleDork:       inurl:/add_vhost.php?lang=
+Description:      inurl:/add_vhost.php?lang=
+
+
+inurl:/add_vhost.php?lang=  Nisankh Acharjya 

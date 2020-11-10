@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4469
+Category:         Files Containing Juicy Info
+Published Date:   2017-05-08
+Author:           anonymous
+GoogleDork:       "screen mode id:" ext:rdp
+Description:      "screen mode id:" ext:rdp
+
+
+RDP is basically a Windows-sanctioned backdoor. You can use it to access someones computer remotely. This dork finds files with RDP info and logins! Dxtroyer

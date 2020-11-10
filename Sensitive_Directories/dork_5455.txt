@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5455
+Category:         Sensitive Directories
+Published Date:   2019-08-27
+Author:           Akhil G Krishnan
+GoogleDork:       intitle:index.of.?.login
+Description:      intitle:index.of.?.login
+
+
+Descriptiton: Used to find user authentication files from the website directory 

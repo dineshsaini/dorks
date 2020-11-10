@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3040
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"com_simplefaq"
+Description:      inurl:"com_simplefaq"
+
+
+Joomla Component com_simplefaq (catid) Blind Sql Injection Vulnerability - CVE: 2010-0632CVE: 2010-0632: https://www.exploit-db.com/exploits/11294

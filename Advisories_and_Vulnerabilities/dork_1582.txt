@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1582
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"/k12.tr/?part="
+Description:      inurl:"/k12.tr/?part="
+
+
+Okul Otomasyon Portal 2.0 Remote SQL Injection Vulnerability - CVE: 2007-5490: https://www.exploit-db.com/exploits/4539

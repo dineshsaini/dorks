@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2429
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intitle:"ASP inline corporate calendar" inurl:.asp?id=
+Description:      intitle:"ASP inline corporate calendar" inurl:.asp?id=
+
+
+ASP Inline Corporate Calendar (SQL/XSS) Multiple Remote Vulnerabilities - CVE: 2009-2243: https://www.exploit-db.com/exploits/8756

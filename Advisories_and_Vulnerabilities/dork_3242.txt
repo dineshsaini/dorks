@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3242
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       [ Powered By x10media.com ]
+Description:      [ Powered By x10media.com ]
+
+
+x10 Media Adult Script 1.7 Multiple Remote Vulnerabilities - CVE: 2009-4730: https://www.exploit-db.com/exploits/9340

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1024
+Category:         Advisories and Vulnerabilities
+Published Date:   2005-06-24
+Author:           anonymous
+GoogleDork:       inurl:"/login.asp?folder=" "Powered by: i-Gallery 3.3"
+Description:      inurl:"/login.asp?folder=" "Powered by: i-Gallery 3.3"
+
+
+i-Gallery 3.3 (and possibly older) is vulnerable to many things, including /../ traversals.http://www.packetstormsecurity.org/0506-exploits/igallery33.txt

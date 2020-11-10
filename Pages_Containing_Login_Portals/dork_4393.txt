@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4393
+Category:         Pages Containing Login Portals
+Published Date:   2017-02-08
+Author:           anonymous
+GoogleDork:       inurl:forgot.do;jsessionid=
+Description:      inurl:forgot.do;jsessionid=
+
+
+Forgot password portals - Matt - twitter.com/novpn

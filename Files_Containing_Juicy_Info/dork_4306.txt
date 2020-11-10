@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4306
+Category:         Files Containing Juicy Info
+Published Date:   2016-07-04
+Author:           anonymous
+GoogleDork:       "Index of /wp-content/uploads/backupbuddy_backups" zip
+Description:      "Index of /wp-content/uploads/backupbuddy_backups" zip
+
+
+Search for iThemes BackupBuddy backup zips – balcsida

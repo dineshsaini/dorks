@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3676
+Category:         Error Messages
+Published Date:   2011-01-21
+Author:           anonymous
+GoogleDork:       inurl:"index.php?m=content+c=rss+catid=10"
+Description:      inurl:"index.php?m=content+c=rss+catid=10"
+
+
+Author: eidelweiss http://host/index.php?m=content&amp;c=rss&amp;catid=5 show MySQL Error (table) 

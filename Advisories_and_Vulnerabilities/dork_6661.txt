@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6661
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-11-06
+Author:           Alexandros Pappas
+GoogleDork:       inurl:"woocommerce-exporter"
+Description:      inurl:"woocommerce-exporter"
+
+
+# Google Dork: inurl:"woocommerce-exporter" # WooCommerce Store Exporter v1.7.5 Stored XSS. https://www.exploit-db.com/exploits/34424 # Date: 29/10/2020 # Exploit Author: Alexandros Pappas 

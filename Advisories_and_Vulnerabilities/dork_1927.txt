@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1927
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "TR Newsportal" brought by TRanx.
+Description:      "TR Newsportal" brought by TRanx.
+
+
+TR Newsportal 0.36tr1 (poll.php) Remote File Inclusion Vulnerability - CVE: 2006-2557: https://www.exploit-db.com/exploits/1789

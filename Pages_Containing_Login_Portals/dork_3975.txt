@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3975
+Category:         Pages Containing Login Portals
+Published Date:   2014-11-19
+Author:           anonymous
+GoogleDork:       intext:"Please Authenticate" intitle:Peakflow
+Description:      intext:"Please Authenticate" intitle:Peakflow
+
+
+Pages containing login portals - Web Server Detection Finds Login portals for Arbor Peakflow (Anti-DDoS System) Twitter - @libborius

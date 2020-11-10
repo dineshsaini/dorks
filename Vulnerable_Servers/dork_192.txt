@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/192
+Category:         Vulnerable Servers
+Published Date:   2004-04-28
+Author:           anonymous
+GoogleDork:       intitle:"Gateway Configuration Menu"
+Description:      intitle:"Gateway Configuration Menu"
+
+
+This is a normally protected configuration menu for Oracle Portal Database Access Descriptors (DADs) and Listener settings. This page is normally password protected, but Google has uncovered sites which are not protected. Attackers can make changes to the servers found with this query.

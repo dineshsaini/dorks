@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3042
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:com_jb2
+Description:      inurl:com_jb2
+
+
+Joomla Component JooBlog 0.1.1 Blind SQL Injection - CVE: 2008-2630: https://www.exploit-db.com/exploits/5734

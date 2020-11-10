@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6358
+Category:         Various Online Devices
+Published Date:   2020-06-30
+Author:           Prasad Lingamaiah
+GoogleDork:       inurl:/jobq.htm AND intext:"ApeosPort-V"
+Description:      inurl:/jobq.htm AND intext:"ApeosPort-V"
+
+
+Dorks: inurl:/jobq.htm AND intext:"ApeosPort-V" Category: Sensitive Information Summary: A Google dork that gives information about Xerox Printer. 

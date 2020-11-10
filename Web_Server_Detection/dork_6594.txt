@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6594
+Category:         Web Server Detection
+Published Date:   2020-10-06
+Author:           Strontium
+GoogleDork:       "Powered by 123LogAnalyzer"
+Description:      "Powered by 123LogAnalyzer"
+
+
+Find Private and/or files containing sensitive or restricted information via LogAnalyzer stored on the network. ~ Strontium 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1091
+Category:         Advisories and Vulnerabilities
+Published Date:   2005-09-04
+Author:           anonymous
+GoogleDork:       inurl:chitchat.php "choose graphic"
+Description:      inurl:chitchat.php "choose graphic"
+
+
+rgod advises:Cyber-Cats ChitCHat 2.0 permit cross site scripting attacks, let users launch exploits from, let remote users obtain informations on target users, let insecurely delete/create files. This search does not find vulnerable versions, only generic.software:site: http://www.cyber-cats.com/php/rgodsite: http://rgod.altervista.orgmail: retrogod@aliceposta.it[/code]

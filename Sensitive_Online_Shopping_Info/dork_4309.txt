@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4309
+Category:         Sensitive Online Shopping Info
+Published Date:   2016-07-07
+Author:           anonymous
+GoogleDork:       intext:"Dumping data for table `orders`"
+Description:      intext:"Dumping data for table `orders`"
+
+
+Dork finds SQL dump files containing personal information By warlock72

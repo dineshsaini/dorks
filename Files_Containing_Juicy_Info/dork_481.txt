@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/481
+Category:         Files Containing Juicy Info
+Published Date:   2004-09-18
+Author:           anonymous
+GoogleDork:       Lotus Domino address books
+Description:      Lotus Domino address books
+
+
+This search will return any Lotus Domino address books which may be open to the public. This can contain a lot of detailed personal info you don't want to fall in the hands of your competitors or hackers. Most of them are password protected.

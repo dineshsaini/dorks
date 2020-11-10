@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1643
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allintext: "This site is powered by IndexScript"
+Description:      allintext: "This site is powered by IndexScript"
+
+
+IndexScript 2.8 (show_cat.php cat_id) SQL Injection Vulnerability - CVE: 2007-4069: https://www.exploit-db.com/exploits/4225

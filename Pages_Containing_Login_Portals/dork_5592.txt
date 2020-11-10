@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5592
+Category:         Pages Containing Login Portals
+Published Date:   2019-10-21
+Author:           HackingHomebrewer
+GoogleDork:       inurl:"/showLogin.cc?isMobile=false"
+Description:      inurl:"/showLogin.cc?isMobile=false"
+
+
+Login portals

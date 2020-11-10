@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4130
+Category:         Pages Containing Login Portals
+Published Date:   2015-11-13
+Author:           anonymous
+GoogleDork:       intitle:AP Router New Generation | inurl:/home.asp
+Description:      intitle:AP Router New Generation | inurl:/home.asp
+
+
+Access Point Router Logins -Xploit 

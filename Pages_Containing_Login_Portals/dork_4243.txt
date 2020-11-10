@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4243
+Category:         Pages Containing Login Portals
+Published Date:   2016-03-24
+Author:           anonymous
+GoogleDork:       intitle:vood act=index Gateway &gt;Login
+Description:      intitle:vood act=index Gateway &gt;Login
+
+
+More VOOD Online Gateway Logins inurl:/vood/cgi-bin/vood_view.cgi?act=index -Xploit 

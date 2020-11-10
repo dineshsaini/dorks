@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2268
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by ispCP Omega"
+Description:      "Powered by ispCP Omega"
+
+
+ispCP Omega 1.0.4 Remote File Include Vulnerability: https://www.exploit-db.com/exploits/11681

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3703
+Category:         Vulnerable Servers
+Published Date:   2011-03-23
+Author:           anonymous
+GoogleDork:       intitle:"[EasyPHP] - Administration"
+Description:      intitle:"[EasyPHP] - Administration"
+
+
+Unprotected EasyPHP Admin page detection.. Author: Aneesh Dogra (lionaneesh)

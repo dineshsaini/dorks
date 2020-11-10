@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4420
+Category:         Files Containing Juicy Info
+Published Date:   2017-04-10
+Author:           anonymous
+GoogleDork:       intext:Table structure for table `wp_users` filetype:sql
+Description:      intext:Table structure for table `wp_users` filetype:sql
+
+
+Google dork : intext:Table structure for table `wp_users` filetype:sql Description : This google dork can access many website database dump in sql format . This google dork created by SIVABALAN ( DEKINGOFCYBER )

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4592
+Category:         Files Containing Juicy Info
+Published Date:   2017-10-17
+Author:           anonymous
+GoogleDork:       "QuickDiag" "by g3n-h@ckm@n" ext:txt
+Description:      "QuickDiag" "by g3n-h@ckm@n" ext:txt
+
+
+Finds logs of QuickDiag -- Dan Peretz

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4746
+Category:         Files Containing Juicy Info
+Published Date:   2018-04-05
+Author:           Carlos E. Vieira
+GoogleDork:       filetype:env intext:"APP_ENV"
+Description:      filetype:env intext:"APP_ENV"
+
+
+# Exploit Title: Environment Laravel (PHP Framework) information disclosure # Google Dork: filetype:env intext:"APP_ENV" # Date: 05/04/2018 # Contains sensitive information: username, password, mail accounts, etc.  # Dork Author: Carlos E. Vieira  

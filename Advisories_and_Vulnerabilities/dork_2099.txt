@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2099
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"/index.php?m=" "PHPRecipeBook 2.39"
+Description:      inurl:"/index.php?m=" "PHPRecipeBook 2.39"
+
+
+PHPRecipeBook 2.39 (course_id) Remote SQL Injection Vulnerability - CVE: 2009-4883: https://www.exploit-db.com/exploits/8330

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1219
+Category:         Advisories and Vulnerabilities
+Published Date:   2005-12-14
+Author:           anonymous
+GoogleDork:       intext:"Powered by SimpleBBS v1.1"*
+Description:      intext:"Powered by SimpleBBS v1.1"*
+
+
+Vulnerability DescriptionSimpleBBS contains a flaw that may allow an attacker to carry out an SQL injection attack. The issue is due to the search module not properly sanitizing user-supplied input to undisclosed variables. This may allow an attacker to inject or manipulate SQL queries in the backend database. No further details have been provided.Solution DescriptionCurrently, there are no known upgrades, patches, or workarounds available to correct this issue.Products:* SimpleMedia SimpleBBS 1.1 AffectedVulnerability classification:* Remote vulnerability* Input manipulation attack* Impact on integrity* Exploit unavailable* VerifiedMore info on Vuln: http://www.securityfocus.com/bid/15594

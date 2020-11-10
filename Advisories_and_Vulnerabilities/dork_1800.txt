@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1800
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:makaledetay.asp?id=
+Description:      inurl:makaledetay.asp?id=
+
+
+Mayasan Portal v2.0 (makaledetay.asp) SQL Injection Vulnerability: https://www.exploit-db.com/exploits/14420

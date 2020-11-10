@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2293
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       faqview.asp?key
+Description:      faqview.asp?key
+
+
+Techno Dreams FAQ Manager 1.0 Remote SQL Injection Vulnerability - CVE: 2006-4892: https://www.exploit-db.com/exploits/2385

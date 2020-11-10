@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5714
+Category:         Web Server Detection
+Published Date:   2020-01-27
+Author:           Bruno Schmid
+GoogleDork:       -pub -pool intitle:"index of" "Served by" "Web Server"
+Description:      -pub -pool intitle:"index of" "Served by" "Web Server"
+
+
+LiteSpeed Webservers   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

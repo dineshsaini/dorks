@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2563
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intext:Powered by Infront
+Description:      intext:Powered by Infront
+
+
+Infront SQL Injection Vulnerability: https://www.exploit-db.com/exploits/13848

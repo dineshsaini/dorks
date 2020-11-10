@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5926
+Category:         Sensitive Directories
+Published Date:   2020-04-20
+Author:           Alexandros Pappas
+GoogleDork:       intitle:"index of" "common.crt" OR "ca.crt"
+Description:      intitle:"index of" "common.crt" OR "ca.crt"
+
+
+# Google Dork: intitle:"index of" "common.crt" OR "ca.crt"  # Configuration vpn files, certs, some keys, containing useful and juicy information.  # Date: 20/04/2020  # Author: Alexandros Pappas 

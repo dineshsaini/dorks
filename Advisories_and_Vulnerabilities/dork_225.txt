@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/225
+Category:         Advisories and Vulnerabilities
+Published Date:   2004-05-12
+Author:           anonymous
+GoogleDork:       intitle:guestbook "advanced guestbook 2.2 powered"
+Description:      intitle:guestbook "advanced guestbook 2.2 powered"
+
+
+Advanced Guestbook v2.2 has an SQL injection problem which allows unauthorized access. AttackerFrom there, hit "Admin" then do the following:Leave username field blank.For password, enter this exactly:') OR ('a' = 'aYou are now in the Guestbook's Admin section.http://www.securityfocus.com/bid/10209

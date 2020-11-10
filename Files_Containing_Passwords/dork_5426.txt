@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5426
+Category:         Files Containing Passwords
+Published Date:   2019-08-21
+Author:           The Dexter
+GoogleDork:       "pass" "usuario" filetype:sql
+Description:      "pass" "usuario" filetype:sql
+
+
+Leak user and password (hashed) in sql files  "usuario" "clave" filetype:sql "usuario" "pass" filetype:sql "usuario" "pwd" filetype:sql "pass" "correo" filetype:sql -github.com

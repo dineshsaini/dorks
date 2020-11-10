@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3526
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "This site is powered by e107"|inurl:e107_plugins|e107_handlers|e107_files
+Description:      "This site is powered by e107"|inurl:e107_plugins|e107_handlers|e107_files
+
+
+e107 0.75 (GLOBALS Overwrite) Remote Code Execution: https://www.exploit-db.com/exploits/2268

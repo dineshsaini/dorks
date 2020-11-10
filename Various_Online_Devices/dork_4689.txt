@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4689
+Category:         Various Online Devices
+Published Date:   2018-03-07
+Author:           MikiDiCalenella
+GoogleDork:       inurl:cloud_main.asp
+Description:      inurl:cloud_main.asp
+
+
+# Google Dork: [inurl:cloud_main.asp]  # Date: [02/03/2018]  # Exploit Author: [MikiDiCalenella]  Description: web ui for Asus Aicloud 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6641
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-10-28
+Author:           Alexandros Pappas
+GoogleDork:       intitle:"Sphider Admin Login"
+Description:      intitle:"Sphider Admin Login"
+
+
+# Google Dork: intitle:"Sphider Admin Login"  # Sphider Search Engine 1.3.6 - Multiple Vulnerabilities. https://www.exploit-db.com/exploits/48957 https://www.exploit-db.com/exploits/34189  # Date: 27/10/2020  # Exploit Author: Alexandros Pappas 

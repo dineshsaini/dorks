@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4248
+Category:         Footholds
+Published Date:   2016-03-29
+Author:           anonymous
+GoogleDork:       intitle:Automatic cPanel Finder/Cracker | 3xp1r3 Cyber Army
+Description:      intitle:Automatic cPanel Finder/Cracker | 3xp1r3 Cyber Army
+
+
+Google dork Description : intitle:"Automatic cPanel Finder/Cracker | 3xp1r3 Cyber Army" Author: youssef hesham an exploit to find uploaded cPanel Finder/Cracker script and find cracked cpanle on it 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3347
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Search Projects" intitle:"The ultimate project website"
+Description:      "Search Projects" intitle:"The ultimate project website"
+
+
+Softbiz Freelancers Script v.1 Remote SQL Injection - CVE: 2007-6124: https://www.exploit-db.com/exploits/4660

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/734
+Category:         Vulnerable Files
+Published Date:   2004-12-01
+Author:           anonymous
+GoogleDork:       filetype:pl -intext:"/usr/bin/perl" inurl:webcal (inurl:webcal | inurl:add | inurl:delete | inurl:config)
+Description:      filetype:pl -intext:"/usr/bin/perl" inurl:webcal (inurl:webcal | inurl:add | inurl:delete | inurl:config)
+
+
+WebCal allows you to create and maintain an interactive events calendar or scheduling system on your Web site. The file names explain themselves, but don't abuse the faulty admins.

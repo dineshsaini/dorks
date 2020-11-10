@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3382
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intitle:phpinfo intext:"php version" +windows
+Description:      intitle:phpinfo intext:"php version" +windows
+
+
+PHP 5.x COM functions safe_mode and disable_function bypass - CVE: 2007-5653: https://www.exploit-db.com/exploits/4553

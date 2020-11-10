@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1466
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"index.php?pageid=" Property Listings
+Description:      inurl:"index.php?pageid=" Property Listings
+
+
+Realtor 747 (index.php categoryid) Remote SQL Injection Vulnerbility - CVE: 2007-3810: https://www.exploit-db.com/exploits/4184

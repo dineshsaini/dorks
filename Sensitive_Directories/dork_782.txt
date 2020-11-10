@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/782
+Category:         Sensitive Directories
+Published Date:   2004-12-19
+Author:           anonymous
+GoogleDork:       intitle:"Index of /CFIDE/" administrator
+Description:      intitle:"Index of /CFIDE/" administrator
+
+
+With ColdFusion, you can build and deploy powerful web applications and web services with far less training time and fewer lines of code than ASP, PHP, and JSP.The search that pulls up directory listings we probably shouldn't be seeing.. entering the 'administrator' directory brings up a ColdFusion login screen

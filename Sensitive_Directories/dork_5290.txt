@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5290
+Category:         Sensitive Directories
+Published Date:   2019-07-26
+Author:           Scott FCS
+GoogleDork:       intitle:"Index of" portal
+Description:      intitle:"Index of" portal
+
+
+Author = Scott FCS  Exploit Title = Public Portal Directory's  

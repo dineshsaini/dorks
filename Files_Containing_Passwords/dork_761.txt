@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/761
+Category:         Files Containing Passwords
+Published Date:   2004-12-13
+Author:           anonymous
+GoogleDork:       intext:"powered by Web Wiz Journal"
+Description:      intext:"powered by Web Wiz Journal"
+
+
+Web Wiz Journal ASP Blog. The MDB database is mostly unprotected and can be downloaded directly. The DB contains administrative acccountsfilename: journal.mdbadmin login: admin.html

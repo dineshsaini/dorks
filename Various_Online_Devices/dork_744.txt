@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/744
+Category:         Various Online Devices
+Published Date:   2004-12-03
+Author:           anonymous
+GoogleDork:       "Copyright (c) Tektronix, Inc." "printer status"
+Description:      "Copyright (c) Tektronix, Inc." "printer status"
+
+
+Captain, the Phasers are online :)

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5136
+Category:         Footholds
+Published Date:   2019-03-01
+Author:           Ehsan Nikavar
+GoogleDork:       inurl:/phpMyAdmin/setup/index.php?phpMyAdmin=
+Description:      inurl:/phpMyAdmin/setup/index.php?phpMyAdmin=
+
+
+Exploit : Access the Sensitive page of phpmyadmin  Google Dork : inurl:/phpMyAdmin/setup/index.php?phpMyAdmin=  Exploit Author:- Ehsan Nikavar 

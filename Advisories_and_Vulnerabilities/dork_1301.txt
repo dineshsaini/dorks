@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1301
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-02-09
+Author:           anonymous
+GoogleDork:       "powered by runcms" -runcms.com -runcms.org
+Description:      "powered by runcms" -runcms.com -runcms.org
+
+
+"powered by runcms" -runcms.com -runcms.org all versions

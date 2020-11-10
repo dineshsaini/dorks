@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5272
+Category:         Various Online Devices
+Published Date:   2019-07-03
+Author:           Dec0y
+GoogleDork:       inurl:8443 AND -intitle:8443 AND -intext:8443 prohibited|restricted|unauthorized
+Description:      inurl:8443 AND -intitle:8443 AND -intext:8443 prohibited|restricted|unauthorized
+
+
+Interesting content/portals hosted on non-standard ports.  inurl:8443 AND -intitle:8443 AND -intext:8443 prohibited|restricted|unauthorized  Alternatively this can be replaced with  inurl:8080 AND -intitle:8080 AND -intext:8080 prohibited|restricted|unauthorized  D 

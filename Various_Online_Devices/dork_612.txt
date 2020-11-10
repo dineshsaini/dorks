@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/612
+Category:         Various Online Devices
+Published Date:   2004-10-25
+Author:           anonymous
+GoogleDork:       intitle:"toshiba network camera - User Login"
+Description:      intitle:"toshiba network camera - User Login"
+
+
+Web interface of Toshiba network cameras.

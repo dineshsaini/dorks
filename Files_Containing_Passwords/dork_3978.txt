@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3978
+Category:         Files Containing Passwords
+Published Date:   2014-12-03
+Author:           anonymous
+GoogleDork:       inurl:yahoo_site_admin/credentials/
+Description:      inurl:yahoo_site_admin/credentials/
+
+
+# Exploit Title: [Yahoo Hosting db-credentials] # Google Dork: [inurl:yahoo_site_admin/credentials/] # Date: [29/11/2014] # Exploit Author: [Mohammad Shahein] # Vendor Homepage: [www.boxeffect.com ] # Tested on: Win7 ,Google Chrome Version 39.0.2171.71 m] Google the dork it will allow you to download db.conf the file will contain the following info mysql [ database name ] [ database user name ] [ database password ] *Mohammad Shaheen* senior Programer, BoxEffect website: www.boxeffect.com

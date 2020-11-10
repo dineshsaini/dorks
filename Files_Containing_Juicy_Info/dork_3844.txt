@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3844
+Category:         Files Containing Juicy Info
+Published Date:   2013-04-22
+Author:           anonymous
+GoogleDork:       filetype:ini "This is the default settings file for new PHP installations"
+Description:      filetype:ini "This is the default settings file for new PHP installations"
+
+
+Finds PHP configuration files (php.ini) that have been placed in indexed folders. Php.ini defines a PHP installation's behavior, including magic quotes, register globals, and remote file operations. This can be useful for knowing which attacks (such as RFI) are possible against the server. - Andy G - twitter.com/vxhex

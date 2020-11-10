@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3167
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "S-CMS by matteoiamma"						
+Description:      "S-CMS by matteoiamma"						
+
+
+S-CMS 2.0b3 Multiple Local File Inclusion Vulnerabilities: https://www.exploit-db.com/exploits/8913

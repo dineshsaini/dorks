@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3776
+Category:         Various Online Devices
+Published Date:   2012-05-15
+Author:           anonymous
+GoogleDork:       intitle:"HtmlAnvView:D7B039C1"
+Description:      intitle:"HtmlAnvView:D7B039C1"
+
+
+This dork finds Wireless Security/Webcams that are accessible from the web. The interesting part is that for some reason these cameras do not generally allow users to remove/change the default administrative username and pass. So in most cases you can view any camera that shows up in the google search. Default Username: admin01 Default Password: 000000 111111 999999 Author: Paul White

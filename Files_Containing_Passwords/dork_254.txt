@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/254
+Category:         Files Containing Passwords
+Published Date:   2004-05-25
+Author:           anonymous
+GoogleDork:       inurl:"slapd.conf" intext:"credentials" -manpage -"Manual Page" -man: -sample
+Description:      inurl:"slapd.conf" intext:"credentials" -manpage -"Manual Page" -man: -sample
+
+
+slapd.conf is the configuration file for slapd, the opensource LDAP deamon. The key "credentinals" contains passwords in cleartext.

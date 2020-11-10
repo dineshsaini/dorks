@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5538
+Category:         Pages Containing Login Portals
+Published Date:   2019-09-17
+Author:           Paras Arora
+GoogleDork:       site:* intitle:"reset password"
+Description:      site:* intitle:"reset password"
+
+
+*DORK: *site:* intitle:"reset password" *AUTHOR: Paras Arora(PAC Security)* *DATE: 17 September 2019* *Category: reset password portals* 

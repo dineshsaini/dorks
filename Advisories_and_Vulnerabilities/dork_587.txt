@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/587
+Category:         Advisories and Vulnerabilities
+Published Date:   2004-10-19
+Author:           anonymous
+GoogleDork:       "Copyright Ãƒâ€šÃ‚Â© 2002 Agustin Dondo Scripts"
+Description:      "Copyright Ãƒâ€šÃ‚Â© 2002 Agustin Dondo Scripts"
+
+
+CoolPHP has multiple vulnerabilities:* Cross-Site Scripting vulnerability (index.php)* A Path Disclosure Vulnerability (index.php)* Local file include Vulnerability with Directory Traversal info: http://www.securityfocus.com/archive/1/378617

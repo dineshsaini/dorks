@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6239
+Category:         Files Containing Juicy Info
+Published Date:   2020-06-08
+Author:           Bhaskar Kumar
+GoogleDork:       inurl:admin intitle:index of ext:sql | xls | xml | json | csv
+Description:      inurl:admin intitle:index of ext:sql | xls | xml | json | csv
+
+
+# Title: Sensitive Data Exposure # Google Dork: inurl:admin intitle:index of ext:sql | xls | xml | json | csv # Date: 2020-06-06  # Author: Bhaskar Kumar # LinkedIn: https://www.linkedin.com/in/haxonic/  _ Regards, Team HAXONIC 

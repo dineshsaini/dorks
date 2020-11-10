@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2484
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:com_jstore
+Description:      inurl:com_jstore
+
+
+joomla com_jstore SQLi Vulnerability: https://www.exploit-db.com/exploits/13796

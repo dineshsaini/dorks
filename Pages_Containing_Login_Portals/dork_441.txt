@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/441
+Category:         Pages Containing Login Portals
+Published Date:   2004-08-16
+Author:           anonymous
+GoogleDork:       intitle:"ITS System Information" "Please log on to the SAP System"
+Description:      intitle:"ITS System Information" "Please log on to the SAP System"
+
+
+Frontend for SAP Internet Transaction Server webgui service.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1554
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"com_jashowcase "
+Description:      inurl:"com_jashowcase "
+
+
+Joomla Component com_jashowcase Directory Traversal - CVE: 2010-0943: https://www.exploit-db.com/exploits/11090

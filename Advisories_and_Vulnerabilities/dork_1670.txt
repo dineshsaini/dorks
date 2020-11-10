@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1670
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allinurl:"jokes.php?catagorie="
+Description:      allinurl:"jokes.php?catagorie="
+
+
+Jokes Site Script (jokes.php?catagorie) SQL Injection Vulnerability - CVE: 2008-2065: https://www.exploit-db.com/exploits/5508

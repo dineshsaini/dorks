@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/777
+Category:         Pages Containing Login Portals
+Published Date:   2004-12-19
+Author:           anonymous
+GoogleDork:       inurl:1810 "Oracle Enterprise Manager"
+Description:      inurl:1810 "Oracle Enterprise Manager"
+
+
+Enterprise Manager 10g Grid Control provides a single tool that can monitor and manage not only every Oracle software element in your grid, but also Web applications, hosts, and the network in between. Grid Control is also extensible via an SDK so customers can use it to monitor additional components that are not supported out-of-the box.

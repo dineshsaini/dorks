@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2875
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by Dayfox Designs"
+Description:      "Powered by Dayfox Designs"
+
+
+Dayfox Blog 4 (postpost.php) Remote Code Execution Vulnerability - CVE: 2007-1525: https://www.exploit-db.com/exploits/3478

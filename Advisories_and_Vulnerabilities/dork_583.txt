@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/583
+Category:         Advisories and Vulnerabilities
+Published Date:   2004-10-19
+Author:           anonymous
+GoogleDork:       inurl:ttt-webmaster.php
+Description:      inurl:ttt-webmaster.php
+
+
+Turbo traffic trader Nitro v1.0 is a free, fully automated traffic trading script. Multiple vulnerabilities were found.Vulnerability report: http://www.securityfocus.com/bid/11358Vendor site: http://www.turbotraffictrader.com/php

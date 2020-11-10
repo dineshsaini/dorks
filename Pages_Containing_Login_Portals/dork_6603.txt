@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6603
+Category:         Pages Containing Login Portals
+Published Date:   2020-10-12
+Author:           Sanu Jose M
+GoogleDork:       intext:piwik "login"
+Description:      intext:piwik "login"
+
+
+#Exploit Title : PIWIK login pages.  #Google Dork : intext:piwik "login"  #Date : 12/10/2020  #Exploit Author : Sanu Jose M  Thanks &amp; Regards,  Sanu Jose M 

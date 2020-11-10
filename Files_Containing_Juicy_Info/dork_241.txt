@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/241
+Category:         Files Containing Juicy Info
+Published Date:   2004-05-17
+Author:           anonymous
+GoogleDork:       inurl:php.ini filetype:ini
+Description:      inurl:php.ini filetype:ini
+
+
+The php.ini file contains all the configuration for how PHP is parsed on a server. It can contain default database usernames, passwords, hostnames, IP addresses, ports, initialization of global variables and other information. Since it is found by default in /etc, you might be able to find a lot more unrelated information in the same directory.

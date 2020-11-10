@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1216
+Category:         Advisories and Vulnerabilities
+Published Date:   2005-12-07
+Author:           anonymous
+GoogleDork:       "2005 SugarCRM Inc. All Rights Reserved" "Powered By SugarCRM"
+Description:      "2005 SugarCRM Inc. All Rights Reserved" "Powered By SugarCRM"
+
+
+this is the dork for Sugar Suite 3.5.2a &amp; 4.0beta remote code execution issue, advisory &amp; poc exploit:http://rgod.altervista.org/sugar_suite_40beta.html

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1046
+Category:         Pages Containing Login Portals
+Published Date:   2005-07-26
+Author:           anonymous
+GoogleDork:       inurl:"default/login.php" intitle:"kerio"
+Description:      inurl:"default/login.php" intitle:"kerio"
+
+
+This dork reveals login pages for Kerio Mail server. Kerio MailServer is a state-of-the-art groupware server allowing companies to collaborate via email, shared contacts, shared calendars and tasks. Download can be found here http://www.kerio.com/kms_download.html.

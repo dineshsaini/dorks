@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/811
+Category:         Files Containing Juicy Info
+Published Date:   2005-01-02
+Author:           anonymous
+GoogleDork:       intext:gmail invite intext:http://gmail.google.com/gmail/a
+Description:      intext:gmail invite intext:http://gmail.google.com/gmail/a
+
+
+This is a dork I did today. At first, I wanted to find out the formula for making one, but ... It got boring, so I just made a dork that finds invites. If you want to get specific, try adding "+blog", "+livejournal", or , "+forum".

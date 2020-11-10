@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/44
+Category:         Files Containing Juicy Info
+Published Date:   2003-06-30
+Author:           anonymous
+GoogleDork:       haccess.ctl (VERY reliable)
+Description:      haccess.ctl (VERY reliable)
+
+
+haccess.ctl is the frontpage(?) equivalent of the .htaccess file. Either way, this file decribes who can access a web page, and should not be shown to web surfers. Way to go, googledork. =PThis method is very reliable due to the use of this google query:filetype:ctl BasicThis pulls out the file by name then searches for a string inside of it (Basic) which appears in the standard template for this file.

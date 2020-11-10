@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/277
+Category:         Files Containing Passwords
+Published Date:   2004-06-10
+Author:           anonymous
+GoogleDork:       filetype:pwd service
+Description:      filetype:pwd service
+
+
+Microsoft Frontpage extensions appear on virtually every type of scanner. In the late 90's people thought they where hardcore by defacing sites with Frontpage. Today, there are still vulnerable servers found with Google. An attacker can simply take advantage from administrators who 'forget' to set up the policies for Frontpage extensions. An attacker can also search for 'filetype:pwd users'.

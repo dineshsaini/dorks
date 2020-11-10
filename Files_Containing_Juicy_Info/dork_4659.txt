@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4659
+Category:         Files Containing Juicy Info
+Published Date:   2018-01-22
+Author:           Rootkit_Pentester
+GoogleDork:       "SiteBar Bookmark Manager" inurl:index.php?w=
+Description:      "SiteBar Bookmark Manager" inurl:index.php?w=
+
+
+Dashboards of SiteBar. Enjoy healthy!!!. Dork by Rookit_Pentester. 

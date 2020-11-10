@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2868
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by Scratcher"
+Description:      "Powered by Scratcher"
+
+
+Scratcher (SQL/XSS) Multiple Remote Vulnerability - CVE: 2010-1742: https://www.exploit-db.com/exploits/12458

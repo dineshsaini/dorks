@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1469
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Snipe Gallery v.3.1.5 by Snipe.Net
+Description:      Snipe Gallery v.3.1.5 by Snipe.Net
+
+
+snipe gallery Script Sql Injection: https://www.exploit-db.com/exploits/14053

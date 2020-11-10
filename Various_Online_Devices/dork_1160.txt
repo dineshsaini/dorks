@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1160
+Category:         Various Online Devices
+Published Date:   2005-10-03
+Author:           anonymous
+GoogleDork:       intitle:"IQeye302 | IQeye303 | IQeye601 | IQeye602 | IQeye603" intitle:"Live Images"
+Description:      intitle:"IQeye302 | IQeye303 | IQeye601 | IQeye602 | IQeye603" intitle:"Live Images"
+
+
+This is a googledork for IQeye netcams. Some of which you can control how they tilt/zoom. The default admin username/password are root/system.

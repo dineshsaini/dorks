@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2882
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by dB Masters' Curium CMS 1
+Description:      Powered by dB Masters' Curium CMS 1
+
+
+dB Masters Curium CMS 1.03 (c_id) Remote SQL Injection Vulnerability - CVE: 2007-0765: https://www.exploit-db.com/exploits/3256

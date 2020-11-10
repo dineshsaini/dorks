@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5078
+Category:         Various Online Devices
+Published Date:   2019-01-17
+Author:           ManhNho
+GoogleDork:       inurl:/setup.cgi@next_file=
+Description:      inurl:/setup.cgi@next_file=
+
+
+Unauthorized Cisco LinkSys wireless  ManhNho 

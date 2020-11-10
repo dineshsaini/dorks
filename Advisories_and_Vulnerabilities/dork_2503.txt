@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2503
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:/_blogadata/
+Description:      inurl:/_blogadata/
+
+
+Blogator-script 0.95 (id_art) Remote SQL Injection Vulnerability - CVE: 2008-1763: https://www.exploit-db.com/exploits/5368

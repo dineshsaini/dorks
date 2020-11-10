@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5933
+Category:         Pages Containing Login Portals
+Published Date:   2020-04-21
+Author:           Juveria Banu
+GoogleDork:       site:."atlassian.net" "Log in to your account"
+Description:      site:."atlassian.net" "Log in to your account"
+
+
+Exposes login portals that may expose internal service desks.  site:."atlassian.net" "Log in to your account" site:".atlassian.net" / "service desk/customer/user/login"

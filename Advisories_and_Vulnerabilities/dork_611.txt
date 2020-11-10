@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/611
+Category:         Advisories and Vulnerabilities
+Published Date:   2004-10-22
+Author:           anonymous
+GoogleDork:       "Powered by YaPig V0.92b"
+Description:      "Powered by YaPig V0.92b"
+
+
+YaPiG is reported to contain an HTML injection vulnerability. The problem is reported to present itself due to a lack of sanitization performed on certain field data.This may allow an attacker to inject malicious HTML and script code into the application.http://www.securityfocus.com/bid/11452

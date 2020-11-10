@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4065
+Category:         Error Messages
+Published Date:   2015-08-28
+Author:           anonymous
+GoogleDork:       intitle:Error-javax.el.ELException+error+xhtml
+Description:      intitle:Error-javax.el.ELException+error+xhtml
+
+
+An Error Occurred: "javax.el.ELException"  Java error and gives  + Stack Trace, + Component Tree, + Scoped Variables.  -Xploit

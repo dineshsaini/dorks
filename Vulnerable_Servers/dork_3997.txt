@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3997
+Category:         Vulnerable Servers
+Published Date:   2015-03-16
+Author:           anonymous
+GoogleDork:       allintext:Copyright Smart PHP Poll. All Rights Reserved. -exploit
+Description:      allintext:Copyright Smart PHP Poll. All Rights Reserved. -exploit
+
+
+The dork "allintext:Copyright Smart PHP Poll. All Rights Reserved. -exploit" show all the sites that uses Smart Pool php module. The login page can be bypassed using these credentials User: admin 'or' 1=1 Password: anything More info here: https://www.exploit-db.com/exploits/36386/ PsyDel

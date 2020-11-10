@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1353
+Category:         Pages Containing Login Portals
+Published Date:   2006-05-03
+Author:           anonymous
+GoogleDork:       inurl:"/slxweb.dll/external?name=(custportal|webticketcust)"
+Description:      inurl:"/slxweb.dll/external?name=(custportal|webticketcust)"
+
+
+Customer login pages"SalesLogix is the Customer Relationship Management Solution that drives sales performance in small to Medium-sized businesses through Sales, Marketing, and Customer Support automation and back-officeintegration."

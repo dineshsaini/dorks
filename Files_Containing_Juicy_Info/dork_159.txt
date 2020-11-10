@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/159
+Category:         Files Containing Juicy Info
+Published Date:   2004-04-16
+Author:           anonymous
+GoogleDork:       inurl:"newsletter/admin/"
+Description:      inurl:"newsletter/admin/"
+
+
+These pages generally contain newsletter administration pages. Some of these site are password protected, others are not, allowing unauthorized users to send mass emails to an entire mailing list. This is a less acurate search than the similar intitle:"newsletter admin" search.

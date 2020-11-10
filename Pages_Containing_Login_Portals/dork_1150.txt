@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1150
+Category:         Pages Containing Login Portals
+Published Date:   2005-09-26
+Author:           anonymous
+GoogleDork:       intitle:"Supero Doctor III" -inurl:supermicro
+Description:      intitle:"Supero Doctor III" -inurl:supermicro
+
+
+"Supero Doctor III Remote Management" by Supermicro, Inc.info: http://www.supermicro.es/products/accessories/software/SuperODoctorIII.htmljust look for default password...

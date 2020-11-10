@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5709
+Category:         Files Containing Juicy Info
+Published Date:   2020-01-27
+Author:           Bruno Schmid
+GoogleDork:       intitle:"index of" ticket.conf
+Description:      intitle:"index of" ticket.conf
+
+
+Email info sometimes database dumps... Good luck! :)   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3948
+Category:         Vulnerable Servers
+Published Date:   2014-05-05
+Author:           anonymous
+GoogleDork:       "OpenSSL" AND "1.0.1 Server at" OR "1.0.1a Server at" OR "1.0.1b Server at" OR "1.0.1c Server at" OR "1.0.1d Server at" OR "1.0.1e Server at" OR "1.0.1f Server at"
+Description:      "OpenSSL" AND "1.0.1 Server at" OR "1.0.1a Server at" OR "1.0.1b Server at" OR "1.0.1c Server at" OR "1.0.1d Server at" OR "1.0.1e Server at" OR "1.0.1f Server at"
+
+
+Search for all Apache servers that are running specific versions of OpenSSL. These specific versions of OpenSSL could potentially be vulnerable to the heartbleed attack. Ahmad Al-Nounou 

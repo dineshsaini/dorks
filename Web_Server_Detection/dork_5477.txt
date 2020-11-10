@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5477
+Category:         Web Server Detection
+Published Date:   2019-08-30
+Author:           24Nitin
+GoogleDork:       inurl:/phpmyadmin/changelog.php -github -gitlab
+Description:      inurl:/phpmyadmin/changelog.php -github -gitlab
+
+
+ Google Dork Description :  inurl:/phpmyadmin/changelog.php -github -gitlab  Submited: 2019-08-29  # Exploit Title: Phpmyadmin changelog file # Date: 2019-08-29 # Vendor Homepage: N/A # Version: any # Exploit Author: 24Nitin # Contact: https://www.linkedin.com/in/nitin-kumar-125684166 # Website: https://www.tftus.com/ 

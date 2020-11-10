@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3592
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Page created in" "seconds by glFusion" +RSS
+Description:      "Page created in" "seconds by glFusion" +RSS
+
+
+CVE: 2009-1281 EDB-ID: 8347 This search can potentially identify vulnerable installations of glFusion. https://www.exploit-db.com/exploits/8347

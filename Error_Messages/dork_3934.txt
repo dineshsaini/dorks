@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3934
+Category:         Error Messages
+Published Date:   2014-02-05
+Author:           anonymous
+GoogleDork:       "[function.getimagesize]: failed to open stream: No such file or directory in"
+Description:      "[function.getimagesize]: failed to open stream: No such file or directory in"
+
+
+Just another error that reveals full paths

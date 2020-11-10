@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/87
+Category:         Error Messages
+Published Date:   2004-03-04
+Author:           anonymous
+GoogleDork:       "PostgreSQL query failed: ERROR: parser: parse error"
+Description:      "PostgreSQL query failed: ERROR: parser: parse error"
+
+
+An PostgreSQL error message, this message can display path names, function names, filenames and partial code, all of which are very helpful for hackers...

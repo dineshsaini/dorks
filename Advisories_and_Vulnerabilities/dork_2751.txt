@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2751
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by CMSimple"
+Description:      "Powered by CMSimple"
+
+
+CMSimple 3.1 Local File Inclusion / Arbitrary File Upload - CVE: 2008-2650: https://www.exploit-db.com/exploits/5700

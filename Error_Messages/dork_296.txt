@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/296
+Category:         Error Messages
+Published Date:   2004-06-24
+Author:           anonymous
+GoogleDork:       intitle:"Error Occurred While Processing Request" +WHERE (SELECT|INSERT) filetype:cfm
+Description:      intitle:"Error Occurred While Processing Request" +WHERE (SELECT|INSERT) filetype:cfm
+
+
+Cold fusion error messages logging the SQL SELECT or INSERT statements and the location of the .cfm file on the webserver.An attacker could use this information to quickly find SQL injection points.

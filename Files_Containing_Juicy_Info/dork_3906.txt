@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3906
+Category:         Files Containing Juicy Info
+Published Date:   2013-11-25
+Author:           anonymous
+GoogleDork:       inurl:/wp-content/uploads/ filetype:sql
+Description:      inurl:/wp-content/uploads/ filetype:sql
+
+
+Google dork for WordPress database backup file (sql): inurl:/wp-content/uploads/ filetype:sql By sm0k3 (http://sm0k3.net - Sm0k3 HQ) _________________ With regards, sm0k3 Any questions: info@sm0k3.net Administration issues: admin@sm0k3.net Want to submit an order: submit@sm0k3.net Jabber: sm0k3@im.sm0k3.net Blog: http://sm0k3.net

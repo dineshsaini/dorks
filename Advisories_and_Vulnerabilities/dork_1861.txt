@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1861
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"com_pollxt"
+Description:      inurl:"com_pollxt"
+
+
+pollxt Mambo Component 1.22.07 Remote Include Vulnerability - CVE: 2006-5045: https://www.exploit-db.com/exploits/2029

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1272
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-03-13
+Author:           anonymous
+GoogleDork:       "powered by sblog" +"version 0.7"
+Description:      "powered by sblog" +"version 0.7"
+
+
+please go here for a writeup on the vulnerability.HTML injection.http://www.securityfocus.com/bid/17044

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4857
+Category:         Files Containing Passwords
+Published Date:   2018-06-14
+Author:           ManhNho
+GoogleDork:       "password.xlsx" ext:xlsx
+Description:      "password.xlsx" ext:xlsx
+
+
+"password.xlsx" ext:xlsx  excel files containing password  ManhNho 

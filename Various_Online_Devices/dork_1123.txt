@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1123
+Category:         Various Online Devices
+Published Date:   2005-09-21
+Author:           anonymous
+GoogleDork:       intitle:"Orite IC301" | intitle:"ORITE Audio IP-Camera IC-301" -the -a
+Description:      intitle:"Orite IC301" | intitle:"ORITE Audio IP-Camera IC-301" -the -a
+
+
+This search finds orite 301 netcams with audio capabilities.

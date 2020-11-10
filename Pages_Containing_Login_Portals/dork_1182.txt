@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1182
+Category:         Pages Containing Login Portals
+Published Date:   2005-11-12
+Author:           anonymous
+GoogleDork:       intitle:"EXTRANET * - Identification"
+Description:      intitle:"EXTRANET * - Identification"
+
+
+WorkZone Extranet Solution login page. All portals are in french or spanish I belive.

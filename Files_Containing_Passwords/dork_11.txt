@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/11
+Category:         Files Containing Passwords
+Published Date:   2003-06-24
+Author:           anonymous
+GoogleDork:       mysql history files
+Description:      mysql history files
+
+
+The .mysql_history file contains commands that were performed against a mysql database. A "history" of said commands. First, you shouldn't show this file to anyone, especially not a MAJOR SEARCH ENGINE! Secondly, I sure hope you wouldn't type anything sensitive while interacting with your databases, like oh say USERNAMES AND PASSWORDS...

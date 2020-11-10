@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1634
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intitle:"zFeeder admin panel"
+Description:      intitle:"zFeeder admin panel"
+
+
+zFeeder 1.6 (admin.php) No Authentication Vulnerability - CVE: 2009-0807: https://www.exploit-db.com/exploits/8092

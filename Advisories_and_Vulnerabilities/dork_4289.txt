@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4289
+Category:         Advisories and Vulnerabilities
+Published Date:   2016-05-26
+Author:           anonymous
+GoogleDork:       intext:"Forum software by XenForo™"
+Description:      intext:"Forum software by XenForo™"
+
+
+intext:"Forum software by XenForo™" XenForo SQLi Vulnerability. - https://www.exploit-db.com/exploits/39849/ "value" parameter unsanitized.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/732
+Category:         Web Server Detection
+Published Date:   2004-11-30
+Author:           anonymous
+GoogleDork:       intitle:"Resin Default Home Page"
+Description:      intitle:"Resin Default Home Page"
+
+
+Resin provides a fast standalone web server. This search locates those servers based on the title of the default page.

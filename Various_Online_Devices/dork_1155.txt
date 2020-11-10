@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1155
+Category:         Various Online Devices
+Published Date:   2005-09-29
+Author:           anonymous
+GoogleDork:       (intitle:"VisionGS Webcam Software")|(intext:"Powered by VisionGS Webcam") -showthread.php -showpost.php -"Search Engine" -computersglobal.com -site:g
+Description:      (intitle:"VisionGS Webcam Software")|(intext:"Powered by VisionGS Webcam") -showthread.php -showpost.php -"Search Engine" -computersglobal.com -site:g
+
+
+I don't know if the google query got submitted right because it looks truncated. here it is again:(intitle:"VisionGS Webcam Software")|(intext:"Powered by VisionGS Webcam") -showthread.php -showpost.php -"Search Engine" -computersglobal.com -site:golb.org -site:chat.ru -site:findlastminute.de -site:tricus.de -site:urlaubus.de -johnny.ihackstuff VisionGS webcam software enables anyone with a webcam to easily host a webcam http server. This dork finds those servers.

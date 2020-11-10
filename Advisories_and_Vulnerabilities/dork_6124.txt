@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6124
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-05-26
+Author:           Abhi Chitkara
+GoogleDork:       inurl:wp-content/plugins/thirstyaffiliates
+Description:      inurl:wp-content/plugins/thirstyaffiliates
+
+
+Dork: inurl:wp-content/plugins/thirstyaffiliates Description: This google dork lists out Advisories and Vulnerabilities regarding the thirsty affiliates wordpress plugin. Ref: https://wpvulndb.com/vulnerabilities/10234 Author: Abhi Chitkara 

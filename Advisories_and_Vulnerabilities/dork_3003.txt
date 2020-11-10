@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3003
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:com_bfsurvey_profree
+Description:      inurl:com_bfsurvey_profree
+
+
+Joomla Component BF Survey Pro Free SQL Injection - CVE: 2009-4625: https://www.exploit-db.com/exploits/9601

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6596
+Category:         Files Containing Passwords
+Published Date:   2020-10-06
+Author:           Alexandros Pappas
+GoogleDork:       "anaconda-ks.cfg" | "ks.cfg" ext:cfg -git -gitlab
+Description:      "anaconda-ks.cfg" | "ks.cfg" ext:cfg -git -gitlab
+
+
+# Google Dork: "anaconda-ks.cfg" | "ks.cfg" ext:cfg -git -gitlab  # Sensitive directories containing passwords.  # Date: 6/10/2020  # Exploit Author: Alexandros Pappas 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1404
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-08-13
+Author:           anonymous
+GoogleDork:       "Powered by sendcard - an advanced PHP e-card program" -site:sendcard.org
+Description:      "Powered by sendcard - an advanced PHP e-card program" -site:sendcard.org
+
+
+this is for Sendcard remote commands execution,advisory/ poc exploit: http://retrogod.altervista.org/sendcard_340_xpl.html

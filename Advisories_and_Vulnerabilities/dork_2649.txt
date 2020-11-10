@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2649
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:com_mdigg
+Description:      inurl:com_mdigg
+
+
+Joomla Component mdigg 2.2.8 (category) SQL Injection Vuln - CVE: 2008-6149: https://www.exploit-db.com/exploits/7574

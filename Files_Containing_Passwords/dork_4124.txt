@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4124
+Category:         Files Containing Passwords
+Published Date:   2015-11-11
+Author:           anonymous
+GoogleDork:       inurl:"ftp" intext:"user" | "username" | "userID" | "user ID" | "logon" | "login" intext:"password" | "passcode" filetype:xls | filetype:xlsx
+Description:      inurl:"ftp" intext:"user" | "username" | "userID" | "user ID" | "logon" | "login" intext:"password" | "passcode" filetype:xls | filetype:xlsx
+
+
+Passwords :D Decoy

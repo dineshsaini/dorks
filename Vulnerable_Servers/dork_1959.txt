@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1959
+Category:         Vulnerable Servers
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       EDB-ID 5703
+Description:      EDB-ID 5703
+
+
+https://www.exploit-db.com/exploits/5703/

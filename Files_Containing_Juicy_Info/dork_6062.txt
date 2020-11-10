@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6062
+Category:         Files Containing Juicy Info
+Published Date:   2020-05-07
+Author:           Alexandros Pappas
+GoogleDork:       intitle:"index of" "fullchain.pem" OR "chain.pem"
+Description:      intitle:"index of" "fullchain.pem" OR "chain.pem"
+
+
+# Google Dork: intitle:"index of" "fullchain.pem" OR "chain.pem"  # Juicy and sensitive information.  # Date: 7/05/2020  # Author: Alexandros Pappas 

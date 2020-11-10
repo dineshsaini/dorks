@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2580
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"view.php?ItemID=" rating "rate this review"
+Description:      inurl:"view.php?ItemID=" rating "rate this review"
+
+
+Prozilla Reviews Script 1.0 Arbitrary Delete User Vulnerability - CVE: 2008-1783: https://www.exploit-db.com/exploits/5387

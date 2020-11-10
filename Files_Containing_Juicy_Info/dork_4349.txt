@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4349
+Category:         Files Containing Juicy Info
+Published Date:   2016-10-27
+Author:           anonymous
+GoogleDork:       "PHP Version" inurl:/php/phpinfo.php
+Description:      "PHP Version" inurl:/php/phpinfo.php
+
+
+This finds pages containing info about the PHP installation and is useful for reconnaissance. Dork: "PHP Version" inurl:/php/phpinfo.php -Gee

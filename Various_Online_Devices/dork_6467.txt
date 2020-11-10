@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6467
+Category:         Various Online Devices
+Published Date:   2020-08-07
+Author:           Alexandros Pappas
+GoogleDork:       "Camera Live Image" inurl:"guestimage.html"
+Description:      "Camera Live Image" inurl:"guestimage.html"
+
+
+# Google Dork: "Camera Live Image" inurl:"guestimage.html" # Various online devices (webcams). # Date: 07/08/2020 # Exploit Author: Alexandros Pappas 

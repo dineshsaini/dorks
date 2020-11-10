@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2492
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by CMScout (c)2005 CMScout Group
+Description:      Powered by CMScout (c)2005 CMScout Group
+
+
+CMScout (XSS/HTML Injection) Multiple Vulnerabilities - CVE: 2010-2154: https://www.exploit-db.com/exploits/12806

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3698
+Category:         Advisories and Vulnerabilities
+Published Date:   2011-03-14
+Author:           anonymous
+GoogleDork:       ADAN (view.php ) Sql Injection Vulnerability
+Description:      ADAN (view.php ) Sql Injection Vulnerability
+
+
+SQL Injection: https://www.exploit-db.com/exploits/16276/ 

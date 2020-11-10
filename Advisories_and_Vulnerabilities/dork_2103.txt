@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2103
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:com_jabode
+Description:      inurl:com_jabode
+
+
+Joomla Component jabode (id) Remote SQL Injection Vulnerability - CVE: 2008-7169: https://www.exploit-db.com/exploits/5963

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/805
+Category:         Various Online Devices
+Published Date:   2004-12-30
+Author:           anonymous
+GoogleDork:       inurl:"next_file=main_fs.htm" inurl:img inurl:image.cgi
+Description:      inurl:"next_file=main_fs.htm" inurl:img inurl:image.cgi
+
+
+Linksys Wireless-G web cams.

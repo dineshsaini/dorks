@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4750
+Category:         Files Containing Passwords
+Published Date:   2018-04-06
+Author:           _palonE
+GoogleDork:       site:pastebin.com "rcon_password"
+Description:      site:pastebin.com "rcon_password"
+
+
+Finding rcon_ passwords to source engine based game servers on pastebin. This allows you to execute server side commands, it is kinda like an admin password.  Use ethically and responsibly. Dork by _palonE 

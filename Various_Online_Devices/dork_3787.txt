@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3787
+Category:         Various Online Devices
+Published Date:   2012-05-15
+Author:           anonymous
+GoogleDork:       inurl:Settings.aspx intitle:Beyond TV
+Description:      inurl:Settings.aspx intitle:Beyond TV
+
+
+Beyond TV gives you the capability to turn your PC into a high quality, digital video recorder (DVR). Most people use it for cable TV so that they don't have to spend rent money on a low end quality hardware DVR from their cable company. It's default config has no password or username enabled. Very bad for people who connect their PCs directly to their modems. I have Beyond TV and I was curious on how secure it is.

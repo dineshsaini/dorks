@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1266
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-02-12
+Author:           anonymous
+GoogleDork:       (intitle:"metaframe XP Login")|(intitle:"metaframe Presentation server Login")
+Description:      (intitle:"metaframe XP Login")|(intitle:"metaframe Presentation server Login")
+
+
+Once you input any username, you'll get an error message. Try putting a script with some other fun commands in it. Just send some info off to be logged.If exploited correctly, could give you admin access to a network.

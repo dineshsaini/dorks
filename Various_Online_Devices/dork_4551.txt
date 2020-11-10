@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4551
+Category:         Various Online Devices
+Published Date:   2017-07-20
+Author:           anonymous
+GoogleDork:       intitle:"cuckoo sandbox" "failed_reporting"
+Description:      intitle:"cuckoo sandbox" "failed_reporting"
+
+
+Dork: intitle:"cuckoo sandbox" "failed_reporting" Description: Find open Cuckoo sanboxes! Free samples! Author: scumsec

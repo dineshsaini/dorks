@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1285
+Category:         Various Online Devices
+Published Date:   2006-03-18
+Author:           anonymous
+GoogleDork:       intitle:"Ethernet Network Attached Storage Utility"
+Description:      intitle:"Ethernet Network Attached Storage Utility"
+
+
+Linksys network storage utility.

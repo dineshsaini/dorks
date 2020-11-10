@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4366
+Category:         Footholds
+Published Date:   2016-11-29
+Author:           anonymous
+GoogleDork:       Meg4-Mail ext:php
+Description:      Meg4-Mail ext:php
+
+
+Google Dork: Meg4-Mail ext:php PHP MAILER NO SPAM PLEASE .. Goolge Dork by INILERM

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/541
+Category:         Advisories and Vulnerabilities
+Published Date:   2004-10-09
+Author:           anonymous
+GoogleDork:       "Powered by yappa-ng"
+Description:      "Powered by yappa-ng"
+
+
+yappa-ng is a very powerful but easy to install and easy to use online PHP photo gallery for all Operating Systems (Linux/UNIX, Windows, MAC, ...), and all Webservers (Apache, IIS, ...) with no need for a DataBase (no MySQL,...).yappa-ng is prone to a security vulnerability in the AddOn that shows a random image from any homepage. This issue may let unauthorized users access images from locked albums.http://www.securityfocus.com/bid/11314

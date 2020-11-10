@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/768
+Category:         Web Server Detection
+Published Date:   2004-12-13
+Author:           anonymous
+GoogleDork:       inurl:2506/jana-admin
+Description:      inurl:2506/jana-admin
+
+
+The JanaServer 2 is amongst other things a proxy server, that makes it possible for LAN members, everyone or a group as a part of the LAN, to access the internet via a Modem, ISDN or DSL connection. For this the program must be installed on the computer, that can access the internet by an installed modem, ISDN or a DSL adapter.

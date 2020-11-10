@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4890
+Category:         Files Containing Juicy Info
+Published Date:   2018-07-10
+Author:           Bruno Schmid
+GoogleDork:       inurl:"root?originalDomain"
+Description:      inurl:"root?originalDomain"
+
+
+Dorks giving up domains and hosts information  Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

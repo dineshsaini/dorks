@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/675
+Category:         Advisories and Vulnerabilities
+Published Date:   2004-11-12
+Author:           anonymous
+GoogleDork:       "driven by: ASP Message Board"
+Description:      "driven by: ASP Message Board"
+
+
+Multiple unspecified vulnerabilities reportedly affect the Infusium ASP Message Board. A remote attacker may leverage these issues to steal cookie-based authentication credentials, reveal sensitive data and corrupt database contents. vulnerable Infuseum ASP Message Board 2.2.1 cAdding the 2.2.1c seems to filter out some good positives, so I left it out.

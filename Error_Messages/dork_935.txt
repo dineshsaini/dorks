@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/935
+Category:         Error Messages
+Published Date:   2005-04-05
+Author:           anonymous
+GoogleDork:       Netscape Application Server Error page
+Description:      Netscape Application Server Error page
+
+
+This error message highlights potentially unpatched or misconfigured Netscape Application Server or iPlanet application servers. An inquisitive mind would probably want to manually alter the URL's returned by this query, just to see what other, more informative messages might be revealed. As these servers are already exhibiting a misconfiguration, this could lead to other vulnerabilities being discovered.Finally, these servers are running software that is a few years old now. An attacker may feel that because of this, there's a strong possibility that they're not patched-up fully either, making them potentially vulnerable to known exploits.

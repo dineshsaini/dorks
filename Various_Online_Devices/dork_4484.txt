@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4484
+Category:         Various Online Devices
+Published Date:   2017-05-12
+Author:           anonymous
+GoogleDork:       intitle:"Welcome to ZyXEL" -zyxel.com
+Description:      intitle:"Welcome to ZyXEL" -zyxel.com
+
+
+Finds ZyXEL routers, IP cameras, and other devices Dxtroyer

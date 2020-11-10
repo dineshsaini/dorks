@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2887
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:e107_plugins
+Description:      inurl:e107_plugins
+
+
+e107 Code Exec - CVE: 2010-2099: https://www.exploit-db.com/exploits/12715

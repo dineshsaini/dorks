@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3466
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by FreeWebshop.org 2.2.1"
+Description:      "Powered by FreeWebshop.org 2.2.1"
+
+
+FreeWebshop 2.2.1 Remote Blind SQL Injection - CVE: 2007-6466: https://www.exploit-db.com/exploits/4740

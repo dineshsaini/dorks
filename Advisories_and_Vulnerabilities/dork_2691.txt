@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2691
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:category.php?cate_id=
+Description:      inurl:category.php?cate_id=
+
+
+GC Auction Platinum (cate_id) Remote SQL Injection Vulnerability - CVE: 2008-3413: https://www.exploit-db.com/exploits/6144

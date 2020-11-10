@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1758
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by: PostGuestbook 0.6.1"
+Description:      "Powered by: PostGuestbook 0.6.1"
+
+
+PHP-Nuke Module PostGuestbook 0.6.1 (tpl_pgb_moddir) RFI Vulnerability - CVE: 2007-1372: https://www.exploit-db.com/exploits/3423

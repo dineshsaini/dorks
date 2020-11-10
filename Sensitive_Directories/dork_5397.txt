@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5397
+Category:         Sensitive Directories
+Published Date:   2019-08-19
+Author:           Hari Prasad T.
+GoogleDork:       intitle:index.of./.db
+Description:      intitle:index.of./.db
+
+
+dork to find the database information.  Dork : intitle:index.of./.db  

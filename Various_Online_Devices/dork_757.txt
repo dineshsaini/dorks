@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/757
+Category:         Various Online Devices
+Published Date:   2004-12-06
+Author:           anonymous
+GoogleDork:       intitle:"AudioReQuest.web.server"
+Description:      intitle:"AudioReQuest.web.server"
+
+
+Audio ReQuest home CD/MP3 player. Various information about the configuration of the host and surrounding network can be found out by visiting the main page of this server. Beyond that, you could peruse someones MP3 collection!

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2613
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allinurl:option=com_livechat
+Description:      allinurl:option=com_livechat
+
+
+Joomla Live Chat (SQL/Proxy) Multiple Remote Vulnerabilities - CVE: 2008-6883: https://www.exploit-db.com/exploits/7441

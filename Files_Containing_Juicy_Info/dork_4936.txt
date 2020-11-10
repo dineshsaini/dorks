@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4936
+Category:         Files Containing Juicy Info
+Published Date:   2018-09-04
+Author:           hehnope
+GoogleDork:       intext:"PHP Version " ext:php intext:"disabled" intext:"Build Date" intext:"System" intext:"allow_url_fopen"
+Description:      intext:"PHP Version " ext:php intext:"disabled" intext:"Build Date" intext:"System" intext:"allow_url_fopen"
+
+
+Exploit Title: Finds phpinfo() pages that are not tied to extensions or file types. Google Dork: intext:"PHP Version " ext:php intext:"disabled" intext:"Build Date" intext:"System" intext:"allow_url_fopen" Date: 9-1-2018 Exploit Author: hehnope

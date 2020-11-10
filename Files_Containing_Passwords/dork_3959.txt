@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3959
+Category:         Files Containing Passwords
+Published Date:   2014-08-21
+Author:           anonymous
+GoogleDork:       inurl:ws_ftp.ini "[WS_FTP]" filetype:ini
+Description:      inurl:ws_ftp.ini "[WS_FTP]" filetype:ini
+
+
+inurl:ws_ftp.ini "[WS_FTP]" filetype:ini Files containing passwords By Dr4GoR1Ty

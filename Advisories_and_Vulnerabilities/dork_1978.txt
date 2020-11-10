@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1978
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:acrotxt.php wbb
+Description:      inurl:acrotxt.php wbb
+
+
+WBB2-Addon: Acrotxt v1 (show) Remote SQL Injection Vulnerability - CVE: 2007-4581: https://www.exploit-db.com/exploits/4327

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4615
+Category:         Files Containing Juicy Info
+Published Date:   2017-11-15
+Author:           m0be1
+GoogleDork:       inurl:wp-links-opml.php
+Description:      inurl:wp-links-opml.php
+
+
+A Google dork that gives the information about wordpress opml version  *Dork discovered by:* m0be1 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6302
+Category:         Sensitive Directories
+Published Date:   2020-06-17
+Author:           Alexandros Pappas
+GoogleDork:       inurl:_vti_pvt/service.pwd
+Description:      inurl:_vti_pvt/service.pwd
+
+
+# Google Dork: inurl:_vti_pvt/service.pwd # Juicy information and sensitive directories including passwords. # Date: 17/06/2020 # Exploit Author: Alexandros Pappas 

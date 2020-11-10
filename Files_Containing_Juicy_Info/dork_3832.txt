@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3832
+Category:         Files Containing Juicy Info
+Published Date:   2013-02-05
+Author:           anonymous
+GoogleDork:       ext:gnucash
+Description:      ext:gnucash
+
+
+*Google Search:* http://www.google.com/search?q=ext:gnucash *Description:* Find Gnucash Databases containing juicy info. *Author:* http://la.usch.io https://www.twitter.com/la_usch -------------------------------------------------------- Cheers L@usch Web: http://la.usch.io Twitter: https://www.twitter.com/la_usch 

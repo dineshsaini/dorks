@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/980
+Category:         Various Online Devices
+Published Date:   2005-05-14
+Author:           anonymous
+GoogleDork:       intitle:"--- VIDEO WEB SERVER ---" intext:"Video Web Server" "Any time &amp; Any where" username password
+Description:      intitle:"--- VIDEO WEB SERVER ---" intext:"Video Web Server" "Any time &amp; Any where" username password
+
+
+AVTech Video Web Server is a surveillance producted that is directly connected to the internet It could enable the AVTech DVR series products or any camera to connect to Internet for remote monitoring or remote control. Besides, it could also enable 2 video input to connect to Internet for remote monitoring and recording. Besides the web interface it also offers an ftp server.

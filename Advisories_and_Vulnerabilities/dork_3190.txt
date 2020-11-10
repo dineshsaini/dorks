@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3190
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intext:"pLink 2.07"
+Description:      intext:"pLink 2.07"
+
+
+pLink 2.07 (linkto.php id) Remote Blind SQL Injection - CVE: 2008-4357: https://www.exploit-db.com/exploits/6449

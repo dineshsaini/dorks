@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5721
+Category:         Various Online Devices
+Published Date:   2020-01-30
+Author:           Bruno Schmid
+GoogleDork:       "Firmware Version" intitle:"iLO" ProLiant Login -hpe.com -update
+Description:      "Firmware Version" intitle:"iLO" ProLiant Login -hpe.com -update
+
+
+Dork for device (iLo ProLiant HPE) discovery. This is an alternative to shodan  Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

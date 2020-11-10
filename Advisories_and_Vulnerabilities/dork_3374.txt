@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3374
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intext:"Powered by Lore 1.5.6"
+Description:      intext:"Powered by Lore 1.5.6"
+
+
+re 1.5.6 (article.php) Blind SQL Injection: https://www.exploit-db.com/exploits/7896

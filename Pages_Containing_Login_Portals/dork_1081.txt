@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1081
+Category:         Pages Containing Login Portals
+Published Date:   2005-08-30
+Author:           anonymous
+GoogleDork:       intitle:"Content Management System" "user name"|"password"|"admin" "Microsoft IE 5.5" -mambo -johnny.ihackstuff
+Description:      intitle:"Content Management System" "user name"|"password"|"admin" "Microsoft IE 5.5" -mambo -johnny.ihackstuff
+
+
+iCMS - Content Management System...Create websites without knowing HTML or web programming.

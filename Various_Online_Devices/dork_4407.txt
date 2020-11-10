@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4407
+Category:         Various Online Devices
+Published Date:   2017-03-08
+Author:           anonymous
+GoogleDork:       inurl:cgi-bin/lsnodes_web?node
+Description:      inurl:cgi-bin/lsnodes_web?node
+
+
+Dork for status node of radios online. Dork by Rootkit Pentester.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5585
+Category:         Sensitive Directories
+Published Date:   2019-10-18
+Author:           Reza Abasi
+GoogleDork:       intitle:"index of" "/etc/mysql/"
+Description:      intitle:"index of" "/etc/mysql/"
+
+
+Sensitive directories and files:  intitle:"index of" "/etc/mysql/"  Reza Abasi(Turku) 

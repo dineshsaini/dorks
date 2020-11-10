@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2926
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allinurl:"com_ahsshop"do=default
+Description:      allinurl:"com_ahsshop"do=default
+
+
+Mambo Component ahsShop 1.51 (vara) SQL Injection Vulnerability: https://www.exploit-db.com/exploits/5335

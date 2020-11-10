@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3697
+Category:         Advisories and Vulnerabilities
+Published Date:   2011-03-14
+Author:           anonymous
+GoogleDork:       "POWERED BY LOG1 CMS"
+Description:      "POWERED BY LOG1 CMS"
+
+
+Multiple Vulnerabilities: https://www.exploit-db.com/exploits/16969/

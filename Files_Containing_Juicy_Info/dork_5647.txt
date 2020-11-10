@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5647
+Category:         Files Containing Juicy Info
+Published Date:   2019-11-20
+Author:           Reza Abasi
+GoogleDork:       intitle:"index of" "mail.log"
+Description:      intitle:"index of" "mail.log"
+
+
+Files containing juciy info:  intitle:"index of" "mail.log" intitle:"index of" "mail.err"  Reza Abasi(Turku) 

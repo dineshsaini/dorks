@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4598
+Category:         Various Online Devices
+Published Date:   2017-10-23
+Author:           anonymous
+GoogleDork:       inurl:guestimage.html
+Description:      inurl:guestimage.html
+
+
+Mobotix cameras online.  By Rootkit Pentester. 

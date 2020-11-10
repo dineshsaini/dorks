@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2408
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"read.asp?fID="
+Description:      inurl:"read.asp?fID="
+
+
+JiRo?s FAQ Manager (read.asp fID) SQL Injection Vulnerability - CVE: 2008-2691: https://www.exploit-db.com/exploits/5753

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2684
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by Absolute File Send"
+Description:      "Powered by Absolute File Send"
+
+
+Absolute File Send 1.0 Remote Cookie Handling Vulnerability: https://www.exploit-db.com/exploits/6881

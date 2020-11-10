@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5987
+Category:         Files Containing Juicy Info
+Published Date:   2020-05-01
+Author:           Alexandros Pappas
+GoogleDork:       intitle:"index of" "docker-cloud.yml"
+Description:      intitle:"index of" "docker-cloud.yml"
+
+
+# Google Dork:  intitle:"index of" "docker-cloud.yml" intitle:"index of" "docker-compose.dev.yml" OR "docker-compose.prod.yml" OR "docker-compose.test.yml"  # Juicy information and sensitive directories including user names and passwords.  # Date: 1/05/2020  # Author: Alexandros Pappas 

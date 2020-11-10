@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3402
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       aspWebLinks 2.0
+Description:      aspWebLinks 2.0
+
+
+aspWebLinks 2.0 Remote SQL Injection / Admin Pass Change - CVE: 2006-2848: https://www.exploit-db.com/exploits/1859

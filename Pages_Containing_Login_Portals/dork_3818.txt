@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3818
+Category:         Pages Containing Login Portals
+Published Date:   2012-11-02
+Author:           anonymous
+GoogleDork:       inurl:"InfoViewApp/logon.jsp"
+Description:      inurl:"InfoViewApp/logon.jsp"
+
+
+Google Hacking *SAP Business Object 3.1 XI* inurl:"InfoViewApp/logon.jsp" twitter @firebitsbr

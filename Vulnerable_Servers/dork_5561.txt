@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5561
+Category:         Vulnerable Servers
+Published Date:   2019-10-01
+Author:           anonymous
+GoogleDork:       vBulletin 5.0 &lt; 5.5.4 - Unauthenticated Remote Code Execution
+Description:      vBulletin 5.0 &lt; 5.5.4 - Unauthenticated Remote Code Execution
+
+
+vBulletin 5.x 0day pre-auth RCE exploit  This should work on all versions from 5.0.0 till 5.5.4  Google Dorks: - site:*.vbulletin.net - "Powered by vBulletin Version 5.5.4"

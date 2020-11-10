@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/250
+Category:         Files Containing Juicy Info
+Published Date:   2004-05-24
+Author:           anonymous
+GoogleDork:       inurl:"cacti" +inurl:"graph_view.php" +"Settings Tree View" -cvs -RPM
+Description:      inurl:"cacti" +inurl:"graph_view.php" +"Settings Tree View" -cvs -RPM
+
+
+This search reveals internal network info including architecture, hosts and services available.

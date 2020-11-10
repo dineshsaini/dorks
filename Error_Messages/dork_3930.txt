@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3930
+Category:         Error Messages
+Published Date:   2014-02-05
+Author:           anonymous
+GoogleDork:       intext:"Access denied for" intitle:"Shopping cart"
+Description:      intext:"Access denied for" intitle:"Shopping cart"
+
+
+Here is a Dork I use in conjunction with sqlmap, for shopping carts with MySQL Error messages. It got 80.000 results. intext:"Access denied for" intitle:"Shopping cart"

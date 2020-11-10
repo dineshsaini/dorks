@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4313
+Category:         Sensitive Directories
+Published Date:   2016-07-27
+Author:           anonymous
+GoogleDork:       inurl:pictures intitle:index.of
+Description:      inurl:pictures intitle:index.of
+
+
+inurl:pictures intitle:index.of Loads of personal pictures and what not Sent from trump tower 

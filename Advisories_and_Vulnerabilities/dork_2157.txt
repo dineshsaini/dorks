@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2157
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "You have not provided a survey identification number"
+Description:      "You have not provided a survey identification number"
+
+
+LimeSurvey 1.52 (language.php) Remote File Inclusion Vulnerability - CVE: 2007-5573: https://www.exploit-db.com/exploits/4544

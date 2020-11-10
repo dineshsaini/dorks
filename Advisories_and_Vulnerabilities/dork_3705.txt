@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3705
+Category:         Advisories and Vulnerabilities
+Published Date:   2011-03-24
+Author:           anonymous
+GoogleDork:       "site by Designscope"
+Description:      "site by Designscope"
+
+
+Submitter: Net.Edit0r SQL Injection: http://127.0.0.1/general.php?pageID=[SQL] http://127.0.0.1/content.php?pageID=[SQL]

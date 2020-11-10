@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1499
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       " ActiveKB v1.5 Copyright Â©"
+Description:      " ActiveKB v1.5 Copyright Â©"
+
+
+ActiveKB 1.5 Insecure Cookie Handling/Arbitrary Admin Access - CVE: 2008-2338: https://www.exploit-db.com/exploits/5616/

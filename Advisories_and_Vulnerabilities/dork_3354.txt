@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3354
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:roschedule.php
+Description:      inurl:roschedule.php
+
+
+phpScheduleIt 1.2.10 (reserve.php) Remote Code Execution - CVE: 2008-6132: https://www.exploit-db.com/exploits/6646

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4179
+Category:         Error Messages
+Published Date:   2016-01-07
+Author:           anonymous
+GoogleDork:       inurl:/SAML2/SOAP/ | inurl:/SAML2/POST
+Description:      inurl:/SAML2/SOAP/ | inurl:/SAML2/POST
+
+
+Shibboleth Error XML -Xploit 

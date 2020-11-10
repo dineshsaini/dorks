@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6626
+Category:         Pages Containing Login Portals
+Published Date:   2020-10-20
+Author:           Aninda Saha
+GoogleDork:       intitle:"pi-hole Admin console" intext:"login"
+Description:      intitle:"pi-hole Admin console" intext:"login"
+
+
+#Google Dork: intitle:"pi-hole Admin console" intext:"login" #Description : Various pages containing pi hole login portals. #Date : 19/10/2020 #Exploit Author: Aninda Saha  

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6272
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-06-11
+Author:           Abhi Chitkara
+GoogleDork:       inurl:wp-content/plugins/brizy
+Description:      inurl:wp-content/plugins/brizy
+
+
+Dork: inurl:wp-content/plugins/brizy Description: This google dork lists out Advisories and Vulnerabilities regarding the brizy wordpress plugin. Ref: https://wpvulndb.com/vulnerabilities/10261 Author: Abhi Chitkara 

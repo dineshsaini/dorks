@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3411
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"printable_pedigree.php"				
+Description:      inurl:"printable_pedigree.php"				
+
+
+Dog Pedigree Online Database 1.0.1b Insecure Cookie Handling: https://www.exploit-db.com/exploits/8739

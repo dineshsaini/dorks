@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/524
+Category:         Vulnerable Files
+Published Date:   2004-10-05
+Author:           anonymous
+GoogleDork:       inurl:cgi.asx?StoreID
+Description:      inurl:cgi.asx?StoreID
+
+
+BeyondTV is a web based software product which let you manage your TV station. All you need is to install a TV tuner card on your PC and Connect your TV source (i.e. television antenna) to your TV tuner card. With a installed BeyondTV version you can now administrate your TV with your browser even over the internet.

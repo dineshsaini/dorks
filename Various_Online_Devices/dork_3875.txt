@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3875
+Category:         Various Online Devices
+Published Date:   2013-08-08
+Author:           anonymous
+GoogleDork:       intitle:"Web Image Monitor" &amp; inurl:"/mainFrame.cgi"
+Description:      intitle:"Web Image Monitor" &amp; inurl:"/mainFrame.cgi"
+
+
+#Summary: Several printers that use "Web Image Monitor" control panel ( http://ricoh.pbworks.com/w/page/14063393/CSWebImageMonitor). Used default by Ricoh, Lanier and others. #Author: g00gl3 5c0u7

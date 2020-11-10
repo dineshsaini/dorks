@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4456
+Category:         Files Containing Juicy Info
+Published Date:   2017-05-03
+Author:           anonymous
+GoogleDork:       "InnoDB:" ext:log
+Description:      "InnoDB:" ext:log
+
+
+Finds MySQL error logs and the such Dxtroyer

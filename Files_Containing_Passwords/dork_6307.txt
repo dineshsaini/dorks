@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6307
+Category:         Files Containing Passwords
+Published Date:   2020-06-17
+Author:           Shivanshu Sharma
+GoogleDork:       filetype:env "DB_PASSWORD"
+Description:      filetype:env "DB_PASSWORD"
+
+
+# Dork : filetype:env "DB_PASSWORD" # This Dork reveals the .env files that contain Strings about Database Passwords, Hence revealing the passwords to the database found. # Author : Shivanshu Sharma   

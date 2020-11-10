@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4542
+Category:         Footholds
+Published Date:   2017-06-27
+Author:           anonymous
+GoogleDork:       "Sorting Logs:" "Please enter your password" "Powered By" -urlscan -alamy
+Description:      "Sorting Logs:" "Please enter your password" "Powered By" -urlscan -alamy
+
+
+Finds stealer botnet control panels (If you can guess the login, you'll have access to the WHOLE botnet!) Dxtroyer

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5976
+Category:         Files Containing Juicy Info
+Published Date:   2020-04-30
+Author:           Alexandros Pappas
+GoogleDork:       intitle:"index of" /insecure_private_key
+Description:      intitle:"index of" /insecure_private_key
+
+
+# Google Dork: intitle:"index of" /insecure_private_key  # RSA private keys.  # Date: 30/04/2020  # Author: Alexandros Pappas 

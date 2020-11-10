@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4019
+Category:         Files Containing Juicy Info
+Published Date:   2015-06-10
+Author:           anonymous
+GoogleDork:       intitle:"index of" "fic" "ndx"
+Description:      intitle:"index of" "fic" "ndx"
+
+
+# Exploit Title: intitle:"index of" "fic" "ndx" # Google Dork: intitle:"index of" "fic" "ndx" # Date: 10/06/2015 # Exploit Author: Sphearis This dork allows you to look for Hyperfile databases(.FIC) stored in the open. You can simply read them in a text editor(You'll see the header and then the database content in plain text) or you can convert them(to xml, excel, ...) with free software. In order to convert them, you also need the linked index file (.NDX) and optional mmo file which are located in the same directory. Some Windev/Webdev installations store usernames and other sensitive information in that kind of file.

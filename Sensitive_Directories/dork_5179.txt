@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5179
+Category:         Sensitive Directories
+Published Date:   2019-04-11
+Author:           deadroot
+GoogleDork:       "/var/cache/registry/"
+Description:      "/var/cache/registry/"
+
+
+# Exploit Title:  CS-Cart admin panel settings information  # Google Dork:  "/var/cache/registry/"  # Date: 11, Apr, 2019 # Vendor Homepage: https://www.cs-cart.com/  # Exploit Author: deadroot

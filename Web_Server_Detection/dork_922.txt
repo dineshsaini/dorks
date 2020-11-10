@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/922
+Category:         Web Server Detection
+Published Date:   2005-03-29
+Author:           anonymous
+GoogleDork:       intitle:"IPC@CHIP Infopage"
+Description:      intitle:"IPC@CHIP Infopage"
+
+
+web server detection for IPC@chip embedded webserverThe dork uses the webserver's infopage which reveals some very interesting information.See securityfocus advisory for more info: http://www.securityfocus.com/bid/2767

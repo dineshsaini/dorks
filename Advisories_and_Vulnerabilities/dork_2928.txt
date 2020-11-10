@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2928
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by ExoPHPDesk v1.2 Final.
+Description:      Powered by ExoPHPDesk v1.2 Final.
+
+
+ExoPHPDesk 1.2.1 (faq.php) Remote SQL Injection Vulnerability - CVE: 2007-0676: https://www.exploit-db.com/exploits/3234

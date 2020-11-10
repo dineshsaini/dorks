@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/453
+Category:         Sensitive Directories
+Published Date:   2004-08-26
+Author:           anonymous
+GoogleDork:       intitle:index.of /AlbumArt_
+Description:      intitle:index.of /AlbumArt_
+
+
+Directories containing commercial music.AlbumArt_{.*}.jpg are download/create by MS-Windows Media Player in music directory.

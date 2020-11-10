@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5851
+Category:         Various Online Devices
+Published Date:   2020-03-30
+Author:           Siddhesh Thakur
+GoogleDork:       intitle:"webcamXP 5" inurl:8080 'Live'
+Description:      intitle:"webcamXP 5" inurl:8080 'Live'
+
+
+Description:   intitle:"webcamXP 5" inurl:8080 'Live' intitle:"webcamXP 5" inurl:'/gallery.html' -download  This google dork gives us the live webcamXP camera footages of various webservers.

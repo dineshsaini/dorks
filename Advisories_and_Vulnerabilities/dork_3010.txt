@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3010
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Designed and powered by AWS Sports"
+Description:      "Designed and powered by AWS Sports"
+
+
+Sports Accelerator Suite v2.0 (news_id) Remote SQL Injection Vulnerability: https://www.exploit-db.com/exploits/14645

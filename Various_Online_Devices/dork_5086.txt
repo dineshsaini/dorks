@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5086
+Category:         Various Online Devices
+Published Date:   2019-02-05
+Author:           Brain Reflow
+GoogleDork:       intitle:"Device(" AND intext:"Network Camera" AND "language:" AND "Password"
+Description:      intitle:"Device(" AND intext:"Network Camera" AND "language:" AND "Password"
+
+
+Dork about ReeCam IP Camera  intitle:"Device(" AND intext:"Network Camera" AND "language:" AND "Password"   Author : *.doc-TOR aka Brain Reflow https://twitter.com/The_d0c_T0R 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6509
+Category:         Web Server Detection
+Published Date:   2020-08-31
+Author:           Edwyn Sanders
+GoogleDork:       intitle:"Monsta ftp" intext:"Lock session to IP"
+Description:      intitle:"Monsta ftp" intext:"Lock session to IP"
+
+
+# Author:Edwyn Sanders # Date: 23-08-2020 # Dork: intitle:"Monsta ftp" intext:"Lock session to IP" # Description: shows the websites that use the ftp service of the Monsta Ftp company   Mgter Edwyn Roberto Sanders Rivera Catedrático Universidad Tecnológica de Honduras , UTH    

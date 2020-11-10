@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3695
+Category:         Advisories and Vulnerabilities
+Published Date:   2011-03-08
+Author:           anonymous
+GoogleDork:       intext:"Powered by EZPub"
+Description:      intext:"Powered by EZPub"
+
+
+SQL Injection: https://www.exploit-db.com/exploits/16941

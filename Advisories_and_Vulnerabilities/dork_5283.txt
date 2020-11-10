@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5283
+Category:         Advisories and Vulnerabilities
+Published Date:   2019-07-16
+Author:           Sachin Wagh
+GoogleDork:       inurl:/secure/ContactAdministrators!default.jspa intext:"Request Details" -intext:"Your Jira administrator has not yet configured this contact form"
+Description:      inurl:/secure/ContactAdministrators!default.jspa intext:"Request Details" -intext:"Your Jira administrator has not yet configured this contact form"
+
+
+Dork: inurl:/secure/ContactAdministrators!default.jspa intext:"Request  Details" -intext:"Your Jira administrator has not yet configured this contact form"  Category : Vulnerable Servers  Summary:  A Google dork that gives the information about Jira servers that may vulnerable to Template injection vulnerability [CVE-2019-11581].   *Dork discovered by:* *Sachin Wagh (@tiger_tigerboy)* Reference:  https://twitter.com/tiger_tigerboy/status/1151011237414629376 

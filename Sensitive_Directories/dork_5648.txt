@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5648
+Category:         Sensitive Directories
+Published Date:   2019-11-20
+Author:           Pankaj Kumar Thakur
+GoogleDork:       intitle:index.of "chroot.conf"
+Description:      intitle:index.of "chroot.conf"
+
+
+Dork: intitle:index.of "chroot.conf"  Author: Pankaj Kumar Thakur (Nepal)  Info: It contains sensitive information 

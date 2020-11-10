@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4678
+Category:         Files Containing Juicy Info
+Published Date:   2018-02-20
+Author:           ManhNho
+GoogleDork:       inurl:"/xmlrpc.php?rsd" &amp; ext:php
+Description:      inurl:"/xmlrpc.php?rsd" &amp; ext:php
+
+
+This dork show results which have sensitive information about xmlrpc.php of CMS Wordpress site.  ManhNho 

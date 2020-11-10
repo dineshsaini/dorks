@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4146
+Category:         Footholds
+Published Date:   2015-12-08
+Author:           anonymous
+GoogleDork:       intext:"Please select file to upload:" ext:php
+Description:      intext:"Please select file to upload:" ext:php
+
+
+Various file upload forms - potential footholds? Decoy

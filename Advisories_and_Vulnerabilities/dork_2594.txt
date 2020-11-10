@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2594
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:employer_profile.php?compid=
+Description:      inurl:employer_profile.php?compid=
+
+
+ZEEJOBSITE 2.0 (adid) Remote SQL Injection Vulnerability - CVE: 2008-3706: https://www.exploit-db.com/exploits/6249

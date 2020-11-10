@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/382
+Category:         Web Server Detection
+Published Date:   2004-07-26
+Author:           anonymous
+GoogleDork:       "Novell, Inc" WEBACCESS Username Password "Version *.*" Copyright -inurl:help -guides|guide
+Description:      "Novell, Inc" WEBACCESS Username Password "Version *.*" Copyright -inurl:help -guides|guide
+
+
+This may be used to find Novell Grouwise Webaccess servers.

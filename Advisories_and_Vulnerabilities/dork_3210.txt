@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3210
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by Comersus v6 Shopping Cart
+Description:      Powered by Comersus v6 Shopping Cart
+
+
+Comersus Shopping Cart v6 Remote User Pass: https://www.exploit-db.com/exploits/7736

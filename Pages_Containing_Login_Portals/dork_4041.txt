@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4041
+Category:         Pages Containing Login Portals
+Published Date:   2015-07-27
+Author:           anonymous
+GoogleDork:       intitle:"InterWorx-CP" "Forgot your password"
+Description:      intitle:"InterWorx-CP" "Forgot your password"
+
+
+InterWorx Web Hosting Control Panel login pages. - Andy G - twitter.com/vxhex

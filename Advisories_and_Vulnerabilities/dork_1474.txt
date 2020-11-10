@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1474
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by My PHP Indexer 1.0"
+Description:      "Powered by My PHP Indexer 1.0"
+
+
+My PHP Indexer 1.0 (index.php) Local File Download Vulnerability - CVE: 2008-6183: https://www.exploit-db.com/exploits/6740

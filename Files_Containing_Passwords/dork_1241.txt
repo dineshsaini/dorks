@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1241
+Category:         Files Containing Passwords
+Published Date:   2006-01-02
+Author:           anonymous
+GoogleDork:       ext:asa | ext:bak intext:uid intext:pwd -"uid..pwd" database | server | dsn
+Description:      ext:asa | ext:bak intext:uid intext:pwd -"uid..pwd" database | server | dsn
+
+
+search for plaintext database credentials in ASA and BAK files.

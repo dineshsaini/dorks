@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1311
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-02-28
+Author:           anonymous
+GoogleDork:       intext:"Powered By Geeklog" -geeklog.net
+Description:      intext:"Powered By Geeklog" -geeklog.net
+
+
+dork: intext:"Powered By Geeklog" -geeklog.net this is for the vulnerability discovered by GulfTech research, related stuff: (*) http://www.gulftech.org/?node=research&amp;article_id=00102-02192006 http://www2.packetstormsecurity.org/cgi-bin/search/search.cgi?searchvalue=geeklog&amp;type=archives&amp;%5Bsearch%5D.x=0&amp;%5Bsearch%5D.y=0 exploit for (*) : http://retrogod.altervista.org/geeklog_1_4_xpl_php_.html (php) http://retrogod.altervista.org/geeklog_1_4_xpl_perl_.html (perl...mphhh)

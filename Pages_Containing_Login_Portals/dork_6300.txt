@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6300
+Category:         Pages Containing Login Portals
+Published Date:   2020-06-17
+Author:           Ritesh Gohil
+GoogleDork:       inurl:"index.php/user/password/" intext:Password Reset
+Description:      inurl:"index.php/user/password/" intext:Password Reset
+
+
+Dork: inurl:"index.php/user/password/" intext:Password Reset  *Ritesh Gohil* *Security Researcher* *Linkedin: *https://www.linkedin.com/in/riteshgohil25/ 

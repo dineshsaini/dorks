@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3446
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by PHP iCalendar"
+Description:      "Powered by PHP iCalendar"
+
+
+PHP iCalendar 2.24 (cookie_language) LFI / File Upload - CVE: 2008-5967: https://www.exploit-db.com/exploits/6519

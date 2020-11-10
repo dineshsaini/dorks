@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/177
+Category:         Sensitive Directories
+Published Date:   2004-04-23
+Author:           anonymous
+GoogleDork:       "index of cgi-bin"
+Description:      "index of cgi-bin"
+
+
+CGI directories contain scripts which can often be exploited by attackers. Regardless of the vulnerability of such scripts, a directory listing of these scripts can prove helpful.

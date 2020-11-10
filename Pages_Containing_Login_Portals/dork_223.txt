@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/223
+Category:         Pages Containing Login Portals
+Published Date:   2004-05-12
+Author:           anonymous
+GoogleDork:       inurl:login filetype:swf swf
+Description:      inurl:login filetype:swf swf
+
+
+This search reveals sites which may be using Shockwave (Flash) as a login mechanism for a site. The usernames and passwords for this type of login mechanism are often stored in plaintext inside the source of the .swl file.

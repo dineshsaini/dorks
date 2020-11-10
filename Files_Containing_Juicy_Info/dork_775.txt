@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/775
+Category:         Files Containing Juicy Info
+Published Date:   2004-12-19
+Author:           anonymous
+GoogleDork:       ext:conf inurl:rsyncd.conf -cvs -man
+Description:      ext:conf inurl:rsyncd.conf -cvs -man
+
+
+rsync is an open source utility that provides fast incremental file transfer.rsync can also talk to "rsync servers" which can provide anonymous or authenticated rsync.The configuration files contain data about peers and paths

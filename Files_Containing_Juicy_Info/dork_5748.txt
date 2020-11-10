@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5748
+Category:         Files Containing Juicy Info
+Published Date:   2020-02-20
+Author:           Ishan Saha
+GoogleDork:       intitle:"index of/" "db.sql"
+Description:      intitle:"index of/" "db.sql"
+
+
+Find database SQL files.  Google Dork: intitle:"index of/" "db.sql"  intitle:"index of/" "db.sql"  By Ishan Saha 

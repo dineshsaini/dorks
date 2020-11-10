@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2371
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Everyone should be on TV! Now you can upload 2 TV"
+Description:      "Everyone should be on TV! Now you can upload 2 TV"
+
+
+Youtuber Clone (ugroups.php UID) Remote SQL Injection Vulnerability - CVE: 2008-3419: https://www.exploit-db.com/exploits/6147

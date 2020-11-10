@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1448
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allinurl: "com_galeria"
+Description:      allinurl: "com_galeria"
+
+
+Joomla Component com_galeria Remote SQL Injection Vulnerability - CVE: 2008-0833: https://www.exploit-db.com/exploits/5134

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5543
+Category:         Files Containing Juicy Info
+Published Date:   2019-09-17
+Author:           Mayur Parmar
+GoogleDork:       index.of "crossdomain.xml"
+Description:      index.of "crossdomain.xml"
+
+
+Dork: index.of "crossdomain.xml"  Author:Mayur Parmar(th3cyb3rc0p) 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5832
+Category:         Pages Containing Login Portals
+Published Date:   2020-03-26
+Author:           Rafin Rahman Chowdhury
+GoogleDork:       inurl:/forgotpassword intext:"enter username and email"
+Description:      inurl:/forgotpassword intext:"enter username and email"
+
+
+# Google Dork: inurl:/forgotpassword intext:"enter username and email"  # The search results found from this dork, are potentially vulnerable sites to account takeover. If attacker inserts victim's username along with attacker's email address, than attacker might receive password reset link or code for the target user on his(attacker) own mail. Or, if attacker attempts password reset for his own account, then intercept and modifies the http request body with victim credentials(i.e. username, email), than he might successfully reach victim's password reset page. Using these two methods, attacker might be able to takeover any user account.  # Date: 25/03/2020  # Author: Rafin Rahman Chowdhury 

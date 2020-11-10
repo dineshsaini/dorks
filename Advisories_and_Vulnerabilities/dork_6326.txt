@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6326
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-06-23
+Author:           Abhi Chitkara
+GoogleDork:       inurl:wp-content/plugins/ar-contactus
+Description:      inurl:wp-content/plugins/ar-contactus
+
+
+Dork: inurl:wp-content/plugins/ar-contactus Description: This google dork lists out Advisories and Vulnerabilities regarding the ar contactus wordpress plugin. Ref: https://wpvulndb.com/vulnerabilities/10277 Author: Abhi Chitkara 

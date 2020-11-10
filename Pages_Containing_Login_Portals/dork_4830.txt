@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4830
+Category:         Pages Containing Login Portals
+Published Date:   2018-05-21
+Author:           ManhNho
+GoogleDork:       intitle:"Netgear™ - NETGEAR Configuration Manager Login"
+Description:      intitle:"Netgear™ - NETGEAR Configuration Manager Login"
+
+
+intitle:"Netgear™ - NETGEAR Configuration Manager Login"  Login page.  ManhNho 

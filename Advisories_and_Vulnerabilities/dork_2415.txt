@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2415
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       [ Web Wiz Forums® version 9.64 [Free Express Edition] ]
+Description:      [ Web Wiz Forums® version 9.64 [Free Express Edition] ]
+
+
+Web Wiz Forums v9.64 Database Disclosure Vulnerability: https://www.exploit-db.com/exploits/10638

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3686
+Category:         Files Containing Juicy Info
+Published Date:   2011-02-19
+Author:           anonymous
+GoogleDork:       inurl:app/etc/local.xml
+Description:      inurl:app/etc/local.xml
+
+
+Magento local.xml sensitive information disclosure Author: Rambaud Pierre

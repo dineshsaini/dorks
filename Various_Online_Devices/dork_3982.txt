@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3982
+Category:         Various Online Devices
+Published Date:   2015-01-06
+Author:           anonymous
+GoogleDork:       inurl:dyn_sensors.htm
+Description:      inurl:dyn_sensors.htm
+
+
+MiniGoose II environmental temprature monitoring panel Author:@cns0x 

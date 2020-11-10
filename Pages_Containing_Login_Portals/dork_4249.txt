@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4249
+Category:         Pages Containing Login Portals
+Published Date:   2016-03-30
+Author:           anonymous
+GoogleDork:       filetype:asp intitle:" Microsoft Outlook Web Access"
+Description:      filetype:asp intitle:" Microsoft Outlook Web Access"
+
+
+Dork who get access to "Microsoft Outlook Web Access" Panels. Best Regards. Rootkit Pentester.

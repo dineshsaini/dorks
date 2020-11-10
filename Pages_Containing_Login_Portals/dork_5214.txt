@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5214
+Category:         Pages Containing Login Portals
+Published Date:   2019-05-14
+Author:           Alfie
+GoogleDork:       intitle:"oracle bi publisher enterprise login"
+Description:      intitle:"oracle bi publisher enterprise login"
+
+
+Google dork description: Sites running Oracle Business Intelligence  Google Search: intitle:"oracle bi publisher enterprise login"  Submitted by: Alfie  Website: (https://the-infosec.com) 

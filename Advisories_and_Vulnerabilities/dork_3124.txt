@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3124
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       E-Commerce Engine Copyright © 2005 osCSS
+Description:      E-Commerce Engine Copyright © 2005 osCSS
+
+
+osCSS 1.2.1 (REMOTE FILE UPLOAD) Vulnerabilities: https://www.exploit-db.com/exploits/12856

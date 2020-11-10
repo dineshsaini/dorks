@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6390
+Category:         Files Containing Juicy Info
+Published Date:   2020-07-10
+Author:           Sai Prashanth Pulisetti
+GoogleDork:       intitle:"index of" exception.log
+Description:      intitle:"index of" exception.log
+
+
+Description : intitle:"index of" system.log  The Google dork of intitle:"index of" system.log gives juicy information of htdocs present in the respective url.  

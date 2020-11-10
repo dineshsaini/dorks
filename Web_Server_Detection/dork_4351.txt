@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4351
+Category:         Web Server Detection
+Published Date:   2016-11-04
+Author:           anonymous
+GoogleDork:       intitle:"HFS" "Server Uptime" "Server time"
+Description:      intitle:"HFS" "Server Uptime" "Server time"
+
+
+HttpFileServer with open access Category: Web Server Detection @theevilbit - Csaba Fitzl

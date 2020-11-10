@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1515
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allinurl:"com_simpleshop"
+Description:      allinurl:"com_simpleshop"
+
+
+Joomla Component simple shop 2.0 SQL Injection Vulnerability: https://www.exploit-db.com/exploits/5177

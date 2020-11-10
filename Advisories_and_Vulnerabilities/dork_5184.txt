@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5184
+Category:         Advisories and Vulnerabilities
+Published Date:   2019-04-16
+Author:           Rahul B Pallickal
+GoogleDork:       intext:"Powered by 74cms v5.0.1"
+Description:      intext:"Powered by 74cms v5.0.1"
+
+
+# Google Dork: intext:"Powered by 74cms v5.0.1" # Description: Google Dork to find the pages vulnerable to CVE-2019-10684 # Date: 04-16-2019 # Author: Rahul B Pallickal # Contact: https://www.linkedin.com/in/rahulbpkl/ 

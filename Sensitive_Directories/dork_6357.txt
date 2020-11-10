@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6357
+Category:         Sensitive Directories
+Published Date:   2020-06-30
+Author:           Alexandros Pappas
+GoogleDork:       intitle:"index of" "/home/ROOT_PATH/"
+Description:      intitle:"index of" "/home/ROOT_PATH/"
+
+
+# Google Dork: intitle:"index of" "/home/ROOT_PATH/" # Sensitive directories. # Date: 29/06/2020 # Exploit Author: Alexandros Pappas 

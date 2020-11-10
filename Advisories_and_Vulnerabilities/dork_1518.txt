@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1518
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intitle:Web Calendar system v 3.30 inurl:.asp
+Description:      intitle:Web Calendar system v 3.30 inurl:.asp
+
+
+Web Calendar System 3.12/3.30 Multiple Remote Vulnerabilities - CVE: 2004-1552: https://www.exploit-db.com/exploits/7242

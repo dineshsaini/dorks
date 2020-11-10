@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2026
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       index.php?option=com_facileforms
+Description:      index.php?option=com_facileforms
+
+
+Joomla Component com_facileforms 1.4.4 RFI Vulnerability - CVE: 2008-2990: https://www.exploit-db.com/exploits/5915

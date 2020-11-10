@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/590
+Category:         Various Online Devices
+Published Date:   2004-10-19
+Author:           anonymous
+GoogleDork:       site:.viewnetcam.com -www.viewnetcam.com
+Description:      site:.viewnetcam.com -www.viewnetcam.com
+
+
+The FREE viewnetcam.com service allows you to create a personal web address (e.g., http://bob.viewnetcam.com) at which your camera's live image can be found on the Internet. How the camera and service works: Special Software embedded within your Panasonic Network Camera gives your camera the ability to locate your unique Internet address. No matter what kind of Internet connection you have or which Internet provider you use, the viewnetcam.com service will keep your camera's Internet address permanent.

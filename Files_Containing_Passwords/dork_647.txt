@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/647
+Category:         Files Containing Passwords
+Published Date:   2004-11-06
+Author:           anonymous
+GoogleDork:       inurl:pap-secrets -cvs
+Description:      inurl:pap-secrets -cvs
+
+
+linux vpns store there usernames and passwords for PAP authentification in a file called "pap-secrets" where the usernames and the passwords are in cleartext.

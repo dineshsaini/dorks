@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/432
+Category:         Files Containing Passwords
+Published Date:   2004-08-14
+Author:           anonymous
+GoogleDork:       "http://*:*@www" domainname
+Description:      "http://*:*@www" domainname
+
+
+This is a query to get inline passwords from search engines (not just Google), you must type in the query followed with the the domain name without the .com or .net"http://*:*@www" bangbus or "http://*:*@www"bangbusAnother way is by just typing"http://bob:bob@www"

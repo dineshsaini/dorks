@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2365
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by iScripts VisualCaster
+Description:      Powered by iScripts VisualCaster
+
+
+SQli Vulnerability in iScripts VisualCaster - CVE: 2010-2853: https://www.exploit-db.com/exploits/12451

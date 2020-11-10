@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6351
+Category:         Files Containing Passwords
+Published Date:   2020-06-30
+Author:           Mohd Asif Khan
+GoogleDork:       allintext:password filetype:log
+Description:      allintext:password filetype:log
+
+
+Dork:allintext:password filetype:log Description:contains information related to password type website and log Author:Mohd Asif Khan 

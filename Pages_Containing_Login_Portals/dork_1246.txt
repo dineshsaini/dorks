@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1246
+Category:         Pages Containing Login Portals
+Published Date:   2006-01-14
+Author:           anonymous
+GoogleDork:       "intitle:3300 Integrated Communications Platform" inurl:main.htm
+Description:      "intitle:3300 Integrated Communications Platform" inurl:main.htm
+
+
+logon portal to the mitel 330 integrated communications platform.[MitelÃƒâ€šÃ‚Â® 3300 Integrated Communications Platform (ICP) provides enterprises with a highly scalable, feature-rich communications system designed to support businesses from 30-60,000 users. ...supporting networking standards such as Q.SIG, DPNSS, and MSDN .... enable their legacy PBX's, ]

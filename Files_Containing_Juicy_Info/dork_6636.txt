@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6636
+Category:         Files Containing Juicy Info
+Published Date:   2020-10-26
+Author:           Alexandros Pappas
+GoogleDork:       ext:txt | ext:log | ext:cfg | ext:yml "administrator:500:"
+Description:      ext:txt | ext:log | ext:cfg | ext:yml "administrator:500:"
+
+
+# Google Dork: ext:txt | ext:log | ext:cfg | ext:yml "administrator:500:"  # Various Windows SAM hashed Administrator hashes...  # Date: 24/10/2020  # Exploit Author: Alexandros Pappas 

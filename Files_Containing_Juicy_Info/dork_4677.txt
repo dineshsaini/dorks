@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4677
+Category:         Files Containing Juicy Info
+Published Date:   2018-02-20
+Author:           Cr33pB0y
+GoogleDork:       inurl:"plesk-stat"
+Description:      inurl:"plesk-stat"
+
+
+Author: Cr33pb0y  Description: This dork shows server stadistitics and posibly pages paths and juicy information about users behaviour. 

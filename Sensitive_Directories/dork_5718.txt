@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5718
+Category:         Sensitive Directories
+Published Date:   2020-01-28
+Author:           Bruno Schmid
+GoogleDork:       -pool intitle:"index of" wget-log -pub
+Description:      -pool intitle:"index of" wget-log -pub
+
+
+This dork will give you a good insight of what was downloaded in a system. Great for enumeration.   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

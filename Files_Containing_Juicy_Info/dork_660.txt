@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/660
+Category:         Files Containing Juicy Info
+Published Date:   2004-11-07
+Author:           anonymous
+GoogleDork:       inurl:"putty.reg"
+Description:      inurl:"putty.reg"
+
+
+This registry dump contains putty saved session data. SSH servers the according usernames and proxy configurations are stored here.

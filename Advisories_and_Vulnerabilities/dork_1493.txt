@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1493
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       ''name Kose_Yazilari op viewarticle artid''
+Description:      ''name Kose_Yazilari op viewarticle artid''
+
+
+PHP-Nuke Module Kose_Yazilari (artid) SQL Injection Vulnerability - CVE: 2008-1053: https://www.exploit-db.com/exploits/5186

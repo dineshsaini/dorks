@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/529
+Category:         Advisories and Vulnerabilities
+Published Date:   2004-10-05
+Author:           anonymous
+GoogleDork:       "Powered by AJ-Fork v.167"
+Description:      "Powered by AJ-Fork v.167"
+
+
+AJ-Fork is, as the name implies - a fork. Based on the CuteNews 1.3.1 core, the aim of the project is to improve what can be improved, and extend what can be extended without adding too much bloat (in fierce opposition to the mainstream blogging/light publishing tools of today). The project aims to be backwards-compatible with CuteNews in what areas are sensible. It is vulnerable for a full path disclosure. http://www.securityfocus.com/bid/11301

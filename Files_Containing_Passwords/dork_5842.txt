@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5842
+Category:         Files Containing Passwords
+Published Date:   2020-03-30
+Author:           Alexandros Pappas
+GoogleDork:       intitle:"index of" "db.connection.js"
+Description:      intitle:"index of" "db.connection.js"
+
+
+#Google Dork: intitle:"index of" "db.connection.js"  # By using this dork, some database passwords can be found.  # Date: 27/03/2020  # Author: Alexandros Pappas 

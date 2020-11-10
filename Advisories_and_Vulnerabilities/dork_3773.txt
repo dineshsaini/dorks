@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3773
+Category:         Advisories and Vulnerabilities
+Published Date:   2011-12-29
+Author:           anonymous
+GoogleDork:       inurl:"mod.php?mod=blog" intext:"powered by DIY-CMS"
+Description:      inurl:"mod.php?mod=blog" intext:"powered by DIY-CMS"
+
+
+DIY-CMS blog mod SQL Injection. Author: snup

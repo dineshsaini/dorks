@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1858
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"links_showcat.php?"
+Description:      inurl:"links_showcat.php?"
+
+
+Dlili Script SQL Injection Vulnerability: https://www.exploit-db.com/exploits/11318

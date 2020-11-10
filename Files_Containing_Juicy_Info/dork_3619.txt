@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3619
+Category:         Files Containing Juicy Info
+Published Date:   2010-11-25
+Author:           anonymous
+GoogleDork:       filetype: log inurl:"access.log" +intext:"HTTP/1.1"
+Description:      filetype: log inurl:"access.log" +intext:"HTTP/1.1"
+
+
+Match some apache access.log files. Author: susmab

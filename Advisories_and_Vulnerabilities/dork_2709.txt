@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2709
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"lista_articulos.php?id_categoria="
+Description:      inurl:"lista_articulos.php?id_categoria="
+
+
+SitioOnline SQL Injection Vulnerability: https://www.exploit-db.com/exploits/10453

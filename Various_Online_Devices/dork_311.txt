@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/311
+Category:         Various Online Devices
+Published Date:   2004-07-10
+Author:           anonymous
+GoogleDork:       Panasonic Network Cameras
+Description:      Panasonic Network Cameras
+
+
+Panasonic Network Cameras can be viewed and controlled from a standard web browser. These cameras can be placed anywhere to keep an eye on things, with no PC required on the location. Check for more information: http://www.panasonic.com/netcam/There is a htaccess protected admin page at "http://[target-ip]/config.html" on the target device. Admin logins have no defaults, but created during setup.

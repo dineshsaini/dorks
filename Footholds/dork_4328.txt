@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4328
+Category:         Footholds
+Published Date:   2016-09-08
+Author:           anonymous
+GoogleDork:       filetype:php intext:Your Email: intext:Your Name: intext:Reply-To: intext:mailer
+Description:      filetype:php intext:Your Email: intext:Your Name: intext:Reply-To: intext:mailer
+
+
+This dork results in PHP mailers already uploaded and ready for use ! ;) Google Dork : filetype:php intext:"Your Email:" intext:"Your Name:" intext:"Reply-To:" intext:mailer   Best Regards. XSLASH

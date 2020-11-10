@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/682
+Category:         Files Containing Juicy Info
+Published Date:   2004-11-16
+Author:           anonymous
+GoogleDork:       filetype:ns1 ns1
+Description:      filetype:ns1 ns1
+
+
+Netstunbler files contain information about the wireless network. For a cleanup add stuff like: +"Creator" +"Format" +"DateGMT".

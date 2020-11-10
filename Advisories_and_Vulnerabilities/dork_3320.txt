@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3320
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"?option=com_bsadv"						
+Description:      inurl:"?option=com_bsadv"						
+
+
+Joomla Boy Scout Advancement 0.3 (id) SQL Injection - CVE: 2009-2290: https://www.exploit-db.com/exploits/8779

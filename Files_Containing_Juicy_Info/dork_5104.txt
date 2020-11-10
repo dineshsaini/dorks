@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5104
+Category:         Files Containing Juicy Info
+Published Date:   2019-02-15
+Author:           Bruno Schmid
+GoogleDork:       intitle:"index of" hosts.csv | firewalls.csv | linux.csv | windows.csv
+Description:      intitle:"index of" hosts.csv | firewalls.csv | linux.csv | windows.csv
+
+
+Juicy info   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

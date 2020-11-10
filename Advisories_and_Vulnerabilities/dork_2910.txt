@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2910
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "eCommerce Engine © 2006 xt:Commerce Shopsoftware"
+Description:      "eCommerce Engine © 2006 xt:Commerce Shopsoftware"
+
+
+xt:Commerce Shopsoftware (fckeditor) Arbitrary File Upload Vulnerability: https://www.exploit-db.com/exploits/15455

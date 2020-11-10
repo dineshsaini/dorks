@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3385
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "by Pivot - 1.40.5" +'Dreadwind' -pivotlog.net
+Description:      "by Pivot - 1.40.5" +'Dreadwind' -pivotlog.net
+
+
+Pivot 1.40.5 Dreamwind load_template() Credentials Disclosure - CVE: 2008-3128: https://www.exploit-db.com/exploits/5973

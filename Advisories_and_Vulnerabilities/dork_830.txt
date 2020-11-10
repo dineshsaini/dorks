@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/830
+Category:         Advisories and Vulnerabilities
+Published Date:   2005-01-20
+Author:           anonymous
+GoogleDork:       inurl:citrix/metaframexp/default/login.asp? ClientDetection=On
+Description:      inurl:citrix/metaframexp/default/login.asp? ClientDetection=On
+
+
+Citrix (http://citrix.com) is a web application that allows remote access via a client for companies, institutions, and government agencies to "published" folders, files, drives, and applications on the server and often the attached network. There is a XSS vulnerability in a widely used version of their Web Interface. As reported on Securiteam.com:http://www.securiteam.com/securitynews/6X0020K8VW.html A simple test is inlcluded in the advisory.

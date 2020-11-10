@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3870
+Category:         Pages Containing Login Portals
+Published Date:   2013-08-08
+Author:           anonymous
+GoogleDork:       inurl:"/secure/login.aspx"
+Description:      inurl:"/secure/login.aspx"
+
+
+#Summary: Several Web Pages Login Portal #Category: Pages containing login portals #Author: g00gl3 5c0u7

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/381
+Category:         Error Messages
+Published Date:   2004-07-26
+Author:           anonymous
+GoogleDork:       "ASP.NET_SessionId" "data source="
+Description:      "ASP.NET_SessionId" "data source="
+
+
+.NET pages revealing their datasource and sometimes the authentication credentials with it. The complete debug line looks something like this for example:strConn System.String Provider=sqloledb;Network Library=DBMSSOCN;Data Source=ch-sql-91;Initial Catalog=DBLive;User Id=login-orsearch;Password=0aX(v5~di)&gt;S$+*For quick fun an attacker could modify this search to find those who use Microsoft Access as their storage: It will not suprise the experienced security digger that these files are often in a downloadeble location on the server.

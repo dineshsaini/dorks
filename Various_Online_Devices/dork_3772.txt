@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3772
+Category:         Various Online Devices
+Published Date:   2011-12-28
+Author:           anonymous
+GoogleDork:       inurl:cgi-bin/cosmobdf.cgi?
+Description:      inurl:cgi-bin/cosmobdf.cgi?
+
+
+COSMOView for building management. Author: GhOsT-PR

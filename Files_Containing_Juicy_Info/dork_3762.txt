@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3762
+Category:         Files Containing Juicy Info
+Published Date:   2011-12-16
+Author:           anonymous
+GoogleDork:       Google Dork For Social Security Number ( In Spain and Argentina is D.N.I )
+Description:      Google Dork For Social Security Number ( In Spain and Argentina is D.N.I )
+
+
+This dork locates social security numbers. Author: Luciano UNLP

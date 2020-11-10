@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4190
+Category:         Pages Containing Login Portals
+Published Date:   2016-01-29
+Author:           anonymous
+GoogleDork:       inurl:/AirWatch/Login?
+Description:      inurl:/AirWatch/Login?
+
+
+AirWatch Company. Login/Trouble Logging In/ Back to Login Page / Don't remember your Username Login "Errors" -Xploit

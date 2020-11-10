@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3795
+Category:         Pages Containing Login Portals
+Published Date:   2012-08-21
+Author:           anonymous
+GoogleDork:       intitle:"Log In" "Access unsecured content without logging in"
+Description:      intitle:"Log In" "Access unsecured content without logging in"
+
+
+iOmega Storcenter login page: intitle:"Log In" "Access unsecured content without logging in" Greetings, Alrik

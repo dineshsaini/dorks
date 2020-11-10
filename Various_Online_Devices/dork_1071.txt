@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1071
+Category:         Various Online Devices
+Published Date:   2005-08-27
+Author:           anonymous
+GoogleDork:       intitle:"INTELLINET" intitle:"IP Camera Homepage"
+Description:      intitle:"INTELLINET" intitle:"IP Camera Homepage"
+
+
+This googledork finds INTELLINET ip cameras. They are used to monitor things and have a web interface. Most of the pages load with the default username and password of guest. The user manual says that the default admin username/password is admin/admin. At the time of posting this googledork had 10 results. p.s. This was discovered by jeffball55 and cleaned up by golfo

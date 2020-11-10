@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6407
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-07-14
+Author:           Abhinav Porwal
+GoogleDork:       inurl:wp-content/themes/corona
+Description:      inurl:wp-content/themes/corona
+
+
+Dork: inurl:wp-content/themes/corona  Description: This google dorks give us the advisories and vulnerabilities on WordPress Themes.  Ref.: https://wpvulndb.com/vulnerabilities/7345  Author: Abhinav Porwal 

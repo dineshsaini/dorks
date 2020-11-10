@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4519
+Category:         Files Containing Juicy Info
+Published Date:   2017-06-12
+Author:           anonymous
+GoogleDork:       "-- MySQL Administrator dump" ext:sql
+Description:      "-- MySQL Administrator dump" ext:sql
+
+
+Finds some nice database dumps, potentially containing usernames, passwords, and other cool stuff! Dxtroyer

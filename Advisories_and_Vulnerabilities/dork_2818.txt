@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2818
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Power by donghungx. Copyright © 2008 AttMp3.com. All rights reserved.
+Description:      Power by donghungx. Copyright © 2008 AttMp3.com. All rights reserved.
+
+
+SongForever.com Clone Shell Upload Vulnerability: https://www.exploit-db.com/exploits/11476

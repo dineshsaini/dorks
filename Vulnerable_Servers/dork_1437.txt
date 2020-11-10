@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1437
+Category:         Vulnerable Servers
+Published Date:   2010-11-13
+Author:           anonymous
+GoogleDork:       inurl:index.php?pagedb=rss -Vulnerability -inurl
+Description:      inurl:index.php?pagedb=rss -Vulnerability -inurl
+
+
+CVE: 2007-4007 EDB-ID: 4221 This google dork possibly exposes sites with the Article Directory (index.php page) Remote File Inclusion Vulnerability

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4528
+Category:         Files Containing Juicy Info
+Published Date:   2017-06-16
+Author:           anonymous
+GoogleDork:       "[FFFTP]" ext:ini
+Description:      "[FFFTP]" ext:ini
+
+
+Finds files with FTP logins, server info, and more! Dxtroyer

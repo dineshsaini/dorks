@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5275
+Category:         Files Containing Juicy Info
+Published Date:   2019-07-11
+Author:           Francis Al Victoriano
+GoogleDork:       site:https://docs.google.com/spreadsheets responses
+Description:      site:https://docs.google.com/spreadsheets responses
+
+
+# Exploit Title: Get all responses from Google Spreadsheet  # Google Dork: site:https://docs.google.com/spreadsheets responses # Author: Francis Al Victoriano 

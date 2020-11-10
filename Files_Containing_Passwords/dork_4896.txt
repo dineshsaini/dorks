@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4896
+Category:         Files Containing Passwords
+Published Date:   2018-08-01
+Author:           Bruno Schmid
+GoogleDork:       intext:"please change your" password |code | login file:pdf | doc | txt | docx -github
+Description:      intext:"please change your" password |code | login file:pdf | doc | txt | docx -github
+
+
+Passwords  Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

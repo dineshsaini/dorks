@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/170
+Category:         Files Containing Juicy Info
+Published Date:   2004-04-20
+Author:           anonymous
+GoogleDork:       allinurl:servlet/SnoopServlet
+Description:      allinurl:servlet/SnoopServlet
+
+
+These pages reveal server information such as port, server software version, server name, full paths, etc.

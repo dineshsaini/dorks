@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2177
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       buyers_subcategories.php?IndustryID=
+Description:      buyers_subcategories.php?IndustryID=
+
+
+Softbiz B2B trading Marketplace Script buyers_subcategories SQL Injection Vulnerability: https://www.exploit-db.com/exploits/12245

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3952
+Category:         Files Containing Juicy Info
+Published Date:   2014-06-03
+Author:           anonymous
+GoogleDork:       ("DMZ" | "Public IP" | "Private IP") filetype:xls
+Description:      ("DMZ" | "Public IP" | "Private IP") filetype:xls
+
+
+Files with information DMZ, public IP, private IP network segments, etc. Daniel Maldonado http://caceriadespammers.com.ar

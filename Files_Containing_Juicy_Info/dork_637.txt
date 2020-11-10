@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/637
+Category:         Files Containing Juicy Info
+Published Date:   2004-10-31
+Author:           anonymous
+GoogleDork:       filetype:php inurl:index inurl:phpicalendar -site:sourceforge.net
+Description:      filetype:php inurl:index inurl:phpicalendar -site:sourceforge.net
+
+
+PHP iCalendar is a php-based iCal file parser. Its based on v2.0 of the IETF spec. It displays iCal files in a nice logical, clean manner with day, week, month, and year navigationThis reveals the RSS info for the user calendars.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1386
+Category:         Various Online Devices
+Published Date:   2006-06-25
+Author:           anonymous
+GoogleDork:       allintitle: EverFocus | EDSR | EDSR400 Applet
+Description:      allintitle: EverFocus | EDSR | EDSR400 Applet
+
+
+Modified Everfocus search, pulls in EDSR400's as well s a few strays missed by original query.

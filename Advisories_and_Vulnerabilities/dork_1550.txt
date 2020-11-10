@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1550
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "WebCalendar v1.0.4"
+Description:      "WebCalendar v1.0.4"
+
+
+WebCalendar 1.0.4 (includedir) Remote File Inclusion Vulnerability - CVE: 2008-2836: https://www.exploit-db.com/exploits/5847

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1175
+Category:         Various Online Devices
+Published Date:   2005-11-05
+Author:           anonymous
+GoogleDork:       ("port_255/home")|(inurl:"home?port=255")
+Description:      ("port_255/home")|(inurl:"home?port=255")
+
+
+standered printer search. Moderator note: see also dork id=1221

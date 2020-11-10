@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/473
+Category:         Pages Containing Login Portals
+Published Date:   2004-09-10
+Author:           anonymous
+GoogleDork:       filetype:pl "Download: SuSE Linux Openexchange Server CA"
+Description:      filetype:pl "Download: SuSE Linux Openexchange Server CA"
+
+
+this search will get you on the web administration portal of linux open exchange servers.

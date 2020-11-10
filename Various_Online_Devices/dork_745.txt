@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/745
+Category:         Various Online Devices
+Published Date:   2004-12-03
+Author:           anonymous
+GoogleDork:       intext:"MaiLinX Alert (Notify)" -site:networkprinters.com
+Description:      intext:"MaiLinX Alert (Notify)" -site:networkprinters.com
+
+
+Xerox DocuPrint printer models.

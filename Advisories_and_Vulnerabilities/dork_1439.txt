@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1439
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-14
+Author:           anonymous
+GoogleDork:       inurl:"sbw2Behoerden.php"
+Description:      inurl:"sbw2Behoerden.php"
+
+
+German.Authorities.CMS SQL Injection Vulnerability. Bug: /data/sbw2Behoerden.php?sbwtyp= Author: Bloodman

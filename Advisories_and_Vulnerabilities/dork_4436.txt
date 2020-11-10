@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4436
+Category:         Advisories and Vulnerabilities
+Published Date:   2017-04-17
+Author:           Dxtroyer
+GoogleDork:       inurl:"exit.php?site="
+Description:      inurl:"exit.php?site="
+
+
+Finds files that let you redirect users to any site!    Dxtroyer

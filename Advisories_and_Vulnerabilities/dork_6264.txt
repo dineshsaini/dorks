@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6264
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-06-10
+Author:           Abhinav Porwal
+GoogleDork:       index of /wp-content/uploads/backupbuddy
+Description:      index of /wp-content/uploads/backupbuddy
+
+
+Dork: index of /wp-content/uploads/backupbuddy Description: This google dork lists out the WordPress backupbuddy.zip file Author: Abhinav Porwal 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6541
+Category:         Files Containing Passwords
+Published Date:   2020-09-15
+Author:           Alexandros Pappas
+GoogleDork:       "POSTGRES_PASSWORD=" ext:txt | ext:cfg | ext:env | ext:ini | ext:yml | ext:sql -git -gitlab
+Description:      "POSTGRES_PASSWORD=" ext:txt | ext:cfg | ext:env | ext:ini | ext:yml | ext:sql -git -gitlab
+
+
+# Google Dork: "POSTGRES_PASSWORD=" ext:txt | ext:cfg | ext:env | ext:ini | ext:yml | ext:sql -git -gitlab # Exposed passwords. # Date: 15/09/2020 # Exploit Author: Alexandros Pappas 

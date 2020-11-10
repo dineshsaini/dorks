@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/346
+Category:         Various Online Devices
+Published Date:   2004-07-19
+Author:           anonymous
+GoogleDork:       intitle:"BorderManager Information alert"
+Description:      intitle:"BorderManager Information alert"
+
+
+This is an Informational message produced by the Novell BorderManager firewall/proxy server. Attackers can located perimeter defence systems with this query.

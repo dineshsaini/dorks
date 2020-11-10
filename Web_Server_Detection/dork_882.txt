@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/882
+Category:         Web Server Detection
+Published Date:   2005-03-05
+Author:           anonymous
+GoogleDork:       (inurl:81-cobalt | inurl:cgi-bin/.cobalt)
+Description:      (inurl:81-cobalt | inurl:cgi-bin/.cobalt)
+
+
+Cobal RaQ internal pages

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/112
+Category:         Files Containing Juicy Info
+Published Date:   2004-03-04
+Author:           anonymous
+GoogleDork:       intitle:index.of ws_ftp.ini
+Description:      intitle:index.of ws_ftp.ini
+
+
+ws_ftp.ini is a configuration file for a popular FTP client that stores usernames, (weakly) encoded passwords, sites and directories that the user can store for later reference. These should not be on the web!

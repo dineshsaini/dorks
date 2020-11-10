@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2573
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Website powered by Subdreamer CMS &amp; Sequel Theme Designed by indiqo.media"
+Description:      "Website powered by Subdreamer CMS &amp; Sequel Theme Designed by indiqo.media"
+
+
+Subdreamer Pro v3.0.4 CMS upload Vulnerability: https://www.exploit-db.com/exploits/14101

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/955
+Category:         Files Containing Juicy Info
+Published Date:   2005-04-27
+Author:           anonymous
+GoogleDork:       ext:DBF DBF
+Description:      ext:DBF DBF
+
+
+Dbase DAtabase file. Can contain sensitive data like any other database.

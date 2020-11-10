@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6480
+Category:         Pages Containing Login Portals
+Published Date:   2020-08-17
+Author:           Edwyn Sanders
+GoogleDork:       intitle:"axigen webadmin"
+Description:      intitle:"axigen webadmin"
+
+
+# Dork: intitle:"axigen webadmin" # Author: Edwyn Sanders # Date: 16-08-2020 # Description: shows all businesses that use axigen WebAdmin using the web browser    Mgter Edwyn Roberto Sanders Rivera Gerente Propietario EdificaWeb *E-MAIL:* esanders@edificaweb.com *Website:* www.edificaweb.com 

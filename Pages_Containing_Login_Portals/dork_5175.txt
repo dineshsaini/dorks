@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5175
+Category:         Pages Containing Login Portals
+Published Date:   2019-04-10
+Author:           botsec0
+GoogleDork:       site:com inurl:b2blogin ext:cfm | jsp | php | aspx
+Description:      site:com inurl:b2blogin ext:cfm | jsp | php | aspx
+
+
+Dork : site:com inurl:b2blogin ext:cfm | jsp | php | aspx  Description : this dork gives you all type of b2b login portals.  Author : botsec0 

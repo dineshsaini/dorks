@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5705
+Category:         Files Containing Juicy Info
+Published Date:   2020-01-27
+Author:           Bruno Schmid
+GoogleDork:       intitle:"index of" lesshsQ/ OR .lesshst/ -pool -pub
+Description:      intitle:"index of" lesshsQ/ OR .lesshst/ -pool -pub
+
+
+Less history file which can contain file names good to be used in social engineering.   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

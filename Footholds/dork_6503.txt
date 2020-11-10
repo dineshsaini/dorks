@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6503
+Category:         Footholds
+Published Date:   2020-08-31
+Author:           Adithya Chandra
+GoogleDork:       inurl::/app/kibana "Kibana" -discuss -ipaddress -git
+Description:      inurl::/app/kibana "Kibana" -discuss -ipaddress -git
+
+
+# Google Dork: inurl::/app/kibana "Kibana" -discuss -ipaddress -git # Kibana Visualization Dashboards # Date: 31/08/2020 # Exploit Author: Adithya Chandra   Thanks and Best Regards, Adithya Chandra 

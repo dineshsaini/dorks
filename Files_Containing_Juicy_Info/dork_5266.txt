@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5266
+Category:         Files Containing Juicy Info
+Published Date:   2019-06-24
+Author:           Francis Al Victoriano
+GoogleDork:       MAIL_HOST filetype:env
+Description:      MAIL_HOST filetype:env
+
+
+# Exploit Title: Expose MAIL_HOST with credentials via Laravel Environment # Google Dork: MAIL_HOST filetype:env # Author: Francis Al Victoriano 

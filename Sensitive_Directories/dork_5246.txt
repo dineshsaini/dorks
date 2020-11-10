@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5246
+Category:         Sensitive Directories
+Published Date:   2019-06-05
+Author:           Deepak Joshi
+GoogleDork:       intitle:"index of" intext:"Includes
+Description:      intitle:"index of" intext:"Includes
+
+
+*Exploit *: This Dorks allow you to access the sensitive directories using includes file.  *Google Dork* : intitle:"index of" intext:"Includes"  *Exploit Author*:- Deepak Joshi 

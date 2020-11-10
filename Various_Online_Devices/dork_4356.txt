@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4356
+Category:         Various Online Devices
+Published Date:   2016-11-24
+Author:           anonymous
+GoogleDork:       intitle:Leaf PHP Mailer by [leafmailer.pw] ext:php
+Description:      intitle:Leaf PHP Mailer by [leafmailer.pw] ext:php
+
+
+Leaf PHP Mailer by [leafmailer.pw] Enjoy with healthy. Dork by INILERM

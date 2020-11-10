@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/825
+Category:         Pages Containing Login Portals
+Published Date:   2005-01-13
+Author:           anonymous
+GoogleDork:       PhotoPost PHP Upload
+Description:      PhotoPost PHP Upload
+
+
+PhotoPost was designed to help you give your users exactly what they want. Your users will be thrilled to finally be able to upload and display their photos for your entire community to view and discuss, all with no more effort than it takes to post a text message to a forum.Over 3,500 web sites are powered by PhotoPost today. These customers trusted our software to simplify their lives as webmasters, and to meet the needs of their users.

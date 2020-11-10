@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4686
+Category:         Files Containing Passwords
+Published Date:   2018-03-02
+Author:           Alfie
+GoogleDork:       "database_password" filetype:yml "config/parameters.yml"
+Description:      "database_password" filetype:yml "config/parameters.yml"
+
+
+*Google dork description: *database credentials for mostly symfony apps  *Google Search:* "database_password" filetype:yml "config/parameters.yml"  *Submitted by:* Alfie  *Website: (*https://the-infosec.com*)*

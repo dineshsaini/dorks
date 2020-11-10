@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2836
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "PHP Link Portal v1.95.1 Â© Big Resources, Inc."
+Description:      "PHP Link Portal v1.95.1 Â© Big Resources, Inc."
+
+
+Built2Go PHP Link Portal 1.95.1 Remote File Upload Vulnerability: https://www.exploit-db.com/exploits/7644

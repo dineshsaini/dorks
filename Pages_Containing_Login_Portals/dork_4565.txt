@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4565
+Category:         Pages Containing Login Portals
+Published Date:   2017-07-31
+Author:           anonymous
+GoogleDork:       inurl:index of= %2F /admin login %2F intitle:"Administration Login -
+Description:      inurl:index of= %2F /admin login %2F intitle:"Administration Login -
+
+
+Admin Logins for different Web Hosting Companies. Other Dorks. inurl:index of= %2F /Admin Login %2F inurl:"Admin/Index.aspx?" inurl:"Admin/Index.aspx?A=LogOut" -Xploit 

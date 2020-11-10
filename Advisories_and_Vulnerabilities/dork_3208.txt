@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3208
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "index.php?option=com_rwcards"
+Description:      "index.php?option=com_rwcards"
+
+
+Joomla Component RWCards 2.4.3 Remote SQL Injection - CVE: 2007-1703: https://www.exploit-db.com/exploits/3565

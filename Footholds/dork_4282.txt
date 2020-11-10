@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4282
+Category:         Footholds
+Published Date:   2016-05-17
+Author:           anonymous
+GoogleDork:       "Fenix Final Version v2.0" filetype:php
+Description:      "Fenix Final Version v2.0" filetype:php
+
+
+Web-Shell new, very interesting. Have Fun. Regards. Rootkit Pentester.

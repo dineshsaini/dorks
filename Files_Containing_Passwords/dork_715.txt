@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/715
+Category:         Files Containing Passwords
+Published Date:   2004-11-28
+Author:           anonymous
+GoogleDork:       filetype:log "See `ipsec --copyright"
+Description:      filetype:log "See `ipsec --copyright"
+
+
+BARF log filesMan page:Barf outputs (on standard output) a collection of debugging information (contents of files, selections from logs, etc.) related to the IPSEC encryption/authentication system. It is primarily a convenience for remote debugging, a single command which packages up (and labels) all information that might be relevant to diagnosing a problem in IPSEC.

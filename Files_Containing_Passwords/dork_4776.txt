@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4776
+Category:         Files Containing Passwords
+Published Date:   2018-04-16
+Author:           Bruno Schmid
+GoogleDork:       intitle:"index.of" "places.sqlite" "Mail" thunderbird -mozilla.org -scan
+Description:      intitle:"index.of" "places.sqlite" "Mail" thunderbird -mozilla.org -scan
+
+
+Dork containing Thunderbird directories with very Juicy info and passwords    Bruno Schmid  https://ch.linkedin.com/in/schmidbruno  

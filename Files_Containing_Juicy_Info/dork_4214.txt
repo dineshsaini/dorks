@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4214
+Category:         Files Containing Juicy Info
+Published Date:   2016-03-11
+Author:           anonymous
+GoogleDork:       inurl:"sugarcrm.log" ext:log -git -google
+Description:      inurl:"sugarcrm.log" ext:log -git -google
+
+
+Description: SugarCRM log files Google search: inurl:"sugarcrm.log" ext:log -git -google Author: nebo_oben

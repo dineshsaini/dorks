@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/204
+Category:         Pages Containing Login Portals
+Published Date:   2004-05-04
+Author:           anonymous
+GoogleDork:       inurl:names.nsf?opendatabase
+Description:      inurl:names.nsf?opendatabase
+
+
+A Login portal for Lotus Domino servers. Attackers can attack this page or use it to gather information about the server.

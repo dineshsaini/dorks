@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/640
+Category:         Various Online Devices
+Published Date:   2004-11-03
+Author:           anonymous
+GoogleDork:       "please visit" intitle:"i-Catcher Console" Copyright "iCode Systems"
+Description:      "please visit" intitle:"i-Catcher Console" Copyright "iCode Systems"
+
+
+CCTV webcams by ICode.

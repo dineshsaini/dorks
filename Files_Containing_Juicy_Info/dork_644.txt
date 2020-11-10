@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/644
+Category:         Files Containing Juicy Info
+Published Date:   2004-11-05
+Author:           anonymous
+GoogleDork:       "Certificate Practice Statement" inurl:(PDF | DOC)
+Description:      "Certificate Practice Statement" inurl:(PDF | DOC)
+
+
+Certificate Practice Statement (CPS)A CPS defines the measures taken to secure CA operation and the management of CA-issued certificates. You can consider a CPS to be an agreement between the organization managing the CA and the people relying on on the certificates issued by the CA.

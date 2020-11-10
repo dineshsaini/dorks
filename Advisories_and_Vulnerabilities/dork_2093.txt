@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2093
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by PsNews"
+Description:      "Powered by PsNews"
+
+
+PsNews 1.1 (show.php newspath) Local File Inclusion Vulnerability - CVE: 2007-3772: https://www.exploit-db.com/exploits/4174

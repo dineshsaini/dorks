@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4373
+Category:         Web Server Detection
+Published Date:   2016-12-12
+Author:           anonymous
+GoogleDork:       inurl:user_guide intext:"CodeIgniter User Guide"
+Description:      inurl:user_guide intext:"CodeIgniter User Guide"
+
+
+*Explanation: *CodeIgniter comes with a default offline user guide which most of the installed applications don't remove and gets indexed. *Google dork: *inurl:user_guide intext:"CodeIgniter User Guide" Thanks Sreenath Sasikumar

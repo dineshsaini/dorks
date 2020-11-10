@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1689
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by UCenter inurl:shop.php?ac=view
+Description:      Powered by UCenter inurl:shop.php?ac=view
+
+
+UCenter Home 2.0 SQL Injection Vulnerability: https://www.exploit-db.com/exploits/14997

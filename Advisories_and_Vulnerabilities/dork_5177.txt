@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5177
+Category:         Advisories and Vulnerabilities
+Published Date:   2019-04-11
+Author:           botsec0
+GoogleDork:       site:www.openbugbounty.org + intext:"Open Redirect" + intext:"Unpatched"
+Description:      site:www.openbugbounty.org + intext:"Open Redirect" + intext:"Unpatched"
+
+
+Dork : site:www.openbugbounty.org + intext:"Open Redirect" + intext:"Unpatched"  Description : this dork gives you all unpatched sensitive websites vulnerable to open redirect  Author : botsec0 

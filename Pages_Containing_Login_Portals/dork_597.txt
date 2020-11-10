@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/597
+Category:         Pages Containing Login Portals
+Published Date:   2004-10-19
+Author:           anonymous
+GoogleDork:       intitle:"Virtual Server Administration System"
+Description:      intitle:"Virtual Server Administration System"
+
+
+VISAS, German control panel software like confixx.No vulnerabilities are reported to security focus.

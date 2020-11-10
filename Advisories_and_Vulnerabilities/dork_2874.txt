@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2874
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:module=My_eGallery pid
+Description:      inurl:module=My_eGallery pid
+
+
+MDPro Module My_eGallery (pid) Remote SQL Injection - CVE: 2009-0728: https://www.exploit-db.com/exploits/8100

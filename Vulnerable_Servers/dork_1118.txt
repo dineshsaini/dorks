@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1118
+Category:         Vulnerable Servers
+Published Date:   2005-09-17
+Author:           anonymous
+GoogleDork:       "Welcome to Administration" "General" "Local Domains" "SMTP Authentication" inurl:admin
+Description:      "Welcome to Administration" "General" "Local Domains" "SMTP Authentication" inurl:admin
+
+
+This reveals admin site for Argo Software Design Mail Server.

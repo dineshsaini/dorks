@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4401
+Category:         Pages Containing Login Portals
+Published Date:   2017-03-01
+Author:           anonymous
+GoogleDork:       inurl:".reset;-.pwd }" "~ User"
+Description:      inurl:".reset;-.pwd }" "~ User"
+
+
+Also here is more. inurl:"/ctl/SendPassword?returnurl=" "08" inurl:"/Login/tabid/Default.aspx?" "73" -Where the number is you can put any number you want from 1-1000 or more. -Xploit 

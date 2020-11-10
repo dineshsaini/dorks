@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/501
+Category:         Advisories and Vulnerabilities
+Published Date:   2004-09-23
+Author:           anonymous
+GoogleDork:       filetype:cgi inurl:pdesk.cgi
+Description:      filetype:cgi inurl:pdesk.cgi
+
+
+PerlDesk is a web based help desk and email management application designed to streamline support requests, with built in tracking and response logging.http://www.securitytracker.com/alerts/2004/Sep/1011276.html

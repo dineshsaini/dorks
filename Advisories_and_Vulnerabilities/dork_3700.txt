@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3700
+Category:         Advisories and Vulnerabilities
+Published Date:   2011-03-16
+Author:           anonymous
+GoogleDork:       intext:"Site by Triware Technologies Inc"
+Description:      intext:"Site by Triware Technologies Inc"
+
+
+Submitter: p0pc0rn SQL Injection: http://site.com/default.asp?com=[Page]&amp;id=[SQL]&amp;m=[id] http://site.com/default.asp?com=[Page]&amp;id=[id]&amp;m=[SQL]

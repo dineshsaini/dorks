@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5502
+Category:         Pages Containing Login Portals
+Published Date:   2019-09-04
+Author:           Bruno Schmid
+GoogleDork:       intitle:login enterprise
+Description:      intitle:login enterprise
+
+
+Enterprise login portals   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

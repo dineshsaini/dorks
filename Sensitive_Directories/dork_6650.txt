@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6650
+Category:         Sensitive Directories
+Published Date:   2020-11-04
+Author:           Prasad Lingamaiah
+GoogleDork:       intitle:index of .git/hooks/
+Description:      intitle:index of .git/hooks/
+
+
+Dorks: intitle:index of .git/hooks/ Category: Sensitive Information Summary: Contains sensitive info about the Github repository. 

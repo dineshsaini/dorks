@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2741
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"com_a6mambocredits"
+Description:      inurl:"com_a6mambocredits"
+
+
+Mambo a6mambocredits Component 1.0.0 File Include Vulnerability - CVE: 2006-4288: https://www.exploit-db.com/exploits/2207

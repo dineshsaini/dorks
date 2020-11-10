@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3919
+Category:         Files Containing Juicy Info
+Published Date:   2013-11-25
+Author:           anonymous
+GoogleDork:       filetype:xml inurl:sitemap
+Description:      filetype:xml inurl:sitemap
+
+
+Sitemaps, the opposite of Web Robots Exclusion Detail directory and page map -- -[Voluntas Vincit Omnia]- website http://www.erisresearch.org/ Google+ https://plus.google.com/u/0/114827336297709201563

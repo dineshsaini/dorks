@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3687
+Category:         Advisories and Vulnerabilities
+Published Date:   2011-02-23
+Author:           anonymous
+GoogleDork:       "made visual by sightFACTORY"
+Description:      "made visual by sightFACTORY"
+
+
+Author : eXeSoul [#] http://server/accommodations.php?contentid=[sqli] [#] http://server/chamber_business.php?mid=[sqli] [#] http://server/work.php?mid=[sqli] [#] http://server/members.php?id=[SQLi]

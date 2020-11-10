@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3747
+Category:         Files Containing Juicy Info
+Published Date:   2011-11-19
+Author:           anonymous
+GoogleDork:       inurl:"trace.axd" ext:axd "Application Trace"
+Description:      inurl:"trace.axd" ext:axd "Application Trace"
+
+
+example google dork to find trace.axd, a file used for debugging asp that reveals full http request details like cookie and other data that in many cases can be used to hijack user-sessions, display plain-text usernames/passwords and also serverinfo like pathnames second with plain-text usernames and passwords along with sessiondata. this file should be developer-only and not publicly available but seems to be used quite often, usually hidden from google with robots.txt. Author: easypwn

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2046
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Web site engine's code is copyright Â© 2001-2007 ATutorÂ®"
+Description:      "Web site engine's code is copyright Â© 2001-2007 ATutorÂ®"
+
+
+ATutor 1.6.1-pl1 (import.php) Remote File Inclusion Vulnerability - CVE: 2008-3368: https://www.exploit-db.com/exploits/6153

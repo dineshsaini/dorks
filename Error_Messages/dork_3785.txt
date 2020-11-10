@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3785
+Category:         Error Messages
+Published Date:   2012-05-15
+Author:           anonymous
+GoogleDork:       inurl:"*.php?*=*.php" intext:"Warning: include" -inurl:.html -site:"php.net" -site:"stackoverflow.com" -inurl:"*forums*"
+Description:      inurl:"*.php?*=*.php" intext:"Warning: include" -inurl:.html -site:"php.net" -site:"stackoverflow.com" -inurl:"*forums*"
+
+
+PHP Error Messages

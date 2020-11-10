@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6013
+Category:         Files Containing Juicy Info
+Published Date:   2020-05-05
+Author:           Alexandros Pappas
+GoogleDork:       intitle:"index of" "keys.asc"
+Description:      intitle:"index of" "keys.asc"
+
+
+# Google Dork: intitle:"index of" "keys.asc"  # Juicy information and sensitive directories.  # Date: 5/05/2020  # Author: Alexandros Pappas 

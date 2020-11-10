@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3727
+Category:         Files Containing Passwords
+Published Date:   2011-06-28
+Author:           anonymous
+GoogleDork:       filetype:sql "phpmyAdmin SQL Dump" (pass|password|passwd|pwd)
+Description:      filetype:sql "phpmyAdmin SQL Dump" (pass|password|passwd|pwd)
+
+
+phpMyAdmin SQL dump with passwords Bastich

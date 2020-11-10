@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/857
+Category:         Files Containing Passwords
+Published Date:   2005-02-09
+Author:           anonymous
+GoogleDork:       filetype:inc mysql_connect OR mysql_pconnect
+Description:      filetype:inc mysql_connect OR mysql_pconnect
+
+
+INC files have PHP code within them that contain unencrypted usernames, passwords, and addresses for the corresponding databases. Very dangerous stuff. The mysql_connect file is especially dangerous because it handles the actual connection and authentication with the database.

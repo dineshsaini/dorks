@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4447
+Category:         Files Containing Usernames
+Published Date:   2017-04-25
+Author:           anonymous
+GoogleDork:       "authentication failure; logname=" ext:log
+Description:      "authentication failure; logname=" ext:log
+
+
+Finds log files for failed logins, containing usernames and login paths. Dxtroyer

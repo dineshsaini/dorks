@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/57
+Category:         Error Messages
+Published Date:   2004-01-09
+Author:           anonymous
+GoogleDork:       ORA-00921: unexpected end of SQL command
+Description:      ORA-00921: unexpected end of SQL command
+
+
+Another SQL error message from Cesar. This one coughs up full web pathnames and/or php filenames.

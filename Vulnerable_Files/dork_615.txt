@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/615
+Category:         Vulnerable Files
+Published Date:   2004-10-26
+Author:           anonymous
+GoogleDork:       intitle:"phpremoteview" filetype:php "Name, Size, Type, Modify"
+Description:      intitle:"phpremoteview" filetype:php "Name, Size, Type, Modify"
+
+
+phpRemoteView is webbased filemanger with a basic shell. With this an attacker can browse the server filesystem use the online php interpreter.vendor: http://php.spb.ru/remview/ (russian)

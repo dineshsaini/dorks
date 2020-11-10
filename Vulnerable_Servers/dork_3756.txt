@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3756
+Category:         Vulnerable Servers
+Published Date:   2011-11-24
+Author:           anonymous
+GoogleDork:       filetype:php inanchor:c99 inurl:c99 intitle:c99shell -seeds -marijuana
+Description:      filetype:php inanchor:c99 inurl:c99 intitle:c99shell -seeds -marijuana
+
+
+This search attempts to find the c99 backdoor that may be knowingly or unknowingly installed on servers. I have refined the search in hopes that more general talk about the backdoor, and also talk about the marijuana strain does not pollute the results quite as much. Author: Teague Newman

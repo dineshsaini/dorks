@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4035
+Category:         Advisories and Vulnerabilities
+Published Date:   2015-07-14
+Author:           anonymous
+GoogleDork:       inurl:courier/web/ inurl:wmLogin.html filetype:html
+Description:      inurl:courier/web/ inurl:wmLogin.html filetype:html
+
+
+Identifies Accellion Secure File Transfer servers that may be vulnerable to https://community.rapid7.com/community/metasploit/blog/2015/07/10/r7-2015-08-accellion-file-transfer-appliance-vulnerabilities-cve-2015-2856-cve-2015-2857 @lanmaster53 

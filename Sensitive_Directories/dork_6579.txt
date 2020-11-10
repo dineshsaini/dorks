@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6579
+Category:         Sensitive Directories
+Published Date:   2020-09-28
+Author:           Manh Tuong Vi
+GoogleDork:       intitle:"Everything" inurl:C:\Windows
+Description:      intitle:"Everything" inurl:C:\Windows
+
+
+# Dork: intitle:"Everything" inurl:C:\Windows # Sensitive directories

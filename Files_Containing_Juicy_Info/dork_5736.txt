@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5736
+Category:         Files Containing Juicy Info
+Published Date:   2020-02-17
+Author:           JadeWolf
+GoogleDork:       intext:"SECRET_KEY" ext|py inurl:mysite -site:stackoverflow.com -site:github.com
+Description:      intext:"SECRET_KEY" ext|py inurl:mysite -site:stackoverflow.com -site:github.com
+
+
+Dork: intext:"SECRET_KEY" ext|py inurl:mysite -site:stackoverflow.com -site:github.com  Description: This dork queries google and finds the SECRET_KEY within python source code for django, focusing on mysite url.  Category: Files Containing Juicy Info.  Author: JadeWolf

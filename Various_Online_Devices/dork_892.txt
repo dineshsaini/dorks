@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/892
+Category:         Various Online Devices
+Published Date:   2005-03-18
+Author:           anonymous
+GoogleDork:       intitle:HomeSeer.Web.Control | Home.Status.Events.Log
+Description:      intitle:HomeSeer.Web.Control | Home.Status.Events.Log
+
+
+HomeSeer (http://www.homeseer.com/) provides a well known home automation solution (software + hardware)This dork will find web interfaces of homeseer.

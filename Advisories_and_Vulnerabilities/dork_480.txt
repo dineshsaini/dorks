@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/480
+Category:         Advisories and Vulnerabilities
+Published Date:   2004-09-18
+Author:           anonymous
+GoogleDork:       "Powered *: newtelligence" ("dasBlog 1.6"| "dasBlog 1.5"| "dasBlog 1.4"|"dasBlog 1.3")
+Description:      "Powered *: newtelligence" ("dasBlog 1.6"| "dasBlog 1.5"| "dasBlog 1.4"|"dasBlog 1.3")
+
+
+DasBlog is reportedly susceptible to an HTML injection vulnerability in its request log. This vulnerability is due to a failure of the application to properly sanitize user-supplied input data before using it in the generation of dynamic web pages. Versions 1.3 - 1.6 are reported to be vulnerable.More:http://www.securityfocus.com/bid/11086/discussion/

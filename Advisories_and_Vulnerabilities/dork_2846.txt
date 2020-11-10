@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2846
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:option=com_huruhelpdesk
+Description:      inurl:option=com_huruhelpdesk
+
+
+joomla component huruhelpdesk SQL injection Vulnerability: https://www.exploit-db.com/exploits/12124

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3753
+Category:         Sensitive Directories
+Published Date:   2011-11-19
+Author:           anonymous
+GoogleDork:       inurl:/xampp
+Description:      inurl:/xampp
+
+
+this dork looks for servers with xampp installed

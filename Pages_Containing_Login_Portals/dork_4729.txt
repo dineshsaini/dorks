@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4729
+Category:         Pages Containing Login Portals
+Published Date:   2018-04-02
+Author:           Bruno Schmid
+GoogleDork:       inurl:"login.php?referer=profile.php"
+Description:      inurl:"login.php?referer=profile.php"
+
+
+Login portals from Coppermine Photo Gallery    Bruno Schmid 

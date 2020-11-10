@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5951
+Category:         Files Containing Juicy Info
+Published Date:   2020-04-27
+Author:           Alexandros Pappas
+GoogleDork:       "DBPassword" ext:cfg OR ext:log OR ext:txt OR ext:sql -git
+Description:      "DBPassword" ext:cfg OR ext:log OR ext:txt OR ext:sql -git
+
+
+# Google Dorks:  "DBPassword" ext:cfg OR ext:log OR ext:txt OR ext:sql -git "DBUsername" ext:cfg OR ext:log OR ext:txt OR ext:sql -git  # By using this dork some exposed database passwords can be found.  # Date: 27/04/2020  # Author: Alexandros Pappas 

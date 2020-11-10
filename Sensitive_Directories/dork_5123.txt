@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5123
+Category:         Sensitive Directories
+Published Date:   2019-02-15
+Author:           Bruno Schmid
+GoogleDork:       intitle:"index of" "/Windows/Recent" | "/Windows/History/"
+Description:      intitle:"index of" "/Windows/Recent" | "/Windows/History/"
+
+
+This will give you the most recent used files and the history data. This is for Vista - Windows 10, it will not work against XP or Windows 2003   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

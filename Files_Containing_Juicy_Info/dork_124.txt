@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/124
+Category:         Files Containing Juicy Info
+Published Date:   2004-03-14
+Author:           anonymous
+GoogleDork:       intitle:admin intitle:login
+Description:      intitle:admin intitle:login
+
+
+This search can find administrative login pages. Not a vulnerability in and of itself, this query serves as a locator for administrative areas of a site. Further investigation of the surrounding directories can often reveal interesting information.

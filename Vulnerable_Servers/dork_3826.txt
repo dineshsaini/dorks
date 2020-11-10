@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3826
+Category:         Vulnerable Servers
+Published Date:   2012-12-31
+Author:           anonymous
+GoogleDork:       intext:SQL syntax &amp; inurl:index.php?=id &amp; inurl:gov &amp; inurl:gov
+Description:      intext:SQL syntax &amp; inurl:index.php?=id &amp; inurl:gov &amp; inurl:gov
+
+
+# Exploit Title: SQLI Exploit # Google Dork: intext:SQL syntax &amp; inurl:index.php?=id &amp; inurl:gov &amp; inurl:gov # Date: 25/December/2012 # Exploit Author: BeastarStealacar # Vendor Homepage: http://devil-zone.net/

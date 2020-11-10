@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1197
+Category:         Various Online Devices
+Published Date:   2005-11-16
+Author:           anonymous
+GoogleDork:       intitle:Cisco "You are using an old browser or have disabled javascript. You must use version 4 or higher of Netscape Navigator/Communicator"
+Description:      intitle:Cisco "You are using an old browser or have disabled javascript. You must use version 4 or higher of Netscape Navigator/Communicator"
+
+
+Login pages for Ciso VPN Concentrator stuff

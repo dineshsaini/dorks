@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/422
+Category:         Pages Containing Login Portals
+Published Date:   2004-08-13
+Author:           anonymous
+GoogleDork:       intitle:"please login" "your password is *"
+Description:      intitle:"please login" "your password is *"
+
+
+These administrators were friendly enough to give hints about the password.

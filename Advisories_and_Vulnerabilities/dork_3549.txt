@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3549
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by PHP-Update" -site:www.php-update.co.uk
+Description:      "Powered by PHP-Update" -site:www.php-update.co.uk
+
+
+PHP-Update 2.7 Multiple Remote Vulnerabilities - CVE: 2006-6879: https://www.exploit-db.com/exploits/3017

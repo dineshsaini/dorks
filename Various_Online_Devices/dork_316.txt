@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/316
+Category:         Various Online Devices
+Published Date:   2004-07-10
+Author:           anonymous
+GoogleDork:       Panasonic WJ-NT104 netcams
+Description:      Panasonic WJ-NT104 netcams
+
+
+The Panasonic WJ-NT104 allows easy monitoring with a conventional browser. More vendor information is available at hxxp://www.panasonic.ca/English/Broadcast/security/transmission/wjnt104.asp

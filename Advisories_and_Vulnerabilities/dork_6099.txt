@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6099
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-05-19
+Author:           Alexandros Pappas
+GoogleDork:       inurl:"index.php?option=com_fabrik"
+Description:      inurl:"index.php?option=com_fabrik"
+
+
+# Google Dork: inurl:"index.php?option=com_fabrik"  # Joomla! com_fabrik 3.9.11 - Directory Traversal. This dork is linked to the following existing exploit: https://www.exploit-db.com/exploits/48263  # Date: 19/05/2020  # Author: Alexandros Pappas 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3992
+Category:         Various Online Devices
+Published Date:   2015-02-17
+Author:           anonymous
+GoogleDork:       intitle:"AP Router New Generation" intext:"Status do AP Router"
+Description:      intitle:"AP Router New Generation" intext:"Status do AP Router"
+
+
+intitle:"AP Router New Generation" intext:"Status do AP Router" Share-Link

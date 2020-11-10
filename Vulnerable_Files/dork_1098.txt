@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1098
+Category:         Vulnerable Files
+Published Date:   2005-09-11
+Author:           anonymous
+GoogleDork:       "Warning:" "Cannot execute a blank command in"
+Description:      "Warning:" "Cannot execute a blank command in"
+
+
+"Warning: passthru(): Cannot execute a blank command in" "Warning: system(): Cannot execute a blank command in" "Warning: exec(): Cannot execute a blank command in" generally: "Warning:" "Cannot execute a blank command in" this a php error message, essentially it shows hacked pages links where someone leaved a backdoor and the page has error_reporting not set to 0... you can execute shell commands simply appending a var, guessing variable name, usually 'cmd' or 'command' or something else, example: http://[target]/[path]/somescript.php?cmd=cat%20/etc/passwd

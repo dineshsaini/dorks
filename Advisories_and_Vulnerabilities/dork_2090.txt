@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2090
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by: PhotoPost PHP 4.6.5"
+Description:      "Powered by: PhotoPost PHP 4.6.5"
+
+
+PhotoPost PHP 4.6.5 (ecard.php) SQL Injection Vulnerability - CVE: 2004-0239: https://www.exploit-db.com/exploits/14453

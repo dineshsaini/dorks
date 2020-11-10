@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4552
+Category:         Pages Containing Login Portals
+Published Date:   2017-07-20
+Author:           anonymous
+GoogleDork:       intitle:"Sign in · GitLab"
+Description:      intitle:"Sign in · GitLab"
+
+
+Dork: intitle:"Sign in · GitLab" Description: Find GitLab servers Author: scumsec

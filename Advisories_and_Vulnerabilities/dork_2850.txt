@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2850
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       sitou timou tumou tou
+Description:      sitou timou tumou tou
+
+
+Drunken:Golem Gaming Portal (admin_news_bot.php) RFI Vulnerability - CVE: 2009-4622: https://www.exploit-db.com/exploits/9635

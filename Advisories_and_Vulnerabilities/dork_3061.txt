@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3061
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"com_hestar"
+Description:      inurl:"com_hestar"
+
+
+Mambo Component com_hestar Remote SQL Injection Vulnerability: https://www.exploit-db.com/exploits/9609

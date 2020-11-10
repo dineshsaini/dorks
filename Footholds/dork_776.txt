@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/776
+Category:         Footholds
+Published Date:   2004-12-19
+Author:           anonymous
+GoogleDork:       inurl:"phpOracleAdmin/php" -download -cvs
+Description:      inurl:"phpOracleAdmin/php" -download -cvs
+
+
+phpOracleAdmin is intended to be a webbased Oracle Object Manager.In many points alike phpMyAdmin, it should offer more comfort and possibilities. Interestingly these managers are not password protected.

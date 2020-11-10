@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3794
+Category:         Files Containing Juicy Info
+Published Date:   2012-08-21
+Author:           anonymous
+GoogleDork:       filetype:avastlic
+Description:      filetype:avastlic
+
+
+Lots of Avast Licenses . Author : gr00ve_hack3r www.gr00vehack3r.wordpress.com

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3899
+Category:         Files Containing Juicy Info
+Published Date:   2013-11-25
+Author:           anonymous
+GoogleDork:       inurl:github.com intext:sftp-conf.json +intext:/wp-content/
+Description:      inurl:github.com intext:sftp-conf.json +intext:/wp-content/
+
+
+Find FTP logins and full path disclosures pushed to github inurl:github.com intext:sftp-conf.json +intext:/wp-content/ -- RogueCoder

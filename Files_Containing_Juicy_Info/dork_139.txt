@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/139
+Category:         Files Containing Juicy Info
+Published Date:   2004-03-29
+Author:           anonymous
+GoogleDork:       "not for distribution" confidential
+Description:      "not for distribution" confidential
+
+
+The terms "not for distribution" and confidential indicate a sensitive document. Results vary wildly, but web-based documents are for public viewing, and should neither be considered confidential or private.

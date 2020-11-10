@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4463
+Category:         Sensitive Directories
+Published Date:   2017-05-05
+Author:           anonymous
+GoogleDork:       "Index of" inurl:"/$Recycle.Bin/"
+Description:      "Index of" inurl:"/$Recycle.Bin/"
+
+
+Windows recycle bins might not seem very interesting, but you would be surprised how much juicy info is in there! Dxtroyer

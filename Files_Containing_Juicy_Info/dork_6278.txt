@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6278
+Category:         Files Containing Juicy Info
+Published Date:   2020-06-15
+Author:           Abinesh kamal K U
+GoogleDork:       intext:"index of /" "*.yaml"
+Description:      intext:"index of /" "*.yaml"
+
+
+Google Dork: intext:"index of /" "*.yaml" Dork Title: Files Containing Juicy Info Dork Author: Abinesh kamal K U   --  Abinesh Kamal K U 

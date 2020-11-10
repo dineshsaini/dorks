@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2237
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Gallery powered by fMoblog"
+Description:      "Gallery powered by fMoblog"
+
+
+Wordpress Plugin fMoblog 2.1 (id) SQL Injection Vulnerability - CVE: 2009-0968: https://www.exploit-db.com/exploits/8229

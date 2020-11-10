@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6143
+Category:         Pages Containing Login Portals
+Published Date:   2020-05-28
+Author:           Janmejaya Swain
+GoogleDork:       inurl:forgotpassword.htm
+Description:      inurl:forgotpassword.htm
+
+
+*# Google Dork:*  Advisories_and_Vulnerabilities dork_1240.txt dork_1241.txt dork_1242.txt dork_1243.txt dork_1244.txt dork_1245.txt dork_1246.txt dork_1247.txt dork_1248.txt dork_1249.txt dork_1250.txt dork_1251.txt dork_1252.txt dork_1253.txt dork_1254.txt dork_5340.txt dork_5341.txt Error_Messages failed_dorks.txt Files_Containing_Juicy_Info Files_Containing_Passwords Files_Containing_Usernames Footholds ghdb_dorks.sh logs.txt Network_or_Vulnerability_Data Pages_Containing_Login_Portals Sensitive_Directories Sensitive_Online_Shopping_Info Various_Online_Devices Vulnerable_Files Vulnerable_Servers Web_Server_Detection inurl:forgotpassword.htmDescription:- Various pages containing forgot password portals*  *# Author: Janmejaya Swain # Date: 28-May-2020 # Linkedin: https://www.linkedin.com/in/janmejayaswainofficial 

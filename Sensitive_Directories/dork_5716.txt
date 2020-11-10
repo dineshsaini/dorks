@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5716
+Category:         Sensitive Directories
+Published Date:   2020-01-28
+Author:           Pankaj Kumar Thakur
+GoogleDork:       intitle:"index of" "ftp.log"
+Description:      intitle:"index of" "ftp.log"
+
+
+Dork: intitle:"index of" "ftp.log"  Author: Pankaj Kumar Thakur (Nepal) Linkedin: https://www.linkedin.com/in/pankaj1261/ Twitter: @Nep_1337_1998  Info: It contains FTP LOGS 

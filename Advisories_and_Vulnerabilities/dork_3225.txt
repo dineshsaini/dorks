@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3225
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by DorsaCms
+Description:      Powered by DorsaCms
+
+
+DorsaCms (ShowPage.aspx) Remote SQL Injection Vulnerability: https://www.exploit-db.com/exploits/6810

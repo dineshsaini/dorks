@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3932
+Category:         Vulnerable Servers
+Published Date:   2014-02-05
+Author:           anonymous
+GoogleDork:       inurl:"/reports/rwservlet" intext:"Oracle"
+Description:      inurl:"/reports/rwservlet" intext:"Oracle"
+
+
+Search Oracle Reports likely vulnerable to DB user/password disclosure (CVE-2012-3152 and CVE-2012-3153) -- Felipe Molina

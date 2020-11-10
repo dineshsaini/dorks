@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1108
+Category:         Pages Containing Login Portals
+Published Date:   2005-09-13
+Author:           anonymous
+GoogleDork:       "Powered by Monster Top List" MTL numrange:200-
+Description:      "Powered by Monster Top List" MTL numrange:200-
+
+
+2 Step dork - Change url to add filename "admin.php" (just remove index.php&amp;stuff=1&amp;me=2 if you have to) for the admin login.This search finds more pages rather than focusing on the admin login page itself, thus the 2 step dork is more effective.

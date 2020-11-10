@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5906
+Category:         Sensitive Directories
+Published Date:   2020-04-16
+Author:           berat isler
+GoogleDork:       intitle:"index of" "iredadmin/*"
+Description:      intitle:"index of" "iredadmin/*"
+
+
+This dork found some useful information about the iredadmin mail application.  Google Dork : intitle:"index of" "iredadmin/*"  Author : Berat ISLER (root1x) 

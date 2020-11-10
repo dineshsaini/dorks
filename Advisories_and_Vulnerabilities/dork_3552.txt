@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3552
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by Coppermine Photo Gallery"
+Description:      "Powered by Coppermine Photo Gallery"
+
+
+Coppermine Photo Gallery 1.4.18 LFI / Remote Code Execution - CVE: 2008-3481: https://www.exploit-db.com/exploits/6178

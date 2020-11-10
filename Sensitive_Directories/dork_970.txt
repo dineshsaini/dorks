@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/970
+Category:         Sensitive Directories
+Published Date:   2005-05-02
+Author:           anonymous
+GoogleDork:       intitle:index.of WEB-INF
+Description:      intitle:index.of WEB-INF
+
+
+Finds java powered web servers which have indexing enabled on their config directory

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4460
+Category:         Various Online Devices
+Published Date:   2017-05-04
+Author:           anonymous
+GoogleDork:       intext:VIEWS · Server: - Database: information_schema - Table: SCHEMA_PRIVILEGES · Browse · Structure · SQL · Search · Export
+Description:      intext:VIEWS · Server: - Database: information_schema - Table: SCHEMA_PRIVILEGES · Browse · Structure · SQL · Search · Export
+
+
+Description : This google dork can access many websites phpmyadmin web server. Google dork: intext:VIEWS · Server:  - Database: information_schema - Table: SCHEMA_PRIVILEGES · Browse · Structure · SQL · Search · Export. This google dork created by dekingofcyber( SIVABALAN )

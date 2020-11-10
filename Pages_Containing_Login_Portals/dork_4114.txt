@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4114
+Category:         Pages Containing Login Portals
+Published Date:   2015-11-09
+Author:           anonymous
+GoogleDork:       inurl:portal | intitle:portal ("login" | "logon" | "admin") inurl:patient | intitle:patient
+Description:      inurl:portal | intitle:portal ("login" | "logon" | "admin") inurl:patient | intitle:patient
+
+
+Patient Health Portals. Decoy

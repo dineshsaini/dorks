@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5000
+Category:         Sensitive Directories
+Published Date:   2018-10-29
+Author:           Aman Bhardwaj
+GoogleDork:       intitle:"docker" intitle:"index of" config
+Description:      intitle:"docker" intitle:"index of" config
+
+
+*Google Dork:- **intitle:"docker" intitle:"index of" config*  *Description :- *  *Discovers Docker config files and open directories of Sites.*  *Docker Sensitive Directories Expose on Site**.*  *Date :- 28th Oct, 2018*  *Exploit Author :- Aman Bhardwaj * 

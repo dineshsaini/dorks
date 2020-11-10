@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1473
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       ''showad.php?listingid=''
+Description:      ''showad.php?listingid=''
+
+
+BM Classifieds 20080409 Multiple SQL Injection Vulnerabilities - CVE: 2008-1272: https://www.exploit-db.com/exploits/5223

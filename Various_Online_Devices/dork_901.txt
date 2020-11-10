@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/901
+Category:         Various Online Devices
+Published Date:   2005-03-20
+Author:           anonymous
+GoogleDork:       intitle:"Service Managed Gateway Login"
+Description:      intitle:"Service Managed Gateway Login"
+
+
+service Managed Gateway from VirtualAccess login page

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1016
+Category:         Various Online Devices
+Published Date:   2005-06-07
+Author:           anonymous
+GoogleDork:       "RICOH Network Printer D model-Restore Factory"
+Description:      "RICOH Network Printer D model-Restore Factory"
+
+
+Not a whole lot here.

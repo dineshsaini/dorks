@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/971
+Category:         Various Online Devices
+Published Date:   2005-05-02
+Author:           anonymous
+GoogleDork:       inurl:"port_255" -htm
+Description:      inurl:"port_255" -htm
+
+
+Another way to dig up some not yet dorked Lexmark and a couple of Dell printers.http://johnny.ihackstuff.com/index.php?name=PNphpBB2&amp;file=viewtopic&amp;t=2177

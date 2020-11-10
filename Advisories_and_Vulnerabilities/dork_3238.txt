@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3238
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:/modules/tinyevent/
+Description:      inurl:/modules/tinyevent/
+
+
+XOOPS Module Tiny Event 1.01 (id) Remote SQL Injection - CVE: 2007-1811: https://www.exploit-db.com/exploits/3625

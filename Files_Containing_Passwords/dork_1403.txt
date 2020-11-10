@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1403
+Category:         Files Containing Passwords
+Published Date:   2006-08-10
+Author:           anonymous
+GoogleDork:       ext:php intext:"$dbms""$dbhost""$dbuser""$dbpasswd""$table_prefix""phpbb_installed"
+Description:      ext:php intext:"$dbms""$dbhost""$dbuser""$dbpasswd""$table_prefix""phpbb_installed"
+
+
+Hacking a phpBB forum. Here you can gather the mySQL connection information for their forum database. View the .php info by using Google's cache feature.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/826
+Category:         Advisories and Vulnerabilities
+Published Date:   2005-01-21
+Author:           anonymous
+GoogleDork:       uploadpics.php?did= -forumintext:Generated.by.phpix.1.0? inurl:$mode=album
+Description:      uploadpics.php?did= -forumintext:Generated.by.phpix.1.0? inurl:$mode=album
+
+
+Product: PHPix Version: 1.0Vuln: Directory traversalPHPix is a Web-based photo album viewer written in PHP. It features automatic generation of thumbnails and different resolution files for viewing on the fly. Synnergy Labs has found a flaw within PHPix that allows a user to successfully traverse the file system on a remote host, allowing arbitrary files/folders to be read. http://www.securiteam.com/unixfocus/6G00K0K04K.html

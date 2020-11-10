@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4914
+Category:         Files Containing Juicy Info
+Published Date:   2018-08-13
+Author:           Bruno Schmid
+GoogleDork:       intitle:"index of" ".gitignore"
+Description:      intitle:"index of" ".gitignore"
+
+
+Here contains information related to what the target uses as IDE, and many other software related to development. Great for footprinting  Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

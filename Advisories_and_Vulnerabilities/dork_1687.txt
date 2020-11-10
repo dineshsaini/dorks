@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1687
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       pagerank-0-topliste.html OR pagerank-0-tipp.html
+Description:      pagerank-0-topliste.html OR pagerank-0-tipp.html
+
+
+phpscripts Ranking Script Insecure Cookie Handling Vulnerability - CVE: 2008-6092: https://www.exploit-db.com/exploits/6649

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4886
+Category:         Pages Containing Login Portals
+Published Date:   2018-07-06
+Author:           Bruno Schmid
+GoogleDork:       "Copyright Metislab" password
+Description:      "Copyright Metislab" password
+
+
+Metislab login portals  Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

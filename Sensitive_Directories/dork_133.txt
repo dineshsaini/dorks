@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/133
+Category:         Sensitive Directories
+Published Date:   2003-08-12
+Author:           anonymous
+GoogleDork:       "Welcome to phpMyAdmin" " Create new database"
+Description:      "Welcome to phpMyAdmin" " Create new database"
+
+
+phpMyAdmin is a widly spread webfrontend used to mantain sql databases. The default security mechanism is to leave it up to the admin of the website to put a .htaccess file in the directory of the application. Well gues what, obviously some admins are either too lazy or don't know how to secure their directories. These pages should obviously not be accessable to the public without some kind of password ;-)

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1886
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "BlogMe PHP created by Gamma Scripts"
+Description:      "BlogMe PHP created by Gamma Scripts"
+
+
+BlogMe PHP (comments.php id) SQL Injection Vulnerability - CVE: 2008-2175: https://www.exploit-db.com/exploits/5533

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1073
+Category:         Pages Containing Login Portals
+Published Date:   2005-08-14
+Author:           anonymous
+GoogleDork:       intitle:"xams 0.0.0..15 - Login"
+Description:      intitle:"xams 0.0.0..15 - Login"
+
+
+This is the login for xams it should catch from 0.0.1-0.0.150.0.15 being the latest version as far as I can see their is only versions 0.0.13 0.0.14 and 0.0.15

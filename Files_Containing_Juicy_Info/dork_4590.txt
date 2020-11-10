@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4590
+Category:         Files Containing Juicy Info
+Published Date:   2017-10-17
+Author:           anonymous
+GoogleDork:       inurl:FileListAbsolute ext:txt
+Description:      inurl:FileListAbsolute ext:txt
+
+
+*Category:* web server detection files containing juicy info *Summary:* A Google dork that gives the information about target web server's physical path and loaded DLLs. *Dork discovered by:* Goktug Serez https://endpoint-labs.com

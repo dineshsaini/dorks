@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1277
+Category:         Various Online Devices
+Published Date:   2006-03-18
+Author:           anonymous
+GoogleDork:       intitle:"Webview Logon Page"
+Description:      intitle:"Webview Logon Page"
+
+
+This is the web interface for Alcatel's Omniswitch. Default login is: admin/switch.

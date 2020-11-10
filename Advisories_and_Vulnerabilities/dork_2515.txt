@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2515
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"directory.php?cat=" pubs
+Description:      inurl:"directory.php?cat=" pubs
+
+
+Prozilla Pub Site Directory (directory.php cat) SQL Injection Vulnerbility - CVE: 2007-4258: https://www.exploit-db.com/exploits/4265

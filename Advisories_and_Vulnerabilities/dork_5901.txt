@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5901
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-04-16
+Author:           Alexandros Pappas
+GoogleDork:       inurl:/?op=registration
+Description:      inurl:/?op=registration
+
+
+# Google Dork: inurl:/?op=registration  # By using this dork, sites vulnerable to Xfilesharing 2.5.1 - Arbitrary File Upload, can be found. This dork is linked to the following existing exploit: https://www.exploit-db.com/exploits/47659  # Date: 07/04/2020  # Author: Alexandros Pappas 

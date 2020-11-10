@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/713
+Category:         Various Online Devices
+Published Date:   2004-11-28
+Author:           anonymous
+GoogleDork:       intext:"Videoconference Management System" ext:htm
+Description:      intext:"Videoconference Management System" ext:htm
+
+
+Tandberg video conferencing appliancesThe webinterface enables you to drop calls and to browse the internal phonebook

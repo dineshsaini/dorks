@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1430
+Category:         Sensitive Directories
+Published Date:   2010-11-10
+Author:           anonymous
+GoogleDork:       intitle:index.of ios -site:cisco.com
+Description:      intitle:index.of ios -site:cisco.com
+
+
+Google search for Cisco IOS images Author: fdisk

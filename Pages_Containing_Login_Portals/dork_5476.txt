@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5476
+Category:         Pages Containing Login Portals
+Published Date:   2019-08-30
+Author:           Reza Abasi
+GoogleDork:       site:*/updatepassword.php
+Description:      site:*/updatepassword.php
+
+
+Login Portal:  site:*/updatepassword.php site:*/lost-password site:*/changepassword.php site:*/forgotpw.php site:*/reset-password  Reza Abasi(Turku) 

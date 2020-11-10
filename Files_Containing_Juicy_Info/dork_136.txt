@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/136
+Category:         Files Containing Juicy Info
+Published Date:   2004-03-22
+Author:           anonymous
+GoogleDork:       "Most Submitted Forms and Scripts" "this section"
+Description:      "Most Submitted Forms and Scripts" "this section"
+
+
+More www statistics on the web. This one is very nice.. Lots of directory info, and client access statistics, email addresses.. lots of good stuff.These are SOOO dangerous, especially if INTRANET users get logged... talk about mapping out an intranet quickly...

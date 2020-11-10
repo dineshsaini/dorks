@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5557
+Category:         Advisories and Vulnerabilities
+Published Date:   2019-09-26
+Author:           IdeaEngine007
+GoogleDork:       intext:Powered By vBulletin 5.5.4 inurl:forum.
+Description:      intext:Powered By vBulletin 5.5.4 inurl:forum.
+
+
+Category: Advisories and Vulnerabilities  Author: IdeaEngine007 

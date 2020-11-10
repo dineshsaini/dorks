@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/893
+Category:         Web Server Detection
+Published Date:   2005-03-18
+Author:           anonymous
+GoogleDork:       Powered.by.RaidenHTTPD intitle:index.of
+Description:      Powered.by.RaidenHTTPD intitle:index.of
+
+
+RaidenHTTPD ( http://www.raidenhttpd.com/en ) is a full featured web server software for Windows

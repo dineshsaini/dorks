@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5220
+Category:         Pages Containing Login Portals
+Published Date:   2019-05-21
+Author:           acc3ssp0int
+GoogleDork:       intitle:"admin console" inurl:login site:"*.edu"|site:"*.gov"|site:"*.net" -site:*.com -help -guide -documentation -release -notes -configure -support -price -cant
+Description:      intitle:"admin console" inurl:login site:"*.edu"|site:"*.gov"|site:"*.net" -site:*.com -help -guide -documentation -release -notes -configure -support -price -cant
+
+
+I have discovered a google dork that reveals a number of admin console pages for websites ending in edu / gov or net.  *Google Dork*  intitle:"admin console" inurl:login site:"*.edu"|site:"*.gov"|site:"*.net" -site:*.com -help -guide -documentation -release -notes -configure -support -price -cant  *Dates: *21-05-2019  *Dork Author:* acc3ssp0int

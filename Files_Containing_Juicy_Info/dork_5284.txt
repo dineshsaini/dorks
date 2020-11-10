@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5284
+Category:         Files Containing Juicy Info
+Published Date:   2019-07-24
+Author:           Ayan Saha
+GoogleDork:       site:*.com intitle:"Thank You For Your Order" intext:Click Here to Download
+Description:      site:*.com intitle:"Thank You For Your Order" intext:Click Here to Download
+
+
+# Google Dork : site:*.com intitle:”Thank You For Your Order” intext:Click Here to Download # Author: Ayan Saha # Date: 21.07.2019 # Tested on : Chrome  

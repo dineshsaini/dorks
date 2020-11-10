@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2050
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:com_jomestate
+Description:      inurl:com_jomestate
+
+
+Joomla Hot Property com_jomestate RFI Vulnerability: https://www.exploit-db.com/exploits/13956

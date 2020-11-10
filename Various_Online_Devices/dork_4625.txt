@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4625
+Category:         Various Online Devices
+Published Date:   2017-11-29
+Author:           Ankit Anubhav
+GoogleDork:       inurl:"/address/speeddial.html?start" and intext:"Please configure the password" and intitle:"Brother"
+Description:      inurl:"/address/speeddial.html?start" and intext:"Please configure the password" and intitle:"Brother"
+
+
+The following dork gives the list of Brother Printers whose panels do not have an administrator password.  Steps to take control of the Brother printer ::   1. Use the dork to get the list of Brother printers whose password is not configured. The user will get output like hxxp://{URL}/address/speeddial.html?start=1&amp;pageid=10 2. Extract the URL/IP and construct a URL like hxxp://{URL}/admin/password.html 3. This URL will lead the attacker to the page where administrator password can be set.  Ankit Anubhav, NewSky Security 

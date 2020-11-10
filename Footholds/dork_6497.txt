@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6497
+Category:         Footholds
+Published Date:   2020-08-27
+Author:           Javier Bernardo
+GoogleDork:       inurl:CTCWebService
+Description:      inurl:CTCWebService
+
+
+# Google Dork: inurl:CTCWebService # Date: 8/24/2020 # Exploit Author: Javier Bernardo # Homepage: www.hack.com.ar  Javier Bernardo *Information Security Analyst – Ethical Hacker* Aires - Argentina 

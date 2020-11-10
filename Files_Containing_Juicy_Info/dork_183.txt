@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/183
+Category:         Files Containing Juicy Info
+Published Date:   2004-04-28
+Author:           anonymous
+GoogleDork:       inurl:fcgi-bin/echo
+Description:      inurl:fcgi-bin/echo
+
+
+This is the fastcgi echo script, which provides a great deal of information including port numbers, server software versions, port numbers, ip addresses, path names, file names, time zone, process id's, admin email, fqdns, etc!

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/671
+Category:         Web Server Detection
+Published Date:   2004-11-13
+Author:           anonymous
+GoogleDork:       intitle:"Welcome to Your New Home Page!" "by the Debian release"
+Description:      intitle:"Welcome to Your New Home Page!" "by the Debian release"
+
+
+This finds the default Apache page on Debian installs.

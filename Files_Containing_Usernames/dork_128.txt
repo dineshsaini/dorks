@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/128
+Category:         Files Containing Usernames
+Published Date:   2004-03-16
+Author:           anonymous
+GoogleDork:       inurl:admin inurl:userlist
+Description:      inurl:admin inurl:userlist
+
+
+This search reveals userlists of administrative importance. Userlists found using this method can range from benign "message group" lists to system userlists containing passwords.

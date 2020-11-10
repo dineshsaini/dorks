@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4051
+Category:         Various Online Devices
+Published Date:   2015-08-17
+Author:           anonymous
+GoogleDork:       intitle:"hp laserjet" inurl:SSI/Auth/set_config_deviceinfo.htm
+Description:      intitle:"hp laserjet" inurl:SSI/Auth/set_config_deviceinfo.htm
+
+
+# Exploit Title: Unprotected HP Laserjets # Google Dork: intitle:"hp laserjet" inurl:SSI/Auth/set_config_deviceinfo.htm # Date: 15/08/2015 # Exploit Author: Anonymous Change default password or add your own password as the printers come without a password which allows others to mess with settings and print various things.

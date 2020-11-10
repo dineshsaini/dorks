@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6508
+Category:         Pages Containing Login Portals
+Published Date:   2020-08-31
+Author:           rahulsr2714
+GoogleDork:       allintitle:"Welcome admin"
+Description:      allintitle:"Welcome admin"
+
+
+allintitle:"Welcome admin"  Dork shows admin pages of various sites 

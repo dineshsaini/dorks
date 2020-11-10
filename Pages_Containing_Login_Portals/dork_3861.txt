@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3861
+Category:         Pages Containing Login Portals
+Published Date:   2013-08-08
+Author:           anonymous
+GoogleDork:       "Welcome to phpMyAdmin" + "Username:" + "Password:" + "Language:" + "Afrikaans"
+Description:      "Welcome to phpMyAdmin" + "Username:" + "Password:" + "Language:" + "Afrikaans"
+
+
+Finds cPanel login pages. - Andy G - twitter.com/vxhex

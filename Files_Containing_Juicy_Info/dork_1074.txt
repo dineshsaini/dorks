@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1074
+Category:         Files Containing Juicy Info
+Published Date:   2005-08-12
+Author:           anonymous
+GoogleDork:       intitle:"curriculum vitae" filetype:doc
+Description:      intitle:"curriculum vitae" filetype:doc
+
+
+Hello. 1. It reveals personal datas, often private addresses, phone numbers, e-mails, how many children one has:). Full curriculum vitae. I tried many verions of it:inurl:"pl" intitle:"curriculum vitae" filetype:docinurl:"uk" intitle:"curriculum vitae" filetype:docinurl:"nl" intitle:"curriculum vitae" filetype:doc, etc. in order to get national results,alsointitle:"curriculum vitae" ext:(doc | rtf )However filetype:doc version gives the most results. 2. You can always do someting with someone phone number, date and place of birth, etc. I placed this string in the forum, but nobody answered me :(. GreetingsphilYps. you have something similar in your GHDB, but different."Click here for the Google search ==&gt; "phone Advisories_and_Vulnerabilities Error_Messages Files_Containing_Juicy_Info Files_Containing_Passwords Files_Containing_Usernames Footholds ghdb_dorks.sh logs.txt Network_or_Vulnerability_Data Pages_Containing_Login_Portals Sensitive_Directories Sensitive_Online_Shopping_Info Various_Online_Devices Vulnerable_Files Vulnerable_Servers Web_Server_Detection Advisories_and_Vulnerabilities Error_Messages Files_Containing_Juicy_Info Files_Containing_Passwords Files_Containing_Usernames Footholds ghdb_dorks.sh logs.txt Network_or_Vulnerability_Data Pages_Containing_Login_Portals Sensitive_Directories Sensitive_Online_Shopping_Info Various_Online_Devices Vulnerable_Files Vulnerable_Servers Web_Server_Detection *" "address *" "e-mail" intitle:"curriculum vitae"(opens in new window)Added: Thursday, August 19, 2004hits: 24771"

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4491
+Category:         Files Containing Juicy Info
+Published Date:   2017-05-17
+Author:           anonymous
+GoogleDork:       inurl:"/data/urllist.txt" ext:txt -git
+Description:      inurl:"/data/urllist.txt" ext:txt -git
+
+
+Finds plaintext sitemaps, containing pages which robots.txt disallows Dxtroyer

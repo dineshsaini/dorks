@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5756
+Category:         Pages Containing Login Portals
+Published Date:   2020-02-27
+Author:           Wethenorthcvv
+GoogleDork:       inurl:/_layouts/userdisp.aspx?id= intext:password
+Description:      inurl:/_layouts/userdisp.aspx?id= intext:password
+
+
+This dork found various login portals:  inurl:/_layouts/userdisp.aspx?id= intext:password   *Wethenorthcvv 

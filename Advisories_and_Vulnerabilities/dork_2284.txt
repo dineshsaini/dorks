@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2284
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:classifieds/view.php?category=
+Description:      inurl:classifieds/view.php?category=
+
+
+YourFreeWorld Classifieds (category) Remote SQL Injection Vulnerability - CVE: 2008-3755: https://www.exploit-db.com/exploits/6945

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6457
+Category:         Various Online Devices
+Published Date:   2020-07-29
+Author:           Alexandros Pappas
+GoogleDork:       inurl:8081/ "Pan, Tilt &amp; Zoom"
+Description:      inurl:8081/ "Pan, Tilt &amp; Zoom"
+
+
+# Google Dork: inurl:8081/ "Pan, Tilt &amp; Zoom"  # Various online devices (webcams).  # Date: 29/07/2020  # Exploit Author: Alexandros Pappas 

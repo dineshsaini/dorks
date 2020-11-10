@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4378
+Category:         Sensitive Directories
+Published Date:   2016-12-29
+Author:           anonymous
+GoogleDork:       inurl:admin inurl:uploads
+Description:      inurl:admin inurl:uploads
+
+
+Fishes images and text from upload sites    - Toby

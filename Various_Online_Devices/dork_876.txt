@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/876
+Category:         Various Online Devices
+Published Date:   2005-03-05
+Author:           anonymous
+GoogleDork:       inurl:camctrl.cgi
+Description:      inurl:camctrl.cgi
+
+
+Vivotec web cams

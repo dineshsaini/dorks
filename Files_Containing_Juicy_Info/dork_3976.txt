@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3976
+Category:         Files Containing Juicy Info
+Published Date:   2014-11-24
+Author:           anonymous
+GoogleDork:       ext:log telnet intext:password
+Description:      ext:log telnet intext:password
+
+
+Telnet logs. By Rootkit.

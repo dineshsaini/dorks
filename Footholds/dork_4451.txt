@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4451
+Category:         Footholds
+Published Date:   2017-05-01
+Author:           anonymous
+GoogleDork:       "WHMCS Auto Xploiter"
+Description:      "WHMCS Auto Xploiter"
+
+
+Finds WHMCS exploit shellz in sites Dxtroyer

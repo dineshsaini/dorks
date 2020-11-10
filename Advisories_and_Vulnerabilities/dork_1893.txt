@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1893
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Script réalisé par BinGo PHP"
+Description:      "Script réalisé par BinGo PHP"
+
+
+BinGo News 3.01 (bnrep) Remote File Include Vulnerability - CVE: 2006-4648: https://www.exploit-db.com/exploits/2312

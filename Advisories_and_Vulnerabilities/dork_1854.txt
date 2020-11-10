@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1854
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "MunzurSoft Wep Portal W3"
+Description:      "MunzurSoft Wep Portal W3"
+
+
+MunzurSoft Wep Portal W3 (kat) SQL Injection Vulnerability - CVE: 2008-4573: https://www.exploit-db.com/exploits/6725

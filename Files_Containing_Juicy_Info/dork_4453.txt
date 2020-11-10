@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4453
+Category:         Files Containing Juicy Info
+Published Date:   2017-05-01
+Author:           anonymous
+GoogleDork:       "# AdwCleaner" ext:txt
+Description:      "# AdwCleaner" ext:txt
+
+
+Finds AdwCleaner logfiles Dxtroyer

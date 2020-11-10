@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4604
+Category:         Sensitive Directories
+Published Date:   2017-10-30
+Author:           Jineeb JN
+GoogleDork:       intext:"Index of /database"
+Description:      intext:"Index of /database"
+
+
+Explanation: Using this search we can able to get private database details including SQL and other database elements and contents.  *Jineeb JN* 

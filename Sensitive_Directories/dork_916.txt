@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/916
+Category:         Sensitive Directories
+Published Date:   2005-03-26
+Author:           anonymous
+GoogleDork:       intitle:index.of /maildir/new/
+Description:      intitle:index.of /maildir/new/
+
+
+search gives you a mailbox dir. Contains a lot of mails.

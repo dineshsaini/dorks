@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1823
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered By : Yamamah Version 1.00"
+Description:      "Powered By : Yamamah Version 1.00"
+
+
+Yamamah Photo Gallery 1.00 (download.php) Local File Disclosure Vulnerability - CVE: 2010-2334: https://www.exploit-db.com/exploits/13856

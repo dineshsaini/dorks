@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1723
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by nzFotolog v0.4.1 Â© 2005-2006 Ricardo Amaral"
+Description:      "Powered by nzFotolog v0.4.1 Â© 2005-2006 Ricardo Amaral"
+
+
+nzFotolog 0.4.1 (action_file) Local File Inclusion Vulnerability - CVE: 2008-3405: https://www.exploit-db.com/exploits/6164

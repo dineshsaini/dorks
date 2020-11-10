@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2660
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by AM4SS 1.0
+Description:      Powered by AM4SS 1.0
+
+
+Advneced Management For Services Sites (File Disclosure) Vulnerabilities: https://www.exploit-db.com/exploits/12859

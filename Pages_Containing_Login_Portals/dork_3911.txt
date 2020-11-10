@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3911
+Category:         Pages Containing Login Portals
+Published Date:   2013-11-25
+Author:           anonymous
+GoogleDork:       "inurl:/data/nanoadmin.php"
+Description:      "inurl:/data/nanoadmin.php"
+
+
+Hi, I would like to submit this GHDB which allow to find out nanoCMS administration pages : *inurl:"/data/nanoadmin.php"* Best regards, Antonino Napoli

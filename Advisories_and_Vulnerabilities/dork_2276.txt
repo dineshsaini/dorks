@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2276
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Jax Calendar v1.34 by Jack (tR), www.jtr.de/scripting/php"
+Description:      "Jax Calendar v1.34 by Jack (tR), www.jtr.de/scripting/php"
+
+
+Jax Calendar 1.34 Remote Admin Access: https://www.exploit-db.com/exploits/10835

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4826
+Category:         Pages Containing Login Portals
+Published Date:   2018-05-17
+Author:           Bruno Schmid
+GoogleDork:       inurl:"user_login/" bitcoin | crypto | wallet
+Description:      inurl:"user_login/" bitcoin | crypto | wallet
+
+
+Login portals related to cryptocurrency wallets and cryptocurrency excange web apps    Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

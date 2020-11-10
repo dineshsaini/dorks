@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1189
+Category:         Files Containing Passwords
+Published Date:   2005-11-14
+Author:           anonymous
+GoogleDork:       ext:yml database inurl:config
+Description:      ext:yml database inurl:config
+
+
+Ruby on Rails is a MVC full-stack framework for development of web applications. There's a configuration file in this framework called database.yml that links the Rails with the DB. It contains all the info needed to access de DB including username and password in clear text.

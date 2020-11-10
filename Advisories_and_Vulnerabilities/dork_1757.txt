@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1757
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intitle:Bilder Galerie 1.1 or intitle:Bilder Galerie
+Description:      intitle:Bilder Galerie 1.1 or intitle:Bilder Galerie
+
+
+MatPo Bilder Galerie 1.1 Remote File Inclusion Vulnerability - CVE: 2007-6649: https://www.exploit-db.com/exploits/4815

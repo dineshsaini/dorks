@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3774
+Category:         Advisories and Vulnerabilities
+Published Date:   2012-01-03
+Author:           anonymous
+GoogleDork:       inurl:"/showPlayer.php?id=" intext:"powered by ellistonSPORT"
+Description:      inurl:"/showPlayer.php?id=" intext:"powered by ellistonSPORT"
+
+
+ellistonSPORT Remote SQL Injection Vulnerability. Author: ITTIHACK

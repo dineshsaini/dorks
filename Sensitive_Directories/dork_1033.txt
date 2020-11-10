@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1033
+Category:         Sensitive Directories
+Published Date:   2005-07-21
+Author:           anonymous
+GoogleDork:       intitle:"pictures thumbnails" site:pictures.sprintpcs.com
+Description:      intitle:"pictures thumbnails" site:pictures.sprintpcs.com
+
+
+This search reveals the photo albums taken by Sprint PCS customers. Pictures taken with Sprint's cell phone service can be shared on their website. This search exposes the thumbnail album, only if the user has elected to share the photo album.Nothing like the Paris Hilton pictures, but there are pictures of people drunk at parties, dancing, girlfriens and so on.

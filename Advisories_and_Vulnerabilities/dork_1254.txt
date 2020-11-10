@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1254
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-01-16
+Author:           anonymous
+GoogleDork:       inurl:install.pl intitle:GTchat
+Description:      inurl:install.pl intitle:GTchat
+
+
+Gtchat install file.You can disable the chat program or change the language without a admin username or password. You can also point the chatroom information to a different URL in theory using a crosscript to take over the the chatroom.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1539
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allinurl:"members.asp?action"
+Description:      allinurl:"members.asp?action"
+
+
+MiniNuke 2.1 (members.asp uid) Remote SQL Injection Vulnerability: https://www.exploit-db.com/exploits/5187

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3665
+Category:         Advisories and Vulnerabilities
+Published Date:   2011-01-04
+Author:           anonymous
+GoogleDork:       "POWERED BY ALITALK"
+Description:      "POWERED BY ALITALK"
+
+
+intext:"POWERED BY ALITALK"

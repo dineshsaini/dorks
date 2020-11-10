@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2116
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allintext:" If you would like to contact us, our email address is" traffic
+Description:      allintext:" If you would like to contact us, our email address is" traffic
+
+
+Traffic Stats (referralUrl.php offset) Remote SQL Injection Vulnerbility - CVE: 2007-3840: https://www.exploit-db.com/exploits/4187

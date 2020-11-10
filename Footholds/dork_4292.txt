@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4292
+Category:         Footholds
+Published Date:   2016-06-06
+Author:           anonymous
+GoogleDork:       intitle:"Hamdida X_Shell Backd00r"
+Description:      intitle:"Hamdida X_Shell Backd00r"
+
+
+Interesting little backdoor. intitle:"Hamdida X_Shell Backd00r" Decoy

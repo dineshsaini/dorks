@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2763
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       album.asp?pic= .jpg cat=
+Description:      album.asp?pic= .jpg cat=
+
+
+aspWebAlbum 3.2 (Upload/SQL/XSS) Multiple Remote Vulnerabilities - CVE: 2008-6977: https://www.exploit-db.com/exploits/6357

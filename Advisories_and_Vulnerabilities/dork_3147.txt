@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3147
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by BIGACE 2.4"
+Description:      "Powered by BIGACE 2.4"
+
+
+BIGACE 2.4 Multiple Remote File Inclusion Vulnerabilities - CVE: 2008-2520: https://www.exploit-db.com/exploits/5596

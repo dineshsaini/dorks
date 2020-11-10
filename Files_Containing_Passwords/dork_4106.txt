@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4106
+Category:         Files Containing Passwords
+Published Date:   2015-10-28
+Author:           anonymous
+GoogleDork:       inurl:etc -intext:etc ext:passwd
+Description:      inurl:etc -intext:etc ext:passwd
+
+
+Files with a lot of passwords. Enjoy healthy!. Dork by Rootkit Pentester.

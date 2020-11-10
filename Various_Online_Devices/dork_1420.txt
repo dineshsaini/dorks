@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1420
+Category:         Various Online Devices
+Published Date:   2006-10-02
+Author:           anonymous
+GoogleDork:       intitle:"Net2Phone Init Page"
+Description:      intitle:"Net2Phone Init Page"
+
+
+Net2Phone CommCenterÃƒâ€šÃ‚Â® is software that allows you to make phone calls and send faxes to anywhere in the world.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6226
+Category:         Sensitive Directories
+Published Date:   2020-06-05
+Author:           Abhi Chitkara
+GoogleDork:       intitle:"index of" "uploads.old"
+Description:      intitle:"index of" "uploads.old"
+
+
+Dork: intitle:"index of" "uploads.old" Description: This google dorks lists out sensitive files stored in old upload folders on web servers. Author: Abhi Chitkara 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5330
+Category:         Sensitive Directories
+Published Date:   2019-08-07
+Author:           Coudry hugo
+GoogleDork:       intitle:"index of" admin
+Description:      intitle:"index of" admin
+
+
+Dork: intitle"index of" admin Author : Coudry Hugo Sensitive Directories 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/546
+Category:         Advisories and Vulnerabilities
+Published Date:   2004-10-10
+Author:           anonymous
+GoogleDork:       "Powered by A-CART"
+Description:      "Powered by A-CART"
+
+
+A-CART is an ASP shopping cart application written in VBScript. It is comprised of a number of ASP scripts and an Access database. A security vulnerability in the product allows remote attackers to download the product's database, thus gain access to sensitive information about users of the product (name, surname, address, e-mail, credit card number, and user's login-password). http://www.securityfocus.com/bid/5597 (search SF for more)

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6323
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-06-23
+Author:           Vanshal Gaur
+GoogleDork:       inurl:/webmail intext:Tecnologia fornecida por IceWarp Server
+Description:      inurl:/webmail intext:Tecnologia fornecida por IceWarp Server
+
+
+# Google Dork: inurl:/webmail intext:Tecnologia fornecida por IceWarp Server # IceWarp WebMail 11.4.4.1 and older version - Reflective Cross-Site Scripting. # This dork is linked to the following existing exploit: # https://www.exploit-db.com/exploits/47988  [*] CVE: CVE-2020-8512 [*] Date: 23/06/2020 [*] Author: Vanshal Gaur [*] Twitter: VanshalG 

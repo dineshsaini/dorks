@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6581
+Category:         Pages Containing Login Portals
+Published Date:   2020-09-28
+Author:           Raghotham Mruthike
+GoogleDork:       inurl:/ emis login
+Description:      inurl:/ emis login
+
+
+ # Google Dork: inurl:/ emis login # Date: 25/09/2020 # Author: Raghotham Mruthike # Category: Pages Containing Login Portals # Description: Dork shows admin pages of various sites. 

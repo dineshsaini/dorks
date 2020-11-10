@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2715
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:com_jomtube
+Description:      inurl:com_jomtube
+
+
+Joomla Component com_jomtube (user_id) Blind SQL Injection / SQL Injection: https://www.exploit-db.com/exploits/14434

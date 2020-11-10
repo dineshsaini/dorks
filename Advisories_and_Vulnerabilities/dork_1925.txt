@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1925
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "wow roster version 1.5.*"
+Description:      "wow roster version 1.5.*"
+
+
+WoW Roster 1.5.1 (subdir) Remote File Include Vulnerability - CVE: 2006-3998: https://www.exploit-db.com/exploits/2099

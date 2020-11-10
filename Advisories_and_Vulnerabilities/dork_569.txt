@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/569
+Category:         Advisories and Vulnerabilities
+Published Date:   2004-10-15
+Author:           anonymous
+GoogleDork:       "1999-2004 FuseTalk Inc" -site:fusetalk.com
+Description:      "1999-2004 FuseTalk Inc" -site:fusetalk.com
+
+
+Fusetalk forums (v4) are susceptible to cross site scripting attacks that can be exploited by passing a img src with malicious javascript.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6227
+Category:         Pages Containing Login Portals
+Published Date:   2020-06-05
+Author:           Abhi Chitkara
+GoogleDork:       inurl:employee-login.php
+Description:      inurl:employee-login.php
+
+
+Dork: inurl:employee-login.php Description: This google dorks lists out employee login pages on web servers. Author: Abhi Chitkara 

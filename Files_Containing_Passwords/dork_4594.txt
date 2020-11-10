@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4594
+Category:         Files Containing Passwords
+Published Date:   2017-10-17
+Author:           anonymous
+GoogleDork:       intext:connectionString &amp; inurl:web &amp; ext:config
+Description:      intext:connectionString &amp; inurl:web &amp; ext:config
+
+
+*Category:* Files containing passwords *Summary:* A Google dork that gives SQL connection information (sql server ip, username and password). *Dork discovered by:* Goktug Serez https://endpoint-labs.com

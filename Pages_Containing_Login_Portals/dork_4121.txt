@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4121
+Category:         Pages Containing Login Portals
+Published Date:   2015-11-11
+Author:           anonymous
+GoogleDork:       inurl:"https://blackboard" | inurl:"http://blackboard"
+Description:      inurl:"https://blackboard" | inurl:"http://blackboard"
+
+
+Blackboard Login Portals. Decoy

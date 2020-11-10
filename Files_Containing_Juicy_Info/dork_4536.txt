@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4536
+Category:         Files Containing Juicy Info
+Published Date:   2017-06-23
+Author:           anonymous
+GoogleDork:       intext:uploadOverwrite || intext:OPEN || intext:cwd
+Description:      intext:uploadOverwrite || intext:OPEN || intext:cwd
+
+
+------------------------------------------------------------- Google Dork: intext:uploadOverwrite || intext:OPEN || intext:cwd Author: Tarkan Catal X This dork allows you to search for elFinder (https://studio-42.github.io/elFinder) log file. This file contains ( hidden ) paths, directories, files and other juicy information. --------------------------------------------------------------

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6647
+Category:         Various Online Devices
+Published Date:   2020-11-04
+Author:           Prasad Lingamaiah
+GoogleDork:       inurl:/index.html?size=2&amp;mode=4
+Description:      inurl:/index.html?size=2&amp;mode=4
+
+
+Dorks: inurl:/index.html?size=2&amp;mode=4  Category: Various Online Devices  Summary: A Google dork that gives the online camera login information. 

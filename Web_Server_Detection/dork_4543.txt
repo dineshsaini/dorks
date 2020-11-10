@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4543
+Category:         Web Server Detection
+Published Date:   2017-06-27
+Author:           anonymous
+GoogleDork:       intitle:"Index of" "Apache/2.4.7 (Ubuntu) Server"
+Description:      intitle:"Index of" "Apache/2.4.7 (Ubuntu) Server"
+
+
+Dork: intitle:"Index of" "Apache/2.4.7 (Ubuntu) Server" Desc: This dork is used to find Ubuntu servers and a certain version of Apache. Modify it to find the servers you need.

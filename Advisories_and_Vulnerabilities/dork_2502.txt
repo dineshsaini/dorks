@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2502
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered By form2list
+Description:      Powered By form2list
+
+
+form2list (page.php id) Remote SQL Injection Vulnerability: https://www.exploit-db.com/exploits/8348

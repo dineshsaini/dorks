@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5265
+Category:         Files Containing Juicy Info
+Published Date:   2019-06-20
+Author:           Bruno Schmid
+GoogleDork:       intitle:"index of" unattend.xml
+Description:      intitle:"index of" unattend.xml
+
+
+Files containing juicy info and sometimes passwords   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

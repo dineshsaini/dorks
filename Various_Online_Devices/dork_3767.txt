@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3767
+Category:         Various Online Devices
+Published Date:   2011-12-26
+Author:           anonymous
+GoogleDork:       intitle:SpectraIV-IP
+Description:      intitle:SpectraIV-IP
+
+
+Google dork for pelco SpectraIV-IP Dome Series cameras Default username/password "admin/admin". Author: GhOsT-PR

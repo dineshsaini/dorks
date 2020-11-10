@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3639
+Category:         Vulnerable Servers
+Published Date:   2010-12-08
+Author:           anonymous
+GoogleDork:       "www.*.com - c99shell" OR "www.*.net - c99shell" OR "www.*.org - c99shell"
+Description:      "www.*.com - c99shell" OR "www.*.net - c99shell" OR "www.*.org - c99shell"
+
+
+Locates c99 web shells Author: ScOrPiOn

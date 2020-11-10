@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/172
+Category:         Pages Containing Login Portals
+Published Date:   2004-04-21
+Author:           anonymous
+GoogleDork:       inurl:login.asp
+Description:      inurl:login.asp
+
+
+This is a typical login page. It has recently become a target for SQL injection. Comsec's article at http://www.governmentsecurity.org/articles/SQLinjectionBasicTutorial.php brought this to my attention.

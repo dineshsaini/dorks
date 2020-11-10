@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2626
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "PKs Movie Database"
+Description:      "PKs Movie Database"
+
+
+PKs Movie Database 3.0.3 XSS / SQL Injection Vulnerabilities: https://www.exploit-db.com/exploits/5095

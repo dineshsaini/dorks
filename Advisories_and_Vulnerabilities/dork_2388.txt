@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2388
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intext:"Powered by WSN Links Basic Edition"
+Description:      intext:"Powered by WSN Links Basic Edition"
+
+
+WSN Links Basic Edition (displaycat catid) SQL Injection Vulnerbility - CVE: 2007-3981: https://www.exploit-db.com/exploits/4209

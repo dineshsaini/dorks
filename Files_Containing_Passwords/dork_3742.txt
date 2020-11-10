@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3742
+Category:         Files Containing Passwords
+Published Date:   2011-09-26
+Author:           anonymous
+GoogleDork:       inurl:ftp "password" filetype:xls
+Description:      inurl:ftp "password" filetype:xls
+
+
+this string may be used to find many low hanging fruit on FTP sites recently indexed by google. Author: Uhaba 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4279
+Category:         Files Containing Passwords
+Published Date:   2016-05-05
+Author:           anonymous
+GoogleDork:       intext:"eav" filetype:txt
+Description:      intext:"eav" filetype:txt
+
+
+Files containing usernames &amp; passwords of NOD32 antivirus accounts. Google dork: intext:"eav" filetype:txt Thanks! D0bby

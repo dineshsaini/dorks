@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/399
+Category:         Files Containing Juicy Info
+Published Date:   2004-08-02
+Author:           anonymous
+GoogleDork:       inurl:*db filetype:mdb
+Description:      inurl:*db filetype:mdb
+
+
+More Microsoft Access databases for your viewing pleasure. Results may vary, but there have been passwords discovered with this search.

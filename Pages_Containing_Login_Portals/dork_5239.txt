@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5239
+Category:         Pages Containing Login Portals
+Published Date:   2019-06-03
+Author:           Bruno Schmid
+GoogleDork:       intitle:"Outlook Web Access" | "Outlook Web app" -office.com -youtube.com -microsoft.com
+Description:      intitle:"Outlook Web Access" | "Outlook Web app" -office.com -youtube.com -microsoft.com
+
+
+Outlook Web Access (OWA) login portals   Bruno Schmid https://ch.linkedin.com/in/schmidbruno @brulliant 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4163
+Category:         Sensitive Directories
+Published Date:   2015-12-21
+Author:           anonymous
+GoogleDork:       inurl:/server/webapps
+Description:      inurl:/server/webapps
+
+
+Google Search: inurl:/server/webapps Submission Date: 12/19/2015 Description: Apache Tomcat information disclosure. by @pwns4cash

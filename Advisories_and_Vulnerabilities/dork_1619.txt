@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1619
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by xchangeboard"
+Description:      "Powered by xchangeboard"
+
+
+XchangeBoard 1.70 (boardID) Remote SQL Injection Vulnerability - CVE: 2008-3035: https://www.exploit-db.com/exploits/5991

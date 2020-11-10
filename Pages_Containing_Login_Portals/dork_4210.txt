@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4210
+Category:         Pages Containing Login Portals
+Published Date:   2016-03-09
+Author:           anonymous
+GoogleDork:       intitle:"D-Link VoIP Router" "Welcome"
+Description:      intitle:"D-Link VoIP Router" "Welcome"
+
+
+Description: D-Link VoIP Router login page Google search: intitle:"D-Link VoIP Router" "Welcome" Author: nebo_oben

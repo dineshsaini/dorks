@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/55
+Category:         Files Containing Passwords
+Published Date:   2003-08-19
+Author:           anonymous
+GoogleDork:       trillian.ini
+Description:      trillian.ini
+
+
+Trillian pulls together all sort of messaging clients like AIM MSN, Yahoo, IRC, ICQ, etc. The various ini files that trillian uses include files like aim.ini and msn.ini. These ini files contain encoded passwords, usernames, buddy lists, and all sorts of other fun things. Thanks for putting these on the web for us, googledorks!

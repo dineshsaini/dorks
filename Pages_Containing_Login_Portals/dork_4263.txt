@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4263
+Category:         Pages Containing Login Portals
+Published Date:   2016-04-14
+Author:           anonymous
+GoogleDork:       inurl:inmotionhosting.com:2096/
+Description:      inurl:inmotionhosting.com:2096/
+
+
+# Title: Webmail login pages # Google Dork: inurl:inmotionhosting.com:2096/ # Date: 04/14/2016 # Author: Stephanie Jensen (https://twitter.com/Steph_J_) Summary Searching with omitted results gives you webmail login pages. Some search results even display login credentials in search result titles. 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4581
+Category:         Files Containing Juicy Info
+Published Date:   2017-09-20
+Author:           anonymous
+GoogleDork:       ext:csproj
+Description:      ext:csproj
+
+
+*Summary:* A Google dork that gives the information about the IIS configurations, referenced libraries and all included file paths in server (.cs files etc) from the target .NET web application. *Dork discovered by:* Goktug Serez https://endpoint-labs.com

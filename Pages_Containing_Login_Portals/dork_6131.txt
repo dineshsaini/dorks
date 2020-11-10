@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6131
+Category:         Pages Containing Login Portals
+Published Date:   2020-05-27
+Author:           BillyV4
+GoogleDork:       intitle:"HP System Management Homepage" inurl:cpqlogin
+Description:      intitle:"HP System Management Homepage" inurl:cpqlogin
+
+
+# Google Dork: intitle:"HP System Management Homepage" inurl:cpqlogin  # Description: Find HP System Management Homepage.  # Author: Carlos Ramírez L. (BillyV4) 

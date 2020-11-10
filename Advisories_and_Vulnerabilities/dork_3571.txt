@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3571
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by BIGACE 2.5"
+Description:      "Powered by BIGACE 2.5"
+
+
+BIGACE CMS 2.5 (username) Remote SQL Injection - CVE: 2009-1778: https://www.exploit-db.com/exploits/8664

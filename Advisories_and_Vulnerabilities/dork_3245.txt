@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3245
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"com_booklibrary"
+Description:      inurl:"com_booklibrary"
+
+
+Joomla Book Library 1.0 file inclusion - CVE: 2009-3817: https://www.exploit-db.com/exploits/9889

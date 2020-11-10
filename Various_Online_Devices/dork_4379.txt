@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4379
+Category:         Various Online Devices
+Published Date:   2017-01-05
+Author:           anonymous
+GoogleDork:       "All site content" ext:aspx
+Description:      "All site content" ext:aspx
+
+
+Dork for locate Sharepoint Administration webs. Enjoy healthy. Dork made by Rootkit Pentester.

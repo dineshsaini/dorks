@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6420
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-07-17
+Author:           Sachin Kattimani
+GoogleDork:       inurl:wp-content/plugins/lifterlms
+Description:      inurl:wp-content/plugins/lifterlms
+
+
+DORK: inurl:wp-content/plugins/lifterlms  https://wpvulndb.com/vulnerabilities/10159  This google dork gives us the advisories and vulnerabilities on wordpress plugins  Thanks, Sachin 

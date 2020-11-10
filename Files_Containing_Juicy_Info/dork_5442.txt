@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5442
+Category:         Files Containing Juicy Info
+Published Date:   2019-08-26
+Author:           Reza Abasi
+GoogleDork:       intitle:"index of" "debian.cnf"
+Description:      intitle:"index of" "debian.cnf"
+
+
+Files Containing Password:  intitle:"index of" "debian.cnf" intitle:"index of" "db.conf"  Reza Abasi(Turku) 

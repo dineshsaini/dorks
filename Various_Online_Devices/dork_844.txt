@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/844
+Category:         Various Online Devices
+Published Date:   2005-01-27
+Author:           anonymous
+GoogleDork:       inurl:"8003/Display?what="
+Description:      inurl:"8003/Display?what="
+
+
+Norton AntiVirus for GatewaysEasily administered from anywhere via an HTML interface, it scans compressed and encoded files at the SMTP gateway, including a nearly unlimited number of file extensions in ZIPÃƒâ€šÃ‚Â®, UUENCODE, and MIME formats. Administrators have flexible options for handling infected files, scheduling virus definition updates via LiveUpdateÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢, and generating reports.

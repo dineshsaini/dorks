@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3766
+Category:         Vulnerable Servers
+Published Date:   2011-12-23
+Author:           anonymous
+GoogleDork:       inurl:.php intitle:- BOFF 1.0 intext:[ Sec. Info ]
+Description:      inurl:.php intitle:- BOFF 1.0 intext:[ Sec. Info ]
+
+
+This search attempts to find the BOFF 1.0 Shell. Author: alsa7r

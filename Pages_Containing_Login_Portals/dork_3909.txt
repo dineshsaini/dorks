@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3909
+Category:         Pages Containing Login Portals
+Published Date:   2013-11-25
+Author:           anonymous
+GoogleDork:       inurl:"/module.php/core/loginuserpass.php"
+Description:      inurl:"/module.php/core/loginuserpass.php"
+
+
+Finds SimpleSAMLphp login pages. - Andy G - twitter.com/vxhex

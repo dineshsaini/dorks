@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2591
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       ?action=pro_show and ?action=disppro
+Description:      ?action=pro_show and ?action=disppro
+
+
+EPShop 3.0 (pid) Remote SQL Injection Vulnerability - CVE: 2008-3412: https://www.exploit-db.com/exploits/6139

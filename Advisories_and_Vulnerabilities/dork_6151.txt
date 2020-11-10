@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6151
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-05-28
+Author:           Abhi Chitkara
+GoogleDork:       inurl:wp-content/plugins/iframe
+Description:      inurl:wp-content/plugins/iframe
+
+
+Dork: inurl:wp-content/plugins/iframe Description: This google dork lists out Advisories and Vulnerabilities regarding the iframe wordpress plugin. Ref: https://wpvulndb.com/vulnerabilities/10221 Author: Abhi Chitkara 

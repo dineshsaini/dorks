@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5067
+Category:         Pages Containing Login Portals
+Published Date:   2019-01-09
+Author:           FlyingFrog
+GoogleDork:       inurl:/irj/portal
+Description:      inurl:/irj/portal
+
+
+AUTHOR: FlyingFrog Twitter: @ItsKarl0z   ++ SAP NetWeaver Login Portals ++  inurl:/irj/portal - Finds SAP NetWeaver login portals - Finds SAP Enterprise login portals - Finds SAP NetWeaver server entry points - Finds SAP NetWeaver servers of large companies - 18 Vulnerabillites on Exploit DB available for SAP NetWeaver at the time of writing:     - https://www.exploit-db.com/exploits/44647     - https://www.exploit-db.com/exploits/44292     - https://www.exploit-db.com/exploits/40816     - ……. just search SAP NetWeaver and the desired Version - 10.600 results at the time of writing  DISCLAIMER: (The vulnerabilities are suggestions, none of them have been tested by me, always request permission before testing anything on someone else system) Some of these are sourced from Onapsis, ERPscan and Rapid7 all have great sources on SAP testing   

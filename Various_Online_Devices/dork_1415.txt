@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1415
+Category:         Various Online Devices
+Published Date:   2006-10-02
+Author:           anonymous
+GoogleDork:       "LANCOM DSL/*-* Office *" "Entry Page"
+Description:      "LANCOM DSL/*-* Office *" "Entry Page"
+
+
+h**p://www.lancom-systems.de/Login page for these Lancom online DSL devices.

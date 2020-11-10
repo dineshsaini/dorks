@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/670
+Category:         Various Online Devices
+Published Date:   2004-11-13
+Author:           anonymous
+GoogleDork:       intext:"UAA (MSB)" Lexmark -ext:pdf
+Description:      intext:"UAA (MSB)" Lexmark -ext:pdf
+
+
+Lexmark printers (T620, T522, Optra T614, E323, T622, Optra T610, Optra T616, T520 and Optra S 1855)

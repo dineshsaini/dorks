@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5062
+Category:         Files Containing Juicy Info
+Published Date:   2019-01-02
+Author:           Kevin Randall
+GoogleDork:       filetype:doc "Answer Key"
+Description:      filetype:doc "Answer Key"
+
+
+Find Answer Keys   filetype:doc "Answer Key"   Discovered By: Kevin Randall 

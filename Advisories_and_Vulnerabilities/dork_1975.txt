@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1975
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by: Maian Uploader v4.0
+Description:      Powered by: Maian Uploader v4.0
+
+
+Maian Uploader 4.0 Insecure Cookie Handling Vulnerability - CVE: 2008-3321: https://www.exploit-db.com/exploits/6065

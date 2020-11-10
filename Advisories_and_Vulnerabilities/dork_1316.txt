@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1316
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-03-28
+Author:           anonymous
+GoogleDork:       "powered by php icalendar" -ihackstuff -exploit
+Description:      "powered by php icalendar" -ihackstuff -exploit
+
+
+this is for php iCalendar

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4468
+Category:         Files Containing Juicy Info
+Published Date:   2017-05-08
+Author:           anonymous
+GoogleDork:       inurl:"/Windows/Cookies/" ext:txt -git
+Description:      inurl:"/Windows/Cookies/" ext:txt -git
+
+
+Cookies from ALL KINDS of sites. Yum! (Think there's only 3 pages of results? think again!) Dxtroyer

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/842
+Category:         Web Server Detection
+Published Date:   2005-01-27
+Author:           anonymous
+GoogleDork:       inurl:oraweb -site:oraweb.org
+Description:      inurl:oraweb -site:oraweb.org
+
+
+Oracle administrators tend to naming their servers ora* - maybe because they forget the name of their database all the time.So the Oracle webserver is very often named oraweb.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4916
+Category:         Web Server Detection
+Published Date:   2018-08-13
+Author:           Athira M
+GoogleDork:       inurl:tests/mocks intext:autoloader
+Description:      inurl:tests/mocks intext:autoloader
+
+
+*inurl:tests/mocks intext:autoloader*  This will help us identify websites made with codeigniter.   Thank you Athira M 

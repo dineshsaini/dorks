@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5978
+Category:         Files Containing Juicy Info
+Published Date:   2020-04-30
+Author:           Alexandros Pappas
+GoogleDork:       intitle:"index of" "dovecot.key" OR "dovecot.crt.cache" OR "dovecot.crt"
+Description:      intitle:"index of" "dovecot.key" OR "dovecot.crt.cache" OR "dovecot.crt"
+
+
+# Google Dork: intitle:"index of" "dovecot.key" OR "dovecot.crt.cache" OR "dovecot.crt"  # Juicy information and sensitive directories which in many cases are restricted. However, there is lots of nice information into the "dovecot.crt.cache" files.  # Date: 30/04/2020  # Author: Alexandros Pappas 

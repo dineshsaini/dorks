@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2681
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allinurl: modules-php-op-modload "req view_cat"
+Description:      allinurl: modules-php-op-modload "req view_cat"
+
+
+PHP-Nuke Module books SQL (cid) Remote SQL Injection Vulnerability - CVE: 2008-0827: https://www.exploit-db.com/exploits/5147

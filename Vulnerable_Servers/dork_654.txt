@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/654
+Category:         Vulnerable Servers
+Published Date:   2004-11-07
+Author:           anonymous
+GoogleDork:       inurl:newsdesk.cgi? inurl:"t="
+Description:      inurl:newsdesk.cgi? inurl:"t="
+
+
+Newsdesk is a cgi script designed to allow remote administration of website news headlines.Due to a failure in the sanitization of parameters a remote user can reveal the contents of any file. This allows the attacker to download user and password data.It is furthermore known that it is possible to run system commands remotely.

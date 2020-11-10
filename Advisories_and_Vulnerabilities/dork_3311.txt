@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3311
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"com_soundset"
+Description:      inurl:"com_soundset"
+
+
+Joomla Soundset 1.0 SQL Injection - CVE: 2009-3644: https://www.exploit-db.com/exploits/10067

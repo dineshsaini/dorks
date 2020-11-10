@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3938
+Category:         Files Containing Juicy Info
+Published Date:   2014-03-27
+Author:           anonymous
+GoogleDork:       inurl:clientaccesspolicy filetype:xml intext:allow-from
+Description:      inurl:clientaccesspolicy filetype:xml intext:allow-from
+
+
+Locates clientaccesspolicy.xml files used by silverlight to determine the cross domain policy of that site's silverlight apps. An open setting of will allow a weaponized silverlight application hosted on an attacker's site to read information from the target site while running in a victim's browser. -- Google+ http://google.com/+EricGragsone Red Team http://www.crimsonagents.com/ Blue Team http://www.erisresearch.org/ Coding http://maetrics.github.io

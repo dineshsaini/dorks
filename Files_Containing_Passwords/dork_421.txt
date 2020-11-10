@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/421
+Category:         Files Containing Passwords
+Published Date:   2004-08-10
+Author:           anonymous
+GoogleDork:       inurl:nuke filetype:sql
+Description:      inurl:nuke filetype:sql
+
+
+This search reveals database dumps that most likely relate to the php-nuke or postnuke content management systems. These database dumps contain usernames and (sometimes) encrypted passwords for users of the system.

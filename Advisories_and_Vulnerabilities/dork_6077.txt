@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6077
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-05-12
+Author:           Abhi Chitkara
+GoogleDork:       inurl:wp-content/plugins/page-builder
+Description:      inurl:wp-content/plugins/page-builder
+
+
+Dork: inurl:wp-content/plugins/page-builder Description: This google dork lists out Advisories and Vulnerabilities regarding the page builder by site origin wordpress plugin. Ref: https://wpvulndb.com/vulnerabilities/10219 Author: Abhi Chitkara 

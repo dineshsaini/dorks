@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1288
+Category:         Pages Containing Login Portals
+Published Date:   2006-03-21
+Author:           anonymous
+GoogleDork:       inurl:2000 intitle:RemotelyAnywhere -site:realvnc.com
+Description:      inurl:2000 intitle:RemotelyAnywhere -site:realvnc.com
+
+
+RemotelyAnywhere is a program that enables remote control, in the same matter as VNC. Once Logged in an attacker has almost complete control of the computer.

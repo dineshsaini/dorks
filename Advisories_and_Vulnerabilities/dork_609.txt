@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/609
+Category:         Advisories and Vulnerabilities
+Published Date:   2004-10-21
+Author:           anonymous
+GoogleDork:       "Ideal BB Version: 0.1" -idealbb.com
+Description:      "Ideal BB Version: 0.1" -idealbb.com
+
+
+Ideal BB has been a popular choice for powering web based bulletin boards and we are now proud to introduce our next generation bulletin board Ideal BB.NET. Ideal Science IdealBB is reported prone to multiple unspecified input validation vulnerabilities. These issues result from insufficient sanitization of user-supplied data. Securityfocus currently has 3 reports idealBB.

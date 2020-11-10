@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2857
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"com_linkdirectory"
+Description:      inurl:"com_linkdirectory"
+
+
+Joomla Link Directory Component 1.0.3 Remote Include Vulnerability: https://www.exploit-db.com/exploits/2214

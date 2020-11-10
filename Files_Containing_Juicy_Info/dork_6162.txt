@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6162
+Category:         Files Containing Juicy Info
+Published Date:   2020-06-02
+Author:           Anjali Prakash
+GoogleDork:       ext:sql intext:"-- phpMyAdmin SQL Dump
+Description:      ext:sql intext:"-- phpMyAdmin SQL Dump
+
+
+Google Dorks : ext:sql intext:"-- phpMyAdmin SQL Dump Description : Various page containing SQL Dump Page . Author : Anjali Prakash . 

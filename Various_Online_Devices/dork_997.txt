@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/997
+Category:         Various Online Devices
+Published Date:   2005-06-01
+Author:           anonymous
+GoogleDork:       (cam1java)|(cam2java)|(cam3java)|(cam4java)|(cam5java)|(cam6java) -navy.mil -backflip -power.ne.jp
+Description:      (cam1java)|(cam2java)|(cam3java)|(cam4java)|(cam5java)|(cam6java) -navy.mil -backflip -power.ne.jp
+
+
+Kpix Java Based Traffic Cameras. Based at CBS broadcasting for San Fransisco, Oakland, and San Jose.

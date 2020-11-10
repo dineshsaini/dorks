@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6498
+Category:         Various Online Devices
+Published Date:   2020-08-27
+Author:           Sibi Mathew George
+GoogleDork:       allintitle:"Welcome to the Web-Based Configurator"
+Description:      allintitle:"Welcome to the Web-Based Configurator"
+
+
+Google Dork: allintitle:"Welcome to the Web-Based Configurator"  Description: This Google Dork is useful in detecting login pages/portals of ZyXEL based networking devices, mainly router configuration interfaces.  Author: Sibi Mathew George 

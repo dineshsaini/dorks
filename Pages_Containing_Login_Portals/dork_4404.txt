@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4404
+Category:         Pages Containing Login Portals
+Published Date:   2017-03-01
+Author:           anonymous
+GoogleDork:       inurl:".Admin;-aspx }" "~Login"
+Description:      inurl:".Admin;-aspx }" "~Login"
+
+
+Admin Logins -Xploit 

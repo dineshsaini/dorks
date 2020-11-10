@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/396
+Category:         Vulnerable Files
+Published Date:   2004-08-01
+Author:           anonymous
+GoogleDork:       filetype:inc inc intext:setcookie
+Description:      filetype:inc inc intext:setcookie
+
+
+Cookies are often used for authentication and a lot of other stuff.The "inc" php header files often include the exact syntax of the cookies. An attacker may create his own cookie with the information he has taken from the header file and start cookie poisining.

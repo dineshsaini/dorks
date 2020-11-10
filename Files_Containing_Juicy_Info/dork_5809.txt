@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5809
+Category:         Files Containing Juicy Info
+Published Date:   2020-03-19
+Author:           Rohit Gautam
+GoogleDork:       intext:"index of /" "token.yml"
+Description:      intext:"index of /" "token.yml"
+
+
+Description : intext:"index of /" "token.yml"  This google dork gives us the secret tokens and access tokens of misconfigured servers. 

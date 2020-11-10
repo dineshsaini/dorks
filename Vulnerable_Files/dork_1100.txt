@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1100
+Category:         Vulnerable Files
+Published Date:   2005-09-13
+Author:           anonymous
+GoogleDork:       "maxwebportal" inurl:"default" "snitz forums" +"homepage" -intitle:maxwebportal
+Description:      "maxwebportal" inurl:"default" "snitz forums" +"homepage" -intitle:maxwebportal
+
+
+several vulnerabilities relating to this.MaxWebPortal is a web portal and online community system which includes features such as web-based administration, poll, private/public events calendar, user customizable color themes, classifieds, user control panel, online pager, link, file, article, picture managers and much more. User interface allows members to add news, content, write reviews and share information among other registered users.h**p://www.maxwebportal.com/

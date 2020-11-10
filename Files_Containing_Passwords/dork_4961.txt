@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4961
+Category:         Files Containing Passwords
+Published Date:   2018-09-21
+Author:           ManhNho
+GoogleDork:       /_wpeprivate/config.json
+Description:      /_wpeprivate/config.json
+
+
+file containing password ;)  ManhNho 

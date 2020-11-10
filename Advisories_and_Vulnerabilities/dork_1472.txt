@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1472
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered By AJ Auction Web
+Description:      Powered By AJ Auction Web
+
+
+AJ Auction Web 2.0 (cate_id) SQL Injection Vulnerability - CVE: 2008-2860: https://www.exploit-db.com/exploits/5867

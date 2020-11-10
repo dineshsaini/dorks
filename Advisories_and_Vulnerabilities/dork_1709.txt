@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1709
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:quizinfo.php
+Description:      inurl:quizinfo.php
+
+
+PHP-MySQL-Quiz SQL Injection Vulnerability: https://www.exploit-db.com/exploits/10876

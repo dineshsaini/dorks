@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/819
+Category:         Files Containing Juicy Info
+Published Date:   2005-01-13
+Author:           anonymous
+GoogleDork:       intitle:"FTP root at"
+Description:      intitle:"FTP root at"
+
+
+This dork will return some FTP root directories. The string can be made more specific by adding additional keywords like password.

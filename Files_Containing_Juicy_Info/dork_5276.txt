@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5276
+Category:         Files Containing Juicy Info
+Published Date:   2019-07-12
+Author:           Eliezer Rabadon
+GoogleDork:       site:https://docs.google.com/spreadsheets edit
+Description:      site:https://docs.google.com/spreadsheets edit
+
+
+site:https://docs.google.com/spreadsheets edit   Exploit Title: Get all editable spreadsheets of from google spreadsheet   Author: Eliezer Rabadon

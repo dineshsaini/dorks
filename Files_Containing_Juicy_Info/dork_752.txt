@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/752
+Category:         Files Containing Juicy Info
+Published Date:   2004-12-04
+Author:           anonymous
+GoogleDork:       intitle:"Multimon UPS status page"
+Description:      intitle:"Multimon UPS status page"
+
+
+Multimon provide UPS monitoring services

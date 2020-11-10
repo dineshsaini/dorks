@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5132
+Category:         Sensitive Directories
+Published Date:   2019-02-22
+Author:           Inspira Enterprise Pvt Ltd
+GoogleDork:       intitle:"index of" "/bitcoin/"
+Description:      intitle:"index of" "/bitcoin/"
+
+
+Exploit : Access the Sensitive Directories using bitcoin directories  Google Dork : intitle:"index of" "/bitcoin/"  Exploit Author:- Inspira Enterprise Pvt Ltd  URL :- https://www.inspiraenterprise.com 

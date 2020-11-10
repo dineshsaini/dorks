@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2911
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intitle:"Powered by Open Bulletin Board"
+Description:      intitle:"Powered by Open Bulletin Board"
+
+
+Open Bulletin Board Multiple Blind Sql Injection Vulnerability: https://www.exploit-db.com/exploits/11336

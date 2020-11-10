@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4889
+Category:         Pages Containing Login Portals
+Published Date:   2018-07-09
+Author:           ManhNho
+GoogleDork:       inurl:"/jira/login.jsp" intitle:"JIRA login"
+Description:      inurl:"/jira/login.jsp" intitle:"JIRA login"
+
+
+inurl:"/jira/login.jsp" intitle:"JIRA login"  Jira login pages  ManhNho 

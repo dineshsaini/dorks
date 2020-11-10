@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4601
+Category:         Sensitive Directories
+Published Date:   2017-10-25
+Author:           Vishnu Prasad  P G
+GoogleDork:       intext:"Index of /.git"
+Description:      intext:"Index of /.git"
+
+
+Google Search:inurl: intext:"Index of /.git"  Explanation:Most of the web-applications are maintained using git repositories containing important data like db-info,logs,configs,main-source code,etc. Many of them are forget to hide or remove the .git directory from live websites.Its can able to expose of important data.   ThankYou,  *Vishnu Prasad P G* 

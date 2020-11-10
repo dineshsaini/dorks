@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1140
+Category:         Advisories and Vulnerabilities
+Published Date:   2005-09-25
+Author:           anonymous
+GoogleDork:       "Powered by autolinks pro 2.1" inurl:register.php
+Description:      "Powered by autolinks pro 2.1" inurl:register.php
+
+
+AutoLinksPro is a linking solution. AutoLinksPro link exchange software was built for the search engines to help improve your search engine rankings, traffic, and sales.Remote PHP File Include Vulnerabilityhttp://www.securityfocus.com/archive/1/409529/30/120/threaded

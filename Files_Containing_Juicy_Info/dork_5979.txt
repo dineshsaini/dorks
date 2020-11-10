@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5979
+Category:         Files Containing Juicy Info
+Published Date:   2020-05-01
+Author:           Abhi Chitkara
+GoogleDork:       intitle:"index of" "users.ini"
+Description:      intitle:"index of" "users.ini"
+
+
+Dork: intitle:"index of" "users.ini" Description: This Google dork lists out sensitive user.ini files which contain user parameters for a particular website. Author: Abhi Chitkara 

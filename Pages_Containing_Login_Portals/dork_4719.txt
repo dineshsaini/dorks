@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4719
+Category:         Pages Containing Login Portals
+Published Date:   2018-03-30
+Author:           Bruno Schmid
+GoogleDork:       inurl:"form_id" login username password
+Description:      inurl:"form_id" login username password
+
+
+Login portals   Bruno Schmid 

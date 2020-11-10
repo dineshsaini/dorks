@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3916
+Category:         Various Online Devices
+Published Date:   2013-11-25
+Author:           anonymous
+GoogleDork:       intitle:"RT at a glance" intext:"quick search"
+Description:      intitle:"RT at a glance" intext:"quick search"
+
+
+RT Request Tracker Ticket Database http://www.bestpractical.com/rt/ -- -[Voluntas Vincit Omnia]- website http://www.erisresearch.org/ Google+ https://plus.google.com/u/0/114827336297709201563

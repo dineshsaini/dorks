@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3988
+Category:         Various Online Devices
+Published Date:   2015-02-09
+Author:           anonymous
+GoogleDork:       ".git" intitle:"Index of"
+Description:      ".git" intitle:"Index of"
+
+
+Shows publicly browsable .git directories

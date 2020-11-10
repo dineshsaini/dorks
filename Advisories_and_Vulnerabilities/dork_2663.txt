@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2663
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:com_content
+Description:      inurl:com_content
+
+
+Joomla Component com_content 1.0.0 (ItemID) SQL Injection Vuln - CVE: 2008-6923: https://www.exploit-db.com/exploits/6025

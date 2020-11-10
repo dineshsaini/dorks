@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1664
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered By DynamicPAD"
+Description:      "Powered By DynamicPAD"
+
+
+DynamicPAD 1.02.18 (HomeDir) Remote File Inclusion Vulnerabilities - CVE: 2007-2527: https://www.exploit-db.com/exploits/3868

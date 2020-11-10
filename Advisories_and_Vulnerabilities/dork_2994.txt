@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2994
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"com_kochsuite"
+Description:      inurl:"com_kochsuite"
+
+
+Joomla Kochsuite Component 0.9.4 Remote File Include Vulnerability - CVE: 2006-4348: https://www.exploit-db.com/exploits/2215

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/169
+Category:         Files Containing Juicy Info
+Published Date:   2004-04-20
+Author:           anonymous
+GoogleDork:       allinurl:/examples/jsp/snp/snoop.jsp
+Description:      allinurl:/examples/jsp/snp/snoop.jsp
+
+
+These pages reveal information about the server including path information, port information, etc.

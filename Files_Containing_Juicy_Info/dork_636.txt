@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/636
+Category:         Files Containing Juicy Info
+Published Date:   2004-10-31
+Author:           anonymous
+GoogleDork:       intitle:"Web Server Statistics for ****"
+Description:      intitle:"Web Server Statistics for ****"
+
+
+These are www analog webstat reports. The failure report shows information leakage about database drivers, admin login pages, SQL statements, etc.

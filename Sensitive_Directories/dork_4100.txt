@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4100
+Category:         Sensitive Directories
+Published Date:   2015-10-20
+Author:           anonymous
+GoogleDork:       "sql" "parent" intitle:index.of -injection
+Description:      "sql" "parent" intitle:index.of -injection
+
+
+Directories containing SQL Installs and/or SQL databases... Decoy

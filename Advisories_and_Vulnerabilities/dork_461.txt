@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/461
+Category:         Advisories and Vulnerabilities
+Published Date:   2004-09-07
+Author:           anonymous
+GoogleDork:       "Powered by Ikonboard 3.1.1"
+Description:      "Powered by Ikonboard 3.1.1"
+
+
+IkonBoard (http://www.ikonboard.com/) is a comprehensive web bulletin board system, implemented as a Perl/CGI script.There is a flaw in the Perl code that cleans up user input before interpolating it into a string which gets passed to Perl's eval() function, allowing an attacker to evaluate arbitrary Perl and hence run arbitrary commands.More info at: http://www.securitytracker.com/alerts/2003/Apr/1006446.htmlThe bug was fixed in 3.1.2.

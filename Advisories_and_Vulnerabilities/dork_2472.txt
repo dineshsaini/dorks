@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2472
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       /index.php?option=com_restaurante
+Description:      /index.php?option=com_restaurante
+
+
+Joomla Component Restaurante Remote File Upload Vulnerability - CVE: 2007-4817: https://www.exploit-db.com/exploits/4383

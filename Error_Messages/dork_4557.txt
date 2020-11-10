@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4557
+Category:         Error Messages
+Published Date:   2017-07-26
+Author:           anonymous
+GoogleDork:       inurl:".php?id=" "You have an error in your SQL syntax"
+Description:      inurl:".php?id=" "You have an error in your SQL syntax"
+
+
+This dork allows us to find websites that are possibly vulnerable to sql injections inurl:".php?id=" "You have an error in your SQL syntax" Drok3r

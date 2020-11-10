@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4800
+Category:         Sensitive Directories
+Published Date:   2018-04-30
+Author:           Bl4kd43m0n
+GoogleDork:       index of /node_modules/ -github -stackoverflow
+Description:      index of /node_modules/ -github -stackoverflow
+
+
+Find a several of nodejs folders with important files.  by Franciny Salles(#Bl4kd43m0n) 

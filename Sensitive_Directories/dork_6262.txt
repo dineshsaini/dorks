@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6262
+Category:         Sensitive Directories
+Published Date:   2020-06-10
+Author:           Mohammed Arif H
+GoogleDork:       intitle:"index of" "survey.cgi"
+Description:      intitle:"index of" "survey.cgi"
+
+
+Author: Mohammed Arif H Dork: intitle:"index of" "survey.cgi" 

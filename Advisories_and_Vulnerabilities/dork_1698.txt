@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1698
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"/files/redirect.asp"
+Description:      inurl:"/files/redirect.asp"
+
+
+JBS v2.0 | JBSX - Administration panel bypass and Malicious File Upload Vulnerability: https://www.exploit-db.com/exploits/10161

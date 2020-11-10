@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/710
+Category:         Footholds
+Published Date:   2004-11-28
+Author:           anonymous
+GoogleDork:       filetype:php HAXPLORER "Server Files Browser"
+Description:      filetype:php HAXPLORER "Server Files Browser"
+
+
+Haxplorer is a webbased filemanager which enables the user to browse files on the webserver. You can rename, delete, copy, download and upload files. As the script's name says it is mostly installed by hackers

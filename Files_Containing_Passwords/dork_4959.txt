@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4959
+Category:         Files Containing Passwords
+Published Date:   2018-09-20
+Author:           Xin Min
+GoogleDork:       inurl:"build.xml" intext:"tomcat.manager.password"
+Description:      inurl:"build.xml" intext:"tomcat.manager.password"
+
+
+Google Dork: Files Containing Passwords inurl:"build.xml" intext:"tomcat.manager.password"  Author: Xin Min This dork allows you to search for password of tomcat manager.

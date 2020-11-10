@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1137
+Category:         Footholds
+Published Date:   2005-09-25
+Author:           anonymous
+GoogleDork:       intitle:"net2ftp" "powered by net2ftp" inurl:ftp OR intext:login OR inurl:login
+Description:      intitle:"net2ftp" "powered by net2ftp" inurl:ftp OR intext:login OR inurl:login
+
+
+net2ftp is a web-based FTP client written in PHP. Lets explain this in detail. Web-based means that net2ftp runs on a web server, and that you use a browser (for example Internet Explorer or Mozilla)

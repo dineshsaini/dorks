@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3728
+Category:         Files Containing Juicy Info
+Published Date:   2011-07-01
+Author:           anonymous
+GoogleDork:       site:dl.dropbox.com filetype:pdf cv OR curriculum vitae OR resume
+Description:      site:dl.dropbox.com filetype:pdf cv OR curriculum vitae OR resume
+
+
+Searches Dropbox for publicly avaliable PDF's containing information used in a CV/Resume/Curriculum Vitae which can therefore be used in a Social Engineering based vector attack. Author: Trevor Starick

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/502
+Category:         Files Containing Juicy Info
+Published Date:   2004-09-23
+Author:           anonymous
+GoogleDork:       ext:ldif ldif
+Description:      ext:ldif ldif
+
+
+www.filext.com says LDIF = LDAP Data Interchange Format.LDAP is used for nearly everything in our days, so this file may include some juice info for attackers. They can add INTEXT:keyword to get more specific targets.

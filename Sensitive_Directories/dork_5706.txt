@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5706
+Category:         Sensitive Directories
+Published Date:   2020-01-27
+Author:           Bruno Schmid
+GoogleDork:       intitle:"index of" .zshrc~ OR .zshrc OR .zshenv OR .zshenv~ -pool -public
+Description:      intitle:"index of" .zshrc~ OR .zshrc OR .zshenv OR .zshenv~ -pool -public
+
+
+Z shell (Zsh) juicy info   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4908
+Category:         Files Containing Juicy Info
+Published Date:   2018-08-07
+Author:           Bruno Schmid
+GoogleDork:       hardware | software "migration" intitle:index.of ext:xls | xlsx | doc | docx | pdf
+Description:      hardware | software "migration" intitle:index.of ext:xls | xlsx | doc | docx | pdf
+
+
+Information regarding company's IT migration process usefull to find out why, how and what is the target changing/migrating.  Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

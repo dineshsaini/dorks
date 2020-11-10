@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1321
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-03-30
+Author:           anonymous
+GoogleDork:       "PhpCollab . Log In" | "NetOffice . Log In" | (intitle:"index.of." intitle:phpcollab|netoffice inurl:phpcollab|netoffice -gentoo)
+Description:      "PhpCollab . Log In" | "NetOffice . Log In" | (intitle:"index.of." intitle:phpcollab|netoffice inurl:phpcollab|netoffice -gentoo)
+
+
+this is for PhpCollab 2.x / NetOffice 2.x sql injectionhttp://retrogod.altervista.org/phpcollab_2x-netoffice_2x_sql_xpl.html

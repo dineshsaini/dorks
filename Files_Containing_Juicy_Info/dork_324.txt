@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/324
+Category:         Files Containing Juicy Info
+Published Date:   2004-07-12
+Author:           anonymous
+GoogleDork:       private key files (.key)
+Description:      private key files (.key)
+
+
+This search will find private key files... Private key files are supposed to be, well... private.

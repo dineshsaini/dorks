@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4413
+Category:         Files Containing Juicy Info
+Published Date:   2017-04-04
+Author:           anonymous
+GoogleDork:       "Fatal NI connect error" ", connecting to:" ext:log
+Description:      "Fatal NI connect error" ", connecting to:" ext:log
+
+
+Finds a whole load of different application logs (with errors!) Dxtroyer

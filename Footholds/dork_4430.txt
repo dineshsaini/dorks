@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4430
+Category:         Footholds
+Published Date:   2017-04-12
+Author:           anonymous
+GoogleDork:       "El Moujahidin Bypass Shell" ext:php
+Description:      "El Moujahidin Bypass Shell" ext:php
+
+
+Simple upload/dir shell - Dxtroyer

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2417
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:/jobsearchengine/
+Description:      inurl:/jobsearchengine/
+
+
+I-Net MLM Script Engine SQL Injection Vulnerability: https://www.exploit-db.com/exploits/14080

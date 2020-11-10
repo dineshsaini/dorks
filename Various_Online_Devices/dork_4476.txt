@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4476
+Category:         Various Online Devices
+Published Date:   2017-05-10
+Author:           anonymous
+GoogleDork:       inurl:"this.LCDispatcher?nav="
+Description:      inurl:"this.LCDispatcher?nav="
+
+
+Finds HP printers connected to the internet Dxtroyer

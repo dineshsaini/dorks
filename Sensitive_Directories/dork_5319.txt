@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5319
+Category:         Sensitive Directories
+Published Date:   2019-08-02
+Author:           Adrian Roy Lorica
+GoogleDork:       "Index of" inurl:webalizer
+Description:      "Index of" inurl:webalizer
+
+
+Google Dork: "Index of" inurl:webalizer Date: 08/02/2019 Author: Adrian Roy Lorica 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5957
+Category:         Files Containing Juicy Info
+Published Date:   2020-04-28
+Author:           Tushar Kurunkar
+GoogleDork:       intitle:"index of" "/cron.log"
+Description:      intitle:"index of" "/cron.log"
+
+
+#Description: intitle:"index of" "/cron.log" This Google dork shows juicy information about the website and their crontab logs. An attacker can further misuse this to conduct attacks.  #Author : Tushar Kurunkar #Date : 28 April 2020 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4515
+Category:         Pages Containing Login Portals
+Published Date:   2017-06-08
+Author:           anonymous
+GoogleDork:       inurl:"Login;jsessionid="
+Description:      inurl:"Login;jsessionid="
+
+
+Finds generic JS login portals Dxtroyer

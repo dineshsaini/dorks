@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2545
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by RedCat" inurl:index.php?contentId=
+Description:      "Powered by RedCat" inurl:index.php?contentId=
+
+
+redcat media SQL Injection: https://www.exploit-db.com/exploits/10043

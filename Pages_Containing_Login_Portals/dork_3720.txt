@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3720
+Category:         Pages Containing Login Portals
+Published Date:   2011-05-11
+Author:           anonymous
+GoogleDork:       intitle:"cyber recruiter" "User ID"
+Description:      intitle:"cyber recruiter" "User ID"
+
+
+Search for login screen of default instance: Cyber Recruiter (applicant tracking and recruiting software)

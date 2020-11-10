@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6547
+Category:         Web Server Detection
+Published Date:   2020-09-17
+Author:           Alexandros Pappas
+GoogleDork:       allintitle:"Pi-hole Admin Console"
+Description:      allintitle:"Pi-hole Admin Console"
+
+
+# Google Dork: allintitle:"Pi-hole Admin Console" # Pi-hole Admin Consoles. # Date: 17/09/2020 # Exploit Author: Alexandros Pappas 

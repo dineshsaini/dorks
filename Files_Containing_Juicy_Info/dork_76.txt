@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/76
+Category:         Files Containing Juicy Info
+Published Date:   2004-03-04
+Author:           anonymous
+GoogleDork:       ipsec.conf
+Description:      ipsec.conf
+
+
+The ipsec.conf file could help hackers figure out what uber-secure users of freeS/WAN are protecting....

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2600
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:view_group.php?id=
+Description:      inurl:view_group.php?id=
+
+
+BookMarks Favourites Script (view_group.php id) SQL Injection Vuln - CVE: 2008-6007: https://www.exploit-db.com/exploits/6637

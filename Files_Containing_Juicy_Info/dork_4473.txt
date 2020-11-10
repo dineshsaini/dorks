@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4473
+Category:         Files Containing Juicy Info
+Published Date:   2017-05-10
+Author:           anonymous
+GoogleDork:       "Section" inurl:"xorg.conf" ext:conf -wiki
+Description:      "Section" inurl:"xorg.conf" ext:conf -wiki
+
+
+Config files for Xorg X, containing victim's computer information Dxtroyer

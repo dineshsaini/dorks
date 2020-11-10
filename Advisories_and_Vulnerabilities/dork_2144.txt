@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2144
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       'SEO by NuSEO.PHP'
+Description:      'SEO by NuSEO.PHP'
+
+
+NuSEO PHP Enterprise 1.6 Remote File Inclusion Vulnerability - CVE: 2007-5409: https://www.exploit-db.com/exploits/4512

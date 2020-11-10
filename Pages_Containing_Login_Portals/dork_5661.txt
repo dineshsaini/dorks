@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5661
+Category:         Pages Containing Login Portals
+Published Date:   2019-12-02
+Author:           sh4d0w
+GoogleDork:       inurl:10443/remote/login
+Description:      inurl:10443/remote/login
+
+
+Dork for find any pages with the FortiOS Path Traversal vulnerability 

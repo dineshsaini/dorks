@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1903
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Torbstoff News 4"
+Description:      "Torbstoff News 4"
+
+
+Torbstoff News 4 (pfad) Remote File Inclusion Vulnerability - CVE: 2006-4045: https://www.exploit-db.com/exploits/2121

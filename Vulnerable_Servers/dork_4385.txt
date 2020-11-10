@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4385
+Category:         Vulnerable Servers
+Published Date:   2017-01-19
+Author:           anonymous
+GoogleDork:       "dirLIST - PHP Directory Lister" "Banned files: php | php3 | php4 | php5 | htaccess | htpasswd | asp | aspx" "index of" ext:php
+Description:      "dirLIST - PHP Directory Lister" "Banned files: php | php3 | php4 | php5 | htaccess | htpasswd | asp | aspx" "index of" ext:php
+
+
+Google Dork: "dirLIST - PHP Directory Lister" "Banned files: php | php3 | php4 | php5 | htaccess | htpasswd | asp | aspx" "index of" ext:php Find vulnerable servers: dirLIST - PHP Directory Lister v0.3.0 Google Dork by Ini Lerm Example to exploit it using a form in PHP and upload a webshell. Remember, rename your webshell. If your webshell is called "shell1.php" rename "shell1.php .;" ------------------------------------------PHP CODE--------------------------------------------------------

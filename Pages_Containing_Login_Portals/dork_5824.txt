@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5824
+Category:         Pages Containing Login Portals
+Published Date:   2020-03-23
+Author:           Emre DURMAZ
+GoogleDork:       site:*/AdminPanel.aspx
+Description:      site:*/AdminPanel.aspx
+
+
+# Google Dork: site:*/AdminPanel.aspx  # This dork found Admin Panels.  # Date: 20/03/2020  # Exploit Author: Emre DURMAZ 

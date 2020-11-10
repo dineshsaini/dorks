@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/46
+Category:         Vulnerable Servers
+Published Date:   2003-07-08
+Author:           anonymous
+GoogleDork:       Hassan Consulting's Shopping Cart Version 1.18
+Description:      Hassan Consulting's Shopping Cart Version 1.18
+
+
+These servers can be messed with in many ways. One specific way is by way of the "../" bug. This lets you cruise around the web server in a somewhat limited fashion.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/812
+Category:         Various Online Devices
+Published Date:   2005-01-11
+Author:           anonymous
+GoogleDork:       filetype:cgi transcoder.cgi
+Description:      filetype:cgi transcoder.cgi
+
+
+Digital Video Recorder by SnapStream. It is possible on misconfigured machines to stream video off these devices.

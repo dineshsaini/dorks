@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2210
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Â© 2007 by Lama Software - Accomm Solutions GmbH &amp; Co. KG
+Description:      Â© 2007 by Lama Software - Accomm Solutions GmbH &amp; Co. KG
+
+
+Lama Software (14.12.2007) Multiple Remote File Inclusion Vulnerabilities - CVE: 2008-0423: https://www.exploit-db.com/exploits/4955

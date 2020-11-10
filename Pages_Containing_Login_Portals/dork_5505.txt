@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5505
+Category:         Pages Containing Login Portals
+Published Date:   2019-09-05
+Author:           Reza Abasi
+GoogleDork:       site:smtp.*.*/login
+Description:      site:smtp.*.*/login
+
+
+Login Portal:  site:smtp.*.*/login site:owa.*.*/login site:controlpanel.*.*/login site:pop.*.*/login site:ww1.*.*/login site:support.*.*/login site:app.*.*/login site:*/Admin/Login/ site:auth.*.*/login site:imap.*.* intitle:"login"  Reza Abasi(Turku) 

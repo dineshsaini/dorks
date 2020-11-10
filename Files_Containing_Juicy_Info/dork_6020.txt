@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6020
+Category:         Files Containing Juicy Info
+Published Date:   2020-05-05
+Author:           Abhi Chitkara
+GoogleDork:       intitle:"index of" "auth.log"
+Description:      intitle:"index of" "auth.log"
+
+
+Dork: intitle:"index of" "auth.log" Description: This Google dork lists out sensitive auth logs stored in a "auth.log" file for a linux web-server. Author: Abhi Chitkara 

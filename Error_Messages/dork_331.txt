@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/331
+Category:         Error Messages
+Published Date:   2004-07-14
+Author:           anonymous
+GoogleDork:       PHP application warnings failing "include_path"
+Description:      PHP application warnings failing "include_path"
+
+
+These error messages reveal information about the application that created them as well as revealing path names, php file names, line numbers and include paths.PS: thanks to fr0zen for correcting the google link for this dork (murfie, 24 jan 2006).

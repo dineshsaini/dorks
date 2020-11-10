@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4427
+Category:         Pages Containing Login Portals
+Published Date:   2017-04-12
+Author:           anonymous
+GoogleDork:       -english -help -printing -companies -archive -wizard -pastebin -adult -keywords "Warning: this page requires Javascript. To correctly view, please enable it in your browser"
+Description:      -english -help -printing -companies -archive -wizard -pastebin -adult -keywords "Warning: this page requires Javascript. To correctly view, please enable it in your browser"
+
+
+this one is for fortinet firewalls login web based . thanks #th3jackers

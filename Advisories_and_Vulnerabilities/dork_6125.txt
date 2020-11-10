@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6125
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-05-26
+Author:           Abhi Chitkara
+GoogleDork:       inurl:wp-content/plugins/official-mailerlite-sign-up-forms
+Description:      inurl:wp-content/plugins/official-mailerlite-sign-up-forms
+
+
+Dork: inurl:wp-content/plugins/official-mailerlite-sign-up-forms Description: This google dork lists out Advisories and Vulnerabilities regarding the Official MailerLite Sign Up Forms wordpress plugin. Ref: https://wpvulndb.com/vulnerabilities/10235 Author: Abhi Chitkara 

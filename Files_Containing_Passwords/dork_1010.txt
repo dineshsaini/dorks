@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1010
+Category:         Files Containing Passwords
+Published Date:   2005-06-04
+Author:           anonymous
+GoogleDork:       inurl:pass.dat
+Description:      inurl:pass.dat
+
+
+Accesses passwords mostly in cgibin but not all the timeCan find passwords + usernames (sometimes username), some unecrypted some not

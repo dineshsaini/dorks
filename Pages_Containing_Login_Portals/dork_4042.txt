@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4042
+Category:         Pages Containing Login Portals
+Published Date:   2015-07-27
+Author:           anonymous
+GoogleDork:       site:.mil + inurl:login.aspx | .asp | .html | .php | .htm
+Description:      site:.mil + inurl:login.aspx | .asp | .html | .php | .htm
+
+
+*Google Search : site:.mil + inurl:login.aspx | .asp | .html | .php | .htm Zeel Chavda

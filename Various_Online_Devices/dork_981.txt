@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/981
+Category:         Various Online Devices
+Published Date:   2005-05-14
+Author:           anonymous
+GoogleDork:       inurl:start.htm?scrw=
+Description:      inurl:start.htm?scrw=
+
+
+VPON (Video Picture On Net) is a video surveillance setup which seems to be used by a lot of businesses. In the FAQ posted on their site (http://www.aegismicro.com/navigation/indexsuppfaq.htm) they show a default username/password of webmonitor/oyo.=)

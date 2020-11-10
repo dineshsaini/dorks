@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4448
+Category:         Advisories and Vulnerabilities
+Published Date:   2017-04-26
+Author:           Dxtroyer
+GoogleDork:       "Access Denied" "Powered by Incapsula" ext:php
+Description:      "Access Denied" "Powered by Incapsula" ext:php
+
+
+Finds vulnerable pages that triggered Incapsula WAF    Dxtroyer

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4967
+Category:         Sensitive Directories
+Published Date:   2018-09-26
+Author:           Gionathan Reale
+GoogleDork:       intext:pure-ftpd.conf intitle:index of
+Description:      intext:pure-ftpd.conf intitle:index of
+
+
+intext:pure-ftpd.conf intitle:index of   This Google Dork discovers servers exposing pure-ftpd configuration  files.   - Gionathan "John" Reale (https://www.exploit-db.com/author/?a=9609) 

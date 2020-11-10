@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/519
+Category:         Various Online Devices
+Published Date:   2004-09-29
+Author:           anonymous
+GoogleDork:       Canon ImageReady machines
+Description:      Canon ImageReady machines
+
+
+The "large" Canon ImageReady machines with model versions 3300, 5000 &amp; 60000.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1381
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-05-30
+Author:           anonymous
+GoogleDork:       "Powered by PHP-Fusion v6.00.110" | "Powered by PHP-Fusion v6.00.2.." | "Powered by PHP-Fusion v6.00.3.." -v6.00.400 -johnny.ihackstuff
+Description:      "Powered by PHP-Fusion v6.00.110" | "Powered by PHP-Fusion v6.00.2.." | "Powered by PHP-Fusion v6.00.3.." -v6.00.400 -johnny.ihackstuff
+
+
+this the dork for theese PHP-Fusion exploits:http://retrogod.altervista.org/phpfusion_600306_xpl.htmlhttp://retrogod.altervista.org/phpfusion_600306_sql.html

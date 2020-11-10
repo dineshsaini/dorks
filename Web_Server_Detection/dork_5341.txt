@@ -1,0 +1,18 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5341
+Category:         Web Server Detection
+Published Date:   2019-08-12
+Author:           ProSec GmbH
+GoogleDork:       inurl:"WebPortal?bankid"
+Description:      inurl:"WebPortal?bankid"
+
+
+#Google Dork:  inurl:"WebPortal?bankid“  #Description:  Sensitive Information: List of banks in ger hosted by the same hoster  #Author:  ProSec GmbH - Tim Schughart, Matthias Gilles, Christoph Hein 
+GHDB URL:         https://www.exploit-db.com/ghdb/5341
+Category:         Web Server Detection
+Published Date:   2019-08-12
+Author:           ProSec GmbH
+GoogleDork:       inurl:"WebPortal?bankid"
+Description:      inurl:"WebPortal?bankid"
+
+
+#Google Dork:  inurl:"WebPortal?bankid“  #Description:  Sensitive Information: List of banks in ger hosted by the same hoster  #Author:  ProSec GmbH - Tim Schughart, Matthias Gilles, Christoph Hein 

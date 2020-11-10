@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3925
+Category:         Pages Containing Login Portals
+Published Date:   2014-01-03
+Author:           anonymous
+GoogleDork:       allinurl:"/main/auth/profile.php" -github -google
+Description:      allinurl:"/main/auth/profile.php" -github -google
+
+
+[+] This dork will help you find Chamilo login portals. Depending on the version, the site could be vulnerable to SQL injection. See Here- https://www.exploit-db.com/exploits/30012/ Regards, necrodamus http://www.twitter.com/necrodamus2600

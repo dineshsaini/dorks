@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6252
+Category:         Files Containing Juicy Info
+Published Date:   2020-06-09
+Author:           Mayank Raheja
+GoogleDork:       index of "dbbackup"
+Description:      index of "dbbackup"
+
+
+Dork: index of "dbbackup" Category: Files Containing Juicy Info Info: This Google Dork lists out backup folders/files on web servers  Exploit Author: Mayank Raheja  Thanks! Looking forward to your response. Regards, Mayank Raheja 

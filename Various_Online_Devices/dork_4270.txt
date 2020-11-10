@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4270
+Category:         Various Online Devices
+Published Date:   2016-04-26
+Author:           anonymous
+GoogleDork:       /@fmb80_encoder.htm
+Description:      /@fmb80_encoder.htm
+
+
+Hi ! I'm a sound technicien in radio fm world This dork give u acces to digiplexer (u can change text of all the listener of a FM radio in there car for exemple : ) ) peace

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1080
+Category:         Various Online Devices
+Published Date:   2005-09-06
+Author:           anonymous
+GoogleDork:       intitle:"NetCam Live Image" -.edu -.gov -johnny.ihackstuff.com
+Description:      intitle:"NetCam Live Image" -.edu -.gov -johnny.ihackstuff.com
+
+
+This is a googledork for StarDot netcams. You can watch these cams and if you have the admin password you can change configurations and other settings. They have a default admin name/pass but I haven't taken the time to figure it out.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5202
+Category:         Pages Containing Login Portals
+Published Date:   2019-05-07
+Author:           Miguel Santareno
+GoogleDork:       inurl:+CSCOE+/logon.html
+Description:      inurl:+CSCOE+/logon.html
+
+
+# Google Dork: inurl:+CSCOE+/logon.html # Description: Google Dork to find Cisco Asa webvpn login pages # Date: 2019-05-06 # Author: Miguel Santareno # Contact: https://www.linkedin.com/in/miguelsantareno/ 

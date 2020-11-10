@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/472
+Category:         Files Containing Juicy Info
+Published Date:   2004-09-10
+Author:           anonymous
+GoogleDork:       filetype:pdb pdb backup (Pilot | Pluckerdb)
+Description:      filetype:pdb pdb backup (Pilot | Pluckerdb)
+
+
+Hotsync database files can be found using "All databases on a Palm device, including the ones you create using NS Basic/Palm, have the same format. Databases you create using NS Basic/Palm have the backup bit set by default, so they are copied to your "x:\palm\{username}\backup"The forum members suggested adding Pilot and Pluckerdb (linux software for pda), so the results are more clean. (pdb files can be used for protein databases, which we don't want to see).Currently we don't know of a program to "read" these binary files.

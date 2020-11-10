@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/542
+Category:         Advisories and Vulnerabilities
+Published Date:   2004-10-09
+Author:           anonymous
+GoogleDork:       "Active Webcam Page" inurl:8080
+Description:      "Active Webcam Page" inurl:8080
+
+
+Active WebCam is a shareware program for capturing and sharing the video streams from a lot of video devices. Known bugs: directory traversal and cross site scripting

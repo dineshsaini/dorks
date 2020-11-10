@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3765
+Category:         Files Containing Juicy Info
+Published Date:   2011-12-19
+Author:           anonymous
+GoogleDork:       List of Phone Numbers (In XLS File ) allinurl:telefonos filetype:xls
+Description:      List of Phone Numbers (In XLS File ) allinurl:telefonos filetype:xls
+
+
+This is a dork for a list of Phone Private Numbers in Argentina. Author: Luciano UNLP

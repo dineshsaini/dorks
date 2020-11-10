@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4580
+Category:         Files Containing Juicy Info
+Published Date:   2017-09-14
+Author:           anonymous
+GoogleDork:       inurl:scan_result_file
+Description:      inurl:scan_result_file
+
+
+Will produce a list of sites that have clamAV results, which could list potential backdoors installed that an attacker can use to gain access to a site. -- Colette Chamberland CISSP, C|EH, C|HFI

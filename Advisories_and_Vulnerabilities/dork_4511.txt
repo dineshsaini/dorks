@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4511
+Category:         Advisories and Vulnerabilities
+Published Date:   2017-06-05
+Author:           Drok3r
+GoogleDork:       allinurl:"/wp-content/plugins/wp-noexternallinks"
+Description:      allinurl:"/wp-content/plugins/wp-noexternallinks"
+
+
+Dork to find the "No External Links" plugin vulnerable to XSS  ""Error: Plugin does not support standalone calls, damned hacker.""      allinurl:"/wp-content/plugins/wp-noexternallinks"    Drok3r

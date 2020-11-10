@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6592
+Category:         Files Containing Juicy Info
+Published Date:   2020-10-05
+Author:           Strontium
+GoogleDork:       "UV9 Error (1.0)"
+Description:      "UV9 Error (1.0)"
+
+
+Find error pages referring to the E-Vision Web-app. Can sometimes contain juicy information.  - Strontium  

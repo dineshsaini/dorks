@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3652
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-12-18
+Author:           anonymous
+GoogleDork:       inurl:"produtos.asp?produto="
+Description:      inurl:"produtos.asp?produto="
+
+
+Submitter: Br0ly https://www.exploit-db.com/exploits/15776

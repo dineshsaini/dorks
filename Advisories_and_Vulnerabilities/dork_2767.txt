@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2767
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"phshoutbox.php"
+Description:      inurl:"phshoutbox.php"
+
+
+PhShoutBox 1.5 (final) Insecure Cookie Handling Vulnerability - CVE: 2008-1971: https://www.exploit-db.com/exploits/5467

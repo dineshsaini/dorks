@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4171
+Category:         Footholds
+Published Date:   2016-01-01
+Author:           anonymous
+GoogleDork:       ext:php intitle:"b374k"
+Description:      ext:php intitle:"b374k"
+
+
+ext:php intitle:"b374k" details; http://atawho.blogspot.com.tr/2015/12/b374k-shell-tespiti.html atawho-sonadam-hackunity

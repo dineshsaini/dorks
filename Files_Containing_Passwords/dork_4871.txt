@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4871
+Category:         Files Containing Passwords
+Published Date:   2018-06-25
+Author:           maxbomb
+GoogleDork:       inurl:wp-config-backup.txt
+Description:      inurl:wp-config-backup.txt
+
+
+inurl:wp-config-backup.txt You can see user and pass database  maxbomb 

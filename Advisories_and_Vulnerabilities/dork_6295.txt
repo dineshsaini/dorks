@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6295
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-06-16
+Author:           Abhi Chitkara
+GoogleDork:       inurl:wp-content/themes/newspaper
+Description:      inurl:wp-content/themes/newspaper
+
+
+Dork: inurl:wp-content/themes/newspaper Description: This google dork lists out Advisories and Vulnerabilities regarding the newspaper wordpress theme. Ref: https://wpvulndb.com/vulnerabilities/10253 Author: Abhi Chitkara 

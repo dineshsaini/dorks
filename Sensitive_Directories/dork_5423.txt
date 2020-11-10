@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5423
+Category:         Sensitive Directories
+Published Date:   2019-08-21
+Author:           Reza Abasi
+GoogleDork:       site:*/wp-contents/ inurl:/wp-contents/
+Description:      site:*/wp-contents/ inurl:/wp-contents/
+
+
+Sensitive Directory:  site:*/wp-contents/ inurl:/wp-contents/ site:*/wp-contents/uploads/ inurl:/wp-contents/uploads/  Reza Abasi 

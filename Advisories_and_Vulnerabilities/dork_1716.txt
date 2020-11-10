@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1716
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"sinagb.php"
+Description:      inurl:"sinagb.php"
+
+
+Sinapis 2.2 Gastebuch (sinagb.php fuss) Remote File Include Vulnerability - CVE: 2007-1130: https://www.exploit-db.com/exploits/3366

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3036
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allinurl:links.php?t=search
+Description:      allinurl:links.php?t=search
+
+
+phpBB Links MOD 1.2.2 Remote SQL Injection - CVE: 2007-4653: https://www.exploit-db.com/exploits/4346

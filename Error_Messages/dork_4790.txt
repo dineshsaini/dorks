@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4790
+Category:         Error Messages
+Published Date:   2018-04-25
+Author:           ManhNho
+GoogleDork:       inurl:?wp-commentsrss2.php -git
+Description:      inurl:?wp-commentsrss2.php -git
+
+
+inurl:?wp-commentsrss2.php -git  This dork show result that contain wp-commentsrss2.php  ManhNho 

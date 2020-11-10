@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2254
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allinurl:"macgurublog.php?uid="
+Description:      allinurl:"macgurublog.php?uid="
+
+
+e107 Plugin BLOG Engine 2.1.4 Remote SQL Injection Vulnerability - CVE: 2008-6438: https://www.exploit-db.com/exploits/6856

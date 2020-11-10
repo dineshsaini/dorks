@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4294
+Category:         Sensitive Directories
+Published Date:   2016-06-06
+Author:           anonymous
+GoogleDork:       inurl:.ssh intitle:index.of authorized_keys
+Description:      inurl:.ssh intitle:index.of authorized_keys
+
+
+SSH Keys inurl:.ssh intitle:index.of authorized_keys Decoy

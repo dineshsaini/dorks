@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2525
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by phpFaber URLInn. Copyright Â© 2004-2006 phpFaber
+Description:      Powered by phpFaber URLInn. Copyright Â© 2004-2006 phpFaber
+
+
+phpFaber URLInn 2.0.5 (dir_ws) Remote File Inclusion Vulnerability - CVE: 2007-5754: https://www.exploit-db.com/exploits/4588

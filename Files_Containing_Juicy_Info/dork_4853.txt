@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4853
+Category:         Files Containing Juicy Info
+Published Date:   2018-06-11
+Author:           Alfie
+GoogleDork:       filetype:gitattributes intext:CHANGELOG.md -site:github.com
+Description:      filetype:gitattributes intext:CHANGELOG.md -site:github.com
+
+
+*Google* dork *description: *Find gitattributes on websites other than on github repositories  *Google Search: *filetype:gitattributes intext:CHANGELOG.md -site:github.com  *Submitted by:* Alfie  *Website: (*https://the-infosec.com*)* 

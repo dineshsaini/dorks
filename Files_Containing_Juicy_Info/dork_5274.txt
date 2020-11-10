@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5274
+Category:         Files Containing Juicy Info
+Published Date:   2019-07-08
+Author:           Eliezer Rabadon
+GoogleDork:       site:https://docs.google.com/forms viewanalytics
+Description:      site:https://docs.google.com/forms viewanalytics
+
+
+site:https://docs.google.com/forms viewanalytics   Description:   This dork allows you to view form analytics of generated google forms.  

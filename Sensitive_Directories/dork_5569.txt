@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5569
+Category:         Sensitive Directories
+Published Date:   2019-10-18
+Author:           Francis Al Victoriano
+GoogleDork:       intitle:"Index of" secret
+Description:      intitle:"Index of" secret
+
+
+# Exploit Title: Secret Folder  # Google Dork: intitle:"Index of" secret  # Author: Francis Al Victoriano 

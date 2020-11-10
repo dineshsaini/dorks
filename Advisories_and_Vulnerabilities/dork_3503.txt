@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3503
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "FlatNuke" "Valid HTML 4.01!" "Valid CSS!" "Get RSS 2.0 Feed" "Get RSS
+Description:      "FlatNuke" "Valid HTML 4.01!" "Valid CSS!" "Get RSS 2.0 Feed" "Get RSS
+
+
+Flatnuke 2.5.8 (userlang) Local Inclusion / Delete All Users: https://www.exploit-db.com/exploits/2499

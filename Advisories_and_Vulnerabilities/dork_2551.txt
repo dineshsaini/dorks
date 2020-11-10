@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2551
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Copyright 2007, PHPAUCTION.NET
+Description:      Copyright 2007, PHPAUCTION.NET
+
+
+phpAuction 3.2.1 (item.php id) Remote SQL Injection Vulnerability - CVE: 2008-2900: https://www.exploit-db.com/exploits/5892

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1767
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered By AV Arcade"
+Description:      "Powered By AV Arcade"
+
+
+AV Arcade 2.1b (index.php id) Remote SQL Injection Vulnerability - CVE: 2007-3563: https://www.exploit-db.com/exploits/4138

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1895
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:com_colophon
+Description:      inurl:com_colophon
+
+
+Mambo Colophon Component 1.2 Remote Inclusion Vulnerability - CVE: 2006-3969: https://www.exploit-db.com/exploits/2085

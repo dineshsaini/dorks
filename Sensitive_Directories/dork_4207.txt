@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4207
+Category:         Sensitive Directories
+Published Date:   2016-03-07
+Author:           anonymous
+GoogleDork:       inurl:safm.asp ext:asp
+Description:      inurl:safm.asp ext:asp
+
+
+inurl:safm.asp ext:asp http://atawho.blogspot.com.tr/2016/03/simple-asp-filemanager.html atawho-sonadam

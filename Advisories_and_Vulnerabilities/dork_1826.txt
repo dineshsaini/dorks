@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1826
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allinurl:"xGb.php"
+Description:      allinurl:"xGb.php"
+
+
+xGB 2.0 (xGB.php) Remote Permission Bypass Vulnerability - CVE: 2007-4637: https://www.exploit-db.com/exploits/4336

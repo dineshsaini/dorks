@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/38
+Category:         Sensitive Directories
+Published Date:   2003-06-27
+Author:           anonymous
+GoogleDork:       protected
+Description:      protected
+
+
+What could be in a directory marked as "protected?" Let's find out...

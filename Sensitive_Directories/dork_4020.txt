@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4020
+Category:         Sensitive Directories
+Published Date:   2015-06-17
+Author:           anonymous
+GoogleDork:       intitle:"Index Of" intext:"iCloud Photos" OR intext:"My Photo Stream" OR intext:"Camera Roll"
+Description:      intitle:"Index Of" intext:"iCloud Photos" OR intext:"My Photo Stream" OR intext:"Camera Roll"
+
+
+From: Creep Mode Baby

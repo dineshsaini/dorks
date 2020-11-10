@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3964
+Category:         Vulnerable Servers
+Published Date:   2014-10-02
+Author:           anonymous
+GoogleDork:       ext:cgi inurl:cgi-bin intext:#!/bin/bash
+Description:      ext:cgi inurl:cgi-bin intext:#!/bin/bash
+
+
+gnu-bash site dorks Ariel Anonis - @ariel_anonis

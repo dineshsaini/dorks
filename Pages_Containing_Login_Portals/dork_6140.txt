@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6140
+Category:         Pages Containing Login Portals
+Published Date:   2020-05-28
+Author:           Mayank Chandelkar
+GoogleDork:       site:*/joomla/login
+Description:      site:*/joomla/login
+
+
+Login page of websites developed in Joomla  Google Dork: site:*/joomla/login  Author: Mayank Chandelkar 

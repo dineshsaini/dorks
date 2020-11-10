@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6567
+Category:         Sensitive Directories
+Published Date:   2020-09-24
+Author:           Alexandros Pappas
+GoogleDork:       intitle:"index of" "/app.log" | "/app.logs"
+Description:      intitle:"index of" "/app.log" | "/app.logs"
+
+
+# Google Dork: intitle:"index of" "/app.log" | "/app.logs" # Sensitive Directories. # Date: 24/09/2020 # Exploit Author: Alexandros Pappas 

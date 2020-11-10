@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/741
+Category:         Files Containing Juicy Info
+Published Date:   2004-12-03
+Author:           anonymous
+GoogleDork:       ext:vmx vmx
+Description:      ext:vmx vmx
+
+
+VMWare allows PC emulation across a variety of platforms. Theseconfiguration files describe a virtual PC, and reveal information about that PC's hardware settings.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1906
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intext:"Powered by Arcade Builder"
+Description:      intext:"Powered by Arcade Builder"
+
+
+ArcadeBuilder Game Portal Manager 1.7 Remote SQL Injection Vuln - CVE: 2007-3521: https://www.exploit-db.com/exploits/4133

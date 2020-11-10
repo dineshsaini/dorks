@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/700
+Category:         Advisories and Vulnerabilities
+Published Date:   2004-11-19
+Author:           anonymous
+GoogleDork:       "powered by minibb" -site:www.minibb.net -intext:1.7f
+Description:      "powered by minibb" -site:www.minibb.net -intext:1.7f
+
+
+miniBB is reported vulnerable to remote SQL injection. This issue is due to a failure of the application to properly validate user-supplied input prior to including it in an SQL query. miniBB versions prior to 1.7f are reported prone to this issue.http://www.securityfocus.com/bid/11688

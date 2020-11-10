@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1373
+Category:         Various Online Devices
+Published Date:   2006-05-04
+Author:           anonymous
+GoogleDork:       intitle:"Veo Observer XT" -inurl:shtml|pl|php|htm|asp|aspx|pdf|cfm -intext:observer
+Description:      intitle:"Veo Observer XT" -inurl:shtml|pl|php|htm|asp|aspx|pdf|cfm -intext:observer
+
+
+just more results for this:http://johnny.ihackstuff.com/index.php?module=prodreviews&amp;func=showcontent&amp;id=1348

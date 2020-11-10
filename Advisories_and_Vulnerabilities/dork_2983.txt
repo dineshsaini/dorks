@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2983
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by Guruscript.com
+Description:      Powered by Guruscript.com
+
+
+Freelancer Marketplace Script Upload Vulnerability: https://www.exploit-db.com/exploits/14390

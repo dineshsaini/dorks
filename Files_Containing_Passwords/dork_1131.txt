@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1131
+Category:         Files Containing Passwords
+Published Date:   2005-09-24
+Author:           anonymous
+GoogleDork:       "your password is" filetype:log
+Description:      "your password is" filetype:log
+
+
+This search finds log files containing the phrase (Your password is). These files often contain plaintext passwords, although YMMV.

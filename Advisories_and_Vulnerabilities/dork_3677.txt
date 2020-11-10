@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3677
+Category:         Advisories and Vulnerabilities
+Published Date:   2011-01-22
+Author:           anonymous
+GoogleDork:       "inurl:cultbooking.php"
+Description:      "inurl:cultbooking.php"
+
+
+CultBooking Multiple Vulnerabilities: https://www.exploit-db.com/exploits/16028/

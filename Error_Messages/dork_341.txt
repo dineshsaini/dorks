@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/341
+Category:         Error Messages
+Published Date:   2004-07-16
+Author:           anonymous
+GoogleDork:       "ORA-12541: TNS:no listener" intitle:"error occurred"
+Description:      "ORA-12541: TNS:no listener" intitle:"error occurred"
+
+
+In many cases, these pages display nice bits of SQL code which can be used by an attacker to mount attacks against the SQL database itself. Other pieces of information revealed include path names, file names, and data sources.

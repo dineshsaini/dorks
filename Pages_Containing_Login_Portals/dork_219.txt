@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/219
+Category:         Pages Containing Login Portals
+Published Date:   2004-05-11
+Author:           anonymous
+GoogleDork:       inurl:"webadmin" filetype:nsf
+Description:      inurl:"webadmin" filetype:nsf
+
+
+This is a standard login page for Domino Web Administration.

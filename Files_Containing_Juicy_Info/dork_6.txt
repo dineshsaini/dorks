@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6
+Category:         Files Containing Juicy Info
+Published Date:   2003-06-24
+Author:           anonymous
+GoogleDork:       Financial spreadsheets: finance.xls
+Description:      Financial spreadsheets: finance.xls
+
+
+Hey! I have a great idea! Let's put our finances on our website in a secret directory so we can get to it whenever we need to!

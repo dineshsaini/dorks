@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4045
+Category:         Advisories and Vulnerabilities
+Published Date:   2015-08-10
+Author:           anonymous
+GoogleDork:       inurl:/wp-content/plugins/inboundio-marketing/
+Description:      inurl:/wp-content/plugins/inboundio-marketing/
+
+
+https://www.exploit-db.com/exploits/36478/ Google Dork : inurl:/wp-content/plugins/inboundio-marketing/ sincerely, Zeel Chavda

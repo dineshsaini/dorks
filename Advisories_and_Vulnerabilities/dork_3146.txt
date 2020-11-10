@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3146
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"e107_plugins/my_gallery"
+Description:      inurl:"e107_plugins/my_gallery"
+
+
+e107 Plugin My_Gallery 2.3 Arbitrary File Download Vulnerability - CVE: 2008-1702: https://www.exploit-db.com/exploits/5308

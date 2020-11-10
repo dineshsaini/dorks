@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6365
+Category:         Pages Containing Login Portals
+Published Date:   2020-07-02
+Author:           Alexandros Pappas
+GoogleDork:       inurl:/8080/admin.html
+Description:      inurl:/8080/admin.html
+
+
+# Google Dork: inurl:/8080/admin.html # By using this dork, various web cameras can be revealed. # Date: 2/07/2020 # Author: Alexandros Pappas 

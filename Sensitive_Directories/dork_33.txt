@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/33
+Category:         Sensitive Directories
+Published Date:   2003-06-27
+Author:           anonymous
+GoogleDork:       secret
+Description:      secret
+
+
+What kinds of goodies lurk in directories marked as "secret?" Find out...

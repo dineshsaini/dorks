@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2951
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       index.php?option=com_swmenupro
+Description:      index.php?option=com_swmenupro
+
+
+Joomla/Mambo Component SWmenuFree 4.0 RFI Vulnerability - CVE: 2007-1699: https://www.exploit-db.com/exploits/3557

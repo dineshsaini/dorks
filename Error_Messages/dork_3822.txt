@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3822
+Category:         Error Messages
+Published Date:   2012-12-06
+Author:           anonymous
+GoogleDork:       intext:"Fatal error: Class 'Red_Action' not found in"
+Description:      intext:"Fatal error: Class 'Red_Action' not found in"
+
+
+Dork to find Plugin errors in wordpress websites Dork - intext:"Fatal error: Class 'Red_Action' not found in" 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4381
+Category:         Sensitive Directories
+Published Date:   2017-01-09
+Author:           anonymous
+GoogleDork:       "Powered by AutoIndex PHP Script" ext:php
+Description:      "Powered by AutoIndex PHP Script" ext:php
+
+
+Google Dork: "Powered by AutoIndex PHP Script" ext:php Sensitive Directories and Files Containing Juicy Info Google Dork by Ini Lerm 

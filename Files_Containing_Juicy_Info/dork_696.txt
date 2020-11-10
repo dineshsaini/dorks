@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/696
+Category:         Files Containing Juicy Info
+Published Date:   2004-11-21
+Author:           anonymous
+GoogleDork:       intitle:"Apache::Status" (inurl:server-status | inurl:status.html | inurl:apache.html)
+Description:      intitle:"Apache::Status" (inurl:server-status | inurl:status.html | inurl:apache.html)
+
+
+The Apache::Status returns information about the server software, operating system, number of child processes and current visitors. The official documentation can be found at hxxp://search.cpan.org/~gozer/mod_perl-1.29/lib/Apache/Status.pm

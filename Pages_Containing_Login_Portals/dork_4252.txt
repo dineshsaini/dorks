@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4252
+Category:         Pages Containing Login Portals
+Published Date:   2016-04-01
+Author:           anonymous
+GoogleDork:       inurl:backoffice intitle:login
+Description:      inurl:backoffice intitle:login
+
+
+# Exploit Title: BackOffice Login Portals # Google Dork: inurl:backoffice intitle:login # Description: Dork to find login portal access to Backoffice CMS.. # Date: 01/04/2016 # Exploit Author: XDarkCoder

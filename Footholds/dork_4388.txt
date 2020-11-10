@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4388
+Category:         Footholds
+Published Date:   2017-01-23
+Author:           anonymous
+GoogleDork:       inurl:/\\filesrc=**** ~"Current" ~":/" ~"upload"
+Description:      inurl:/\\filesrc=**** ~"Current" ~":/" ~"upload"
+
+
+Extensive list of shell backdoors implimented on websites. inurl:/\\filesrc=**** ~"Current" ~":/" ~"upload" -codex -smashingmagazine -'pub' -'public' -'mp3' -fossies -websvn -svn -git -login -.de -.fl -.ru -.jp -.kr -.ch -.dk -dorks -google -Google -.gov -prevent -help -how -reset -your -developer -reference -support -github Anything with "-" in the beginning is used to help combat the fact that google does not really want us to see all of the results. If we do not filter through, google will mark us as a bot user and block our ip address. The "do not search" expression is as important as the term or phrase we wish to search and match for. Thanks, MrM

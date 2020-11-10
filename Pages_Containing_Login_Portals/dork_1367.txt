@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1367
+Category:         Pages Containing Login Portals
+Published Date:   2006-05-03
+Author:           anonymous
+GoogleDork:       intitle:"eXist Database Administration" -demo
+Description:      intitle:"eXist Database Administration" -demo
+
+
+Login Pages "eXist is an Open Source native XML database featuring efficient, index-based XQuery processing, automatic indexing, extensions for full-text search, XUpdate support and tight integration with existing XML development tools. The database implements the current XQuery 1.0 working draft as of November, 2003 (for the core syntax, some details already following later versions), with the exception of the XML schema related features."

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4318
+Category:         Error Messages
+Published Date:   2016-08-16
+Author:           anonymous
+GoogleDork:       inurl:index of driver.php?id=
+Description:      inurl:index of driver.php?id=
+
+
+# Exploit Title: Google dork to discover OS warnings # Google Dork:inurl:index of driver.php?id= # Exploit Author: @R0d3ntSquad Simple dork to reveal websites with a huge amount of errors

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1696
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by RGameScript"
+Description:      "Powered by RGameScript"
+
+
+RGameScript Pro (page.php id) Remote File Inclusion Vulnerability - CVE: 2007-3980: https://www.exploit-db.com/exploits/4210

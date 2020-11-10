@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1364
+Category:         Pages Containing Login Portals
+Published Date:   2006-05-03
+Author:           anonymous
+GoogleDork:       (intitle:"Please login - Forums powered by UBB.threads")|(inurl:login.php "ubb")
+Description:      (intitle:"Please login - Forums powered by UBB.threads")|(inurl:login.php "ubb")
+
+
+Logins for Forums powered by UBB.threads

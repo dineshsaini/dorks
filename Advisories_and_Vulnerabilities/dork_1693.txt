@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1693
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Sinapis by scripter.ch"
+Description:      "Sinapis by scripter.ch"
+
+
+Sinapis Forum 2.2 (sinapis.php fuss) Remote File Include Vulnerability - CVE: 2007-1131: https://www.exploit-db.com/exploits/3367

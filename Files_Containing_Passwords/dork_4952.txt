@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4952
+Category:         Files Containing Passwords
+Published Date:   2018-09-13
+Author:           Sang Bui
+GoogleDork:       inurl:"trello.com" and intext:"username" and intext:"password"
+Description:      inurl:"trello.com" and intext:"username" and intext:"password"
+
+
+Looking for the Username &amp; Password from the public Trello board  Sang Bui 

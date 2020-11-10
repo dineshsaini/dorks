@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1796
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:jgs_treffen.php
+Description:      inurl:jgs_treffen.php
+
+
+Woltlab Burning Board Addon JGS-Treffen SQL Injection Vulnerability - CVE: 2008-1640: https://www.exploit-db.com/exploits/5329

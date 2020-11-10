@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4052
+Category:         Files Containing Juicy Info
+Published Date:   2015-08-17
+Author:           anonymous
+GoogleDork:       intext:/homedir/.cpanel-datastore/
+Description:      intext:/homedir/.cpanel-datastore/
+
+
+intext:/homedir/.cpanel-datastore dork displays publicly accessible and indexed cpanel datastores. Enjoy, Zapperlink

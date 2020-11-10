@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4703
+Category:         Pages Containing Login Portals
+Published Date:   2018-03-20
+Author:           Bruno Schmid
+GoogleDork:       inurl:"/forms/frmservlet?config=" login
+Description:      inurl:"/forms/frmservlet?config=" login
+
+
+Various login portals and custom applications using Oracle executable forms services, to use this dork properly it requires java running in the browser.  Bruno Schmid 

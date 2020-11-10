@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1139
+Category:         Vulnerable Files
+Published Date:   2005-09-25
+Author:           anonymous
+GoogleDork:       intitle:"Control panel" "Control Panel Login" ArticleLive inurl:admin -demo
+Description:      intitle:"Control panel" "Control Panel Login" ArticleLive inurl:admin -demo
+
+
+Build, manage and customize your own search engine friendly news / article site from scratch -- with absolutely no technical experience.Authentication bypass, sql injections and xss in ArticleLive 2005http://neworder.box.sk/explread.php?newsid=13582

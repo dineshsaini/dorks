@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3989
+Category:         Various Online Devices
+Published Date:   2015-02-11
+Author:           anonymous
+GoogleDork:       inurl:.cgi-bin/webproc
+Description:      inurl:.cgi-bin/webproc
+
+
+inurl:.cgi-bin/webproc Login for various type of router. By Rootkit.

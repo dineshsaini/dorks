@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4589
+Category:         Files Containing Passwords
+Published Date:   2017-10-11
+Author:           anonymous
+GoogleDork:       intitle:"Index Of" intext:.ftpconfig
+Description:      intitle:"Index Of" intext:.ftpconfig
+
+
+Description : FTP/SFTP credentials in .ftpconfig file from Atom text editor. Dork : intitle:"Index Of" intext:.ftpconfig ~Vocuzi

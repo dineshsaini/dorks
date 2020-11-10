@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1110
+Category:         Vulnerable Files
+Published Date:   2005-09-13
+Author:           anonymous
+GoogleDork:       "e107.org 2002/2003" inurl:forum_post.php?nt
+Description:      "e107.org 2002/2003" inurl:forum_post.php?nt
+
+
+e107 is prone to an input validation vulnerability. This issue is due to a failure in the application to properly sanitize user-supplied input.Successful exploitation of this issue will permit an attacker to create arbitrary forum message posts.http://www.securityfocus.com/bid/14699

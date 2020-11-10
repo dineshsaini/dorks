@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4608
+Category:         Pages Containing Login Portals
+Published Date:   2017-11-03
+Author:           huehuehuebrbrbr
+GoogleDork:       inurl:"xamppsecurity.php"
+Description:      inurl:"xamppsecurity.php"
+
+
+inurl:"xamppsecurity.php"  ps.: with this dork it is possible to enter several administrative panels of xampp that do not have password for protection.  Att. huehuehuebrbrbr

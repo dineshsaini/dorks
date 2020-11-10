@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3610
+Category:         Various Online Devices
+Published Date:   2010-11-21
+Author:           anonymous
+GoogleDork:       inurl:/level/15/exec/-/configure/http
+Description:      inurl:/level/15/exec/-/configure/http
+
+
+Default Cisco 2800 Series page

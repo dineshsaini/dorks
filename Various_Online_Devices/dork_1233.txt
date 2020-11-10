@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1233
+Category:         Various Online Devices
+Published Date:   2005-12-31
+Author:           anonymous
+GoogleDork:       intitle:Axis inurl:"/admin/admin.shtml"
+Description:      intitle:Axis inurl:"/admin/admin.shtml"
+
+
+similar searchs exist. This search finds a few more results as well as access to the Admin area or a login screen depending on Cameras configuration.

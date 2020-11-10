@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5150
+Category:         Pages Containing Login Portals
+Published Date:   2019-03-11
+Author:           Lazy Hacker
+GoogleDork:       inurl:'/scopia/entry/index.jsp'
+Description:      inurl:'/scopia/entry/index.jsp'
+
+
+Search: Avaya Scopia Login Page  *Google Dorks:* inurl:'/scopia/entry/index.jsp' *Default Credentials: *admin/admin  Author: Rishabh Sharma (Lazy Hacker) 

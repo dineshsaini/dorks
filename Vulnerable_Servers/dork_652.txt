@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/652
+Category:         Vulnerable Servers
+Published Date:   2004-11-06
+Author:           anonymous
+GoogleDork:       inurl:aol*/_do/rss_popup?blogID=
+Description:      inurl:aol*/_do/rss_popup?blogID=
+
+
+AOL Journals BlogID Incrementing Discloses Account Names and Email AddressesAOL Journals is basically "America Online's version of a blog (weblog) for AOL members/subscribers. A vulnerability in AOL Journals BlogID allows an attacker to numbers provided to the program and enumerate a list of AOL members/subscribers and their corresponding email.

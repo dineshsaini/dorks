@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/766
+Category:         Files Containing Juicy Info
+Published Date:   2004-12-13
+Author:           anonymous
+GoogleDork:       ext:dat bpk.dat
+Description:      ext:dat bpk.dat
+
+
+Perfect Keylogger is as the name says a keylogger :)This dork finds the corresponding datafiles which can be read with the free downloadable lite version.

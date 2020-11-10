@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/539
+Category:         Various Online Devices
+Published Date:   2004-10-09
+Author:           anonymous
+GoogleDork:       intitle:"switch home page" "cisco systems" "Telnet - to"
+Description:      intitle:"switch home page" "cisco systems" "Telnet - to"
+
+
+Most cisco switches are shipped with a web administration interface. If a switch is reachable from the internet and google cashed it this search will show it.

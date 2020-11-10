@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3535
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:/modules/rmgallery/
+Description:      inurl:/modules/rmgallery/
+
+
+XOOPS Module RM+Soft Gallery 1.0 BLIND SQL Injection - CVE: 2007-1806: https://www.exploit-db.com/exploits/3633

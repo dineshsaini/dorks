@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4033
+Category:         Sensitive Directories
+Published Date:   2015-07-09
+Author:           anonymous
+GoogleDork:       intitle:index.of.pubs
+Description:      intitle:index.of.pubs
+
+
+Exploit title: intitle:index.of.pubs Description: intitle:index.of.pubs Sensitive Directories Author:fidah.org

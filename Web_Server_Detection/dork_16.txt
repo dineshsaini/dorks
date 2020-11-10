@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/16
+Category:         Web Server Detection
+Published Date:   2003-06-24
+Author:           anonymous
+GoogleDork:       OpenBSD running Apache
+Description:      OpenBSD running Apache
+
+
+I like the OpenBSD operating system. I really do. And I like the Apache web server software. Honestly. I admire the mettle of administrators who take the time to run quality, secure software. The problem is that you never know when security problems will pop up. A BIG security problem popped up within the OpenBSD/Apache combo back in the day.Now, every administrator that advertised this particular combo with cute little banners has a problem. Hackers can find them with Google. I go easy on these folks since the odds are they.ve patched their sites already. Then again, they may just show up on zone-h..

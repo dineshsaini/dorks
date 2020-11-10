@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5520
+Category:         Pages Containing Login Portals
+Published Date:   2019-09-12
+Author:           Reza Abasi
+GoogleDork:       inurl:"/usp-core/app/authUpdate"
+Description:      inurl:"/usp-core/app/authUpdate"
+
+
+Login Portal:  inurl:"/usp-core/app/authUpdate"  Reza Abasi(Turku) 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/673
+Category:         Advisories and Vulnerabilities
+Published Date:   2004-11-12
+Author:           anonymous
+GoogleDork:       "running: Nucleus v3.1" -.nucleuscms.org -demo
+Description:      "running: Nucleus v3.1" -.nucleuscms.org -demo
+
+
+Multiple unspecified vulnerabilities reportedly affect Nucleus CMS. A remote attacker may leverage these issues to steal cookie-based authentication credentials, reveal sensitive data and corrupt database contents. http://www.securityfocus.com/bid/11631

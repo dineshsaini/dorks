@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6441
+Category:         Pages Containing Login Portals
+Published Date:   2020-07-26
+Author:           Supun Halangoda
+GoogleDork:       inurl:/+CSCOE+/logon.html?
+Description:      inurl:/+CSCOE+/logon.html?
+
+
+# Exploit Title: inurl:/+CSCOE+/logon.html? # Google Dork: inurl:/+CSCOE+/logon.html? # Date: 24/07/2020 #Dork: CISCO WebVPN Logins # Author: Supun Halangoda 

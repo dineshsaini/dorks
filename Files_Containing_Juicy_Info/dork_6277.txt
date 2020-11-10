@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6277
+Category:         Files Containing Juicy Info
+Published Date:   2020-06-12
+Author:           Abhi Chitkara
+GoogleDork:       intitle:"index of" admin.tar
+Description:      intitle:"index of" admin.tar
+
+
+Dork: intitle:"index of" admin.tar Description: This google dorks lists out default admin folders on web servers Author: Abhi Chitkara 

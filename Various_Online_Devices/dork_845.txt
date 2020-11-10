@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/845
+Category:         Various Online Devices
+Published Date:   2005-01-27
+Author:           anonymous
+GoogleDork:       intitle:"EverFocus.EDSR.applet"
+Description:      intitle:"EverFocus.EDSR.applet"
+
+
+The new EDSR-1600 (16-channel), EDSR-900 (9-channel) and EDSR-600 (6-channel) digital video recorders offer all digital video recording benefits and are easy to install and operate like a custom VCR. Moreover, the 16 &amp; 9 channel devices are the first Digital Video Recorders with an integrated 16x4 basic matrix function. Existing multiplexers can be connected via a switch output. Alarms are managed via external alarm inputs and outputs.

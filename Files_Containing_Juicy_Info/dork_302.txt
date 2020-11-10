@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/302
+Category:         Files Containing Juicy Info
+Published Date:   2004-07-02
+Author:           anonymous
+GoogleDork:       Microsoft Money Data Files
+Description:      Microsoft Money Data Files
+
+
+Microsoft Money 2004 provides a way to organize and manage your personal finances (http://www.microsoft.com/money/). The default file extension for the 'Money Data Files' is *.mny.A free trial version can be downloaded from MS. It is reported that the password protection (linked to passport in the new versions) for these data files can be cracked with a program called "Passware".

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1761
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by SkaDate Dating
+Description:      Powered by SkaDate Dating
+
+
+SkaDate Online 5.0/6.0 Remote File Disclosure Vulnerability - CVE: 2007-5299: https://www.exploit-db.com/exploits/4493

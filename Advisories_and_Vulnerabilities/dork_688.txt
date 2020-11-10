@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/688
+Category:         Advisories and Vulnerabilities
+Published Date:   2004-11-18
+Author:           anonymous
+GoogleDork:       intext:("UBB.threadsÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ 6.2"|"UBB.threadsÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ 6.3") intext:"You * not logged *" -site:ubbcentral.com
+Description:      intext:("UBB.threadsÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ 6.2"|"UBB.threadsÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ 6.3") intext:"You * not logged *" -site:ubbcentral.com
+
+
+UBB.Threads 6.2.*-6.3.* one char bruteforce vulnerability:http://www.k-otik.com/exploits/20041116.r57ubb.pl.php

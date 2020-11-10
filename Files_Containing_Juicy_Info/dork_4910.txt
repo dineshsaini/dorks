@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4910
+Category:         Files Containing Juicy Info
+Published Date:   2018-08-08
+Author:           Aamir Rehman
+GoogleDork:       -site:smarty.net ext:tpl intext:"
+Description:      -site:smarty.net ext:tpl intext:"
+
+
+-site:smarty.net ext:tpl intext:"

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3802
+Category:         Various Online Devices
+Published Date:   2012-08-21
+Author:           anonymous
+GoogleDork:       'apc info' 'apc.php?SCOPE='
+Description:      'apc info' 'apc.php?SCOPE='
+
+
+This dork will locate Unsecured PHP APC Installations. With regards, Shubham Mittal (Hack Planet Technologies) http://hackplanet.in

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1471
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       DA Mailing List System V2 Powered by DigitalArakan.Net
+Description:      DA Mailing List System V2 Powered by DigitalArakan.Net
+
+
+DA Mailing List System V2 Multiple Vulnerabilities: https://www.exploit-db.com/exploits/11348

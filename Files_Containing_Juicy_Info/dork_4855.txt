@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4855
+Category:         Files Containing Juicy Info
+Published Date:   2018-06-14
+Author:           Subhash Rawat
+GoogleDork:       allintitle:restricted filetype:doc site:gov
+Description:      allintitle:restricted filetype:doc site:gov
+
+
+Some juicy Information  Author: Subhash Rawat 

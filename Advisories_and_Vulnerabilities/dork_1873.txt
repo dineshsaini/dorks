@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1873
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"nabopoll/"
+Description:      inurl:"nabopoll/"
+
+
+nabopoll 1.2 (survey.inc.php path) Remote File Include Vulnerability - CVE: 2005-2157: https://www.exploit-db.com/exploits/3315

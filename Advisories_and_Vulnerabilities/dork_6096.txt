@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6096
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-05-18
+Author:           Abhi Chitkara
+GoogleDork:       inurl:wp-content/plugins/team-members
+Description:      inurl:wp-content/plugins/team-members
+
+
+Dork: inurl:wp-content/plugins/team-members Description: This google dork lists out Advisories and Vulnerabilities regarding the team members wordpress plugin. Ref: https://wpvulndb.com/vulnerabilities/10228 Author: Abhi Chitkara 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2121
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Maian Music v1.0. Copyright Â© 2007-2008 Maian Script World. All Rights Reserved.
+Description:      Maian Music v1.0. Copyright Â© 2007-2008 Maian Script World. All Rights Reserved.
+
+
+Maian Music 1.0 Insecure Cookie Handling Vulnerability: https://www.exploit-db.com/exploits/6051

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5798
+Category:         Files Containing Juicy Info
+Published Date:   2020-03-17
+Author:           Rohit Gautam
+GoogleDork:       intitle:"index of" "secrets.yml"
+Description:      intitle:"index of" "secrets.yml"
+
+
+Google Dork Query to find out insecure and sensitve secrets.yml metadata stored in YML format.  Google Dork Query: *intitle:"index of" "secrets.yml"* 

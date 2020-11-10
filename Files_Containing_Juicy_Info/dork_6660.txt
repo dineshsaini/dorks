@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6660
+Category:         Files Containing Juicy Info
+Published Date:   2020-11-06
+Author:           Alexandros Pappas
+GoogleDork:       intitle:"index of" "/.idea"
+Description:      intitle:"index of" "/.idea"
+
+
+# Google Dork: intitle:"index of" "/.idea" # Sensitive directories containing juicy info and sometimes usernames and passwords. # Date: 27/10/2020 # Exploit Author: Alexandros Pappas 

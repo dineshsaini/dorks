@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/465
+Category:         Files Containing Juicy Info
+Published Date:   2004-09-07
+Author:           anonymous
+GoogleDork:       filetype:reg "Terminal Server Client"
+Description:      filetype:reg "Terminal Server Client"
+
+
+These are Microsoft Terminal Services connection settings registry files. They may sometimes contain encrypted passwords and IP addresses.

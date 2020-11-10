@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/131
+Category:         Vulnerable Servers
+Published Date:   2004-03-18
+Author:           anonymous
+GoogleDork:       "Welcome to PHP-Nuke" congratulations
+Description:      "Welcome to PHP-Nuke" congratulations
+
+
+This finds default installations of the postnuke CMS system. In many cases, default installations can be insecure especially considering that the administrator hasn't gotten past the first few installation steps.

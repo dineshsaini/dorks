@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1067
+Category:         Pages Containing Login Portals
+Published Date:   2005-08-11
+Author:           anonymous
+GoogleDork:       intitle:"communigate pro * *" intitle:"entrance"
+Description:      intitle:"communigate pro * *" intitle:"entrance"
+
+
+Just reveals the login for Communigate Pro webmail. A brute force attack could be attempted. The directory link from this page can in some instances be used to query user information.

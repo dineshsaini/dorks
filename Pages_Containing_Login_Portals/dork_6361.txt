@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6361
+Category:         Pages Containing Login Portals
+Published Date:   2020-07-01
+Author:           Priyanka Prasad
+GoogleDork:       inurl:8080/login.php
+Description:      inurl:8080/login.php
+
+
+ Dork: inurl:8080/login.php Author: Priyanka Prasad  

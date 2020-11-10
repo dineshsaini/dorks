@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5094
+Category:         Pages Containing Login Portals
+Published Date:   2019-02-11
+Author:           Manish Bhandarkar
+GoogleDork:       inurl:/FxCodeShell.jsp/ "Login Form" "Blog Comments"
+Description:      inurl:/FxCodeShell.jsp/ "Login Form" "Blog Comments"
+
+
+Category : Pages containing login portals  Description : Dork for finding login portals of fxcodeshell.jsp  Dork : inurl:/FxCodeShell.jsp/ "Login Form" "Blog Comments"  Also try : inurl:/FxCodeShell.jsp::$DATA/  Date : 10/2/2019  Author : Manish Bhandarkar 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6210
+Category:         Files Containing Juicy Info
+Published Date:   2020-06-04
+Author:           Ritik Sahni
+GoogleDork:       "index of" /private/logs
+Description:      "index of" /private/logs
+
+
+# Google Dork: "index of" /private/logs # Title: Finding potential log files. # Date: 04/06/2020 # Author: Ritik Sahni 

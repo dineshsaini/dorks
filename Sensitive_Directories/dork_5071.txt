@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5071
+Category:         Sensitive Directories
+Published Date:   2019-01-09
+Author:           FlyingFrog
+GoogleDork:       inurl:"/irj/go/km/" intext:navigation
+Description:      inurl:"/irj/go/km/" intext:navigation
+
+
+AUTHOR: FlyingFrog Twitter: @ItsKarl0z   ++ SAP files, filesystem information, file structure ++  inurl:”/irj/go/km/" intext:navigation - extract SAP server documents - Find SAP server - Find server structure - Find usernames and passwords - Find sensitive data - To exploit go to site and click on “Navigation user interface” - 1.890 results at the time of writing  DISCLAIMER: (The vulnerabilities are suggestions, none of them have been tested by me, always request permission before testing anything on someone else system)  

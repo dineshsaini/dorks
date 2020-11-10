@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4259
+Category:         Pages Containing Login Portals
+Published Date:   2016-04-11
+Author:           anonymous
+GoogleDork:       inurl:/dynamic/login-simple.html?
+Description:      inurl:/dynamic/login-simple.html?
+
+
+inurl:/dynamic/login-simple.html? This google dork can access many linksys Smart wifi accounts . Created by Sivabalan ( CYBER GENIUS )

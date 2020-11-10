@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1349
+Category:         Pages Containing Login Portals
+Published Date:   2006-05-03
+Author:           anonymous
+GoogleDork:       inurl:"php121login.php"
+Description:      inurl:"php121login.php"
+
+
+"PHP121 is a free web based instant messenger - written entirely in PHP. This means that it will work in any browser on any operating system including Windows and Linux, anywhere!"

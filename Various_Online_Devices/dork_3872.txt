@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3872
+Category:         Various Online Devices
+Published Date:   2013-08-08
+Author:           anonymous
+GoogleDork:       intitle:"NetBotz Network Monitoring Appliance"
+Description:      intitle:"NetBotz Network Monitoring Appliance"
+
+
+#Summary:Various Online Divices #Category: Pages containing login portals #Author: g00gl3 5c0u7

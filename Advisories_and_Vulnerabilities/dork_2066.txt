@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2066
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:modules.php?name=Shopping_Cart
+Description:      inurl:modules.php?name=Shopping_Cart
+
+
+PHP-Nuke Module Emporium 2.3.0 (id_catg) SQL Injection Vulnerability - CVE: 2007-1034: https://www.exploit-db.com/exploits/10615

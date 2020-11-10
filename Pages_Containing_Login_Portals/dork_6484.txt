@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6484
+Category:         Pages Containing Login Portals
+Published Date:   2020-08-19
+Author:           Adithya Chandra
+GoogleDork:       inurl:"/login?csrfkey=" intitle:"cisco email security"
+Description:      inurl:"/login?csrfkey=" intitle:"cisco email security"
+
+
+# Google Dork: inurl:"/login?csrfkey=" intitle:"cisco email security" # CISCO Email Security Appliance login portals. # Date: 18/08/2020 # Exploit Author: Adithya Chandra  Thanks and Best Regards, Adithya Chandra 

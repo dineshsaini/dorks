@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/984
+Category:         Vulnerable Files
+Published Date:   2005-05-20
+Author:           anonymous
+GoogleDork:       intitle:"SSHVnc Applet"OR intitle:"SSHTerm Applet" -uni-klu.ac.at -net/viewcvs.py -iphoting.iphoting.com
+Description:      intitle:"SSHVnc Applet"OR intitle:"SSHTerm Applet" -uni-klu.ac.at -net/viewcvs.py -iphoting.iphoting.com
+
+
+sSHTerm Applet en SSHVnc Applet pages.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3594
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "this site is using the webspell script (version: 4.01.02)"
+Description:      "this site is using the webspell script (version: 4.01.02)"
+
+
+CVE: 2007-0502 EDB-ID: 3172 This search can potentially identify vulnerable installations of webSPELL 4.01.02

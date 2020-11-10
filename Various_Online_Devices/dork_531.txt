@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/531
+Category:         Various Online Devices
+Published Date:   2004-10-05
+Author:           anonymous
+GoogleDork:       intitle:"axis storpoint CD" intitle:"ip address"
+Description:      intitle:"axis storpoint CD" intitle:"ip address"
+
+
+Axis' network CD/DVD servers are faster, less costly and easier to manage than using full-blown file servers for networking CD/DVD collections. Any organization that relies heavily on CD/DVD-based information can benefit from an AXIS StorPoint CD+.

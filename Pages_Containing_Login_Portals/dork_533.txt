@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/533
+Category:         Pages Containing Login Portals
+Published Date:   2004-10-05
+Author:           anonymous
+GoogleDork:       intitle:"oMail-admin Administration - Login" -inurl:omnis.ch
+Description:      intitle:"oMail-admin Administration - Login" -inurl:omnis.ch
+
+
+oMail-webmail is a Webmail solution for mail servers based on qmail and optionally vmailmgr or vpopmail. The mail is read directly from maildirs on the hard disk, which is much quicker than using protocols like POP3 or IMAP. Other features includes multiple language support (English, French, German, Japanese, Chinese, and many more), HTML and pictures inline display, folders, and address book support.

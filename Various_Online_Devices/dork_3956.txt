@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3956
+Category:         Various Online Devices
+Published Date:   2014-07-21
+Author:           anonymous
+GoogleDork:       inurl:"phy.htm" intitle:"Touchstone Status"
+Description:      inurl:"phy.htm" intitle:"Touchstone Status"
+
+
+Hits: 4,250 results This dork finds PacketCable 1.0 Touchstone Telephony Modems that are online wherein you see its event logs, system information, interface parameters, mac addresses, etc. *Jay Turla a.k.a shipcode*

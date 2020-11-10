@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4915
+Category:         Files Containing Juicy Info
+Published Date:   2018-08-13
+Author:           Bruno Schmid
+GoogleDork:       intext:APIKey ext:js | xml | yml | txt | conf | py -github -stackoverflow intitle:"index of"
+Description:      intext:APIKey ext:js | xml | yml | txt | conf | py -github -stackoverflow intitle:"index of"
+
+
+Dork containing some API Keys from several web applications.  Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2695
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "PHP Gallery © 2010 PHP Weby hostgator coupon"
+Description:      "PHP Gallery © 2010 PHP Weby hostgator coupon"
+
+
+Free PHP photo gallery script Remote File inclusion Vulnerability: https://www.exploit-db.com/exploits/14438

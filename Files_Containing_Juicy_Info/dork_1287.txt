@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1287
+Category:         Files Containing Juicy Info
+Published Date:   2006-03-21
+Author:           anonymous
+GoogleDork:       intitle:"LOGREP - Log file reporting system" -site:itefix.no
+Description:      intitle:"LOGREP - Log file reporting system" -site:itefix.no
+
+
+Logrep is an open source log file Extraction and Reporting System by ITeF!x. This dork finds the logs that it creates.

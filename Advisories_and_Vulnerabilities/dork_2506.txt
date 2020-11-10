@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2506
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:com_jmarket
+Description:      inurl:com_jmarket
+
+
+joomla com_jmarket SQLi Vulnerability: https://www.exploit-db.com/exploits/13799

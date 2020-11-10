@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3072
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered By EgyPlus"
+Description:      "Powered By EgyPlus"
+
+
+EgyPlus 7ml 1.0.1 (Auth Bypass) SQL Injection Vulnerability - CVE: 2009-2167: https://www.exploit-db.com/exploits/8865

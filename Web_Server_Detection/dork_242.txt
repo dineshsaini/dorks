@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/242
+Category:         Web Server Detection
+Published Date:   2004-05-17
+Author:           anonymous
+GoogleDork:       inurl:domcfg.nsf
+Description:      inurl:domcfg.nsf
+
+
+This will return a listing of servers running Lotus Domino. These servers by default have very descriptive error messages which can be used to obtain path and OS information. In addition, adding "Login Form Mapping" to the search will allow you to see detailed information about a few of the servers that have this option enabled.

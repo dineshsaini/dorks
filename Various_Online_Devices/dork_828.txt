@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/828
+Category:         Various Online Devices
+Published Date:   2005-01-21
+Author:           anonymous
+GoogleDork:       intitle:"Browser Launch Page"
+Description:      intitle:"Browser Launch Page"
+
+
+An ActiveX based webcam - so use MS IE

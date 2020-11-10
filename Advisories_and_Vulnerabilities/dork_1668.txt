@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1668
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Starting bid" "Powered by SoftbizScripts"
+Description:      "Starting bid" "Powered by SoftbizScripts"
+
+
+Softbiz Auctions Script product_desc.php Remote SQL Injection Vuln - CVE: 2007-5999: https://www.exploit-db.com/exploits/4617

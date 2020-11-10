@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2133
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Help desk software by United Web Coders rev. 3.0.640"
+Description:      "Help desk software by United Web Coders rev. 3.0.640"
+
+
+Trouble Ticket Software ttx.cgi Remote File Download: https://www.exploit-db.com/exploits/11823

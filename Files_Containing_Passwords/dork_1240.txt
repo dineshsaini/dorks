@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1240
+Category:         Files Containing Passwords
+Published Date:   2006-01-02
+Author:           anonymous
+GoogleDork:       enable password | secret "current configuration" -intext:the
+Description:      enable password | secret "current configuration" -intext:the
+
+
+Another Cisco configuration search. This one is cleaner, gives complete configuration files and it catches plaintext, "secret 5" and "password 7" passwords.

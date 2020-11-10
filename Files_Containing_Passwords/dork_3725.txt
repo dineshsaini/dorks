@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3725
+Category:         Files Containing Passwords
+Published Date:   2011-06-28
+Author:           anonymous
+GoogleDork:       filetype:sql "PostgreSQL database dump" (pass|password|passwd|pwd)
+Description:      filetype:sql "PostgreSQL database dump" (pass|password|passwd|pwd)
+
+
+PostgreSQL database dump with passwords Bastich

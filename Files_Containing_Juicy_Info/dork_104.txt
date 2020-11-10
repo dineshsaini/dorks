@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/104
+Category:         Files Containing Juicy Info
+Published Date:   2004-03-04
+Author:           anonymous
+GoogleDork:       intitle:index.of "Apache" "server at"
+Description:      intitle:index.of "Apache" "server at"
+
+
+This is a very basic string found on directory listing pages which show the version of the Apache web server. Hackers can use this information to find vulnerable targets without querying the servers.

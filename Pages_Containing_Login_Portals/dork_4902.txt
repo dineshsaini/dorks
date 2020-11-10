@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4902
+Category:         Pages Containing Login Portals
+Published Date:   2018-08-06
+Author:           Bruno Schmid
+GoogleDork:       inurl:secure/dashboard jspa
+Description:      inurl:secure/dashboard jspa
+
+
+Access to JIRA dashboards login portals and sometimes direct access to projects dashboard itself.  Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

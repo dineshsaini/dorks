@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2206
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allinurl:directory.php?ax=list
+Description:      allinurl:directory.php?ax=list
+
+
+Prozilla Directory Script (directory.php cat_id) SQL Injection Vulnerbility - CVE: 2007-3809: https://www.exploit-db.com/exploits/4185

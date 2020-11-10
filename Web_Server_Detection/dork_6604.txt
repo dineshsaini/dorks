@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6604
+Category:         Web Server Detection
+Published Date:   2020-10-12
+Author:           Javier Bernardo
+GoogleDork:       inurl:_vti_bin/Authentication.asmx
+Description:      inurl:_vti_bin/Authentication.asmx
+
+
+# Google Dork: inurl:_vti_bin/Authentication.asmx # Date: 10/11/2020 # Exploit Author: Javier Bernardo # Homepage: https://www.hack.com.ar  Javier Bernardo *Ethical Hacker | Information Security Engineer* Email: javierbernardo001@gmail.com 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3243
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:/modules/camportail/
+Description:      inurl:/modules/camportail/
+
+
+XOOPS Module Camportail 1.1 (camid) Remote SQL Injection - CVE: 2007-1808: https://www.exploit-db.com/exploits/3629

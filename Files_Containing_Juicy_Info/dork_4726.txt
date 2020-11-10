@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4726
+Category:         Files Containing Juicy Info
+Published Date:   2018-04-02
+Author:           Bruno Schmid
+GoogleDork:       config.yaml intitle:"index of" vagrantfile
+Description:      config.yaml intitle:"index of" vagrantfile
+
+
+Juicy info from puppet    Bruno Schmid 

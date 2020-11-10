@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/690
+Category:         Vulnerable Files
+Published Date:   2004-11-18
+Author:           anonymous
+GoogleDork:       "Powered by Land Down Under 601"
+Description:      "Powered by Land Down Under 601"
+
+
+sQL injection vulnerability in Land Down Under 601 could give an attacker administrative access. An exploit exists on the internet, search google.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4010
+Category:         Advisories and Vulnerabilities
+Published Date:   2015-05-27
+Author:           anonymous
+GoogleDork:       inurl:/wp-admin/post.php?post=
+Description:      inurl:/wp-admin/post.php?post=
+
+
+This dork finds websites which could be exploitable using Adrián M. F. landing page exploit - https://www.exploit-db.com/exploits/37108/ Author:NickiK.

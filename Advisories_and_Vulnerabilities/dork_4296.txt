@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4296
+Category:         Advisories and Vulnerabilities
+Published Date:   2016-06-06
+Author:           anonymous
+GoogleDork:       inurl:"/wp-content/plugins/wp-mobile-detector/" ext:php
+Description:      inurl:"/wp-content/plugins/wp-mobile-detector/" ext:php
+
+
+WP Mobile Detector 3.5 Remote Shell Upload https://www.exploit-db.com/exploits/39891/ inurl:"/wp-content/plugins/wp-mobile-detector/" ext:php Decoy

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/582
+Category:         Files Containing Juicy Info
+Published Date:   2004-10-18
+Author:           anonymous
+GoogleDork:       inurl:cgi-bin/testcgi.exe "Please distribute TestCGI"
+Description:      inurl:cgi-bin/testcgi.exe "Please distribute TestCGI"
+
+
+Test CGI by Lilikoi Software aids in the installation of the Ceilidh discussion engine for the World Wide Web. An attacker can use this to gather information about the server like: Operating System, IP and the full docroot path.

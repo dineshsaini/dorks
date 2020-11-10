@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/500
+Category:         Pages Containing Login Portals
+Published Date:   2005-01-13
+Author:           anonymous
+GoogleDork:       W-Nailer Upload Area
+Description:      W-Nailer Upload Area
+
+
+What is W-Nailer?W-Nailer is a PHP script which can create galleries for you.It uses a graphical library (GD) which enables PHP to manipulate images, for instance resizing to create thumbnails.W-Nailer is highly configurable to meet your needs. Even better, the configuration is nearly completely webbased.So after you have uploaded your files, you will just need your browser!

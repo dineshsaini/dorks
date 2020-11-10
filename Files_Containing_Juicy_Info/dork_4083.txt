@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4083
+Category:         Files Containing Juicy Info
+Published Date:   2015-09-18
+Author:           anonymous
+GoogleDork:       site:ws.kik.com | site:ws2.kik.com k=
+Description:      site:ws.kik.com | site:ws2.kik.com k=
+
+
+Google Dork: site:ws.kik.com | site:ws2.kik.com k= Date: September 16th, 2015 Exploit Author: Matthew Blankenship Description: Shows usernames, emails, and verification tokens for kik messenger accounts. 

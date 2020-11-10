@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4269
+Category:         Files Containing Juicy Info
+Published Date:   2016-04-25
+Author:           anonymous
+GoogleDork:       filetype:pdf intitle:"SSL Report"
+Description:      filetype:pdf intitle:"SSL Report"
+
+
+These dork show Qualys SSL Reports Hosts. Enjoy with them. Regards. Rootkit Pentester.

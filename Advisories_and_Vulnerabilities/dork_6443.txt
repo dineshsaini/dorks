@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6443
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-07-26
+Author:           Pratik Khalane
+GoogleDork:       Index of : wp-content/plugins/wpmudev-updates/
+Description:      Index of : wp-content/plugins/wpmudev-updates/
+
+
+Google Dork : Index of : wp-content/plugins/wpmudev-updates/  Description: This dork will lead to getting the keys and much more sensitive information of the directory. (Sensitive Data Exposure).  Author : Pratik Khalane  Date: 23-07-2020 

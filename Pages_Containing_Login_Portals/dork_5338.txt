@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5338
+Category:         Pages Containing Login Portals
+Published Date:   2019-08-12
+Author:           Francis Al Victoriano
+GoogleDork:       site:conf.*.com/signin/
+Description:      site:conf.*.com/signin/
+
+
+# Exploit Title: Sign-in for Conference Subdomain site  # Google Dork: site:conf.*.com/signin/  # Author: Francis Al Victoriano 

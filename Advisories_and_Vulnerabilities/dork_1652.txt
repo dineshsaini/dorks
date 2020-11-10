@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1652
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by VS PANEL"
+Description:      "Powered by VS PANEL"
+
+
+VS PANEL 7.3.6 (Cat_ID) Remote SQL Injection Vulnerability - CVE: 2009-3590: https://www.exploit-db.com/exploits/8506

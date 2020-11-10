@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/155
+Category:         Files Containing Juicy Info
+Published Date:   2004-04-13
+Author:           anonymous
+GoogleDork:       "Index of" / "chat/logs"
+Description:      "Index of" / "chat/logs"
+
+
+This search reveals chat logs. Depending on the contents of the logs, these files could contain just about anything!

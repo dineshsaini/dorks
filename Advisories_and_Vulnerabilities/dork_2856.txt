@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2856
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Copyright 2010. Software Index
+Description:      Copyright 2010. Software Index
+
+
+PishBini Footbal XSS and SQL Injection Vulnerability: https://www.exploit-db.com/exploits/14000

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2958
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by LightBlog" - Powered by LightBlog
+Description:      "Powered by LightBlog" - Powered by LightBlog
+
+
+LightBlog 9.5 cp_upload_image.php Remote File Upload Vulnerability - CVE: 2008-0632: https://www.exploit-db.com/exploits/5033

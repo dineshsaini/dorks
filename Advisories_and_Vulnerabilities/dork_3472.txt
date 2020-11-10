@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3472
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Copyright @2007 Iatek LLC"
+Description:      "Copyright @2007 Iatek LLC"
+
+
+PortalApp 4.0 (SQL/XSS/Auth Bypasses) Multiple Remote Vulnerabilities - CVE: 2008-4612: https://www.exploit-db.com/exploits/4848

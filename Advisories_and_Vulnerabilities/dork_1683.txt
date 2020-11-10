@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1683
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allinurl: "com_glossary"
+Description:      allinurl: "com_glossary"
+
+
+Mambo Component Glossary 2.0 (catid) SQL Injection Vulnerability - CVE: 2008-0514: https://www.exploit-db.com/exploits/5010

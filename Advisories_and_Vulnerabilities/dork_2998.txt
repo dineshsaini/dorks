@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2998
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:option=articles artid
+Description:      inurl:option=articles artid
+
+
+Mambo Component Articles (artid) Blind SQL Injection: https://www.exploit-db.com/exploits/5935

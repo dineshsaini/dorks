@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2227
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:/tiny_mce/plugins/filemanager/
+Description:      inurl:/tiny_mce/plugins/filemanager/
+
+
+TinyMCE MCFileManager 2.1.2 Arbitrary File Upload Vulnerability: https://www.exploit-db.com/exploits/15194

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2889
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by phpMyRealty
+Description:      Powered by phpMyRealty
+
+
+phpMyRealty 1.0.x (search.php type) Remote SQL Injection Vulnerability - CVE: 2007-6472: https://www.exploit-db.com/exploits/4750

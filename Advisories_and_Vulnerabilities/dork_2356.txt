@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2356
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by emuCMS
+Description:      Powered by emuCMS
+
+
+emuCMS 0.3 (cat_id) Remote SQL Injection Vulnerability - CVE: 2008-2891: https://www.exploit-db.com/exploits/5878

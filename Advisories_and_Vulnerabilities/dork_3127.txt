@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3127
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Winn ASP Guestbook from Winn.ws
+Description:      Winn ASP Guestbook from Winn.ws
+
+
+Winn ASP Guestbook 1.01b Remote Database Disclosure - CVE: 2009-4760: https://www.exploit-db.com/exploits/8596

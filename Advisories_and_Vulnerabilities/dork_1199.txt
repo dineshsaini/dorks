@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1199
+Category:         Advisories and Vulnerabilities
+Published Date:   2005-11-17
+Author:           anonymous
+GoogleDork:       "This website was created with phpWebThings 1.4"
+Description:      "This website was created with phpWebThings 1.4"
+
+
+This is Secunia advisory:http://secunia.com/advisories/17410/and my exploit that show a new vulnerability in "msg" parameter:http://rgod.altervista.org/phpwebth14_xpl.html

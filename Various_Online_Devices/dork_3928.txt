@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3928
+Category:         Various Online Devices
+Published Date:   2014-02-05
+Author:           anonymous
+GoogleDork:       intitle:not accepted inurl:"union+select" inurl:"id?="
+Description:      intitle:not accepted inurl:"union+select" inurl:"id?="
+
+
+Find IDS and Mod security dork: intitle:not accepted inurl:"union+select" inurl:"id?=" 

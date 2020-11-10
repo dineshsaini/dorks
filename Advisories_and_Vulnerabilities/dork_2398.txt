@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2398
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by WebStudio eCatalogue"
+Description:      "Powered by WebStudio eCatalogue"
+
+
+WebStudio eCatalogue (pageid) Blind SQL Injection Vulnerability - CVE: 2008-5294: https://www.exploit-db.com/exploits/7223

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/113
+Category:         Files Containing Passwords
+Published Date:   2004-03-04
+Author:           anonymous
+GoogleDork:       intitle:index.of administrators.pwd
+Description:      intitle:index.of administrators.pwd
+
+
+This file contains administrative user names and (weakly) encrypted password for Microsoft Front Page. The file should not be readble to the general public.

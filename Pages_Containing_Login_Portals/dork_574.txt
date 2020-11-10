@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/574
+Category:         Pages Containing Login Portals
+Published Date:   2004-10-16
+Author:           anonymous
+GoogleDork:       intitle:"remote assessment" OpenAanval Console
+Description:      intitle:"remote assessment" OpenAanval Console
+
+
+The Aanval Intrusion Detection Console is an advanced intrusion detection monitor and alerting system. Currently supporting modules for Snort and syslog - Aanval provides real-time monitoring, reporting, alerting and stability. Aanval's web-browser interface provides real-time event viewing and system/sensor management.

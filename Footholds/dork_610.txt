@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/610
+Category:         Footholds
+Published Date:   2004-10-22
+Author:           anonymous
+GoogleDork:       (inurl:81/cgi-bin/.cobalt/) | (intext:"Welcome to the Cobalt RaQ")
+Description:      (inurl:81/cgi-bin/.cobalt/) | (intext:"Welcome to the Cobalt RaQ")
+
+
+The famous Sun linux appliance. The default page displays this text:"Congratulations on Choosing a Cobalt RaQ - the premier server appliance platform for web hosting. This page can easily be replaced with your own page. To replace this page, transfer your new content to the directory /home/sites/home/web".

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6411
+Category:         Various Online Devices
+Published Date:   2020-07-14
+Author:           Alexandros Pappas
+GoogleDork:       intitle:"SFXAdmin - sfx_global" intext:"Login Form"
+Description:      intitle:"SFXAdmin - sfx_global" intext:"Login Form"
+
+
+# Google Dork: intitle:"SFXAdmin - sfx_global" intext:"Login Form" # Various pages containing login portals. # Date: 3/07/2020 # Exploit Author: Alexandros Pappas 

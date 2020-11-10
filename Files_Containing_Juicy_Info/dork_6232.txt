@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6232
+Category:         Files Containing Juicy Info
+Published Date:   2020-06-08
+Author:           Reza Abasi
+GoogleDork:       "microsoft internet information services" ext:log
+Description:      "microsoft internet information services" ext:log
+
+
+Files containing juicy info:  "microsoft internet information services" ext:log  BR, Reza Abasi(Turku) 

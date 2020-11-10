@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3379
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "copyright 2006 Broadband Mechanics"
+Description:      "copyright 2006 Broadband Mechanics"
+
+
+PeopleAggregator 1.2pre6-release-53 Multiple RFI Vulnerabilities - CVE: 2007-5631: https://www.exploit-db.com/exploits/4551

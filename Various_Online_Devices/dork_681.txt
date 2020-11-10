@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/681
+Category:         Various Online Devices
+Published Date:   2004-11-16
+Author:           anonymous
+GoogleDork:       inurl:axis-cgi
+Description:      inurl:axis-cgi
+
+
+Just another search string to detect the infamous Axis netcams. This company actually changed the generic /cgi-bin/ directory name to /axis-cgi/, making it easier to d0rk them ;)

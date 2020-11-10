@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3
+Category:         Files Containing Juicy Info
+Published Date:   2003-06-24
+Author:           anonymous
+GoogleDork:       ICQ chat logs, please...
+Description:      ICQ chat logs, please...
+
+
+ICQ (http://www.icq.com) allows you to store the contents of your online chats into a file. These folks have their entire ICQ directories online. On purpose?

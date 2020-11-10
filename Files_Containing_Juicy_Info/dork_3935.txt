@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3935
+Category:         Files Containing Juicy Info
+Published Date:   2014-02-05
+Author:           anonymous
+GoogleDork:       site:bitbucket.org inurl:.bash_history
+Description:      site:bitbucket.org inurl:.bash_history
+
+
+Finding Sensitive data site:bitbucket.org inurl:.bash_history By Pharos

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1676
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by ParsBlogger"
+Description:      "Powered by ParsBlogger"
+
+
+ParsBlogger (blog.asp wr) Remote SQL Injection Vulnerability - CVE: 2008-5637: https://www.exploit-db.com/exploits/7239

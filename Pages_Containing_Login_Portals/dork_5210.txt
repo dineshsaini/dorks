@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5210
+Category:         Pages Containing Login Portals
+Published Date:   2019-05-13
+Author:           Manish Bhandarkar
+GoogleDork:       inurl:"/Shop/auth/login"
+Description:      inurl:"/Shop/auth/login"
+
+
+Category : Pages containing login portals  Description : Dork for finding login portals  Dork : inurl:"/Shop/auth/login"  Date : 11/5/2019  Author : Manish Bhandarkar Blog : https://hackingforsecurity.blogspot.com/ 

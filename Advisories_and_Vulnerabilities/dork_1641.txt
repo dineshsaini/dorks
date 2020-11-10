@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1641
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"/squirrelcart/" -squirrelcart.com
+Description:      inurl:"/squirrelcart/" -squirrelcart.com
+
+
+Squirrelcart 1.x.x (cart.php) Remote File Inclusion Vulnerability - CVE: 2007-4439: https://www.exploit-db.com/exploits/4295

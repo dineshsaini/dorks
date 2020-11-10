@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1991
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "powered by CubeCart" inurl:"index.php?_a="
+Description:      "powered by CubeCart" inurl:"index.php?_a="
+
+
+CubeCart (index.php) SQL Injection Vulnerability: https://www.exploit-db.com/exploits/11495

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5241
+Category:         Files Containing Juicy Info
+Published Date:   2019-06-03
+Author:           Bruno Schmid
+GoogleDork:       "/FTPSVC2" intitle:"index of"
+Description:      "/FTPSVC2" intitle:"index of"
+
+
+Microsoft FTP server logs. You can change the file last number to get more results: FTPSVC3, FTPSVC4 and so on... Or (Not recommended) use  "/FTPSVC2" | "/FTPSVC3" intitle:"index of"   Bruno Schmid https://ch.linkedin.com/in/schmidbruno @brulliant 

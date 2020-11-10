@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3854
+Category:         Files Containing Juicy Info
+Published Date:   2013-08-08
+Author:           anonymous
+GoogleDork:       inurl:"zendesk.com/attachments/token" site:zendesk.com
+Description:      inurl:"zendesk.com/attachments/token" site:zendesk.com
+
+
+zendesk is good ticketing system . It has thousands of clients. with the above dork you can see the clients internal file attachments of the tickets . These file can be opened by anyone because they are not maintaining any authentication token for this attachments Internal source codes, doubts, ip's , passwords, can be disclosed in the attachments

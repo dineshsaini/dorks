@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/318
+Category:         Pages Containing Login Portals
+Published Date:   2004-07-12
+Author:           anonymous
+GoogleDork:       phpWebMail
+Description:      phpWebMail
+
+
+PhpWebMail is a php webmail system that supports imap or pop3. It has been reported that PHPwebmail 2.3 is vulnerable. The vulnerability allows phpwebmail users to gain access to arbitrary file system by changing the parameters in the URL used for sending mail (send_mail.php). More info at http://eagle.kecapi.com/sec/fd/phpwebmail.html.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/525
+Category:         Various Online Devices
+Published Date:   2004-10-05
+Author:           anonymous
+GoogleDork:       inurl:hp/device/this.LCDispatcher
+Description:      inurl:hp/device/this.LCDispatcher
+
+
+This one gets you on the web interface of some more HP Printers.

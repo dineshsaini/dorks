@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2752
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"com_performs"
+Description:      inurl:"com_performs"
+
+
+perForms Mambo Component 1.0 Remote File Inclusion - CVE: 2006-3774: https://www.exploit-db.com/exploits/2025

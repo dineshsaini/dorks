@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3522
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered By X7 Chat"
+Description:      "Powered By X7 Chat"
+
+
+X7 Chat 2.0.4 (old_prefix) Remote Blind SQL Injection - CVE: 2006-3851: https://www.exploit-db.com/exploits/2068

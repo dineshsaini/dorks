@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3504
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "powered by blur6ex"
+Description:      "powered by blur6ex"
+
+
+blur6ex 0.3.462 (ID) Admin Disclosure / Blind SQL Injection - CVE: 2006-3065: https://www.exploit-db.com/exploits/1904

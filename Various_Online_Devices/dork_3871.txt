@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3871
+Category:         Various Online Devices
+Published Date:   2013-08-08
+Author:           anonymous
+GoogleDork:       intitle:"Weather Wing WS-2"
+Description:      intitle:"Weather Wing WS-2"
+
+
+#Summary:Weather Wing (http://www.meteo-system.com/ws2.php) Portal. #Category: Various Online Divices #Author: g00gl3 5c0u7

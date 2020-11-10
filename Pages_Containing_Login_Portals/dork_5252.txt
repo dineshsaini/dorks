@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5252
+Category:         Pages Containing Login Portals
+Published Date:   2019-06-06
+Author:           Bruno Schmid
+GoogleDork:       intitle:"netscaler gateway" intext:password "please log on"
+Description:      intitle:"netscaler gateway" intext:password "please log on"
+
+
+Netscaler web app log in portals.   Bruno Schmid https://ch.linkedin.com/in/schmidbruno @brulliant 

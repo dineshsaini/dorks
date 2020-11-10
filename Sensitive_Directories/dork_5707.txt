@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5707
+Category:         Sensitive Directories
+Published Date:   2020-01-27
+Author:           Bruno Schmid
+GoogleDork:       intitle:"index of" .oracle_jre_usage/
+Description:      intitle:"index of" .oracle_jre_usage/
+
+
+This dork gives you the version of Java used by the target   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

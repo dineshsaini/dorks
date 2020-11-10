@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1141
+Category:         Advisories and Vulnerabilities
+Published Date:   2005-09-25
+Author:           anonymous
+GoogleDork:       "CosmoShop by Zaunz Publishing" inurl:"cgi-bin/cosmoshop/lshop.cgi" -johnny.ihackstuff.com -V8.10.106 -V8.10.100 -V.8.10.85 -V8.10.108 -V8.11*
+Description:      "CosmoShop by Zaunz Publishing" inurl:"cgi-bin/cosmoshop/lshop.cgi" -johnny.ihackstuff.com -V8.10.106 -V8.10.100 -V.8.10.85 -V8.10.108 -V8.11*
+
+
+cosmoshop is a comercial shop system written as a CGI.vulnerabilities:sql injection, passwords saved in cleartext, view any filehttp://www.securityfocus.com/archive/1/409510/30/120/threaded

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2191
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"index.php?option=com_jequoteform"
+Description:      inurl:"index.php?option=com_jequoteform"
+
+
+Joomla Component com_jequoteform - Local File Inclusion - CVE: 2010-2128: https://www.exploit-db.com/exploits/12607

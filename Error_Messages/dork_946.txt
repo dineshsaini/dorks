@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/946
+Category:         Error Messages
+Published Date:   2005-04-26
+Author:           anonymous
+GoogleDork:       intitle:"Default PLESK Page"
+Description:      intitle:"Default PLESK Page"
+
+
+Plesk Server Administrator (PSA) is web based software that enables remote administration of web servers. It can be used on Linux and other systems that support PHP.The default page is an indication that no configuration has been done (yet) for the domain

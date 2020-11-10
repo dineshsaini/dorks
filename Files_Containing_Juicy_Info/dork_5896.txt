@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5896
+Category:         Files Containing Juicy Info
+Published Date:   2020-04-16
+Author:           Alexandros Pappas
+GoogleDork:       intext:"Current Configuration:" ext:cfg -git
+Description:      intext:"Current Configuration:" ext:cfg -git
+
+
+# Google Dork: intext:"Current Configuration:" ext:cfg -git  # By using this dork, some user names and passwords in configuration files can be found.  # Date: 7/04/2020  # Author: Alexandros Pappas 

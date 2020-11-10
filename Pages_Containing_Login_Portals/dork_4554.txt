@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4554
+Category:         Pages Containing Login Portals
+Published Date:   2017-07-20
+Author:           anonymous
+GoogleDork:       intitle:"Plesk Onyx" intext:"Interface language"
+Description:      intitle:"Plesk Onyx" intext:"Interface language"
+
+
+Dork: intitle:"Plesk Onyx" intext:"Interface language" Description: Find Plesk Onyx login pages Author: scumsec

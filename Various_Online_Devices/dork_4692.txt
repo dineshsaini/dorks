@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4692
+Category:         Various Online Devices
+Published Date:   2018-03-07
+Author:           Ziad Khalil
+GoogleDork:       inurl::5601/app/kibana
+Description:      inurl::5601/app/kibana
+
+
+Check this out multiple ELK/Kibana management portal are open with no  creds on the default port 5601   Using this dork inurl::5601/app/kibana  More results could be found on shodan as well.  BR   Ziad Khalil  @z0day   

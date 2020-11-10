@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1829
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allinurl: page_id album "photo"
+Description:      allinurl: page_id album "photo"
+
+
+Wordpress Photo album Remote SQL Injection Vulnerability - CVE: 2008-0939: https://www.exploit-db.com/exploits/5135

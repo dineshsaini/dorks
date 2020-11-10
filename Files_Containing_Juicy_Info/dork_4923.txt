@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4923
+Category:         Files Containing Juicy Info
+Published Date:   2018-08-15
+Author:           Gionathan Reale
+GoogleDork:       inurl:login.php.bak
+Description:      inurl:login.php.bak
+
+
+inurl:login.php.bak  This Google Dork discovers badly configured servers exposing useful and  sensitive information.    - Gionathan "John" Reale (https://www.exploit-db.com/author/?a=9609) 

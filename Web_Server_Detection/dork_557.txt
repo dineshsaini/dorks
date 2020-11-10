@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/557
+Category:         Web Server Detection
+Published Date:   2004-10-12
+Author:           anonymous
+GoogleDork:       intitle:"Directory Listing, Index of /*/"
+Description:      intitle:"Directory Listing, Index of /*/"
+
+
+Vendor page:"Einfache HTTP-Server-Software fÃƒÆ’Ã‚Â¼r privates Homepage-Hosting oder groÃƒÆ’Ã…Â¸e Uploads."small HTTP server software for private hompage hosting or big uploads.

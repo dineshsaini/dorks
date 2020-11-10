@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6163
+Category:         Pages Containing Login Portals
+Published Date:   2020-06-02
+Author:           Suhanaz Kazi
+GoogleDork:       inurl:admlogin.php
+Description:      inurl:admlogin.php
+
+
+# Google Dork: inurl:admlogin.php  # Description:- This page contains various php admin login pages for a web server.  # Author: Suhanaz Kazi # Date: 29-May-2020 --  Regards, Suhanaz 

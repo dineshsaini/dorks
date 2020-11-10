@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2833
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"kgb19"
+Description:      inurl:"kgb19"
+
+
+KGB 1.9 (sesskglogadmin.php) Local File Include - CVE: 2007-0337: https://www.exploit-db.com/exploits/3134

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/31
+Category:         Files Containing Juicy Info
+Published Date:   2003-06-27
+Author:           anonymous
+GoogleDork:       robots.txt
+Description:      robots.txt
+
+
+The robots.txt file contains "rules" about where web spiders are allowed (and NOT allowed) to look in a website's directory structure. Without over-complicating things, this means that the robots.txt file gives a mini-roadmap of what's somewhat public and what's considered more private on a web site. Have a look at the robots.txt file itself, it contains interesting stuff.However, don't forget to check out the other files in these directories since they are usually at the top directory level of the web server!

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2922
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:com_ybggal
+Description:      inurl:com_ybggal
+
+
+Joomla Component com_ybggal 1.0 (catid) SQL Injection Vulnerability: https://www.exploit-db.com/exploits/13979

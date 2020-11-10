@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6120
+Category:         Pages Containing Login Portals
+Published Date:   2020-05-25
+Author:           Nitesh kumar pandey
+GoogleDork:       "You need to be logged in to see your course progress."
+Description:      "You need to be logged in to see your course progress."
+
+
+I want to share a google dork which helps to reveal all the website using wp-courseware plugin. and it reveals website having course hosted on there website.  Google Dork: "You need to be logged in to see your course progress."  Date: [23/05/2020]  Author: Nitesh kumar pandey Vendor Homepage: https://flyplugins.com/wp-courseware/ 

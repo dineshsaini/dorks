@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/628
+Category:         Vulnerable Files
+Published Date:   2004-10-27
+Author:           anonymous
+GoogleDork:       "File Upload Manager v1.3" "rename to"
+Description:      "File Upload Manager v1.3" "rename to"
+
+
+thepeak file upload manager let you manage your webtree with up and downloading files.

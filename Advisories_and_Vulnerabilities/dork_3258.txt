@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3258
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intitle:"ppc engine admin login form"
+Description:      intitle:"ppc engine admin login form"
+
+
+PPC Search Engine 1.61 (INC) Multiple Remote File Include Vulnerabilities - CVE: 2007-0167: https://www.exploit-db.com/exploits/3104

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4368
+Category:         Various Online Devices
+Published Date:   2016-12-05
+Author:           anonymous
+GoogleDork:       inurl:/mjpg/video.mjpg
+Description:      inurl:/mjpg/video.mjpg
+
+
+axis cameras. By Barak Tawily.

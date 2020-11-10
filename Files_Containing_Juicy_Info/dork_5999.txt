@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5999
+Category:         Files Containing Juicy Info
+Published Date:   2020-05-04
+Author:           Abhi Chitkara
+GoogleDork:       intitle:"index of" "accounts.json"
+Description:      intitle:"index of" "accounts.json"
+
+
+Dork:  intitle:"index of" "accounts.json" intitle:"index of" "accounts.rar"  Description: This Google dork lists out account details stored in a file named "account.json" for a website. Author: Abhi Chitkara 

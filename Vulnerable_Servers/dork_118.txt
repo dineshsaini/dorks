@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/118
+Category:         Vulnerable Servers
+Published Date:   2004-03-04
+Author:           anonymous
+GoogleDork:       intitle:"Remote Desktop Web Connection"
+Description:      intitle:"Remote Desktop Web Connection"
+
+
+Microsoft Remote Desktop Connection Web Connection pages. These pages are not necessarily insecure, sine many layers of security can be wrapped around the actual use of this service, but simply being able to find these in Google gives hackers an informational advantage, and many of the sites are not implemented securely. In the worst case scenario these pages may allow an attacker to bypass a firewall gaining access to an otherwise inaccessible machine.

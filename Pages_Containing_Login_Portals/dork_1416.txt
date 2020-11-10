@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1416
+Category:         Pages Containing Login Portals
+Published Date:   2006-10-02
+Author:           anonymous
+GoogleDork:       intitle:"AdventNet ManageEngine ServiceDesk Plus" intext:"Remember Me"
+Description:      intitle:"AdventNet ManageEngine ServiceDesk Plus" intext:"Remember Me"
+
+
+serviceDesk Plus is a 100 % web-based Help Desk and Asset Management software.vendor: h**p://manageengine.adventnet.com/products/service-desk/index.htmlmanual: h**p://manageengine.adventnet.com/products/service-desk/help/adminguide/index.html

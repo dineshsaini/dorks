@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/256
+Category:         Files Containing Passwords
+Published Date:   2004-05-26
+Author:           anonymous
+GoogleDork:       filetype:ini ws_ftp pwd
+Description:      filetype:ini ws_ftp pwd
+
+
+The encryption method used in WS_FTP is _extremely_ weak. These files can be found with the "index of" keyword or by searching directly for the PWD= value inside the configuration file.

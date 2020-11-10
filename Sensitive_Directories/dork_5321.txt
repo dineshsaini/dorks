@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5321
+Category:         Sensitive Directories
+Published Date:   2019-08-02
+Author:           Adrian Roy Lorica
+GoogleDork:       "Index of" inurl:htdocs inurl:xampp
+Description:      "Index of" inurl:htdocs inurl:xampp
+
+
+Google Dork: "Index of" inurl:htdocs inurl:xampp Date: 08/02/2019 Author: Adrian Roy Lorica 

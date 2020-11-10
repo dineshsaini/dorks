@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3536
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intext:"2000-2001 The phpHeaven Team"
+Description:      intext:"2000-2001 The phpHeaven Team"
+
+
+phpMyChat 0.14.5 (SYS enter) Remote Code Execution: https://www.exploit-db.com/exploits/1646

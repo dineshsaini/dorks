@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4139
+Category:         Various Online Devices
+Published Date:   2015-11-26
+Author:           anonymous
+GoogleDork:       inurl:trafficcams -intext:trafficcams ext:asp OR ext:htm
+Description:      inurl:trafficcams -intext:trafficcams ext:asp OR ext:htm
+
+
+Dork who show cams of traffic of a lot of cities. Dork By Rootkit Pentester.

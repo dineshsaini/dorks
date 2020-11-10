@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3710
+Category:         Files Containing Passwords
+Published Date:   2011-04-18
+Author:           anonymous
+GoogleDork:       filetype:ini "SavedPasswords" (pass|passwd|password|pwd)
+Description:      filetype:ini "SavedPasswords" (pass|passwd|password|pwd)
+
+
+Unreal Tournament config, plain text passwords Author: Bastich

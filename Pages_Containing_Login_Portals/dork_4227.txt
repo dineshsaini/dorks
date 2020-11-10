@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4227
+Category:         Pages Containing Login Portals
+Published Date:   2016-03-14
+Author:           anonymous
+GoogleDork:       intitle:"Logon - SAP Web Application Server"
+Description:      intitle:"Logon - SAP Web Application Server"
+
+
+Description: SAP Web Application Server login page Google search: intitle:"Logon - SAP Web Application Server" Author: nebo_oben

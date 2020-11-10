@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/442
+Category:         Pages Containing Login Portals
+Published Date:   2004-08-20
+Author:           anonymous
+GoogleDork:       Login ("Powered by Jetbox One CMS ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢" | "Powered by Jetstream Ãƒâ€šÃ‚Â© *")
+Description:      Login ("Powered by Jetbox One CMS ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢" | "Powered by Jetstream Ãƒâ€šÃ‚Â© *")
+
+
+Jetbox is a content management systems (CMS) that uses MySQL or equivalent databases. There is a vulnerability report at SF wich I think is overrated, but I will mention here:http://www.securityfocus.com/bid/10858/discussion/The file holding the password is called: "http://.../includes/general_settings.inc.php"It does come with default passwords and that is allways a security risk. The administration is available via /admin/Username: admin, Password: admin1 .

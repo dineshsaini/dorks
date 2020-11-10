@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5905
+Category:         Sensitive Directories
+Published Date:   2020-04-16
+Author:           berat isler
+GoogleDork:       intitle:"index of" "owncloud/config/*"
+Description:      intitle:"index of" "owncloud/config/*"
+
+
+This dork found owncloud config file. You can specify the search under the "owncloud" path.  Google Dork : intitle:"index of" "owncloud/config/*"  Author : Berat ISLER(root1x) 

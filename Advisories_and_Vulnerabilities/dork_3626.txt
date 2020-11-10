@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3626
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-12-05
+Author:           anonymous
+GoogleDork:       php Kolay Forum (php KF) © 2007 - 2010 phpKF Ekibi
+Description:      php Kolay Forum (php KF) © 2007 - 2010 phpKF Ekibi
+
+
+Submitter: FreWaL CSRF Vulnerability: https://www.exploit-db.com/exploits/15685

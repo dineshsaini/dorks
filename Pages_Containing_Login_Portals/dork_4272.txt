@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4272
+Category:         Pages Containing Login Portals
+Published Date:   2016-04-29
+Author:           anonymous
+GoogleDork:       filetype:pwd intitle:index
+Description:      filetype:pwd intitle:index
+
+
+Google dork: filetype:pwd intitle:index D0bby

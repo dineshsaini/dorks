@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3963
+Category:         Sensitive Online Shopping Info
+Published Date:   2014-10-02
+Author:           anonymous
+GoogleDork:       dcid= bn= pin code=
+Description:      dcid= bn= pin code=
+
+
+Information disclosure of reservation information,which can leak to many other leaks. All related to t Booking.com client who decided to save theirs trip data online,sometime near personal information like passport By popshark1 

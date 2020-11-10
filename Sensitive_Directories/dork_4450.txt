@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4450
+Category:         Sensitive Directories
+Published Date:   2017-05-01
+Author:           anonymous
+GoogleDork:       powered by h5ai
+Description:      powered by h5ai
+
+
+Google Dork: powered by h5ai *You can browse through files* NEAM :- Helmi

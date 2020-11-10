@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/468
+Category:         Advisories and Vulnerabilities
+Published Date:   2004-09-10
+Author:           anonymous
+GoogleDork:       E-market remote code execution
+Description:      E-market remote code execution
+
+
+E-market is commercial software made by a korean company(http://www.bbs2000.co.kr). A vulnerability in this software was reported to Bugtraq. The exploit is possible with the index.php script:http://[TARGET]/becommunity/community/index.php?pageurl=[injection URL]http://[TARGET]/becommunity/community/index.php?from_market=Y&amp;pageurl=[injection URL] For more information read this:http://echo.or.id/adv/adv06-y3dips-2004.txt Author: y3dipsDate: Sept, 7th 2004Location: Indonesian, Jakarta

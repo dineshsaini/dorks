@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6574
+Category:         Pages Containing Login Portals
+Published Date:   2020-09-25
+Author:           Sanu Jose M
+GoogleDork:       inurl:/ Kms login
+Description:      inurl:/ Kms login
+
+
+#Exploit Title : Dork shows knowledge management system portals and login # pages of various sites.  #Google Dork :inurl:/ Kms login  #Date : 24/09/2020  #Exploit Author : Sanu Jose M  Thanks &amp; Regards,  Sanu Jose M 

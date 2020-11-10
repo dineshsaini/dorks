@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3763
+Category:         Files Containing Juicy Info
+Published Date:   2011-12-16
+Author:           anonymous
+GoogleDork:       Google Dork inurl:Curriculum Vitale filetype:doc ( Vital Informaticon , Addres, Telephone Numer, SSN , Full Name, Work , etc ) In Spanish.
+Description:      Google Dork inurl:Curriculum Vitale filetype:doc ( Vital Informaticon , Addres, Telephone Numer, SSN , Full Name, Work , etc ) In Spanish.
+
+
+This dork locates Curriculum Vitale files. Author: Luciano UNLP

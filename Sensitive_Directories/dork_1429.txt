@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1429
+Category:         Sensitive Directories
+Published Date:   2010-11-10
+Author:           anonymous
+GoogleDork:       intitle:index.of cisco asa -site:cisco.com
+Description:      intitle:index.of cisco asa -site:cisco.com
+
+
+Google search for Pix/Asa images Author: fdisk

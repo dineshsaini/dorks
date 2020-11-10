@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6413
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-07-16
+Author:           Sachin Kattimani
+GoogleDork:       inurl:wp-content/plugins/wd-google-maps
+Description:      inurl:wp-content/plugins/wd-google-maps
+
+
+DORK: inurl:wp-content/plugins/wd-google-maps  https://wpvulndb.com/vulnerabilities/10099  This google dork gives us the advisories and vulnerabilities on wordpress plugins  Thanks, Sachin 

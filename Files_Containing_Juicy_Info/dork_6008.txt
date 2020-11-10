@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6008
+Category:         Files Containing Juicy Info
+Published Date:   2020-05-04
+Author:           Tushar Kurunkar
+GoogleDork:       intitle:"index of" "/config.bak"
+Description:      intitle:"index of" "/config.bak"
+
+
+#Description: intitle:"index of" "/config.bak" This Google dork shows juicy information about the configuration files of the website and some sensitive directories. An attacker can further misuse this to conduct attacks.  #Author : Tushar Kurunkar #Date : 3 May2020 

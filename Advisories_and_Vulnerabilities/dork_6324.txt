@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6324
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-06-23
+Author:           Abhi Chitkara
+GoogleDork:       inurl:wp-content/plugins/wp-pro-quiz
+Description:      inurl:wp-content/plugins/wp-pro-quiz
+
+
+Dork: inurl:wp-content/plugins/wp-pro-quiz Description: This google dork lists out Advisories and Vulnerabilities regarding the wp-pro quiz wordpress plugin. Ref: https://wpvulndb.com/vulnerabilities/10278 Author: Abhi Chitkara 

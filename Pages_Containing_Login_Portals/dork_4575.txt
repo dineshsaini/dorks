@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4575
+Category:         Pages Containing Login Portals
+Published Date:   2017-08-14
+Author:           anonymous
+GoogleDork:       intitle:"Welcome to QNAP Turbo NAS"
+Description:      intitle:"Welcome to QNAP Turbo NAS"
+
+
+Login form and options for QNAP products Ing. Daniel Maldonado http://www.caceriadespammers.com.ar/ 

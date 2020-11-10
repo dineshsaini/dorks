@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1623
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl: "com_alphacontent"
+Description:      inurl: "com_alphacontent"
+
+
+Joomla Component alphacontent 2.5.8 (id) SQL Injection Vulnerability - CVE: 2008-1559: https://www.exploit-db.com/exploits/5310

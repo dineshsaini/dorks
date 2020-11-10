@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1271
+Category:         Pages Containing Login Portals
+Published Date:   2006-03-07
+Author:           anonymous
+GoogleDork:       inurl:"/admin/configuration. php?" Mystore
+Description:      inurl:"/admin/configuration. php?" Mystore
+
+
+simply google inurl trick for Oscommerce for open administrator page.If no .htpassword is set for the admin folder of osCommerce then of course you can change any setting in the shop unless password security has been enabled on the admin console.Despite a few demo pages there are a few open admin pages for webshops.Simple patch if you are one is to place a .htpassword file in the root of the admin folder. -- J.R.Middleton

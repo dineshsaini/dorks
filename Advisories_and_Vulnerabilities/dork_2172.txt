@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2172
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:JBSPro
+Description:      inurl:JBSPro
+
+
+JiRos Banner Experience 1.0 (Create Admin Bypass) - CVE: 2006-1213: https://www.exploit-db.com/exploits/1571

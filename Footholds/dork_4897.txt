@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4897
+Category:         Footholds
+Published Date:   2018-08-02
+Author:           Ebad uddin Ahmad
+GoogleDork:       inurl:"/tiny_mce/plugins/ajaxfilemanager/inc/data.php" | inurl:"/tiny_mce/plugins/ajaxfilemanager/ajax_create_folder.php" -github
+Description:      inurl:"/tiny_mce/plugins/ajaxfilemanager/inc/data.php" | inurl:"/tiny_mce/plugins/ajaxfilemanager/ajax_create_folder.php" -github
+
+
+finds tiny_mce vulnerable targets   --  *Regards* *Ebaduddin Ahmad* 

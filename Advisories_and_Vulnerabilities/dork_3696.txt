@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3696
+Category:         Advisories and Vulnerabilities
+Published Date:   2011-03-13
+Author:           anonymous
+GoogleDork:       inurl:"sitegenius/topic.php"
+Description:      inurl:"sitegenius/topic.php"
+
+
+Submitter: dR.sqL SQL Injection: http://localhost/sitegenius/topic.php?id=[SQLi]

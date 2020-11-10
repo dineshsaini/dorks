@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/394
+Category:         Files Containing Juicy Info
+Published Date:   2004-08-01
+Author:           anonymous
+GoogleDork:       filetype:ora ora
+Description:      filetype:ora ora
+
+
+Greetings, The *.ora files are configuration files for oracle clients. An attacker can identify a oracle database this way and get more juicy information by searching for ora config files.This search can be modified to be more specific:- filetype:ora sqlnet - filetype:ora names

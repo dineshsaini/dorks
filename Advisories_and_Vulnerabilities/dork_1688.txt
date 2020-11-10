@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1688
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Copyright Â© 2007 BrowserCRM Ltd
+Description:      Copyright Â© 2007 BrowserCRM Ltd
+
+
+BrowserCRM 5.002.00 (clients.php) Remote File Inclusion Vulnerability - CVE: 2008-2689: https://www.exploit-db.com/exploits/5757

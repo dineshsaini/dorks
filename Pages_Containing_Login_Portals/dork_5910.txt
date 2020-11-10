@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5910
+Category:         Pages Containing Login Portals
+Published Date:   2020-04-16
+Author:           Juveria Banu
+GoogleDork:       site:*/user/forgotpass
+Description:      site:*/user/forgotpass
+
+
+Login Portal using  site:*/user/forgotpass 

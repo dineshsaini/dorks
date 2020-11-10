@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1815
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"com_cartweberp"
+Description:      inurl:"com_cartweberp"
+
+
+Joomla Component com_cartweberp LFI Vulnerability - CVE: 2010-0982: https://www.exploit-db.com/exploits/10942

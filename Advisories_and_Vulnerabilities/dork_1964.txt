@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1964
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"com_acstartseite"
+Description:      inurl:"com_acstartseite"
+
+
+Joomla Component com_acstartseite Sql Injection Vulnerability: https://www.exploit-db.com/exploits/11479

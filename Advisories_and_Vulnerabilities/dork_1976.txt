@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1976
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered By Steamcast "0.9.75 beta
+Description:      "Powered By Steamcast "0.9.75 beta
+
+
+Steamcast 0.9.75b Remote Denial of Service: https://www.exploit-db.com/exploits/8429

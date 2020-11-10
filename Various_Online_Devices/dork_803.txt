@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/803
+Category:         Various Online Devices
+Published Date:   2005-01-08
+Author:           anonymous
+GoogleDork:       intitle:"SpeedStream * Management Interface"
+Description:      intitle:"SpeedStream * Management Interface"
+
+
+a lot of Speed stream routers :)

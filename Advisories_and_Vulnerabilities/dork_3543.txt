@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3543
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "This web site was made with PostNuke"
+Description:      "This web site was made with PostNuke"
+
+
+PostNuke 0.763 (PNSV lang) Remote Code Execution - CVE: 2006-5733: https://www.exploit-db.com/exploits/2707

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5144
+Category:         Pages Containing Login Portals
+Published Date:   2019-03-04
+Author:           Manish Bhandarkar
+GoogleDork:       /adp/self/service/login
+Description:      /adp/self/service/login
+
+
+Category : Pages containing login portals   Description : Dork for finding to login portals of Employees and admins which using Automatic Data Processing Inc., commonly known as ADP, is an American provider of human resources management software and services. Until 2014, ADP was one of four American companies in the S&amp;P 500 to have a AAA credit rating from Standard &amp; Poor's and Moody's.   Enjoy :)    Dork : /adp/self/service/login    Date : 04/3/2019   Author : Manish Bhandarkar  Blog : https://hackingforsecurity.blogspot.com/ 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3807
+Category:         Footholds
+Published Date:   2012-11-02
+Author:           anonymous
+GoogleDork:       intitle:Priv8 SCR
+Description:      intitle:Priv8 SCR
+
+
+I am Un0wn_X Symlink User configs intitle:Priv8 SCR 

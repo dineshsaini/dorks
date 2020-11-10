@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1588
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"index2.php?option=rss" OR "powered By Limbo CMS"
+Description:      inurl:"index2.php?option=rss" OR "powered By Limbo CMS"
+
+
+Limbo CMS 1.0.4.2 (sql.php) Remote File Inclusion Vulnerability - CVE: 2006-2142: https://www.exploit-db.com/exploits/1729

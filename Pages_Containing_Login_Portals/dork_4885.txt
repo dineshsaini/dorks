@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4885
+Category:         Pages Containing Login Portals
+Published Date:   2018-07-06
+Author:           Bruno Schmid
+GoogleDork:       intitle:"manager area" password -stackoverflow.com
+Description:      intitle:"manager area" password -stackoverflow.com
+
+
+Login portals   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

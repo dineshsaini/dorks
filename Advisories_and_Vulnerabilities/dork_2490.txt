@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2490
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:index.php?option=com_nicetalk
+Description:      inurl:index.php?option=com_nicetalk
+
+
+Joomla Component Nice Talk 0.9.3 (tagid) SQL Injection Vulnerability - CVE: 2007-4503: https://www.exploit-db.com/exploits/4308

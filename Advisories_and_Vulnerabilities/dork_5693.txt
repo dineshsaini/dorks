@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5693
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-01-21
+Author:           Ahmad Al-Nounou
+GoogleDork:       intext:"Please enable JavaScript in your browser before using Citrix Receiver." AND intext:www.citrix.com
+Description:      intext:"Please enable JavaScript in your browser before using Citrix Receiver." AND intext:www.citrix.com
+
+
+Description: Search for Citrix Gateway servers that could potentially be vulnerable to CVE-2019-19781  Author: Ahmad Al-Nounou  LinkdeIn: https://www.linkedin.com/in/ahmadalnounou/ 

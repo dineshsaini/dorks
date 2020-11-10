@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6024
+Category:         Files Containing Juicy Info
+Published Date:   2020-05-05
+Author:           Abhi Chitkara
+GoogleDork:       inurl:administrator/components/com_comprofiler/plugin.class.php?mosConfig_absolute_path=
+Description:      inurl:administrator/components/com_comprofiler/plugin.class.php?mosConfig_absolute_path=
+
+
+Dork: inurl:administrator/components/com_comprofiler/plugin.class.php?mosConfig_absolute_path= Description: This Google dork lists out config details for a administrator components of a web-server. Author: Abhi Chitkara 

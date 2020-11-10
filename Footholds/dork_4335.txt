@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4335
+Category:         Footholds
+Published Date:   2016-10-03
+Author:           anonymous
+GoogleDork:       inurl:"html/js/editor/ckeditor/"
+Description:      inurl:"html/js/editor/ckeditor/"
+
+
+name =find liferay upload file Google dork Description: inurl:"html/js/editor/ckeditor/" Google search: inurl:"html/js/editor/ckeditor/" Date: 2016-09-30 Author: sultan albalawi Find file upload pages. Summary: liferay upload file.

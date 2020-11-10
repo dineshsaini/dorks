@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4622
+Category:         Error Messages
+Published Date:   2017-11-27
+Author:           Kiran S
+GoogleDork:       "Cake\Routing\Exception\" -site:github.com -site:stackoverflow.com -site:cakephp.org"
+Description:      "Cake\Routing\Exception\" -site:github.com -site:stackoverflow.com -site:cakephp.org"
+
+
+To find out websites made with CakePHP Framework   Thanks  Kiran S 

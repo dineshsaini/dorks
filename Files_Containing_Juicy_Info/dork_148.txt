@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/148
+Category:         Files Containing Juicy Info
+Published Date:   2004-04-05
+Author:           anonymous
+GoogleDork:       intitle:index.of inbox
+Description:      intitle:index.of inbox
+
+
+This search reveals potential location for mailbox files. In some cases, the data in this directory or file may be of a very personal nature and may include sent and received emails and archives of email data.

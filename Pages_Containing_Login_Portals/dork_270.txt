@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/270
+Category:         Pages Containing Login Portals
+Published Date:   2004-06-04
+Author:           anonymous
+GoogleDork:       intitle:"ZyXEL Prestige Router" "Enter password"
+Description:      intitle:"ZyXEL Prestige Router" "Enter password"
+
+
+This is the main authentication screen for the ZyXEL Prestige Router.

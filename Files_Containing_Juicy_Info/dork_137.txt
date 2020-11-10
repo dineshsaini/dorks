@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/137
+Category:         Files Containing Juicy Info
+Published Date:   2004-03-24
+Author:           anonymous
+GoogleDork:       inurl:changepassword.asp
+Description:      inurl:changepassword.asp
+
+
+This is a common script for changing passwords. Now, this doesn't actually reveal the password, but it provides great information about the security layout of a server. These links can be used to troll around a website.

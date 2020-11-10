@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/802
+Category:         Sensitive Directories
+Published Date:   2005-01-01
+Author:           anonymous
+GoogleDork:       intitle:upload inurl:upload intext:upload -forum -shop -support -w3c
+Description:      intitle:upload inurl:upload intext:upload -forum -shop -support -w3c
+
+
+The search reveals server upload portals.An attacker can use server space for his own benefit.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3581
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "This site is powered by e107"
+Description:      "This site is powered by e107"
+
+
+TikiWiki 1.9 Sirius (jhot.php) Remote Command Execution - CVE: 2006-4602: https://www.exploit-db.com/exploits/2711

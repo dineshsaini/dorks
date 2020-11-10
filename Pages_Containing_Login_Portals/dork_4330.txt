@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4330
+Category:         Pages Containing Login Portals
+Published Date:   2016-09-13
+Author:           anonymous
+GoogleDork:       inurl:"/sgdadmin/" Secure Global Desktop
+Description:      inurl:"/sgdadmin/" Secure Global Desktop
+
+
+Oracle Secure Global Desktop Console and Administrator Help. "https://sgd"

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5643
+Category:         Error Messages
+Published Date:   2019-11-11
+Author:           Dhaiwat Mehta
+GoogleDork:       inurl:elmah.axd ext:axd
+Description:      inurl:elmah.axd ext:axd
+
+
+# Google Dork : inurl:elmah.axd ext:axd  # Category : Files Containing Juicy Info  # Date : 11-11-2019  # Author : Dhaiwat Mehta 

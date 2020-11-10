@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1223
+Category:         Pages Containing Login Portals
+Published Date:   2005-12-19
+Author:           anonymous
+GoogleDork:       inurl:/Merchant2/admin.mv | inurl:/Merchant2/admin.mvc | intitle:"Miva Merchant Administration Login" -inurl:cheap-malboro.net
+Description:      inurl:/Merchant2/admin.mv | inurl:/Merchant2/admin.mvc | intitle:"Miva Merchant Administration Login" -inurl:cheap-malboro.net
+
+
+Miva Merchant is a product that helps buisnesses get into e-commerce. This dork locates their admin login.

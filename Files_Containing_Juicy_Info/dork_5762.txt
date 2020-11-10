@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5762
+Category:         Files Containing Juicy Info
+Published Date:   2020-03-03
+Author:           Sagar Banwa
+GoogleDork:       intext:"index of /" "auth.json"
+Description:      intext:"index of /" "auth.json"
+
+
+intext:"index of /" "auth.json"  by  Sagar Banwa 

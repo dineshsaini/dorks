@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5223
+Category:         Files Containing Juicy Info
+Published Date:   2019-05-23
+Author:           vocuzi
+GoogleDork:       inurl:github.com intext:.ftpconfig -issues
+Description:      inurl:github.com intext:.ftpconfig -issues
+
+
+Description : Another Atom ftpconfig dork, exposing sftp/ftp creds on Github  Dork : inurl:github.com intext:.ftpconfig -issues  Author: Vipin Joshi(@vocuzi) 

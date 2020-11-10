@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/363
+Category:         Various Online Devices
+Published Date:   2004-07-22
+Author:           anonymous
+GoogleDork:       Xerox PhaserÃƒâ€šÃ‚Â® 740 Color Printer
+Description:      Xerox PhaserÃƒâ€šÃ‚Â® 740 Color Printer
+
+
+This product is supported but no longer sold by Xerox in the United States. Replacement Product: PhaserÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ 6250.Configuration pages are password protected.

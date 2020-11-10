@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4655
+Category:         Files Containing Juicy Info
+Published Date:   2018-01-11
+Author:           Cr33pB0y
+GoogleDork:       inurl:"test/php/test.html" Plesk File
+Description:      inurl:"test/php/test.html" Plesk File
+
+
+Description: This dork finds phpinfo file with Juicy Information about Plesk systems. 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1567
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "All Rights Reserved. Powered by DieselScripts.com"
+Description:      "All Rights Reserved. Powered by DieselScripts.com"
+
+
+Diesel Joke Site (picture_category.php id) SQL Injection Vulnerability - CVE: 2008-4150: https://www.exploit-db.com/exploits/6488

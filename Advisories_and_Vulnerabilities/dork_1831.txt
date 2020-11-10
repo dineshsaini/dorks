@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1831
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by 68kb"
+Description:      "Powered by 68kb"
+
+
+68kb Knowledge Base Script v1.0.0rc2 Search SQL Injection: https://www.exploit-db.com/exploits/11925

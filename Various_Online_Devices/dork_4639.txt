@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4639
+Category:         Various Online Devices
+Published Date:   2017-12-19
+Author:           Fu2x2000
+GoogleDork:       inurl:"apps/console/sepm"
+Description:      inurl:"apps/console/sepm"
+
+
+This dork will provide you all the Semantec Endpoint managers , that not being configured properly,   Regards  fu2x2000 

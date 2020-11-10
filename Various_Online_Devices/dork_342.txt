@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/342
+Category:         Various Online Devices
+Published Date:   2004-07-19
+Author:           anonymous
+GoogleDork:       intitle:"Live View / - AXIS"
+Description:      intitle:"Live View / - AXIS"
+
+
+These AXIS cams seem to run their own http server (Boa/0.94.13). The setup button can be hidden. The devices ship with a default password pair (quoting from the FAQ): "By default, the username will be ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“rootÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ and the password will be ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“passÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢. If these are not the current values, performing a factory default on the unit will reset the password to ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“passÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢."Some models found in this search:- AXIS 205 version 4.0x- AXIS 210 Network Camera version: 4.0x- AXIS 241S Video Server version: 4.0x- AXIS 241Q Video Server version 4.0x

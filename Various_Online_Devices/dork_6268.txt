@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6268
+Category:         Various Online Devices
+Published Date:   2020-06-10
+Author:           Abhinav Porwal
+GoogleDork:       inurl:index.shtml
+Description:      inurl:index.shtml
+
+
+Dork: inurl:index.shtml  Description: This google dork lists out the various camera LIVE AXIS MODEL around the world.  Author: Abhinav Porwal 

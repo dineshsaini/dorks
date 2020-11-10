@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1591
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allinurl: com_quiz"tid"
+Description:      allinurl: com_quiz"tid"
+
+
+Joomla Component Quiz 0.81 (tid) SQL Injection Vulnerability - CVE: 2008-0799: https://www.exploit-db.com/exploits/5119

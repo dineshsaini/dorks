@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2248
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allinurl : /web3news/
+Description:      allinurl : /web3news/
+
+
+Web3news 0.95 (PHPSECURITYADMIN_PATH) Remote Include Vuln - CVE: 2006-4452: https://www.exploit-db.com/exploits/2269

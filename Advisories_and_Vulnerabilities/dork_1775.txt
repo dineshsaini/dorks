@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1775
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Upload unique IP List:" AND "The Ultimate Fake Hit Generator - BOOST YOUR ALEXA RANK"
+Description:      "Upload unique IP List:" AND "The Ultimate Fake Hit Generator - BOOST YOUR ALEXA RANK"
+
+
+Fake Hit Generator 2.2 Shell Upload Vulnerability: https://www.exploit-db.com/exploits/10230

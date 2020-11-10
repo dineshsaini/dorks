@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6469
+Category:         Sensitive Directories
+Published Date:   2020-08-10
+Author:           Alexandros Pappas
+GoogleDork:       intitle:"index of" "firewall.log" | "firewall.logs"
+Description:      intitle:"index of" "firewall.log" | "firewall.logs"
+
+
+# Google Dork: intitle:"index of" "firewall.log" | "firewall.logs" # Juicy info and sensitive directories. # Date: 10/08/2020 # Exploit Author: Alexandros Pappas 

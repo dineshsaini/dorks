@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5898
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-04-16
+Author:           Alexandros Pappas
+GoogleDork:       "Powered by Lanius CMS"
+Description:      "Powered by Lanius CMS"
+
+
+# Google Dork: "Powered by Lanius CMS"  # By using this dork, sites "Powered by Lanius CMS" can be found. Lanius CMS various versions are prone to multiple SQL Injection vulnerabilities. This dork is linked to the following existing exploits: https://www.exploit-db.com/exploits/30450 https://www.exploit-db.com/exploits/30449 https://www.exploit-db.com/exploits/30448 https://www.exploit-db.com/exploits/5618 https://www.exploit-db.com/exploits/4258  # Date: 07/04/2020  # Author: Alexandros Pappas 

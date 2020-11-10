@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4862
+Category:         Various Online Devices
+Published Date:   2018-06-18
+Author:           ManhNho
+GoogleDork:       intext:"Powered by www.yawcam.com"
+Description:      intext:"Powered by www.yawcam.com"
+
+
+intext:"Powered by www.yawcam.com"  intext:"Password Please! User: Pass: Fps. Quality. Scale. Sound. "  Yawcam cameras online  ManhNho 

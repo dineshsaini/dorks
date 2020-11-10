@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4224
+Category:         Web Server Detection
+Published Date:   2016-03-11
+Author:           anonymous
+GoogleDork:       inurl:phpsysinfo/index.php?disp=dynamic
+Description:      inurl:phpsysinfo/index.php?disp=dynamic
+
+
+These Dork show a lot of info about servers behind the webpages. Enjoy healthy. Best Regard. Rootkit Pentester.

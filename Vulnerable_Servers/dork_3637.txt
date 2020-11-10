@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3637
+Category:         Vulnerable Servers
+Published Date:   2010-12-07
+Author:           anonymous
+GoogleDork:       "safe_mode: * PHP version: * cURL: * MySQL: * MSSQL: * PostgreSQL: * Oracle: *"
+Description:      "safe_mode: * PHP version: * cURL: * MySQL: * MSSQL: * PostgreSQL: * Oracle: *"
+
+
+Locates r57 web shells Author: ScOrPiOn

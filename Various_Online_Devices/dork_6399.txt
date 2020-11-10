@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6399
+Category:         Various Online Devices
+Published Date:   2020-07-14
+Author:           isa ghojaria
+GoogleDork:       inurl /view.shtml intext:"Airport"
+Description:      inurl /view.shtml intext:"Airport"
+
+
+inurl /view.shtml intext:"Airport" 

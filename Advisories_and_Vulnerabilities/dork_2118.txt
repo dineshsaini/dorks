@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2118
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       powered by apt-webservice ;apt-webshop-system v3.0
+Description:      powered by apt-webservice ;apt-webshop-system v3.0
+
+
+APT-WEBSHOP-SYSTEM modules.php SQL Injection Vulnerability: https://www.exploit-db.com/exploits/14528

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3650
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-12-15
+Author:           anonymous
+GoogleDork:       "Powered By PageAdmin CMS Free Version"
+Description:      "Powered By PageAdmin CMS Free Version"
+
+
+Author: Sun Army XSS: /include/search.aspx?keycode="&gt;xss ByTakpar&amp;type=1&amp;language=en

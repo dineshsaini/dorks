@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4571
+Category:         Files Containing Juicy Info
+Published Date:   2017-08-03
+Author:           anonymous
+GoogleDork:       "-- Account dump" ext:sql -git
+Description:      "-- Account dump" ext:sql -git
+
+
+Desc of Dork: Find juicy information on MySQL Dumps with the tag "Account". - SeekedNow

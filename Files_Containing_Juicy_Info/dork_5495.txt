@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5495
+Category:         Files Containing Juicy Info
+Published Date:   2019-09-03
+Author:           Abhishek Samaddar
+GoogleDork:       inurl: /config.txt ext:txt intext:
+Description:      inurl: /config.txt ext:txt intext:
+
+
+Google Dork: inurl: /config.txt ext:txt intext:

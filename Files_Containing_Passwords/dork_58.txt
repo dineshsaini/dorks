@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/58
+Category:         Files Containing Passwords
+Published Date:   2004-01-23
+Author:           anonymous
+GoogleDork:       passlist.txt (a better way)
+Description:      passlist.txt (a better way)
+
+
+Cleartext passwords. No decryption required!

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4129
+Category:         Pages Containing Login Portals
+Published Date:   2015-11-13
+Author:           anonymous
+GoogleDork:       inurl:.gov/wp-login.php | inurl:.edu/wp-login.php | inurl:.mil/wp-login.php | inurl:.us/wp-login.php
+Description:      inurl:.gov/wp-login.php | inurl:.edu/wp-login.php | inurl:.mil/wp-login.php | inurl:.us/wp-login.php
+
+
+inurl:.gov/wp-login.php | inurl:.edu/wp-login.php | inurl:.mil/wp-login.php | inurl:.us/wp-login.php

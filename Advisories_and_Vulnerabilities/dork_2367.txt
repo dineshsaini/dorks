@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2367
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by DesClub.com - phpLinkat"
+Description:      "Powered by DesClub.com - phpLinkat"
+
+
+phpLinkat 0.1 Insecure Cookie Handling / SQL Injection Vulnerability - CVE: 2008-3407: https://www.exploit-db.com/exploits/6140

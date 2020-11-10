@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1797
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by SoftbizScripts" inurl:"searchresult.php?sbcat_id="
+Description:      "Powered by SoftbizScripts" inurl:"searchresult.php?sbcat_id="
+
+
+Softbiz Recipes Portal Script Remote SQL Injection Vulnerability - CVE: 2007-5449: https://www.exploit-db.com/exploits/4527

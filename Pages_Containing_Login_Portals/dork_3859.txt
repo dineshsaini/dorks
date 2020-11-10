@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3859
+Category:         Pages Containing Login Portals
+Published Date:   2013-08-08
+Author:           anonymous
+GoogleDork:       intitle:"Cisco Integrated Management Controller Login"
+Description:      intitle:"Cisco Integrated Management Controller Login"
+
+
+intitle:"Cisco Integrated Management Controller Login" The Cisco Integrated Management Controller (CIMC) is the management service for the C-Series servers. CIMC is built into the motherboard. This Google dork searches for the CIMC GUI login portal for remote access. ax_

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3211
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intext:"Powered by Atomic Photo Album 1.1.0pre4"
+Description:      intext:"Powered by Atomic Photo Album 1.1.0pre4"
+
+
+Atomic Photo Album 1.1.0pre4 Blind SQL Injection - CVE: 2008-4335: https://www.exploit-db.com/exploits/6574

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/937
+Category:         Pages Containing Login Portals
+Published Date:   2005-04-09
+Author:           anonymous
+GoogleDork:       intext:&amp;quot;vbulletin&amp;quot; inurl:admincp
+Description:      intext:&amp;quot;vbulletin&amp;quot; inurl:admincp
+
+
+vBulletin Admin Control Panel

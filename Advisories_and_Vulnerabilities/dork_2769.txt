@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2769
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "index.php?option=com_seyret" / "com_seyret"
+Description:      "index.php?option=com_seyret" / "com_seyret"
+
+
+Joomla Component Seyret (com_seyret) - Local File Inclusion Vulnerability: https://www.exploit-db.com/exploits/14183

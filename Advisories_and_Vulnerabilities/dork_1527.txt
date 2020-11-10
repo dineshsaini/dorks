@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1527
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"com_jcollection "
+Description:      inurl:"com_jcollection "
+
+
+Joomla Component com_jcollection Directory Traversal - CVE: 2010-0944: https://www.exploit-db.com/exploits/11088

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6331
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-06-25
+Author:           Abhi Chitkara
+GoogleDork:       inurl:wp-content/themes/traveler
+Description:      inurl:wp-content/themes/traveler
+
+
+Dork: inurl:wp-content/themes/traveler Description: This google dork lists out Advisories and Vulnerabilities regarding the traveler wordpress theme. Ref: https://wpvulndb.com/vulnerabilities/10276 Author: Abhi Chitkara 

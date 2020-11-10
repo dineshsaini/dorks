@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4444
+Category:         Files Containing Juicy Info
+Published Date:   2017-04-19
+Author:           anonymous
+GoogleDork:       "Logfile of Trend Micro HijackThis" ext:log
+Description:      "Logfile of Trend Micro HijackThis" ext:log
+
+
+Finds AV logs from Trend Micro Dxtroyer

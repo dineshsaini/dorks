@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6587
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-10-02
+Author:           Alexandros Pappas
+GoogleDork:       intext:"Powered by Piwigo"
+Description:      intext:"Powered by Piwigo"
+
+
+# Google Dork: intext:"Powered by Piwigo"  # CVE-2020-9467. Piwigo 2.10.1 - Cross Site Scripting. https://www.exploit-db.com/exploits/48814  # Date: 2/10/2020  # Exploit Author: Alexandros Pappas 

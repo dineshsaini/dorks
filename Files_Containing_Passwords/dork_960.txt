@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/960
+Category:         Files Containing Passwords
+Published Date:   2005-05-02
+Author:           anonymous
+GoogleDork:       !Host=*.* intext:enc_UserPassword=* ext:pcf
+Description:      !Host=*.* intext:enc_UserPassword=* ext:pcf
+
+
+some people actually keep their VPN profiles on the internet...omg... Simply donwload the pcf file, import it in your Cisco VPN client and try to connect

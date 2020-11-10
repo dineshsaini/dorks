@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4472
+Category:         Various Online Devices
+Published Date:   2017-05-09
+Author:           anonymous
+GoogleDork:       inurl:"lvappl.htm"
+Description:      inurl:"lvappl.htm"
+
+
+Finds live cameras connected to servers on the internet (mostly security cams) Dxtroyer

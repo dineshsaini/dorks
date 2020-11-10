@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2903
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "This site is powered by CMS Made Simple version 1.2.2"
+Description:      "This site is powered by CMS Made Simple version 1.2.2"
+
+
+CMS Made Simple 1.2.2 (TinyMCE module) SQL Injection Vuln - CVE: 2007-6656: https://www.exploit-db.com/exploits/4810

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1338
+Category:         Pages Containing Login Portals
+Published Date:   2006-04-25
+Author:           anonymous
+GoogleDork:       Please enter a valid password! inurl:polladmin
+Description:      Please enter a valid password! inurl:polladmin
+
+
+The PHP Poll Wizard 2 ist a powerful and easy-to-use PHP-Script for creating and managing polls.more generic dork:"Powered by PHP Poll Wizard" | intitle:"php poll wizard"

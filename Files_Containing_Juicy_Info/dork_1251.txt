@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1251
+Category:         Files Containing Juicy Info
+Published Date:   2006-01-16
+Author:           anonymous
+GoogleDork:       inurl:build.err
+Description:      inurl:build.err
+
+
+General build error file. Can tell what modules are installed, the OS the compiler the language, in theory usernames and passwords could probably be found too.

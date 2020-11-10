@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5488
+Category:         Pages Containing Login Portals
+Published Date:   2019-09-02
+Author:           Abhishek Samaddar
+GoogleDork:       inurl:admin/changepassword*
+Description:      inurl:admin/changepassword*
+
+
+Google Dork:  inurl:admin/changepassword* inurl:admin/resetpassword*  Category: Pages Containing Login Portals Description: This Dork will find 'change-password' pages.  (Note: Platform Not Matters &amp;&amp; i.e .php, .aspx, .net etc..)   Author:Abhishek Samaddar

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4345
+Category:         Files Containing Juicy Info
+Published Date:   2016-10-24
+Author:           anonymous
+GoogleDork:       inurl:calendar.google.com/calendar/embed?src=
+Description:      inurl:calendar.google.com/calendar/embed?src=
+
+
+This will bring up publicly available Google Calendars. For example, using this dork you can find: - https://calendar.google.com/calendar/embed?src=safekprocess@gmail.com - https://calendar.google.com/calendar/embed?src=chris.hm.chan@gmail.com - https://calendar.google.com/calendar/embed?src=kchan9@gmail.com

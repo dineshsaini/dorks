@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/78
+Category:         Error Messages
+Published Date:   2004-03-04
+Author:           anonymous
+GoogleDork:       mysql error with query
+Description:      mysql error with query
+
+
+Another error message, this appears when an SQL query bails. This is a generic mySQL message, so there's all sort of information hackers can use, depending on the actual error message...

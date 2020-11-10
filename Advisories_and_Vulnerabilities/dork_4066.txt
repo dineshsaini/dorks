@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4066
+Category:         Advisories and Vulnerabilities
+Published Date:   2015-09-01
+Author:           anonymous
+GoogleDork:       "ganglia mobile.php"
+Description:      "ganglia mobile.php"
+
+
+EDB: https://www.exploit-db.com/exploits/38030/ CVE: CVE-2012-3448 Also: intitle:"Ganglia Mobile" intitle:"Ganglia" inurl:"mobile.php" intitle:"Grid Report" OR intitle:"Cluster Report" OR intitle:"Node View" OR intitle:"Host Report" OR intitle:"Ganglia:: " intitle:"Powered by Job Monarch" intext:"Job Monarch version " intext:"Jobarchive" intext:"runningtime" inurl:"/addons/job_monarch" -oss.trac.surfsara.nl "Ganglia Web Frontend version 3.5.0" - Comment: just tweak the version 3.5.0 to any valid Ganglia Web Frontend version to get results targeted to a specific version.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5354
+Category:         Pages Containing Login Portals
+Published Date:   2019-08-15
+Author:           M. Cory Billington
+GoogleDork:       intitle:"Web Management Login"
+Description:      intitle:"Web Management Login"
+
+
+Dork: intitle:"Web Management Login"  Author: M. Cory Billington Info: Contains login portals for Brocade switches 

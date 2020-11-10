@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/756
+Category:         Various Online Devices
+Published Date:   2004-12-06
+Author:           anonymous
+GoogleDork:       intitle:"V-Gear BEE"
+Description:      intitle:"V-Gear BEE"
+
+
+V-Gear Bee Web Cameras

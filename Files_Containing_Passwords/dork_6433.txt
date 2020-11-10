@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6433
+Category:         Files Containing Passwords
+Published Date:   2020-07-23
+Author:           Alexandros Pappas
+GoogleDork:       intext:"db_database" ext:env intext:"db_password"
+Description:      intext:"db_database" ext:env intext:"db_password"
+
+
+# Google Dork: intext:"db_database" ext:env intext:"db_password" # Exposed database credentials (username and password). # Date: 23/07/2020 # Exploit Author: Alexandros Pappas 

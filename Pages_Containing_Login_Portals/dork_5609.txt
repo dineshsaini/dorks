@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5609
+Category:         Pages Containing Login Portals
+Published Date:   2019-10-30
+Author:           Debashis Pal
+GoogleDork:       intitle:"Pandora FMS mobile"
+Description:      intitle:"Pandora FMS mobile"
+
+
+# Dork #  intitle:"Pandora FMS mobile"  Login Portals. 

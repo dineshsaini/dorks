@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/65
+Category:         Advisories and Vulnerabilities
+Published Date:   2004-03-04
+Author:           anonymous
+GoogleDork:       mnGoSearch vulnerability
+Description:      mnGoSearch vulnerability
+
+
+According to http://www.securityfocus.com/bid/9667, certain versions of mnGoSearch contain a buffer overflow vulnerability which allow an attacker to execute commands on the server.

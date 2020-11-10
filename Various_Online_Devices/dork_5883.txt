@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5883
+Category:         Various Online Devices
+Published Date:   2020-04-16
+Author:           idealphase
+GoogleDork:       inurl:/dana-cached/sc/
+Description:      inurl:/dana-cached/sc/
+
+
+# Exploit Title: Pulse Secure SSL VPN  # Google Dork: inurl:/dana-cached/sc  # Author: Kitchaphan Singchai (idealphase) 

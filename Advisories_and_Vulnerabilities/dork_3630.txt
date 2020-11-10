@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3630
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-12-06
+Author:           anonymous
+GoogleDork:       inurl:page.php?intPageID=
+Description:      inurl:page.php?intPageID=
+
+
+Submitter: Srblche SQL Injection: http://server/page.php?intPageID=[SQL]

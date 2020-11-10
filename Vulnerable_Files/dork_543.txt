@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/543
+Category:         Vulnerable Files
+Published Date:   2004-10-09
+Author:           anonymous
+GoogleDork:       inurl:changepassword.cgi -cvs
+Description:      inurl:changepassword.cgi -cvs
+
+
+Allows a user to change his/her password for authentication to the system. Script allows for repeated failed attempts making this script vulnerable to brute force.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2359
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intitle:"Rx08.ii36B.Rv"
+Description:      intitle:"Rx08.ii36B.Rv"
+
+
+RapidLeech Scripts Remote File Upload Vulnerability: https://www.exploit-db.com/exploits/14430

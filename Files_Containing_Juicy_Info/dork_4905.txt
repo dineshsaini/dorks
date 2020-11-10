@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4905
+Category:         Files Containing Juicy Info
+Published Date:   2018-08-07
+Author:           Bruno Schmid
+GoogleDork:       intext:"successfully" intitle:"index of" config | log | logged -stackoverflow
+Description:      intext:"successfully" intitle:"index of" config | log | logged -stackoverflow
+
+
+Some juicy information. This can contain successful events of the system like: DB changes, users actions, file &amp; folder creation, account loggins, etc...  Also very usefull to see what kind of application the system is running.  Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

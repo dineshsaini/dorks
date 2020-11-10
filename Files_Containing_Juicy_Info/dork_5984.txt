@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5984
+Category:         Files Containing Juicy Info
+Published Date:   2020-05-01
+Author:           Abhi Chitkara
+GoogleDork:       intitle:"index of" apis.json
+Description:      intitle:"index of" apis.json
+
+
+Dork: intitle:"index of" apis.json Description: This Google dork lists out sensitive api credentials and parameters for apis running on a website. Author: Abhi Chitkara 

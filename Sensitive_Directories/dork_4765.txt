@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4765
+Category:         Sensitive Directories
+Published Date:   2018-04-12
+Author:           Bruno Schmid
+GoogleDork:       intitle:"Index Of" intext:".Trash"
+Description:      intitle:"Index Of" intext:".Trash"
+
+
+Dorks containing trash folders on Linux/Unix machines.    Bruno Schmid  

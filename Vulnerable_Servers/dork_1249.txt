@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1249
+Category:         Vulnerable Servers
+Published Date:   2006-01-16
+Author:           anonymous
+GoogleDork:       filetype:pl intitle:"Ultraboard Setup"
+Description:      filetype:pl intitle:"Ultraboard Setup"
+
+
+setup pages to the ultraboard system.

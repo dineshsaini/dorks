@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6376
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-07-06
+Author:           Tanmay Bhattacharjee
+GoogleDork:       inurl:wp-content/plugins/wpforms-lite
+Description:      inurl:wp-content/plugins/wpforms-lite
+
+
+Description: inurl:wp-content/plugins/wpforms-lite  This google dorks give us the advisories and vulnerabilities on wordpress plugins.  Ref: https://wpvulndb.com/vulnerabilities/10286 

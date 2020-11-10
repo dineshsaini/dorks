@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5793
+Category:         Footholds
+Published Date:   2020-03-16
+Author:           Debashis Pal
+GoogleDork:       intitle:"(SSI Web Shell)" AND intext:"(ls -al)"
+Description:      intitle:"(SSI Web Shell)" AND intext:"(ls -al)"
+
+
+# Dork #  intitle:"(SSI Web Shell)" AND intext:"(ls -al)"  Footholds for SSI Web Shell. 

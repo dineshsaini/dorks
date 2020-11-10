@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2696
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by Rock Band CMS 0.10"		
+Description:      "Powered by Rock Band CMS 0.10"		
+
+
+BandCMS 0.10 news.php Multiple SQL Injection Vulnerabilities - CVE: 2009-3252: https://www.exploit-db.com/exploits/9553

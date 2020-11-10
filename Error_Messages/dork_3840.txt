@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3840
+Category:         Error Messages
+Published Date:   2013-04-09
+Author:           anonymous
+GoogleDork:       inurl:advsearch.php?module= &amp; intext:sql syntax
+Description:      inurl:advsearch.php?module= &amp; intext:sql syntax
+
+
+Exploit Title : SQLI Exploit Google Dork : inurl:advsearch.php?module= &amp; intext:sql syntax Date : 19/3/2013 Exploit Author : Scott Sturrock Email : f00bar'at'linuxmail'dot'org

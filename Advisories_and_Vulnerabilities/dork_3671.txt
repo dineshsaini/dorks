@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3671
+Category:         Advisories and Vulnerabilities
+Published Date:   2011-01-10
+Author:           anonymous
+GoogleDork:       "TinyBB 2011 all rights reserved"
+Description:      "TinyBB 2011 all rights reserved"
+
+
+Submitter: Aodrulez SQL Injection: https://www.exploit-db.com/exploits/15961/

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4654
+Category:         Various Online Devices
+Published Date:   2018-01-09
+Author:           Rootkit_Pentester
+GoogleDork:       inurl:embed.html inurl:dvr
+Description:      inurl:embed.html inurl:dvr
+
+
+Dork who show live cams and tv. Dork by Rootkit Pentester. 

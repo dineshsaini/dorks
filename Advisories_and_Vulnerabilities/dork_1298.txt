@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1298
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-02-08
+Author:           anonymous
+GoogleDork:       "This website engine code is copyright" "2005 by Clever Copy" -inurl:demo
+Description:      "This website engine code is copyright" "2005 by Clever Copy" -inurl:demo
+
+
+Clever Copy

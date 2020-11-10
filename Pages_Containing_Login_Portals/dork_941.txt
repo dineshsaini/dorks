@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/941
+Category:         Pages Containing Login Portals
+Published Date:   2005-04-17
+Author:           anonymous
+GoogleDork:       intitle:ilohamail "Powered by IlohaMail"
+Description:      intitle:ilohamail "Powered by IlohaMail"
+
+
+IlohaMail is a light-weight yet feature rich multilingual webmail system designed for ease of use, written in pure PHP. It supports web-access to IMAP and POP3 accounts, and includes a complete contacts feature and other PIM features.

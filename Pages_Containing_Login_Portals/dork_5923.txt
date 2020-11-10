@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5923
+Category:         Pages Containing Login Portals
+Published Date:   2020-04-20
+Author:           Nicholas Doropoulos
+GoogleDork:       inurl:/DeclaranetPlusWebapp/ intext:Entrar
+Description:      inurl:/DeclaranetPlusWebapp/ intext:Entrar
+
+
+Category: Pages Containing Login Portals Nicholas Doropoulos 

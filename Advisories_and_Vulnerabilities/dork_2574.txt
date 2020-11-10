@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2574
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       developed by ARWScripts.com
+Description:      developed by ARWScripts.com
+
+
+Free Photo Gallery Site Script (path) File Disclosure Vulnerability - CVE: 2008-1730: https://www.exploit-db.com/exploits/5419

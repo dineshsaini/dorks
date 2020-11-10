@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5329
+Category:         Sensitive Directories
+Published Date:   2019-08-07
+Author:           Coudry hugo
+GoogleDork:       intitle:"index of" drupal
+Description:      intitle:"index of" drupal
+
+
+Dork: intitle:"index of " Drupal Author: Coudry hugo Info : contains Drupal Sensitive files and information 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4341
+Category:         Pages Containing Login Portals
+Published Date:   2016-10-13
+Author:           anonymous
+GoogleDork:       inurl:/web/device/login?lang=1
+Description:      inurl:/web/device/login?lang=1
+
+
+name =find h3c web manage login pages Google dork Description: inurl:/web/device/login?lang=1 Google search: inurl:/web/device/login?lang=1 Author: id_No2015429 Find h3c web manage login pages. Summary: h3c web manage login pages.

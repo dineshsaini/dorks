@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2517
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"userjournals.php?blog."
+Description:      inurl:"userjournals.php?blog."
+
+
+e107 Plugin userjournals_menu (blog.id) SQL Injection Vulnerability: https://www.exploit-db.com/exploits/8417

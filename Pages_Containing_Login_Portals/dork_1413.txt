@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1413
+Category:         Pages Containing Login Portals
+Published Date:   2006-09-20
+Author:           anonymous
+GoogleDork:       inurl:"/?pagename=AdministratorLogin"
+Description:      inurl:"/?pagename=AdministratorLogin"
+
+
+Powered by Bariatric AdvantageAdmin Login:Admin login pages for what looks like an inhouse eshop. No obvious public exploits but I'm sure there is a way WinkMore info found here:h**p://catalinalifesciences.com/ Credit to cp for the clean up

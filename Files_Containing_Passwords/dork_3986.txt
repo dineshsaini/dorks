@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3986
+Category:         Files Containing Passwords
+Published Date:   2015-02-09
+Author:           anonymous
+GoogleDork:       inurl:"security/xamppdirpasswd.txt"
+Description:      inurl:"security/xamppdirpasswd.txt"
+
+
+This dork shows the plain text password saved in a XAMPP installation when the administrator configures "Security Console MySQL &amp; XAMPP directory protection": inurl:"security/xamppdirpasswd.txt" Author: @felmoltor -- Felipe Molina de la Torre

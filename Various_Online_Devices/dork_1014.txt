@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1014
+Category:         Various Online Devices
+Published Date:   2005-06-07
+Author:           anonymous
+GoogleDork:       intitle:"Dell Laser Printer M5200" port_0
+Description:      intitle:"Dell Laser Printer M5200" port_0
+
+
+Dell Laser Printer M5200

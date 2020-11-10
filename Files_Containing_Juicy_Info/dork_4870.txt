@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4870
+Category:         Files Containing Juicy Info
+Published Date:   2018-06-25
+Author:           ManhNho
+GoogleDork:       intitle:"This is pdfTeX, Version"
+Description:      intitle:"This is pdfTeX, Version"
+
+
+intitle:"This is pdfTeX, Version"  pdfTeX logs information  ManhNho 

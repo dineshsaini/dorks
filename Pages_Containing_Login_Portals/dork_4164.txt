@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4164
+Category:         Pages Containing Login Portals
+Published Date:   2015-12-29
+Author:           anonymous
+GoogleDork:       intitle:"Lost Password Reset" | inurl:/secure/pwreset.php | inurl:/portal/index.php
+Description:      intitle:"Lost Password Reset" | inurl:/secure/pwreset.php | inurl:/portal/index.php
+
+
+Lost Password Reset for Websites. -Xploit 

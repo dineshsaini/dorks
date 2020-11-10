@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4357
+Category:         Footholds
+Published Date:   2016-11-28
+Author:           anonymous
+GoogleDork:       "PHP eMailer is created by" ext:php
+Description:      "PHP eMailer is created by" ext:php
+
+
+Dork: "PHP eMailer is created by" ext:php PHP SMTP MAILER No comment, don't waste your time for negative thinking. NO SPAM PLEASE .. Dork by INILERM

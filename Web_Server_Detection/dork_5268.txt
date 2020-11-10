@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5268
+Category:         Web Server Detection
+Published Date:   2019-06-24
+Author:           dorian
+GoogleDork:       inurl:phpinfo.php intext:build 2600
+Description:      inurl:phpinfo.php intext:build 2600
+
+
+finds web servers that have been unmaintained for literal decades.  inurl:phpinfo.php finds web servers running php and giving system info,  intext:build 2600 finds XP machines, meaning that you usually get very outdated PHP and Apache versions. 

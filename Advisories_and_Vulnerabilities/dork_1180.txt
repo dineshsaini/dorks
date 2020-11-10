@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1180
+Category:         Advisories and Vulnerabilities
+Published Date:   2005-11-12
+Author:           anonymous
+GoogleDork:       inurl:"wfdownloads/viewcat.php?list="
+Description:      inurl:"wfdownloads/viewcat.php?list="
+
+
+XOOPS WF_Downloads (2.05) module SQL injectionThis a specific dork, that searches XOOPS sites with WF_Downloads module installed, advisory &amp; poc exploit:http://rgod.altervista.org/xoops_xpl.html

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4597
+Category:         Web Server Detection
+Published Date:   2017-10-20
+Author:           anonymous
+GoogleDork:       intext:"Welcome to CodeIgniter!"
+Description:      intext:"Welcome to CodeIgniter!"
+
+
+Google dork which helps to identify CodeIgniter applications - Anand

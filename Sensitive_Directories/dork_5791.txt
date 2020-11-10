@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5791
+Category:         Sensitive Directories
+Published Date:   2020-03-16
+Author:           Rohit Gautam
+GoogleDork:       intitle:"index of" "apache-log-parser" "Port 80"
+Description:      intitle:"index of" "apache-log-parser" "Port 80"
+
+
+Google Dork Query to find out insecure Apache Log Parsers giving access to Servers Logs running on Port 80.  Google Dork Query: *intitle:"index of" "apache-log-parser" "Port 80"* 

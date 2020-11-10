@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3752
+Category:         Vulnerable Servers
+Published Date:   2011-11-19
+Author:           anonymous
+GoogleDork:       inurl:php intitle:"Cpanel , FTP CraCkeR"
+Description:      inurl:php intitle:"Cpanel , FTP CraCkeR"
+
+
+locates cpanel and ftp cracker. Author: alsa7r

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1048
+Category:         Files Containing Passwords
+Published Date:   2005-07-27
+Author:           anonymous
+GoogleDork:       [WFClient] Password= filetype:ica
+Description:      [WFClient] Password= filetype:ica
+
+
+The WinFrame-Client infos needed by users to connect toCitrix Application Servers (e.g. Metaframe).Often linked/stored on Webservers and sometimes reachable from Internet.Password is 16-byte-Hash of unknown encryption (MSCHAPv2 ?).File Extension is "ica" the so called CitrixÃƒâ€šÃ‚Â® Independent Computing Architecture.These files may contain login information (Username, Password, Domain).

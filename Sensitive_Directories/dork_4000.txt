@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4000
+Category:         Sensitive Directories
+Published Date:   2015-04-03
+Author:           anonymous
+GoogleDork:       intitle:index.of.accounts
+Description:      intitle:index.of.accounts
+
+
+Dork for directory with accounts. By Rootkit.

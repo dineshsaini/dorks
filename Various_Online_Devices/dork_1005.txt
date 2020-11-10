@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1005
+Category:         Various Online Devices
+Published Date:   2005-06-07
+Author:           anonymous
+GoogleDork:       inurl:"S=320x240" | inurl:"S=160x120" inurl:"Q=Mobile"
+Description:      inurl:"S=320x240" | inurl:"S=160x120" inurl:"Q=Mobile"
+
+
+Mobile cameras? Not sure what camera type this is for but they are all from Asia and no password is required to view them.. multiple cams and camera views. The &amp;N=* at the end of the URL changes the language of the camera control links, &amp;N=0 is english.This is a slightly modified version of WarChylde's query, which gives more results.

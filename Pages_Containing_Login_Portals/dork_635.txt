@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/635
+Category:         Pages Containing Login Portals
+Published Date:   2004-10-31
+Author:           anonymous
+GoogleDork:       intitle:"php icalendar administration" -site:sourceforge.net
+Description:      intitle:"php icalendar administration" -site:sourceforge.net
+
+
+PHP iCalendar is a php-based iCal file parser. Its based on v2.0 of the IETF spec. It displays iCal files in a nice logical, clean manner with day, week, month, and year navigation.This reveals the administration interface.

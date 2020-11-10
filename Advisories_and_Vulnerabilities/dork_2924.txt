@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2924
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by: eSmile"
+Description:      "Powered by: eSmile"
+
+
+eSmile Script (index.php) SQL Injection Vulnerability - CVE: 2010-0764: https://www.exploit-db.com/exploits/11382

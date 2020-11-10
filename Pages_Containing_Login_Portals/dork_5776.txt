@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5776
+Category:         Pages Containing Login Portals
+Published Date:   2020-03-05
+Author:           yunaranyancat
+GoogleDork:       inurl:"serverpush.htm" intext:"Real-time"
+Description:      inurl:"serverpush.htm" intext:"Real-time"
+
+
+"Real-time IP Camera Monitoring System" Login Page  inurl:"serverpush.htm" intext:"Real-time"  Author : Zulfiqar Wardi (yunaranyancat) 

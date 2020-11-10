@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2810
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"com_phocagallery"
+Description:      inurl:"com_phocagallery"
+
+
+Joomla Phoca Gallery Component (com_phocagallery) SQL Injection Vulnerability: https://www.exploit-db.com/exploits/14207

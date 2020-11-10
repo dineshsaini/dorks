@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4301
+Category:         Error Messages
+Published Date:   2016-06-22
+Author:           anonymous
+GoogleDork:       intext:"expects parameter 1 to be resource, boolean given" filetype:php
+Description:      intext:"expects parameter 1 to be resource, boolean given" filetype:php
+
+
+intext:"expects parameter 1 to be resource, boolean given" filetype:php Returns around 997,000 vulnerable mysql-based websites. 

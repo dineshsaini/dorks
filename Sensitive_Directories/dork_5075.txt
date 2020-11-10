@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5075
+Category:         Sensitive Directories
+Published Date:   2019-01-14
+Author:           Bl4kd43m0n
+GoogleDork:       intitle:"Index of /" inurl:passport
+Description:      intitle:"Index of /" inurl:passport
+
+
+intitle:”Index of /“ inurl:passport Find a lot of passports 

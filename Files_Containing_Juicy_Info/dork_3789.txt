@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3789
+Category:         Files Containing Juicy Info
+Published Date:   2012-08-21
+Author:           anonymous
+GoogleDork:       inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]"
+Description:      inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]"
+
+
+This dork finds unsecured databases

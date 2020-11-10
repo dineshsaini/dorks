@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5498
+Category:         Sensitive Directories
+Published Date:   2019-09-04
+Author:           Abhishek Samaddar
+GoogleDork:       inurl: /upload.php intitle:index of
+Description:      inurl: /upload.php intitle:index of
+
+
+Google Dork: inurl: /upload.php intitle:index of  Category: Vulnerable Files. Author:Abhishek Samaddar 

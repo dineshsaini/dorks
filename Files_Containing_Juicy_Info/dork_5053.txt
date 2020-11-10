@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5053
+Category:         Files Containing Juicy Info
+Published Date:   2018-12-14
+Author:           Steph Jensen
+GoogleDork:       inurl:LOG.txt X-System folder
+Description:      inurl:LOG.txt X-System folder
+
+
+inurl:LOG.txt X-System folder  Information disclosure - System specs. X-Plane.  ~B15mu7h

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4435
+Category:         Pages Containing Login Portals
+Published Date:   2017-04-13
+Author:           anonymous
+GoogleDork:       inurl:"/SecureAuth1"
+Description:      inurl:"/SecureAuth1"
+
+
+SecureAuth  Logins, Password Resets inurl:"/SecureAuth1"  --(Replace number from 1-100) -Xploit  

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6482
+Category:         Various Online Devices
+Published Date:   2020-08-17
+Author:           Jitendra Kumar Tripathi
+GoogleDork:       inurl:.*eservices/login
+Description:      inurl:.*eservices/login
+
+
+#Dork:inurl:.*eservices/login #Description: lists eservices logins of govt/org #Author: Jitendra Kumar Tripathi  Sent with ProtonMail Secure Email.

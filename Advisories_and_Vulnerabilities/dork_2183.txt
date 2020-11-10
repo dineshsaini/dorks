@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2183
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by XAOS systems
+Description:      Powered by XAOS systems
+
+
+XAOS CMS SQL Injection Vulnerability: https://www.exploit-db.com/exploits/14469

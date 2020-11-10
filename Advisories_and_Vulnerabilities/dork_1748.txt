@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1748
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:etkinlikbak.asp
+Description:      inurl:etkinlikbak.asp
+
+
+Okul Web Otomasyon Sistemi 4.0.1 Remote SQL Injection Vulnerability - CVE: 2007-0305: https://www.exploit-db.com/exploits/3135

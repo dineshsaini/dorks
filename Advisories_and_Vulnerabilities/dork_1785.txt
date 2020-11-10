@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1785
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "CNStats 2.9"
+Description:      "CNStats 2.9"
+
+
+CNStats 2.9 (who_r.php bj) Remote File Inclusion Vulnerability - CVE: 2007-2086: https://www.exploit-db.com/exploits/3741

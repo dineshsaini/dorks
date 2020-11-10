@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/886
+Category:         Various Online Devices
+Published Date:   2005-02-15
+Author:           anonymous
+GoogleDork:       intitle:"active webcam page"
+Description:      intitle:"active webcam page"
+
+
+searches for "Active Webcam" feeds on websites, a popular USB webcam interface.

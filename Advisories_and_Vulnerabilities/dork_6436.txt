@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6436
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-07-26
+Author:           Lokesh S
+GoogleDork:       inurl:wp-content/plugins/redirection
+Description:      inurl:wp-content/plugins/redirection
+
+
+Dork: inurl:wp-content/plugins/redirection Description: This google dork lists out Advisories and Vulnerabilities regarding the redirection wordpress plugin. Ref: https://wpvulndb.com/vulnerabilities/9844 Author: Lokesh S 

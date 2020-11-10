@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6514
+Category:         Various Online Devices
+Published Date:   2020-09-02
+Author:           cyb3rmx0
+GoogleDork:       inurl:8080/view/viewer_index.shtml?id= -site:*.com
+Description:      inurl:8080/view/viewer_index.shtml?id= -site:*.com
+
+
+# Dork: inurl:8080/view/viewer_index.shtml?id= -site:*.com # Author: Mehmet Ali Kerimoglu 

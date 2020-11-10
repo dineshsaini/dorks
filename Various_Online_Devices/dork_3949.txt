@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3949
+Category:         Various Online Devices
+Published Date:   2014-05-06
+Author:           anonymous
+GoogleDork:       inurl:"/public.php?service=files"
+Description:      inurl:"/public.php?service=files"
+
+
+Search for shared files from ownCloud Daniel Maldonado http://caceriadespammers.com.ar

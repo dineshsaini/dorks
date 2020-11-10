@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4288
+Category:         Advisories and Vulnerabilities
+Published Date:   2016-05-26
+Author:           anonymous
+GoogleDork:       ext:php inurl:"api.php?action="
+Description:      ext:php inurl:"api.php?action="
+
+
+ext:php inurl:"api.php?action=" XenAPI/XenForo SQLi Vulnerability https://www.exploit-db.com/exploits/39849/

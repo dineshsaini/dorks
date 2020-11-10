@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1328
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-04-10
+Author:           anonymous
+GoogleDork:       "powered by phplist" | inurl:"lists/?p=subscribe" | inurl:"lists/index.php?p=subscribe" -ubbi -bugs +phplist -tincan.co.uk
+Description:      "powered by phplist" | inurl:"lists/?p=subscribe" | inurl:"lists/index.php?p=subscribe" -ubbi -bugs +phplist -tincan.co.uk
+
+
+this is for PHPList 2.10.2 arbitrary local inclusion, discovered by me:advisory/poc exploit: http://retrogod.altervista.org/phplist_2102_incl_xpl.html

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2448
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allinurl:readmore.php?news_id
+Description:      allinurl:readmore.php?news_id
+
+
+PHP-Fusion v4.01 SQL Injection Vulnerability: https://www.exploit-db.com/exploits/12635

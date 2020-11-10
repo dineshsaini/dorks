@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2261
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by ExBB "
+Description:      "Powered by ExBB "
+
+
+ExBB Italiano 0.2 exbb[home_path] Remote File Include Vulnerability - CVE: 2006-4488: https://www.exploit-db.com/exploits/2273

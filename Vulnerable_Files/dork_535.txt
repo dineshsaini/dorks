@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/535
+Category:         Vulnerable Files
+Published Date:   2004-10-06
+Author:           anonymous
+GoogleDork:       inurl:" WWWADMIN.PL" intitle:"wwwadmin"
+Description:      inurl:" WWWADMIN.PL" intitle:"wwwadmin"
+
+
+wwwadmin.pl is a script that allows a user with a valid username and password, to delete files and posts from the associated forum.

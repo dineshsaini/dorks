@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3810
+Category:         Various Online Devices
+Published Date:   2012-11-02
+Author:           anonymous
+GoogleDork:       intitle:"Pyxis Mobile Test Page" inurl:"mpTest.aspx"
+Description:      intitle:"Pyxis Mobile Test Page" inurl:"mpTest.aspx"
+
+
+Pyxis Mobile Test Page intitle:"Pyxis Mobile Test Page" inurl:"mpTest.aspx"

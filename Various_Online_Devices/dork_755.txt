@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/755
+Category:         Various Online Devices
+Published Date:   2004-12-06
+Author:           anonymous
+GoogleDork:       intitle:"Live NetSnap Cam-Server feed"
+Description:      intitle:"Live NetSnap Cam-Server feed"
+
+
+Netsnap Online Cameras

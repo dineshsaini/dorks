@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5286
+Category:         Sensitive Directories
+Published Date:   2019-07-24
+Author:           Ayan Saha
+GoogleDork:       intitle:"Index of" phpinfo.php
+Description:      intitle:"Index of" phpinfo.php
+
+
+# Google Dork : intitle:"Index of" phpinfo.php # Author: Ayan Saha # Date:  23.07.2019 # Tested on : Chrome,firefox.  

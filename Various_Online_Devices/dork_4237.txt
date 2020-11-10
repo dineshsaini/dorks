@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4237
+Category:         Various Online Devices
+Published Date:   2016-03-14
+Author:           anonymous
+GoogleDork:       intitle:Tenda ADSL2/2+ Modem inurl:main.html
+Description:      intitle:Tenda ADSL2/2+ Modem inurl:main.html
+
+
+Description: Tenda ADSL2/2+ Modem with Wireless Router Google search: intitle:Tenda ADSL2/2+ Modem inurl:main.html Author: nebo_oben

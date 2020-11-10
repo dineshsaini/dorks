@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5527
+Category:         Files Containing Juicy Info
+Published Date:   2019-09-13
+Author:           Reza Abasi
+GoogleDork:       intitle:"index of" "/mysql.log"
+Description:      intitle:"index of" "/mysql.log"
+
+
+files containing juicy info:  intitle:"index of" "/mysql.log" intitle:"index of" "mail.log" site:*/log/error.log intitle:"index of" "ftp.log"  Reza Abasi(Turku) 

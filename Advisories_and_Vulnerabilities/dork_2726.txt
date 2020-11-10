@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2726
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       infusions/recept/recept.php?
+Description:      infusions/recept/recept.php?
+
+
+PHP-Fusion Mod recept (kat_id) SQL Injection Vulnerability - CVE: 2008-4527: https://www.exploit-db.com/exploits/6683

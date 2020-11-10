@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2526
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:com_joomradio
+Description:      inurl:com_joomradio
+
+
+Joomla Component joomradio 1.0 (id) SQL Injection Vulnerability - CVE: 2008-2633: https://www.exploit-db.com/exploits/5729

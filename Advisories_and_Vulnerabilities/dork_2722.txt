@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2722
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:option=com_education_classes
+Description:      inurl:option=com_education_classes
+
+
+joomla component education SQL injection Vulnerability: https://www.exploit-db.com/exploits/12153

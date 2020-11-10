@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/709
+Category:         Various Online Devices
+Published Date:   2004-11-24
+Author:           anonymous
+GoogleDork:       intitle:"Smoothwall Express" inurl:cgi-bin "up * days"
+Description:      intitle:"Smoothwall Express" inurl:cgi-bin "up * days"
+
+
+smoothwall is a firewall operating system distribution based on Linux. (Not many results for this search at the moment).

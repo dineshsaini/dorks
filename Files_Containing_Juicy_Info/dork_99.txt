@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/99
+Category:         Files Containing Juicy Info
+Published Date:   2004-03-04
+Author:           anonymous
+GoogleDork:       inurl:main.php phpMyAdmin
+Description:      inurl:main.php phpMyAdmin
+
+
+From phpmyadmin.net : "phpMyAdmin is a tool written in PHP intended to handle the administration of MySQL over the WWW." Great, easy to use, but lock it down! Things you can do include viewing MySQL runtime information and system variables, show processes, reloading MySQL, changing privileges, and modifying or exporting databases. Hacker-fodder for sure!

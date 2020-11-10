@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3718
+Category:         Pages Containing Login Portals
+Published Date:   2011-05-11
+Author:           anonymous
+GoogleDork:       "Login Name" Repository Webtop intitle:login
+Description:      "Login Name" Repository Webtop intitle:login
+
+
+Search for login screen of default instance: Documentum Webtop by EMC

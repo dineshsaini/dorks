@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1658
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Eyeland Studio Inc. All Rights Reserved." inurl:game.php
+Description:      "Eyeland Studio Inc. All Rights Reserved." inurl:game.php
+
+
+Eyeland Studio Inc. (game.php) SQL Injection Vulnerability: https://www.exploit-db.com/exploits/13858

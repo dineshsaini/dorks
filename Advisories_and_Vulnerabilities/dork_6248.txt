@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6248
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-06-09
+Author:           Alexandros Pappas
+GoogleDork:       inurl:"\wp-content\plugins\photo-gallery"
+Description:      inurl:"\wp-content\plugins\photo-gallery"
+
+
+# Google Dork: inurl:"\wp-content\plugins\photo-gallery"  # WordPress Plugin Photo Gallery 1.5.34 - SQL Injection. This dork is linked to the following existing exploit (CVE : 2019-16119) : https://www.exploit-db.com/exploits/47371  # Date: 2020-06-09  # Exploit Author: Alexandros Pappas 

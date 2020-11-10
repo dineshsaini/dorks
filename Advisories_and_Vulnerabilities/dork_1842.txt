@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1842
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intext:"powered by Milonic" inurl:viewnews.php?id=
+Description:      intext:"powered by Milonic" inurl:viewnews.php?id=
+
+
+Milonic News (viewnews) SQL Injection Vulnerability: https://www.exploit-db.com/exploits/11031

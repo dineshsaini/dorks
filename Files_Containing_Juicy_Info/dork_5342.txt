@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5342
+Category:         Files Containing Juicy Info
+Published Date:   2019-08-12
+Author:           Vaibhav Pareek
+GoogleDork:       inurl:robots.txt site:gov + intext:password
+Description:      inurl:robots.txt site:gov + intext:password
+
+
+I have discovered a google dork which can be used to find all the URL's having robots.txt in it. As a filter, It will only show those websites which are related to the government and having content related to username and passwords in those files.  DORK : inurl:robots.txt site:gov + intext:password 

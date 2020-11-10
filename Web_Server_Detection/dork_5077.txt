@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5077
+Category:         Web Server Detection
+Published Date:   2019-01-14
+Author:           g.go
+GoogleDork:       "I have been invoked by servletToJSP"
+Description:      "I have been invoked by servletToJSP"
+
+
+# Exploit Title: i have been invoked by servletToJSP # Google Dork: i have been invoked by servletToJSP # Date: January 12, 2019 # Exploit Author: g.go # Vender Homepage: g.goog.gogooggo@gmail.com # Software Link: tomcat.apache.org # Version: 7-9 # Description: find many improperly set up tomacat servlets   #### Google Dork i have been invoked by servletToJSP 

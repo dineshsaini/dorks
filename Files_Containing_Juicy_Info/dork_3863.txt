@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3863
+Category:         Files Containing Juicy Info
+Published Date:   2013-08-08
+Author:           anonymous
+GoogleDork:       inurl:fluidgalleries/dat/login.dat
+Description:      inurl:fluidgalleries/dat/login.dat
+
+
+Works with every single fluidgalleries portofolio sites. Just decrypt the MD5 hash and login onto url.extension/admin.php with the username from the search result and with the decrypted MD5 hash. Dork by Kraze (kraze@programmer.net)

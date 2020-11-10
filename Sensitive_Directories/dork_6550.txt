@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6550
+Category:         Sensitive Directories
+Published Date:   2020-09-18
+Author:           Alexandros Pappas
+GoogleDork:       ext:reg [HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\SshHostKeys]
+Description:      ext:reg [HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\SshHostKeys]
+
+
+# Google Dork: ext:reg [HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\SshHostKeys] # This search locates private SSHHostkeys. # Date: 18/09/2020 # Exploit Author: Alexandros Pappas 

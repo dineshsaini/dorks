@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4280
+Category:         Sensitive Directories
+Published Date:   2016-05-10
+Author:           anonymous
+GoogleDork:       inurl:/sites/default/files/webform/
+Description:      inurl:/sites/default/files/webform/
+
+
+Description: Drupal default web-forms' storage path, usually a lot of files there contains juicy info Google search: inurl:/sites/default/files/webform/ Dork Author: Serhii Pronin 

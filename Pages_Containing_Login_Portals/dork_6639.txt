@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6639
+Category:         Pages Containing Login Portals
+Published Date:   2020-10-26
+Author:           Javier Bernardo
+GoogleDork:       inurl:/adfs/ls/?SAMLRequest
+Description:      inurl:/adfs/ls/?SAMLRequest
+
+
+# Google Dork: inurl:/adfs/ls/?SAMLRequest # Date: 10/22/2020 # Exploit Author: Javier Bernardo # Homepage: https://www.hack.com.ar  Javier Bernardo *Ethical Hacker | Information Security Engineer* Email: javierbernardo001@gmail.com | Website: hack.com.ar 

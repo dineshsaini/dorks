@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/862
+Category:         Various Online Devices
+Published Date:   2005-02-15
+Author:           anonymous
+GoogleDork:       intitle:"switch login" "IBM Fast Ethernet Desktop"
+Description:      intitle:"switch login" "IBM Fast Ethernet Desktop"
+
+
+IBM 8275 Model 416 High Performance Ethernet Workgroup Switch

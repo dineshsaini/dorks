@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4016
+Category:         Files Containing Juicy Info
+Published Date:   2015-06-10
+Author:           anonymous
+GoogleDork:       intitle:"Index of" "mail" "Inbox" "Sent"
+Description:      intitle:"Index of" "mail" "Inbox" "Sent"
+
+
+This Dork reveal the folders of "Inbox" and "Sent" for mail servers. Enjoy.

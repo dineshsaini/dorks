@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5757
+Category:         Files Containing Juicy Info
+Published Date:   2020-03-02
+Author:           Juveria Banu
+GoogleDork:       intitle:"index of" /"privatekey.txt" OR "private key.txt"
+Description:      intitle:"index of" /"privatekey.txt" OR "private key.txt"
+
+
+Hi,  I have discovered this dork that can help us find private keys that are saved in text file.  Juveria Banu. 

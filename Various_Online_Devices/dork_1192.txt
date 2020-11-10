@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1192
+Category:         Various Online Devices
+Published Date:   2005-11-16
+Author:           anonymous
+GoogleDork:       intitle:"SNOIE Intel Web Netport Manager" OR intitle:"Intel Web Netport Manager Setup/Status"
+Description:      intitle:"SNOIE Intel Web Netport Manager" OR intitle:"Intel Web Netport Manager Setup/Status"
+
+
+Intel Netport Express Print Server.

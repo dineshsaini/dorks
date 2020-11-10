@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1673
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by: Elite Gaming Ladders v3.2"
+Description:      "Powered by: Elite Gaming Ladders v3.2"
+
+
+Elite Gaming Ladders 3.2 (platform) SQL Injection Vulnerability - CVE: 2009-3314: https://www.exploit-db.com/exploits/9702

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1313
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-03-28
+Author:           anonymous
+GoogleDork:       WEBalbum 2004-2006 duda -ihackstuff -exploit
+Description:      WEBalbum 2004-2006 duda -ihackstuff -exploit
+
+
+dork: WEBalbum 2004-2006 duda -ihackstuff -exploitsoftware site: http://www.web-album.org/ advisory/ poc exploit: http://retrogod.altervista.org/webalbum_202pl_local_xpl.html

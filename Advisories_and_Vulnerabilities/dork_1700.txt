@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1700
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Easy-Clanpage v2.2"
+Description:      "Easy-Clanpage v2.2"
+
+
+Easy-Clanpage 2.2 (id) Remote SQL Injection Vulnerability - CVE: 2008-1425: https://www.exploit-db.com/exploits/5275

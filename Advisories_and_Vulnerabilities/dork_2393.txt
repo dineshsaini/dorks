@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2393
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by FluentCMS
+Description:      Powered by FluentCMS
+
+
+FluentCMS (view.php sid) Remote SQL Injection Vulnerability - CVE: 2008-6642: https://www.exploit-db.com/exploits/5509

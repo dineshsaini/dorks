@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/374
+Category:         Files Containing Juicy Info
+Published Date:   2004-07-26
+Author:           anonymous
+GoogleDork:       inurl:backup filetype:mdb
+Description:      inurl:backup filetype:mdb
+
+
+Microsoft Access database backups..

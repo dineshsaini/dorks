@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2688
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allinurl:"com_na_content"
+Description:      allinurl:"com_na_content"
+
+
+Mambo Component Sermon 0.2 (gid) SQL Injection Vulnerability - CVE: 2008-0721: https://www.exploit-db.com/exploits/5076

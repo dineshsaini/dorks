@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2017
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       pages.php?id= "Multi Vendor Mall"
+Description:      pages.php?id= "Multi Vendor Mall"
+
+
+Multi Vendor Mall (itemdetail.php &amp; shop.php) SQL Injection Vulnerability: https://www.exploit-db.com/exploits/12755

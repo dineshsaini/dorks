@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6058
+Category:         Files Containing Juicy Info
+Published Date:   2020-05-07
+Author:           Alexandros Pappas
+GoogleDork:       intitle:"Index of" "backup-audio-queue.log" OR "backup-audio.log" OR "backup-mysql.log"
+Description:      intitle:"Index of" "backup-audio-queue.log" OR "backup-audio.log" OR "backup-mysql.log"
+
+
+# Google Dork: intitle:"Index of" "backup-audio-queue.log" OR "backup-audio.log" OR "backup-mysql.log"  # Juicy information.  # Date: 7/05/2020  # Author: Alexandros Pappas 

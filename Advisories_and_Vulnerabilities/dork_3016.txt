@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3016
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       [ Powered by SkaDate dating ]
+Description:      [ Powered by SkaDate dating ]
+
+
+SkaDate Dating (RFI/LFI/XSS) Multiple Remote Vulnerabilities - CVE: 2009-4700: https://www.exploit-db.com/exploits/9260

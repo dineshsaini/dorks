@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3813
+Category:         Files Containing Passwords
+Published Date:   2012-11-02
+Author:           anonymous
+GoogleDork:       "parent directory" proftpdpasswd intitle:"index of" -google
+Description:      "parent directory" proftpdpasswd intitle:"index of" -google
+
+
+This dork is based on this: https://www.exploit-db.com/ghdb/1212/ but improved cause that is useless, instead of this: "parent directory" proftpdpasswd intitle:"index of" -google Best regards, Nemesis

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5198
+Category:         Files Containing Passwords
+Published Date:   2019-05-06
+Author:           vocuzi
+GoogleDork:       intitle:settings.py intext:EMAIL_USE_TLS -git -stackoverflow
+Description:      intitle:settings.py intext:EMAIL_USE_TLS -git -stackoverflow
+
+
+Description : Django Web Framework TLS using email configs containing login credentials in Plain Text  Dork : intitle:settings.py intext:EMAIL_USE_TLS -git -stackoverflow  Author: Vipin Joshi (@vocuzi) 

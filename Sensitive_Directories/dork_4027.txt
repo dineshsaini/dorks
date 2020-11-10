@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4027
+Category:         Sensitive Directories
+Published Date:   2015-06-30
+Author:           anonymous
+GoogleDork:       intitle:"Index of" "wwwroot"
+Description:      intitle:"Index of" "wwwroot"
+
+
+Directory of wwwroot Dork. Enjoy xD. By Rootkit.

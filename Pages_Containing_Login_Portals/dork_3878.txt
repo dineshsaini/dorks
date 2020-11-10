@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3878
+Category:         Pages Containing Login Portals
+Published Date:   2013-08-08
+Author:           anonymous
+GoogleDork:       intitle:"WebMail | Powered by Winmail Server - Login" &amp; (intext:"Username" &amp; intext:"Password")
+Description:      intitle:"WebMail | Powered by Winmail Server - Login" &amp; (intext:"Username" &amp; intext:"Password")
+
+
+#Summary: Winmail login portals #Author: g00gl3 5c0u7

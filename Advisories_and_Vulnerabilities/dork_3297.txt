@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3297
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by Forums W-Agora
+Description:      Powered by Forums W-Agora
+
+
+W-Agora v.4.2.1 Multiple Vulnerabilities: https://www.exploit-db.com/exploits/10999

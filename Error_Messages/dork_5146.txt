@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5146
+Category:         Error Messages
+Published Date:   2019-03-11
+Author:           Thalysson Sarmento
+GoogleDork:       inurl:/php-errors.log filetype:log
+Description:      inurl:/php-errors.log filetype:log
+
+
+inurl:/php-errors.log filetype:log 

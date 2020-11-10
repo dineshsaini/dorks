@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5530
+Category:         Error Messages
+Published Date:   2019-09-16
+Author:           Reza Abasi
+GoogleDork:       site:*/Shibboleth.sso/SAML2/POST
+Description:      site:*/Shibboleth.sso/SAML2/POST
+
+
+Error Page:  site:*/Shibboleth.sso/SAML2/POST  Reza Abasi(Turku) 

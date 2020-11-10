@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3310
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"com_jbudgetsmagic"
+Description:      inurl:"com_jbudgetsmagic"
+
+
+Joomla com_jbudgetsmagic SQL injection vulnerability - CVE: 2009-3332: https://www.exploit-db.com/exploits/9723

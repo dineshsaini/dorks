@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6169
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-06-04
+Author:           Abhi Chitkara
+GoogleDork:       inurl:wp-content/plugins/adrotate
+Description:      inurl:wp-content/plugins/adrotate
+
+
+Dork: inurl:wp-content/plugins/adrotate Description: This google dork lists out Advisories and Vulnerabilities regarding the ad rotate wordpress plugin. Ref: https://wpvulndb.com/vulnerabilities/10249 Author: Abhi Chitkara 

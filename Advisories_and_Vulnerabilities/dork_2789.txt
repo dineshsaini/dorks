@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2789
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by osCommerce
+Description:      Powered by osCommerce
+
+
+osCommerce Online Merchant 2.2 RC2a Code Execution: https://www.exploit-db.com/exploits/9556

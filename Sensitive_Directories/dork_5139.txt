@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5139
+Category:         Sensitive Directories
+Published Date:   2019-03-01
+Author:           Inspira Enterprise Pvt Ltd
+GoogleDork:       intitle:"index of" "/aws.s3/"
+Description:      intitle:"index of" "/aws.s3/"
+
+
+Exploit : Access the Sensitive Directories of Amazon-Web-Services  Google Dork : intitle:"index of" "/aws.s3/"  Exploit Author:- Inspira Enterprise Pvt Ltd  URL :- https://www.inspiraenterprise.com

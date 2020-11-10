@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5712
+Category:         Sensitive Directories
+Published Date:   2020-01-27
+Author:           Bruno Schmid
+GoogleDork:       intitle:"index of" api_key OR "api key" OR apiKey -pool
+Description:      intitle:"index of" api_key OR "api key" OR apiKey -pool
+
+
+API keys   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

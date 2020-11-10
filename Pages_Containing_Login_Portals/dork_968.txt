@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/968
+Category:         Pages Containing Login Portals
+Published Date:   2005-05-02
+Author:           anonymous
+GoogleDork:       intitle:"WorldClient" intext:"© (2003|2004) Alt-N Technologies."
+Description:      intitle:"WorldClient" intext:"© (2003|2004) Alt-N Technologies."
+
+
+MDaemon , Windows-based email server software, contains full mail server functionality and control with a strong emphasis on security to protect your email communication needs.

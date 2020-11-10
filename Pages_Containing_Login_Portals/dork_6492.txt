@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6492
+Category:         Pages Containing Login Portals
+Published Date:   2020-08-24
+Author:           Alexandros Pappas
+GoogleDork:       inurl:"/rpAuth.html" "ZyWALL"
+Description:      inurl:"/rpAuth.html" "ZyWALL"
+
+
+# Google Dork: inurl:"/rpAuth.html" "ZyWALL" # ZyWALL Series Firewall login portals. # Date: 24/08/2020 # Exploit Author: Alexandros Pappas 

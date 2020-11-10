@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1026
+Category:         Pages Containing Login Portals
+Published Date:   2005-06-24
+Author:           anonymous
+GoogleDork:       intitle:"Login to Cacti"
+Description:      intitle:"Login to Cacti"
+
+
+Cacti is a complete network graphing solution designed to harness the power of RRDTool's data storage and graphing functionality.

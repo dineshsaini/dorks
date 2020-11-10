@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4851
+Category:         Pages Containing Login Portals
+Published Date:   2018-06-11
+Author:           Raj Kiran P
+GoogleDork:       inurl:/admin intitle:Pulse.CMS -pulsecms.com
+Description:      inurl:/admin intitle:Pulse.CMS -pulsecms.com
+
+
+Retrieve all admin page of websites build using Pulse CMS.  Author: Raj Kiran P 

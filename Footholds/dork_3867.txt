@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3867
+Category:         Footholds
+Published Date:   2013-08-08
+Author:           anonymous
+GoogleDork:       inurl:1337w0rm.php intitle:1337w0rm
+Description:      inurl:1337w0rm.php intitle:1337w0rm
+
+
+Finds websites that have 1337w0rm's CPanel cracker uploaded. Since the Cracker is relatively new, some sites might not use it. -TehMysticaL 

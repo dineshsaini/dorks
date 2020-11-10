@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1896
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       " Powered by JTL-Shop 2"
+Description:      " Powered by JTL-Shop 2"
+
+
+JTL-Shop 2 (druckansicht.php) SQL Injection Vulnerability - CVE: 2010-0691: https://www.exploit-db.com/exploits/11445

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3044
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"com_dms"
+Description:      inurl:"com_dms"
+
+
+Joomla Component com_dms SQL Injection Vulnerability - CVE: 2010-0800: https://www.exploit-db.com/exploits/11289

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5903
+Category:         Pages Containing Login Portals
+Published Date:   2020-04-16
+Author:           Reza Abasi
+GoogleDork:       site:account.*.*/recovery
+Description:      site:account.*.*/recovery
+
+
+Login Portal:  site:account.*.*/recovery  Reza Abasi(Turku) 

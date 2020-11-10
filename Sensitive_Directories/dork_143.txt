@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/143
+Category:         Sensitive Directories
+Published Date:   2004-03-29
+Author:           anonymous
+GoogleDork:       intitle:"index.of.personal"
+Description:      intitle:"index.of.personal"
+
+
+This directory has various personal documents and pictures.

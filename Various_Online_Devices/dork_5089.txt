@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5089
+Category:         Various Online Devices
+Published Date:   2019-02-05
+Author:           Brain Reflow
+GoogleDork:       inurl:"fhem.cfg" AND 'fhem.cfg' -github
+Description:      inurl:"fhem.cfg" AND 'fhem.cfg' -github
+
+
+Dork about FHEM - Perl server for house automation (configuration files)  inurl:"fhem.cfg" AND 'fhem.cfg' -github   Author : *.doc-TOR aka Brain Reflow https://twitter.com/The_d0c_T0R 

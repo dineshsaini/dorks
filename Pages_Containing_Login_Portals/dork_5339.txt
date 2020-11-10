@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5339
+Category:         Pages Containing Login Portals
+Published Date:   2019-08-12
+Author:           Francis Al Victoriano
+GoogleDork:       site:social.*.com/signin/
+Description:      site:social.*.com/signin/
+
+
+# Exploit Title: Sign-in Social Website Subdomain  # Google Dork: site:social.*.com/signin/  # Author: Francis Al Victoriano 

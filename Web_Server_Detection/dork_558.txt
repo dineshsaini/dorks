@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/558
+Category:         Web Server Detection
+Published Date:   2004-10-12
+Author:           anonymous
+GoogleDork:       intitle:"error 404" "From RFC 2068 "
+Description:      intitle:"error 404" "From RFC 2068 "
+
+
+WebLogic Server Process Edition extends the functionality of the Application Server by converging custom app development with powerful Business Process Management (BPM) capabilities to provide an industrial strength, standards-based framework that enables the rapidly assembly of composite services, transforming existing infrastructure to a service oriented architecture-in a manageable phased approach.

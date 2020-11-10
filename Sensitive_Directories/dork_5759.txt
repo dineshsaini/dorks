@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5759
+Category:         Sensitive Directories
+Published Date:   2020-03-02
+Author:           Sagar Banwa
+GoogleDork:       inurl:"/includes/OAuth2" intext:"index of /"
+Description:      inurl:"/includes/OAuth2" intext:"index of /"
+
+
+inurl:"/includes/OAuth2" intext:"index of /"  Sagar Banwa 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1549
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intitle:"Login to Calendar"
+Description:      intitle:"Login to Calendar"
+
+
+ACal 2.2.6 (day.php) Remote File Inclusion Vulnerability - CVE: 2006-2261: https://www.exploit-db.com/exploits/1763

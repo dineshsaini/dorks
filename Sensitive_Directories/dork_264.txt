@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/264
+Category:         Sensitive Directories
+Published Date:   2004-06-02
+Author:           anonymous
+GoogleDork:       intitle:"album permissions" "Users who can modify photos" "EVERYBODY"
+Description:      intitle:"album permissions" "Users who can modify photos" "EVERYBODY"
+
+
+Gallery (http://gallery.menalto.com) is software that allows users to create webalbums and upload pictures to it. In some installations Gallery lets you access the Admin permission page album_permissions.php without authentication. Even if not "everybody" has modify rights, an attacker can do a search for "users who can see the album" to retrieve valid usernames for the gallery.

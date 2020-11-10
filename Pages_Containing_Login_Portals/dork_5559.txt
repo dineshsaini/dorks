@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5559
+Category:         Pages Containing Login Portals
+Published Date:   2019-09-27
+Author:           Francis Al Victoriano
+GoogleDork:       inurl:/dana-na/ filetype:cgi
+Description:      inurl:/dana-na/ filetype:cgi
+
+
+# Exploit Title: Pulse Secure SSL VPN  # Google Dork: inurl:/dana-na/ filetype:cgi  # Author: Francis Al Victoriano 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5603
+Category:         Sensitive Directories
+Published Date:   2019-10-29
+Author:           Reza Abasi
+GoogleDork:       site:*/logs/default.htm
+Description:      site:*/logs/default.htm
+
+
+Sensitive directories:  site:*/logs/default.htm  Reza Abasi(Turku) 

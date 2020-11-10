@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/418
+Category:         Files Containing Juicy Info
+Published Date:   2004-08-09
+Author:           anonymous
+GoogleDork:       intext:"Session Start * * * *:*:* *" filetype:log
+Description:      intext:"Session Start * * * *:*:* *" filetype:log
+
+
+These are IRC and a few AIM log files. They may contain juicy info or just hours of good clean newbie bashing fun.

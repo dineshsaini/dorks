@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/904
+Category:         Various Online Devices
+Published Date:   2005-03-20
+Author:           anonymous
+GoogleDork:       intitle:"BorderWare MXtreme Mail Firewall Login"
+Description:      intitle:"BorderWare MXtreme Mail Firewall Login"
+
+
+BorderWare MXtreme Mail firewallMXtreme is a hardened appliance with a highly robust mail transfer agent (MTA) and email gateway that prevents email-borne threats from entering your network while protecting against spam and viruses.

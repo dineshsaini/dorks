@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5425
+Category:         Pages Containing Login Portals
+Published Date:   2019-08-21
+Author:           M. Cory Billington
+GoogleDork:       intitle:"Local Run Manager" intext:"Local Run Manager Version:"
+Description:      intitle:"Local Run Manager" intext:"Local Run Manager Version:"
+
+
+Dork: intitle:"Local Run Manager" intext:"Local Run Manager Version:"  Author: M. Cory Billington  Info: Web portals for Local Run Manager software from Illumina 

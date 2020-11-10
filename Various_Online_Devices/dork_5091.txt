@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5091
+Category:         Various Online Devices
+Published Date:   2019-02-05
+Author:           Brain Reflow
+GoogleDork:       intitle:"webcam 7" inurl:'/gallery.html'
+Description:      intitle:"webcam 7" inurl:'/gallery.html'
+
+
+Dork about webcams and ip cameras server for windows   intitle:"webcam 7" inurl:'/gallery.html'   Author : *.doc-TOR aka Brain Reflow https://twitter.com/The_d0c_T0R 

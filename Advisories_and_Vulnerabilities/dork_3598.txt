@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3598
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by Quick.Cart"
+Description:      "Powered by Quick.Cart"
+
+
+Quick.Cart 2.2 RFI/LFI Remote Code Execution Exploit - CVE: 2007-3138: https://www.exploit-db.com/exploits/4025

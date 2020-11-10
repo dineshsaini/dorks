@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5989
+Category:         Files Containing Juicy Info
+Published Date:   2020-05-01
+Author:           Alexandros Pappas
+GoogleDork:       intitle:"index of" "database.json"
+Description:      intitle:"index of" "database.json"
+
+
+# Google Dork: intitle:"index of" "database.json"  # By using this dork, user names, passwords and database credentials some times can be found.  # Date: 1/05/2020  # Author: Alexandros Pappas 

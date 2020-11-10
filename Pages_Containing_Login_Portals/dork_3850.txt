@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3850
+Category:         Pages Containing Login Portals
+Published Date:   2013-04-22
+Author:           anonymous
+GoogleDork:       Serv-U (c) Copyright 1995-2013 Rhino Software, Inc. All Rights.Reserved.
+Description:      Serv-U (c) Copyright 1995-2013 Rhino Software, Inc. All Rights.Reserved.
+
+
+# Category: FTP Login Portals # Description : Dork for finding FTP Login portals # Google Dork: Serv-U � Copyright 1995-2013 Rhino Software, Inc. All Rights.Reserved. # Date: 16/04/2013 # Exploit Author: Arul Kumar.V # Vendor Homepage: www.serv-u.com # Email : hackerarul@gmail.com Thank you

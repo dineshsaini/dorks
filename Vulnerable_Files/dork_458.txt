@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/458
+Category:         Vulnerable Files
+Published Date:   2004-09-06
+Author:           anonymous
+GoogleDork:       inurl:"plog/register.php"
+Description:      inurl:"plog/register.php"
+
+
+pLog is a popular form of bloggin software. Currently there are estimated about 1450 sites running it. The installation documents clearly warn about removing files after installation for security purposes:"If you are not planning to allow internet users to create new blogs in this server, then you should also remove register.php."This search finds that register.php form of course :)Below is some more general information about pLog.Vendor site: hxxp://www.plogworld.org/Admin portals http://sitename/plog/admin.phpInstallation wizard: http://sitename/plog/wizard.phpConfig file (mysql db pass): http://sitename/plog/config/config.properties.phpTemp files: http://sitename/plog/tmp/Gallery files: http://sitename/plog/gallery/Blog search engine: http://www.plogworld.org/ploogle/

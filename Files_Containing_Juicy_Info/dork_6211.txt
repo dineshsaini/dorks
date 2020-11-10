@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6211
+Category:         Files Containing Juicy Info
+Published Date:   2020-06-04
+Author:           Anjali Kashyap
+GoogleDork:       allinurl:index.php?db=information_schema
+Description:      allinurl:index.php?db=information_schema
+
+
+Google Dork : allinurl:index.php?db=information_schema  Description :  This dork bypasses the admin username and password and takes you directly to information schema table and you can delete data!  Author : Anjali  Linkedin Profile link : https://www.linkedin.com/in/anjali-p-44ab20133/ 

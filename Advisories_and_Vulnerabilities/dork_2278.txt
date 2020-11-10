@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2278
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by Platinum 7.6.b.5
+Description:      Powered by Platinum 7.6.b.5
+
+
+PHP-Nuke Platinum 7.6.b.5 Remote File Inclusion Vulnerability - CVE: 2007-5676: https://www.exploit-db.com/exploits/4563

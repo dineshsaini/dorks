@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/262
+Category:         Sensitive Directories
+Published Date:   2004-06-01
+Author:           anonymous
+GoogleDork:       "Index Of /network" "last modified"
+Description:      "Index Of /network" "last modified"
+
+
+Many of these directories contain information about the network, though an attacker would need a considerable amount of patience to find it.

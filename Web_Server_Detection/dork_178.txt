@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/178
+Category:         Web Server Detection
+Published Date:   2004-04-23
+Author:           anonymous
+GoogleDork:       intitle:Snap.Server inurl:Func=
+Description:      intitle:Snap.Server inurl:Func=
+
+
+This page reveals the existance of a SNAP server (Netowrk attached server or NAS devices) Depending on the configuration, these servers may be vulnerable, but regardless the existance of this server is useful for information gathering.

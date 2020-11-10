@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1354
+Category:         Pages Containing Login Portals
+Published Date:   2006-05-03
+Author:           anonymous
+GoogleDork:       (intitle:"Please login - Forums powered by WWWThreads")|(inurl:"wwwthreads/login.php")|(inurl:"wwwthreads/login.pl?Cat=")
+Description:      (intitle:"Please login - Forums powered by WWWThreads")|(inurl:"wwwthreads/login.php")|(inurl:"wwwthreads/login.pl?Cat=")
+
+
+"WWWthreads is a high powered, full scalable, customizable open source bulletin board package that you will be able to modify to your specific topics, users, and needs. WWWthreads has an extremely comprehensive interface, a very simple administration panel for quick set up and management, as well as a frequently asked questions to help guide you through the process should you hit any snags or have any questions."

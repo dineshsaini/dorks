@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3667
+Category:         Advisories and Vulnerabilities
+Published Date:   2011-01-09
+Author:           anonymous
+GoogleDork:       inurl:"jscripts/tiny_mce/plugins/tinybrowser/" OR inurl:"jscripts/tiny_mce/plugins/tinybrowser/" "index of"
+Description:      inurl:"jscripts/tiny_mce/plugins/tinybrowser/" OR inurl:"jscripts/tiny_mce/plugins/tinybrowser/" "index of"
+
+
+Author: DigiP Multiple Vulnerabilities: https://www.exploit-db.com/exploits/9296/

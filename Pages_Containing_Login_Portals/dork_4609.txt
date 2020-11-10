@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4609
+Category:         Pages Containing Login Portals
+Published Date:   2017-11-03
+Author:           Alfie
+GoogleDork:       inurl:https://owa
+Description:      inurl:https://owa
+
+
+*Google dork description: *Sites running Outlook Web Application (OWA) and in extension run e-mail via Microsoft Exchange  *Google Search: *inurl:https://owa  *Submitted by:* Alfie_the-infosec_  

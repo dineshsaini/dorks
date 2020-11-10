@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1559
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allinurl:"detResolucion.php?tipodoc_id="
+Description:      allinurl:"detResolucion.php?tipodoc_id="
+
+
+CMS Ariadna 2009 SQL Injection - OSVDB-ID: 63929: https://www.exploit-db.com/exploits/12301

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3464
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by IMGallery"
+Description:      "Powered by IMGallery"
+
+
+IMGallery 2.5 Create Uploader Script - CVE: 2007-0082: https://www.exploit-db.com/exploits/3049

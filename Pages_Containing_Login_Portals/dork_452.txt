@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/452
+Category:         Pages Containing Login Portals
+Published Date:   2004-08-25
+Author:           anonymous
+GoogleDork:       4images Administration Control Panel
+Description:      4images Administration Control Panel
+
+
+4images Gallery - 4images is a web-based image gallery management system. The 4images administration control panel let you easily modify your galleries.

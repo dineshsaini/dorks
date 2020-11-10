@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4879
+Category:         Files Containing Juicy Info
+Published Date:   2018-07-03
+Author:           Bruno Schmid
+GoogleDork:       filetype:xls | xlsx intext:software license site:.gov
+Description:      filetype:xls | xlsx intext:software license site:.gov
+
+
+Dork for juicy info. Also try: filetype:doc | pdf intext:software license site:.gov   Bruno Schmid  https://ch.linkedin.com/in/schmidbruno 

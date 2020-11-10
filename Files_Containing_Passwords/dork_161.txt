@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/161
+Category:         Files Containing Passwords
+Published Date:   2004-04-16
+Author:           anonymous
+GoogleDork:       allinurl: admin mdb
+Description:      allinurl: admin mdb
+
+
+Not all of these pages are administrator's access databases containing usernames, passwords and other sensitive information, but many are!

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3051
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "index.php?option=com_expose"
+Description:      "index.php?option=com_expose"
+
+
+Joomla Component Expose RC35 Remote File Upload Vulnerability - CVE: 2007-3932: https://www.exploit-db.com/exploits/4194

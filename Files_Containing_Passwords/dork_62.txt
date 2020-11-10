@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/62
+Category:         Files Containing Passwords
+Published Date:   2004-03-04
+Author:           anonymous
+GoogleDork:       htpasswd
+Description:      htpasswd
+
+
+This is a nifty way to find htpasswd files. Htpasswd files contain usernames and crackable passwords for web pages and directories. They're supposed to be server-side, not available to web clients! *duh*

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/794
+Category:         Sensitive Directories
+Published Date:   2004-12-30
+Author:           anonymous
+GoogleDork:       intitle:"index of" inurl:ftp (pub | incoming)
+Description:      intitle:"index of" inurl:ftp (pub | incoming)
+
+
+Adding "inurl:ftp (pub | incoming)" to the "index.of" searches helps locating ftp websites. This query can easily be narrowed further with additional keywords.

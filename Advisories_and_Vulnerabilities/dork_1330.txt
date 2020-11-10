@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1330
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-04-15
+Author:           anonymous
+GoogleDork:       inurl:sysinfo.cgi ext:cgi
+Description:      inurl:sysinfo.cgi ext:cgi
+
+
+dork:inurl:sysinfo.cgi ext:cgi exploit: http://www.milw0rm.com/exploits/1677 I found this command execution vulnerability in 1.2.1 but other versions maybe vulnerable toohowever, u can see version in google results

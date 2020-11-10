@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/213
+Category:         Files Containing Juicy Info
+Published Date:   2004-05-10
+Author:           anonymous
+GoogleDork:       filetype:wab wab
+Description:      filetype:wab wab
+
+
+These are Microsoft Outlook Mail address books. The information contained will vary, but at the least an attacker can glean email addresses and contact information.

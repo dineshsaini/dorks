@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5958
+Category:         Sensitive Directories
+Published Date:   2020-04-28
+Author:           Tushar Kurunkar
+GoogleDork:       intitle:"index of" "/db_backups/"
+Description:      intitle:"index of" "/db_backups/"
+
+
+#Description: intitle:"index of" "/db_backups/" This Google dork shows juicy information about the website and finds out database backup files with publicly available database directories. An attacker can further misuse this to conduct attacks.  #Author : Tushar Kurunkar #Date : 28 April 2020 

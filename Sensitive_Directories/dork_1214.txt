@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1214
+Category:         Sensitive Directories
+Published Date:   2005-12-01
+Author:           anonymous
+GoogleDork:       "Warning: Installation directory exists at" "Powered by Zen Cart" -demo
+Description:      "Warning: Installation directory exists at" "Powered by Zen Cart" -demo
+
+
+by this dork you can find fresh installations of Zen-Cartsee Full Disclosure forums fore details... ;)

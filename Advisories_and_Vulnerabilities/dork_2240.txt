@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2240
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by Info Fisier
+Description:      Powered by Info Fisier
+
+
+Info Fisier v1.0 SQL Injection Vulnerability: https://www.exploit-db.com/exploits/10726

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5466
+Category:         Files Containing Juicy Info
+Published Date:   2019-08-28
+Author:           Reza Abasi
+GoogleDork:       site:*/phpMyAdmin/robots.txt
+Description:      site:*/phpMyAdmin/robots.txt
+
+
+Robots.txt file of site:  site:*/phpMyAdmin/robots.txt  Reza Abasi(Turku) 

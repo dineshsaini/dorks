@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2509
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"com_rwcards"
+Description:      inurl:"com_rwcards"
+
+
+Joomla Component com_rwcards - Local File Inclusion: https://www.exploit-db.com/exploits/11772

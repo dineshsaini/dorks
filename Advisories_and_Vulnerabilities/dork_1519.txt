@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1519
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:index.php?page=en_jobseekers
+Description:      inurl:index.php?page=en_jobseekers
+
+
+JobSite Professional 2.0 file.php Remote SQL Injection Vulnerability - CVE: 2007-5785: https://www.exploit-db.com/exploits/4576

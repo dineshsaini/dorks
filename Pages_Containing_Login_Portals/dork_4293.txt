@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4293
+Category:         Pages Containing Login Portals
+Published Date:   2016-06-06
+Author:           anonymous
+GoogleDork:       inurl:/remote/login/ intext:"please login"|intext:"FortiToken clock drift detected"
+Description:      inurl:/remote/login/ intext:"please login"|intext:"FortiToken clock drift detected"
+
+
+Description : inurl:/remote/login/ intext:"please login"|intext:"FortiToken clock drift detected" Search : inurl:/remote/login/ intext:"please login"|intext:"FortiToken clock drift detected" Date: 05-06-2016 Author: Krishna Summary:Exposed SSL VPN Login pages for Fortiguard SSL VPN.

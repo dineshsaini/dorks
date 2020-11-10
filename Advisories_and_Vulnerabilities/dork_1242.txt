@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1242
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-01-02
+Author:           anonymous
+GoogleDork:       intext:"PhpGedView Version" intext:"final - index" -inurl:demo
+Description:      intext:"PhpGedView Version" intext:"final - index" -inurl:demo
+
+
+PHPGedView

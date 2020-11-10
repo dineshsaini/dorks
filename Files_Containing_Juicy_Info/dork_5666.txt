@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5666
+Category:         Files Containing Juicy Info
+Published Date:   2019-12-16
+Author:           Eka Syahwan
+GoogleDork:       [ipn] ext:log
+Description:      [ipn] ext:log
+
+
+# Google Dork : [ipn] ext:log # Category : Sensitive Online Shopping Info # Date : 10-12-2019 # Author : Eka Syahwan  This data contains a log of PayPal payments used by many websites.  

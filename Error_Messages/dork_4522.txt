@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4522
+Category:         Error Messages
+Published Date:   2017-06-13
+Author:           anonymous
+GoogleDork:       intitle:"CGIWrap Error"
+Description:      intitle:"CGIWrap Error"
+
+
+Finds CGIWrap script errors containing some interesting information! Dxtroyer

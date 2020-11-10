@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3680
+Category:         Advisories and Vulnerabilities
+Published Date:   2011-01-25
+Author:           anonymous
+GoogleDork:       inurl:"ab_fct.php?fct="
+Description:      inurl:"ab_fct.php?fct="
+
+
+Multiple Vulnerabilities: https://www.exploit-db.com/exploits/16044

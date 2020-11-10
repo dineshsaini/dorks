@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/79
+Category:         Error Messages
+Published Date:   2004-03-04
+Author:           anonymous
+GoogleDork:       sQL syntax error
+Description:      sQL syntax error
+
+
+Another generic SQL message, this message can display path names and partial SQL code, both of which are very helpful for hackers...

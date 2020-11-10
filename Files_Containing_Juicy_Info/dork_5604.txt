@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5604
+Category:         Files Containing Juicy Info
+Published Date:   2019-10-29
+Author:           Gerard Fuguet
+GoogleDork:       site:mypublicinbox.com intitle:email
+Description:      site:mypublicinbox.com intitle:email
+
+
+Helps to locate public profiles of MyPublicInbox platform -there is no search form yet-. My Public Inbox is a new way of communication focused on experts of all sectors where they can facilitate their personal contact without exposing it against SPAM, phishing attacks… and so valuating their time. More info: (https://www.mypublicinbox.com) (https://www.elladodelmal.com/2019/10/mypublicinbox-un-proyecto-para-el-dia.html)  Gerard Fuguet

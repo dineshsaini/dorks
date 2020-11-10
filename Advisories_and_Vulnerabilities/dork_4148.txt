@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4148
+Category:         Advisories and Vulnerabilities
+Published Date:   2015-12-09
+Author:           anonymous
+GoogleDork:       intext:"Powered By OpenCart" -site:opencart.com -inurl:"Powered By OpenCart" -intitle:"OpenCart" -intitle:"powered by"
+Description:      intext:"Powered By OpenCart" -site:opencart.com -inurl:"Powered By OpenCart" -intitle:"OpenCart" -intitle:"powered by"
+
+
+Find Open Carts for Remote File Upload vulnerability. Decoy

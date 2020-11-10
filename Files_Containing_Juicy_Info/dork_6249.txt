@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6249
+Category:         Files Containing Juicy Info
+Published Date:   2020-06-09
+Author:           Mayank Raheja
+GoogleDork:       intitle:"index of" "dev/config"
+Description:      intitle:"index of" "dev/config"
+
+
+Dork: intitle:"index of" "dev/config" Category: Files Containing Juicy Info Info: This Google Dork lists out config folders/files on web servers  Exploit Author: Mayank Raheja  Thanks! Looking forward to your response. Regards, Mayank Raheja 

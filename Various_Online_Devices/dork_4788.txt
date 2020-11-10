@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4788
+Category:         Various Online Devices
+Published Date:   2018-04-25
+Author:           ManhNho
+GoogleDork:       inurl:"mjpg/video.cgi?resolution="
+Description:      inurl:"mjpg/video.cgi?resolution="
+
+
+inurl:"mjpg/video.cgi?resolution=" || inurl:"mjpg/video.cgi"  This dork show a lot of videp.cgi pages!!!  ManhNho 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1611
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by: PreProjects
+Description:      Powered by: PreProjects
+
+
+Pre Multi-Vendor Shopping Malls (products.php?sid) SQL Injection Vulnerability: https://www.exploit-db.com/exploits/13996

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4550
+Category:         Files Containing Juicy Info
+Published Date:   2017-07-17
+Author:           anonymous
+GoogleDork:       "You're successfully running JSON Server"
+Description:      "You're successfully running JSON Server"
+
+
+*Google Dork :- "You're successfully running JSON Server"* *You can browse through files (username+password)* -- NEAM :- Helmi

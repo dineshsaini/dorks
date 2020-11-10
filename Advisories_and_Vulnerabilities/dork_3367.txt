@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3367
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "By Geeklog" "Created this page in" +seconds +powered inurl:public_html
+Description:      "By Geeklog" "Created this page in" +seconds +powered inurl:public_html
+
+
+Geeklog 1.6.0sr1 Remote Arbitrary File Upload Vulnerability: https://www.exploit-db.com/exploits/9505

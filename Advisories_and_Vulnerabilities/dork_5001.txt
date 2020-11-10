@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5001
+Category:         Advisories and Vulnerabilities
+Published Date:   2018-10-29
+Author:           Sh3llb0y
+GoogleDork:       inurl:wls-wsat intext:"weblogic.wsee.wstx.wsat"
+Description:      inurl:wls-wsat intext:"weblogic.wsee.wstx.wsat"
+
+
+Finds weblogic wl-wsat services endpoints prone to XML deserialization Remote Command Execution - CVE-2017-10271  Dork: inurl:wls-wsat intext:"weblogic.wsee.wstx.wsat"  Cheers. Sh3llb0y 

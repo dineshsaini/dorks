@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5751
+Category:         Web Server Detection
+Published Date:   2020-02-24
+Author:           PUNIT DARJI
+GoogleDork:       intitle:"Welcome to JBoss"
+Description:      intitle:"Welcome to JBoss"
+
+
+This dork for JBoss AS entry page even if your JMX console is protected. *intitle:"Welcome to JBoss" *  Punit Darji (Rapidsafeguard) (twitter.com/Rapidsafeguard) 

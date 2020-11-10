@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1718
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:index.php?page=img Powered By Mini File Host
+Description:      inurl:index.php?page=img Powered By Mini File Host
+
+
+Mini File Host 1.x Arbitrary PHP File Upload Vulnerability - CVE: 2008-6785: https://www.exploit-db.com/exploits/7509

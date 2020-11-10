@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4537
+Category:         Sensitive Directories
+Published Date:   2017-06-26
+Author:           anonymous
+GoogleDork:       intitle:"Index of /" "joomla_update.php"
+Description:      intitle:"Index of /" "joomla_update.php"
+
+
+Finds directories with Joomla logs, often containing juicy info Dxtroyer

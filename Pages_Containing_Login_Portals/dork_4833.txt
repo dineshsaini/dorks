@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4833
+Category:         Pages Containing Login Portals
+Published Date:   2018-05-31
+Author:           Raj Kiran P
+GoogleDork:       intext:2001.-.2018.umbraco.org ext:aspx
+Description:      intext:2001.-.2018.umbraco.org ext:aspx
+
+
+ Identify admin login portals for websites built with Umbraco CMS.  Author: Raj Kiran P 

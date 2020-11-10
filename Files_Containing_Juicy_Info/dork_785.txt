@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/785
+Category:         Files Containing Juicy Info
+Published Date:   2004-12-19
+Author:           anonymous
+GoogleDork:       inurl:preferences.ini "[emule]"
+Description:      inurl:preferences.ini "[emule]"
+
+
+This finds the emule configuration file which contains some general and proxy information.Sometimes proxy user and password are stored.

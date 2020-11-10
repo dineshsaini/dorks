@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/967
+Category:         Web Server Detection
+Published Date:   2005-05-02
+Author:           anonymous
+GoogleDork:       intitle:"Document title goes here" intitle:"used by web search tools" " example of a simple Home Page"
+Description:      intitle:"Document title goes here" intitle:"used by web search tools" " example of a simple Home Page"
+
+
+IBM Http Server (AS/400)

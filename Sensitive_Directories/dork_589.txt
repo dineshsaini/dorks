@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/589
+Category:         Sensitive Directories
+Published Date:   2004-10-19
+Author:           anonymous
+GoogleDork:       intitle:"Directory Listing For" intext:Tomcat -intitle:Tomcat
+Description:      intitle:"Directory Listing For" intext:Tomcat -intitle:Tomcat
+
+
+The Google Hackers Guide explains how to find Apache directory indexes, which are the most common found on the Internet. There are other ways however.This query is a generic search for servers using Tomcat with directory listings enabled. They are a bit more fancy than Apache's default lists and more importantly they will not be found using "index.of".

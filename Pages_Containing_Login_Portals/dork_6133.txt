@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6133
+Category:         Pages Containing Login Portals
+Published Date:   2020-05-27
+Author:           BillyV4
+GoogleDork:       intitle:"ASUS" AND inurl:"Main_Login.asp" AND intext:"router account" -asus.com
+Description:      intitle:"ASUS" AND inurl:"Main_Login.asp" AND intext:"router account" -asus.com
+
+
+# Google Dork: intitle:"ASUS" AND inurl:"Main_Login.asp" AND intext:"router account" -asus.com  # Description: Find ASUS router login page for different versions.  # Author: Carlos Ramírez L. (BillyV4) 

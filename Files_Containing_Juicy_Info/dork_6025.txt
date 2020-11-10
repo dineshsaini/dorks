@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6025
+Category:         Files Containing Juicy Info
+Published Date:   2020-05-05
+Author:           Abhi Chitkara
+GoogleDork:       intitle:"index of" "secret.js"
+Description:      intitle:"index of" "secret.js"
+
+
+Dork: intitle:"index of" "secret.js" Description: This google dork lists out sites secret javascript files for a web server. Author: Abhi Chitkara 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4768
+Category:         Various Online Devices
+Published Date:   2018-04-13
+Author:           Parth S. Patel
+GoogleDork:       inurl:":2083/login/?user="
+Description:      inurl:":2083/login/?user="
+
+
+Cpanel that are logged in with Hosted Sites.   Author: Parth S. Patel 

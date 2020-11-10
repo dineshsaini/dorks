@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4764
+Category:         Pages Containing Login Portals
+Published Date:   2018-04-12
+Author:           Bruno Schmid
+GoogleDork:       inurl:"/startSSO.ping?" -stackoverflow.com
+Description:      inurl:"/startSSO.ping?" -stackoverflow.com
+
+
+Pages containing Ping Identity®'s and PingFederate® login portals mainly used by high profiled companies    Bruno Schmid 

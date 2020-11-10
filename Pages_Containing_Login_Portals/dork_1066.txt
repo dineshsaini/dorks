@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1066
+Category:         Pages Containing Login Portals
+Published Date:   2005-08-15
+Author:           anonymous
+GoogleDork:       intitle:"AlternC Desktop"
+Description:      intitle:"AlternC Desktop"
+
+
+This finds the login page for AlternC Desktop I dont know what versions.

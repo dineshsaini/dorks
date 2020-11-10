@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/26
+Category:         Files Containing Juicy Info
+Published Date:   2003-06-24
+Author:           anonymous
+GoogleDork:       AIM buddy lists
+Description:      AIM buddy lists
+
+
+These searches bring up common names for AOL Instant Messenger "buddylists". These lists contain screen names of your "online buddies" in Instant Messenger. Not that's not too terribly exciting or stupid unless you want to mess with someone's mind, and besides, some people make these public on purpose. The thing that's interesting are the files that get stored ALONG WITH buddylists. Often this stuff includes downloaded pictures, resumes, all sorts of things. This is really for the peepers out there, and it' possible to spend countless hours rifling through people's personal crap. Also try buddylist.blt, buddy.blt, buddies.blt.

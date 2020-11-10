@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4452
+Category:         Files Containing Juicy Info
+Published Date:   2017-05-01
+Author:           anonymous
+GoogleDork:       "/wp-admin/admin-ajax" ext:txt
+Description:      "/wp-admin/admin-ajax" ext:txt
+
+
+Finds robots.txt files, which provide info about the server's more sensitive side (Which can't be found with Google) Dxtroyer

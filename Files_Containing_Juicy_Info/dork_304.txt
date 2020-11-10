@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/304
+Category:         Files Containing Juicy Info
+Published Date:   2004-07-06
+Author:           anonymous
+GoogleDork:       MySQL tabledata dumps
+Description:      MySQL tabledata dumps
+
+
+sQL database dumps. LOTS of data in these. So much data, infact, I'm pressed to think of what else an ev1l hax0r would like to know about a target database.. What's that? Usernames and passwords you say? Patience, grasshopper..... Note: this is a cleanup version of an older googledork entry.

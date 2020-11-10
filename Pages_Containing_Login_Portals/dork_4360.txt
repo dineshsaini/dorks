@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4360
+Category:         Pages Containing Login Portals
+Published Date:   2016-11-28
+Author:           anonymous
+GoogleDork:       intitle:"SonicWALL - Authentication"
+Description:      intitle:"SonicWALL - Authentication"
+
+
+SonicWALL firewall login portals Google Dork: intitle:"SonicWALL - Authentication" Date: 2016-11-28 Author: Devendra Singh Solanki

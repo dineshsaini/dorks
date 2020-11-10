@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/532
+Category:         Files Containing Juicy Info
+Published Date:   2004-10-05
+Author:           anonymous
+GoogleDork:       intext:SQLiteManager inurl:main.php
+Description:      intext:SQLiteManager inurl:main.php
+
+
+sQLiteManager is a tool Web multi-language of management of data bases SQLite. # Management of several data base (Creation, access or upload basic) # Management of the attached bases of donnÃƒÆ’Ã‚Â¨es # Creation, modification and removal of tables and index. # Insertion, modification, suppression of recording in these tables

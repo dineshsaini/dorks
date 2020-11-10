@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2824
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by words tag script"
+Description:      "Powered by words tag script"
+
+
+Words tag script 1.2 (word) Remote SQL Injection Vulnerability - CVE: 2008-3945: https://www.exploit-db.com/exploits/6336

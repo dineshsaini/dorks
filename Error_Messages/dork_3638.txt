@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3638
+Category:         Error Messages
+Published Date:   2010-12-08
+Author:           anonymous
+GoogleDork:       "plugins/wp-db-backup/wp-db-backup.php"
+Description:      "plugins/wp-db-backup/wp-db-backup.php"
+
+
+Many of the results of the search show error logs which give an attacker the server side paths including the home directory name. This name is often also used for the login to ftp and shell access, which exposes the system to attack. Author: ScOrPiOn

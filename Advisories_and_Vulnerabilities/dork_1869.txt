@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1869
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "mirco blogging"
+Description:      "mirco blogging"
+
+
+x10 mirco blogging V121 SQL Injection Vulnerability: https://www.exploit-db.com/exploits/12042

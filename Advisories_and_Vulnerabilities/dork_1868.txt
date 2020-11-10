@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1868
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by SkaLinks
+Description:      Powered by SkaLinks
+
+
+SkaLinks 1.5 (Auth Bypass) SQL Injection Vulnerability - CVE: 2009-0451: https://www.exploit-db.com/exploits/7932

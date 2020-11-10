@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6313
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-06-22
+Author:           Abhi Chitkara
+GoogleDork:       inurl:wp-content/plugins/testimonial-rotator
+Description:      inurl:wp-content/plugins/testimonial-rotator
+
+
+Dork: inurl:wp-content/plugins/testimonial-rotator Description: This google dork lists out Advisories and Vulnerabilities regarding the testimonial rotator wordpress plugin. Ref: https://wpvulndb.com/vulnerabilities/10272 Author: Abhi Chitkara 

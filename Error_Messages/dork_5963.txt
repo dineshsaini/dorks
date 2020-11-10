@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5963
+Category:         Error Messages
+Published Date:   2020-04-29
+Author:           Abhi Chitkara
+GoogleDork:       intitle:"index of" errors.log
+Description:      intitle:"index of" errors.log
+
+
+Dork: intitle:"index of" errors.log Description: This Google dork lists out errors.log web server files for websites Author: Abhi Chitkara 

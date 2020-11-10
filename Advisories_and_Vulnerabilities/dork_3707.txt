@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3707
+Category:         Advisories and Vulnerabilities
+Published Date:   2011-03-27
+Author:           anonymous
+GoogleDork:       intext:"Powered by FXRecruiter"
+Description:      intext:"Powered by FXRecruiter"
+
+
+Submitter: Ashiyane Digital Security Team Arbitrary File Upload: You must Register at site, Then in "Upload CV Field" Select and Upload Your File, then Using "Live Http Header" Change ur File Format To Etc Uploaded path: http://127.0.0.1/fxmodules/resumes/[Your File]

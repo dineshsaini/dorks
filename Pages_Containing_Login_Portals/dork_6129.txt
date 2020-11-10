@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6129
+Category:         Pages Containing Login Portals
+Published Date:   2020-05-26
+Author:           Abhi Chitkara
+GoogleDork:       inurl:"forgotpassword.jsf"
+Description:      inurl:"forgotpassword.jsf"
+
+
+Dork: inurl:"forgotpassword.jsf" Description: This google dork lists out java server pages based forgot password forms. Author: Abhi Chitkara 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3015
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intext:"Parlic Design" inurl:id
+Description:      intext:"Parlic Design" inurl:id
+
+
+parlic Design (SQL/XSS/HTML) Multiple Vulnerabilities: https://www.exploit-db.com/exploits/12767

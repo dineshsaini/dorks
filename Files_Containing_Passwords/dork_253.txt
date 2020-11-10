@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/253
+Category:         Files Containing Passwords
+Published Date:   2004-05-26
+Author:           anonymous
+GoogleDork:       filetype:inc dbconn
+Description:      filetype:inc dbconn
+
+
+This file contains the username and password the website uses to connect to the db. Lots of these Google results don't take you straight to 'dbconn.inc', instead they show you an error message -- that shows you exactly where to find dbconn.inc!!

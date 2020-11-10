@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1129
+Category:         Pages Containing Login Portals
+Published Date:   2005-09-23
+Author:           anonymous
+GoogleDork:       intitle:"Login Forum Powered By AnyBoard" intitle:"If you are a new user:" intext:"Forum Powered By AnyBoard" inurl:gochat -edu
+Description:      intitle:"Login Forum Powered By AnyBoard" intitle:"If you are a new user:" intext:"Forum Powered By AnyBoard" inurl:gochat -edu
+
+
+Anyboard Login Portals. In addition,A vulnerability has been reported in Netbula Anyboard 9.x "that may allow a remote attacker to gain access to sensitive data. This problem is due to an information disclosure issue that can be triggered by an attacker sending specific HTTP requests to a vulnerable host. This will result in sensitive information about the system being revealed to the attacker."

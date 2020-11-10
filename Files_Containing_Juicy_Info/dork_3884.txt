@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3884
+Category:         Files Containing Juicy Info
+Published Date:   2013-08-08
+Author:           anonymous
+GoogleDork:       filetype:txt inurl:~~Wordpress2.txt
+Description:      filetype:txt inurl:~~Wordpress2.txt
+
+
+This dork can be used to find symlinked Wordpress configuration files of other web sites

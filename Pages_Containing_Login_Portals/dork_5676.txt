@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5676
+Category:         Pages Containing Login Portals
+Published Date:   2019-12-30
+Author:           Ismail Tasdelen
+GoogleDork:       inurl:"/webis/webis_login.html"
+Description:      inurl:"/webis/webis_login.html"
+
+
+inurl:"/webis/webis_login.html"  This dork found checkpoint login panel.  Author : Ismail Tasdelen 

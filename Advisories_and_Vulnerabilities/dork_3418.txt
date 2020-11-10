@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3418
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by UPB"
+Description:      "Powered by UPB"
+
+
+Ultimate PHP Board 2.0 (header_simple.php) File Include - CVE: 2006-7169: https://www.exploit-db.com/exploits/2721

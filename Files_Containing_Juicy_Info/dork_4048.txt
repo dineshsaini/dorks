@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4048
+Category:         Files Containing Juicy Info
+Published Date:   2015-08-12
+Author:           anonymous
+GoogleDork:       inurl:cgi-bin ext:pl intext:"-rwxr-xr-x"
+Description:      inurl:cgi-bin ext:pl intext:"-rwxr-xr-x"
+
+
+List of Directories of Unix and Linux webs. Enjoy!. By Rootkit.

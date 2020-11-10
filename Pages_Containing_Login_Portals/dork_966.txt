@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/966
+Category:         Pages Containing Login Portals
+Published Date:   2005-05-02
+Author:           anonymous
+GoogleDork:       intitle:open-xchange inurl:login.pl
+Description:      intitle:open-xchange inurl:login.pl
+
+
+Open-Xchange 5 is a high performance substitute for costly and inflexible Microsoft Exchange deployments -- with the full functionality of a mature collaboration platform. OX 5 will not only manage appointments and tasks, it will take care of email, calendar, contacts, to do's, projects, documents, search and forums. With OX, you can manage information using bookmarks that are linked to a wide variety of data objects, such as emails, spreadsheets and/or presentations. Open-XchangeT 5 allows you to connect to Microsoft Outlook and devices using the Palm OS. Based on proven open source technologies, OX 5 offers best-of-class security through anti-virus and anti-spam utilities.

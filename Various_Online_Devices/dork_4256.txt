@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4256
+Category:         Various Online Devices
+Published Date:   2016-04-08
+Author:           anonymous
+GoogleDork:       inurl:/view/viewer_index.shtml
+Description:      inurl:/view/viewer_index.shtml
+
+
+inurl:/view/viewer_index.shtml Using this google dork can access various camera LIVE AXIS MODEL around the world .. THis google dork is created by CYBER GENIUS ( SIVABALAN ).

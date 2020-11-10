@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/404
+Category:         Files Containing Juicy Info
+Published Date:   2004-08-05
+Author:           anonymous
+GoogleDork:       filetype:fp7 fp7
+Description:      filetype:fp7 fp7
+
+
+These are Filemaker Pro version 7 databases files.

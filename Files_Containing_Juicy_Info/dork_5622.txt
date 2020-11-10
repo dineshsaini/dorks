@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5622
+Category:         Files Containing Juicy Info
+Published Date:   2019-11-05
+Author:           Dhaiwat Mehta
+GoogleDork:       db_password filetype:env -site:github.com -git
+Description:      db_password filetype:env -site:github.com -git
+
+
+# Google Dork : db_password filetype:env -site:github.com -git  # Category : File contains Juicy items  # Date : 05-11-2019  # Author : Dhaiwat Mehta 

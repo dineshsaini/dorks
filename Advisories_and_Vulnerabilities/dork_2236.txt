@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2236
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Eyeland Studio Inc. All Rights Reserved."
+Description:      "Eyeland Studio Inc. All Rights Reserved."
+
+
+Eyeland Studio Inc. SQL Injection Vulnerability: https://www.exploit-db.com/exploits/13855

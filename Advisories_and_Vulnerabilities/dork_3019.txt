@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3019
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:/wp-content/plugins/fgallery/
+Description:      inurl:/wp-content/plugins/fgallery/
+
+
+Wordpress plugin fGallery 2.4.1 fimrss.php SQL Injection Vulnerability - CVE: 2008-0491: https://www.exploit-db.com/exploits/4993

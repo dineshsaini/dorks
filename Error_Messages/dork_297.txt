@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/297
+Category:         Error Messages
+Published Date:   2004-06-24
+Author:           anonymous
+GoogleDork:       ht://Dig htsearch error
+Description:      ht://Dig htsearch error
+
+
+The ht://Dig system is a complete world wide web indexing and searching system for a domain or intranet. A list of publically available sites that use ht://Dig is available at http://www.htdig.org/uses.htmlht://Dig 3.1.1 - 3.2 has a directory traversal and file view vulnerability as described at http://www.securityfocus.com/bid/1026. Attackers can read arbitrary files on the system. If the system is not vulnerable, attackers can still use the error produced by this search to gather information such as administrative email, validation of a cgi-bin executable directory, directory structure, location of a search database file and possible naming conventions.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6495
+Category:         Pages Containing Login Portals
+Published Date:   2020-08-26
+Author:           Alexandros Pappas
+GoogleDork:       "Citrix Receiver" inurl:index.html "Gateway"
+Description:      "Citrix Receiver" inurl:index.html "Gateway"
+
+
+# Google Dork: "Citrix Receiver" inurl:index.html "Gateway" # Citrix Gateway login portals. # Date: 26/08/2020 # Exploit Author: Alexandros Pappas 

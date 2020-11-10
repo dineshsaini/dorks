@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5155
+Category:         Pages Containing Login Portals
+Published Date:   2019-03-13
+Author:           CrimsonTorso
+GoogleDork:       "online learning powered by bksb"
+Description:      "online learning powered by bksb"
+
+
+Find school &amp; college login portals for BKSB. ~ CrimsonTorso 

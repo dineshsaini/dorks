@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/653
+Category:         Vulnerable Servers
+Published Date:   2004-11-07
+Author:           anonymous
+GoogleDork:       (inurl:/shop.cgi/page=) | (inurl:/shop.pl/page=)
+Description:      (inurl:/shop.cgi/page=) | (inurl:/shop.pl/page=)
+
+
+This is a "double dork" finds two different shopping carts, both vulnerable1) Cyber-Village Online Consulting Shopping CartCyber-Village's script is known to not sanitize the user input properly which leads to code execution problems.2) Hassan Consulting's Shopping CartFor Hassan's cart it is reported that a remote user can request the 'shop.cfg' and that the script allows directory traversal.

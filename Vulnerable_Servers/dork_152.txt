@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/152
+Category:         Vulnerable Servers
+Published Date:   2004-04-06
+Author:           anonymous
+GoogleDork:       allinurl:install/install.php
+Description:      allinurl:install/install.php
+
+
+Pages with install/install.php files may be in the process of installing a new service or program. These servers may be insecure due to insecure default settings. In some cases, these servers may allow for a new installation of a program or service with insecure settings. In other cases, snapshot data about an install process can be gleaned from cached page images.

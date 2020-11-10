@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5044
+Category:         Various Online Devices
+Published Date:   2018-12-04
+Author:           TheCrypticSailor
+GoogleDork:       inurl:/help/lang/en/help
+Description:      inurl:/help/lang/en/help
+
+
+Find MOBOTIX Cameras  Guest View /cgi-bin/guestimage.html Multi View /control/multiview  By TheCrypticSailor

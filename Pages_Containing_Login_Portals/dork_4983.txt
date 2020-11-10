@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4983
+Category:         Pages Containing Login Portals
+Published Date:   2018-10-16
+Author:           Bruno Schmid
+GoogleDork:       inur:"arsys/forms" | "arsys/shared" | "/arsys/home"
+Description:      inur:"arsys/forms" | "arsys/shared" | "/arsys/home"
+
+
+BMC remedy AR System Server portals   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

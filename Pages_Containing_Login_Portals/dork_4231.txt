@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4231
+Category:         Pages Containing Login Portals
+Published Date:   2016-03-14
+Author:           anonymous
+GoogleDork:       intext:"2008" intext:"OpenERP SA" intitle:"Login"
+Description:      intext:"2008" intext:"OpenERP SA" intitle:"Login"
+
+
+Description: OpenERP login page Google search: intext:"2008" intext:"OpenERP SA" intitle:"Login" Author: nebo_oben

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4549
+Category:         Sensitive Directories
+Published Date:   2017-07-17
+Author:           anonymous
+GoogleDork:       index of /htdocs
+Description:      index of /htdocs
+
+
+Which is used to find unauthorised web-servers,and find all sensitive info through 'htdocs' folder. Also can find xamp servers. Dagalti Kick

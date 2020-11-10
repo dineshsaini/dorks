@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5542
+Category:         Pages Containing Login Portals
+Published Date:   2019-09-17
+Author:           Sravan7s
+GoogleDork:       inurl:"/prweb/prwebLDAP1/"
+Description:      inurl:"/prweb/prwebLDAP1/"
+
+
+Pega systems: login portal  inurl:"/prweb/prwebLDAP1/"  Sravan7s 

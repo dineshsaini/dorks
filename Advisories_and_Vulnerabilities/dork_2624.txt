@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2624
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "powergap" or "s04.php" or s01.php or s02.php
+Description:      "powergap" or "s04.php" or s01.php or s02.php
+
+
+POWERGAP 2003 (s0x.php) Remote File Include Vulnerability - CVE: 2006-4236: https://www.exploit-db.com/exploits/2201

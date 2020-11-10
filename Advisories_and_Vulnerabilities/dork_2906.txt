@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2906
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allinurl:/modernbill/
+Description:      allinurl:/modernbill/
+
+
+Modernbill 1.6 (config.php) Remote File Include Vulnerability - CVE: 2006-4034: https://www.exploit-db.com/exploits/2127

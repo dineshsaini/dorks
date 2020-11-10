@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4493
+Category:         Web Server Detection
+Published Date:   2017-05-18
+Author:           anonymous
+GoogleDork:       inurl:/_catalogs
+Description:      inurl:/_catalogs
+
+
+*Google dork description: *Identify sharepoint servers *Google Search: *inurl:/_catalogs *Submitted by:* Alfie 

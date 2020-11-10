@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4128
+Category:         Various Online Devices
+Published Date:   2015-11-12
+Author:           anonymous
+GoogleDork:       intitle:"router"inurl:"home.asp"
+Description:      intitle:"router"inurl:"home.asp"
+
+
+Few routers that can be accessed without login

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3957
+Category:         Files Containing Juicy Info
+Published Date:   2014-07-29
+Author:           anonymous
+GoogleDork:       http://www.google.com/search?q=filetype:sql site:com and "insert into" admin "2014"
+Description:      http://www.google.com/search?q=filetype:sql site:com and "insert into" admin "2014"
+
+
+filetype:sql site:com and "insert into" admin "2014" 

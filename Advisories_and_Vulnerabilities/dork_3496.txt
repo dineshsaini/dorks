@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3496
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Copyright . Nucleus CMS v3.22 . Valid XHTML 1.0 Strict . Valid CSS . Back to top
+Description:      Copyright . Nucleus CMS v3.22 . Valid XHTML 1.0 Strict . Valid CSS . Back to top
+
+
+Nucleus CMS 3.22 (DIR_LIBS) Arbitrary Remote Inclusion - CVE: 2006-2583: https://www.exploit-db.com/exploits/1816

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/790
+Category:         Sensitive Directories
+Published Date:   2004-12-29
+Author:           anonymous
+GoogleDork:       allinurl:"/*/_vti_pvt/" | allinurl:"/*/_vti_cnf/"
+Description:      allinurl:"/*/_vti_pvt/" | allinurl:"/*/_vti_cnf/"
+
+
+Frontpage extensions for Unix ? So be it..

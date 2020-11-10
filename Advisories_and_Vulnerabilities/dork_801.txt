@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/801
+Category:         Advisories and Vulnerabilities
+Published Date:   2005-01-02
+Author:           anonymous
+GoogleDork:       "Powered by WordPress" -html filetype:php -demo -wordpress.org -bugtraq
+Description:      "Powered by WordPress" -html filetype:php -demo -wordpress.org -bugtraq
+
+
+Query: "Powered by WordPress" -html filetype:php -demo -wordpress.org -bugtraqBackground: WordPress is a blogging software which is vulnerable to a few SQL injection queries.http://securityfocus.com/bid/12066/exploit/

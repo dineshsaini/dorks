@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/122
+Category:         Vulnerable Servers
+Published Date:   2004-03-14
+Author:           anonymous
+GoogleDork:       inurl:info.inc.php
+Description:      inurl:info.inc.php
+
+
+From http://www.securityfocus.com/bid/9664, the AllMyPHP family of products (Versions 0.1.2 - 0.4) contains several potential vulnerabilities, som elalowing an attacker to execute malicious code on the web server.

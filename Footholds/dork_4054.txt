@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4054
+Category:         Footholds
+Published Date:   2015-08-18
+Author:           anonymous
+GoogleDork:       intitle:SN0X SHELL: WEEEEEEEEEEEEEEEEED
+Description:      intitle:SN0X SHELL: WEEEEEEEEEEEEEEEEED
+
+
+Google Dork that brings up ddos shell

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5713
+Category:         Sensitive Directories
+Published Date:   2020-01-27
+Author:           Bruno Schmid
+GoogleDork:       intitle:"index of" domain.key -public
+Description:      intitle:"index of" domain.key -public
+
+
+Domains private Keys   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

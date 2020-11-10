@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2661
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by AlstraSoft SendIt Pro"
+Description:      "Powered by AlstraSoft SendIt Pro"
+
+
+AlstraSoft SendIt Pro Remote File Upload Vulnerability - CVE: 2008-6932: https://www.exploit-db.com/exploits/7101

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3955
+Category:         Files Containing Juicy Info
+Published Date:   2014-07-04
+Author:           anonymous
+GoogleDork:       filetype:sql site:gov and "insert into"
+Description:      filetype:sql site:gov and "insert into"
+
+
+filetype:sql site:gov and "insert into" find sql files with data on governments sites 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/209
+Category:         Files Containing Juicy Info
+Published Date:   2004-05-06
+Author:           anonymous
+GoogleDork:       "Request Details" "Control Tree" "Server Variables"
+Description:      "Request Details" "Control Tree" "Server Variables"
+
+
+These pages contain a great deal of information including path names, session ID's, stack traces, port numbers, ip addresses, and much much more. Attackers can use this information to formulate a very advanced attack against these targets.

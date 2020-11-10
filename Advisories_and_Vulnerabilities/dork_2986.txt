@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2986
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "index.php?option=com_qcontacts"
+Description:      "index.php?option=com_qcontacts"
+
+
+Joomla Component QContacts (com_qcontacts) SQL Injection Vulnerability: https://www.exploit-db.com/exploits/14350

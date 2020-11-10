@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2200
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered By phpCOIN 1.2.3
+Description:      Powered By phpCOIN 1.2.3
+
+
+phpCOIN 1.2.3 (session_set.php) Remote Include Vulnerability - CVE: 2006-4424: https://www.exploit-db.com/exploits/2254

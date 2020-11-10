@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4540
+Category:         Web Server Detection
+Published Date:   2017-06-26
+Author:           anonymous
+GoogleDork:       intitle:"Index of /" "Proudly Served by Surftown at"
+Description:      intitle:"Index of /" "Proudly Served by Surftown at"
+
+
+Finds Surftown HTTP servers Dxtroyer

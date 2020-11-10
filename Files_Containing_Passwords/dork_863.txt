@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/863
+Category:         Files Containing Passwords
+Published Date:   2005-02-15
+Author:           anonymous
+GoogleDork:       "Powered by Link Department"
+Description:      "Powered by Link Department"
+
+
+Link management script with advanced yet easy to use admin control panel, fully template driven appearance, static HTML front-end and email notifications.Below the link list a folder 'ld' exists which contains various juicy information like encrypted admin passwords and session data.

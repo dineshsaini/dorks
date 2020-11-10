@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4103
+Category:         Sensitive Directories
+Published Date:   2015-10-22
+Author:           anonymous
+GoogleDork:       "My Documents" "parent" intitle:index.of
+Description:      "My Documents" "parent" intitle:index.of
+
+
+http://www.google.com/search?q="My Documents" "parent" intitle:index.of "My Documents" folders shared on the interwebs... Decoy

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/667
+Category:         Error Messages
+Published Date:   2004-11-13
+Author:           anonymous
+GoogleDork:       intitle:Configuration.File inurl:softcart.exe
+Description:      intitle:Configuration.File inurl:softcart.exe
+
+
+This search finds configuration file errors within the softcart application. It includes the name of the configuration file and discloses server file paths.

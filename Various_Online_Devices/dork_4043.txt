@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4043
+Category:         Various Online Devices
+Published Date:   2015-07-28
+Author:           anonymous
+GoogleDork:       allinurl:foldercontent.html?folder=
+Description:      allinurl:foldercontent.html?folder=
+
+
+Devices of NAS Iomega Cloud Services. Enjoy!!!. By Rootkit.

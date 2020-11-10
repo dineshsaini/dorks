@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1143
+Category:         Pages Containing Login Portals
+Published Date:   2005-09-25
+Author:           anonymous
+GoogleDork:       "Please login with admin pass" -"leak" -sourceforge
+Description:      "Please login with admin pass" -"leak" -sourceforge
+
+
+PHPsFTPd is a web based administration and configuration interface for the SLimFTPd ftp serverIt can be used an any http server that suports PHP and does not need a database or adittional php modules, only SlimFTPD It allows the administrators of the ftp server to configurate it from within this interface as opposed to its native ascii conf.file It shows statistics about the users that accesed the server , the files that were downloaded , server breakdowns etcAdmin password leak:http://cert.uni-stuttgart.de/archive/bugtraq/2005/07/msg00209.html

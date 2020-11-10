@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1043
+Category:         Pages Containing Login Portals
+Published Date:   2005-07-24
+Author:           anonymous
+GoogleDork:       intitle:"Member Login" "NOTE: Your browser must have cookies enabled in order to log into the site." ext:php OR ext:cgi
+Description:      intitle:"Member Login" "NOTE: Your browser must have cookies enabled in order to log into the site." ext:php OR ext:cgi
+
+
+Pretty standered login pages, they all have various differences but it appears that they use the same script or software.

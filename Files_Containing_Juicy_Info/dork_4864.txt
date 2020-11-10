@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4864
+Category:         Files Containing Juicy Info
+Published Date:   2018-06-22
+Author:           TheManyHatsClub
+GoogleDork:       intext:cv OR intext:curriculum vitae "passport details" ext:doc -template
+Description:      intext:cv OR intext:curriculum vitae "passport details" ext:doc -template
+
+
+Find CVs online containing Juicy Information    TheManyHatsClub - admin@crypt.fi - @buydogs      

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6250
+Category:         Files Containing Juicy Info
+Published Date:   2020-06-09
+Author:           Shivansh Kumar
+GoogleDork:       index of "logs.zip"
+Description:      index of "logs.zip"
+
+
+# Dork:- index of "logs.zip" # Impact:- Files Containing Juicy Info  Thank you       Author:- Shivansh Kumar Independent security researcher India 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5553
+Category:         Error Messages
+Published Date:   2019-09-25
+Author:           Reza Abasi
+GoogleDork:       site:*/cgi-sys/suspendedpage.cgi intitle:"Account Suspended"
+Description:      site:*/cgi-sys/suspendedpage.cgi intitle:"Account Suspended"
+
+
+Error Pages:  site:*/cgi-sys/suspendedpage.cgi intitle:"Account Suspended"  Reza Abasi(Turku) 

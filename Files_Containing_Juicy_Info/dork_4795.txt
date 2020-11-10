@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4795
+Category:         Files Containing Juicy Info
+Published Date:   2018-04-25
+Author:           Marcin W. Brzózka
+GoogleDork:       inurl:/daten/webyep-log.txt
+Description:      inurl:/daten/webyep-log.txt
+
+
+Access to logs files.   Author: Marcin W. Brzózka https://www.linkedin.com/in/marcin-brz%C3%B3zka-044006162/ 

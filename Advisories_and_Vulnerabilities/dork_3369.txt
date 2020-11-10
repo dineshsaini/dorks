@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3369
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by UPB"
+Description:      "Powered by UPB"
+
+
+Ultimate PHP Board 2.0b1 (chat/login.php) Code Execution: https://www.exploit-db.com/exploits/2999

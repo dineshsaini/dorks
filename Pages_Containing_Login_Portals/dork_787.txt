@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/787
+Category:         Pages Containing Login Portals
+Published Date:   2004-12-19
+Author:           anonymous
+GoogleDork:       intitle:Login intext:"RT is © Copyright"
+Description:      intitle:Login intext:"RT is © Copyright"
+
+
+RT is an enterprise-grade ticketing system which enables a group of people to intelligently and efficiently manage tasks, issues, and requests submitted by a community of users.Versions including 2.0.13 are vulnerable to injection, check outSecurityFocus BID 7509

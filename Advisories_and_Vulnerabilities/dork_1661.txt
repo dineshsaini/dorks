@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1661
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       /modules/mx_links/
+Description:      /modules/mx_links/
+
+
+mxBB Module WebLinks 2.05 Remote Inclusion Vulnerability - CVE: 2006-6645: https://www.exploit-db.com/exploits/2939

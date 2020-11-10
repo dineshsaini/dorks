@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2572
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"product_desc.php?id=" Powered by Zeeways.com
+Description:      inurl:"product_desc.php?id=" Powered by Zeeways.com
+
+
+Zeeways Script Multiple Vulnerabilities - CVE: 2010-2144: https://www.exploit-db.com/exploits/12805

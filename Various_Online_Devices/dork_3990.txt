@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3990
+Category:         Various Online Devices
+Published Date:   2015-02-11
+Author:           anonymous
+GoogleDork:       inurl:.cgi-bin/luci
+Description:      inurl:.cgi-bin/luci
+
+
+Directory " Powered by LuCI Trunk". By Rootkit.

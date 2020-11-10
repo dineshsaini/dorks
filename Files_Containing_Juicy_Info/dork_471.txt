@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/471
+Category:         Files Containing Juicy Info
+Published Date:   2004-09-10
+Author:           anonymous
+GoogleDork:       filetype:xls inurl:"email.xls"
+Description:      filetype:xls inurl:"email.xls"
+
+
+Our forum members never get tired of finding juicy MS office files. Here's one by urban that finds email addresses.

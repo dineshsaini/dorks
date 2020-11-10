@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3771
+Category:         Various Online Devices
+Published Date:   2011-12-27
+Author:           anonymous
+GoogleDork:       inurl:RgFirewallRL.asp | inurl:RgDmzHost.asp | inurl:RgMacFiltering.asp | inurl:RgConnect.asp | inurl:RgEventLog.asp | inurl:RgSecurity.asp | inurl:RgContentFilter.asp | inurl:wlanRadio.asp
+Description:      inurl:RgFirewallRL.asp | inurl:RgDmzHost.asp | inurl:RgMacFiltering.asp | inurl:RgConnect.asp | inurl:RgEventLog.asp | inurl:RgSecurity.asp | inurl:RgContentFilter.asp | inurl:wlanRadio.asp
+
+
+Gateway Routers Author: GhOsT-PR

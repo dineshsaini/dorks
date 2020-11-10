@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3891
+Category:         Various Online Devices
+Published Date:   2013-09-24
+Author:           anonymous
+GoogleDork:       inurl:"/webcm?getpage="
+Description:      inurl:"/webcm?getpage="
+
+
+Returns various Actiontec (and often Qwest) branded routers' login pages. 4N6 Security

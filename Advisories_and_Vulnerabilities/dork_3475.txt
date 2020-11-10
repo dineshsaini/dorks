@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3475
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Welcome to your PHPOpenChat-Installation!
+Description:      Welcome to your PHPOpenChat-Installation!
+
+
+ADODB 4.70 (PhpOpenChat 3.0.x) Server.php SQL Injection: https://www.exploit-db.com/exploits/1652

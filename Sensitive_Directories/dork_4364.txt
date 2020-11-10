@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4364
+Category:         Sensitive Directories
+Published Date:   2016-11-29
+Author:           anonymous
+GoogleDork:       Hostinger © 2016. All rights reserved inurl:default.php
+Description:      Hostinger © 2016. All rights reserved inurl:default.php
+
+
+Google Dork: Hostinger © 2016. All rights reserved inurl:default.php Hostinger web hosting clients with default Public page, list of Sensitive Directories and list of files in public_html folder Google Dork by INILERM --- El software de antivirus Avast ha analizado este correo electrónico en busca de virus. https://www.avast.com/antivirus

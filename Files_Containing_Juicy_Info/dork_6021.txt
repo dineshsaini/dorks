@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6021
+Category:         Files Containing Juicy Info
+Published Date:   2020-05-05
+Author:           Abhi Chitkara
+GoogleDork:       intitle:"index of" users.bak
+Description:      intitle:"index of" users.bak
+
+
+Dork: intitle:"index of" users.bak Description: This Google dork lists out sensitive user data backups stored in a "users.bak" file for a web-server. Author: Abhi Chitkara 

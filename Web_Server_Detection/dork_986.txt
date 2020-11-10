@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/986
+Category:         Web Server Detection
+Published Date:   2005-05-30
+Author:           anonymous
+GoogleDork:       (intitle:"502 Proxy Error")|(intitle:"503 Proxy Error") "The proxy server could not handle the request" -topic -mail -4suite -list -site:geocrawler.co
+Description:      (intitle:"502 Proxy Error")|(intitle:"503 Proxy Error") "The proxy server could not handle the request" -topic -mail -4suite -list -site:geocrawler.co
+
+
+A reverse proxy is a gateway for servers, and enables one web server to provide content from another transparently. These are often implemented to improve security or performance.

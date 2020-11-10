@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4803
+Category:         Files Containing Juicy Info
+Published Date:   2018-05-04
+Author:           ManhNho
+GoogleDork:       ext:txt {"wallet_address" :", "pool_address" : " ", "pool_password" -git
+Description:      ext:txt {"wallet_address" :", "pool_address" : " ", "pool_password" -git
+
+
+ext:txt {"wallet_address" :", "pool_address" : " ", "pool_password" -git  Config.txt miners  ManhNho 

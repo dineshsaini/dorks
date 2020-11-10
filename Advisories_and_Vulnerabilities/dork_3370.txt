@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3370
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intitle:"owl intranet * owl" 0.82
+Description:      intitle:"owl intranet * owl" 0.82
+
+
+OWL Intranet Engine 0.82 (xrms_file_root) Code Execution - CVE: 2006-1149: https://www.exploit-db.com/exploits/1561

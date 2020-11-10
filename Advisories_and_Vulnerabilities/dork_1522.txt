@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1522
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allinurl: aid "com_xfaq"
+Description:      allinurl: aid "com_xfaq"
+
+
+Joomla Component xfaq 1.2 (aid) Remote SQL Injection Vulnerability - CVE: 2008-0795: https://www.exploit-db.com/exploits/5109

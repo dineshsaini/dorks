@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2713
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered By Zoopeer"
+Description:      "Powered By Zoopeer"
+
+
+Zoopeer 0.1 &amp; 0.2 (fckeditor) Shell Upload Vulnerability: https://www.exploit-db.com/exploits/15354

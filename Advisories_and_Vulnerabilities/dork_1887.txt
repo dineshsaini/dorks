@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1887
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"/go/_files/?file="
+Description:      inurl:"/go/_files/?file="
+
+
+SOTEeSKLEP 3.5RC9 (file) Remote File Disclosure Vulnerability - CVE: 2007-4369: https://www.exploit-db.com/exploits/4282

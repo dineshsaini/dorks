@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5866
+Category:         Various Online Devices
+Published Date:   2020-03-31
+Author:           Debashis Pal
+GoogleDork:       intitle:"Printer Status" AND inurl:"/PrinterStatus.html"
+Description:      intitle:"Printer Status" AND inurl:"/PrinterStatus.html"
+
+
+# Dork #  intitle:"Printer Status" AND inurl:"/PrinterStatus.html"  Various Online Devices- for Lexmark/Dell Printer. 

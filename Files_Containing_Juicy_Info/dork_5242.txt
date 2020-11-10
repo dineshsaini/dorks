@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5242
+Category:         Files Containing Juicy Info
+Published Date:   2019-06-03
+Author:           Bruno Schmid
+GoogleDork:       intitle:"index of" "W3SVC1"
+Description:      intitle:"index of" "W3SVC1"
+
+
+MS IIS log files.  Change file name or it you want to search for more log files: W3SVC2, W3SVC3 and so on.   Bruno Schmid https://ch.linkedin.com/in/schmidbruno @brulliant 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5192
+Category:         Advisories and Vulnerabilities
+Published Date:   2019-04-23
+Author:           F1uffyGoat
+GoogleDork:       inurl:dnn.js
+Description:      inurl:dnn.js
+
+
+inurl:dnn.js Reveals Raw Javascript of the Dot Net Nuke CMS of websites that may be vulnerable to XSS ( CVE-2013-4649 ) via searching the page text for the string ' Type.registerNamespace("dnn") ' .  Vulnerable versions:  - DNN 7.1.0 and earlier - DNN 6.2.8 and earlier  POC: http://www.vulnerable.com/?__dnnVariable={'__dnn_pageload':'alert(/XSS/)'}

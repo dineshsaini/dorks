@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4533
+Category:         Various Online Devices
+Published Date:   2017-06-20
+Author:           anonymous
+GoogleDork:       inurl:"g2_view=webdav.WebDavMount"
+Description:      inurl:"g2_view=webdav.WebDavMount"
+
+
+inurl:"g2_view=webdav.WebDavMount" Finds sites with WebDAV enabled TPNight

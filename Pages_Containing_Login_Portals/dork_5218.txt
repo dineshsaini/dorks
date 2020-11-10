@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5218
+Category:         Pages Containing Login Portals
+Published Date:   2019-05-20
+Author:           Islam Uddin
+GoogleDork:       inurl:/login.rsp
+Description:      inurl:/login.rsp
+
+
+Find online DRV/XVR login page. Dork : inurl:/login.rsp Author : Islam Uddin (H4wK) https://h4wk-0x00.blogspot.com/  

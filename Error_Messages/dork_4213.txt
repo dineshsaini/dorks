@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4213
+Category:         Error Messages
+Published Date:   2016-03-10
+Author:           anonymous
+GoogleDork:       inurl:/console-selfservice/common/scripts/calendar/ipopeng.htm
+Description:      inurl:/console-selfservice/common/scripts/calendar/ipopeng.htm
+
+
+RSA Self-Service Console "Error" -Xploit 

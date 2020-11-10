@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5102
+Category:         Sensitive Directories
+Published Date:   2019-02-15
+Author:           Bruno Schmid
+GoogleDork:       intitle:"index of" "/user" | "/users"
+Description:      intitle:"index of" "/user" | "/users"
+
+
+This will show existing users in the system by simply going to the above mentioned directories.   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

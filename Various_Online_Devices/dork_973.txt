@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/973
+Category:         Various Online Devices
+Published Date:   2005-05-20
+Author:           anonymous
+GoogleDork:       intitle:"InterJak Web Manager"
+Description:      intitle:"InterJak Web Manager"
+
+
+A router device by Uroam (formerly FilaNet), with email and VPN possibilities.

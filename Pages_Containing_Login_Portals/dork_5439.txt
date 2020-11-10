@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5439
+Category:         Pages Containing Login Portals
+Published Date:   2019-08-22
+Author:           Mohammed*_*
+GoogleDork:       intitle:synology intext:"Choose login account:"
+Description:      intitle:synology intext:"Choose login account:"
+
+
+NAS Device login  # Google Dork: intitle:synology intext:"Choose login account:" # Date: [22-08-2019] # Author: [Mohammed*_*] 

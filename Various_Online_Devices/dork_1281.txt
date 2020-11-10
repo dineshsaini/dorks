@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1281
+Category:         Various Online Devices
+Published Date:   2006-03-18
+Author:           anonymous
+GoogleDork:       intext:"you to handle frequent configuration jobs easily and quickly" | intitle:"Show/Search other devices"
+Description:      intext:"you to handle frequent configuration jobs easily and quickly" | intitle:"Show/Search other devices"
+
+
+ELSA DSL lan modems.

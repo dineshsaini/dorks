@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3218
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "index.php?option=com_news_portal" or "Powered by iJoomla News Portal"
+Description:      "index.php?option=com_news_portal" or "Powered by iJoomla News Portal"
+
+
+iJoomla News Portal (Itemid) Remote SQL Injection - CVE: 2008-2676: https://www.exploit-db.com/exploits/5761

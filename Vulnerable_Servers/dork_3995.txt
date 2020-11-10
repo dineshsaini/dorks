@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3995
+Category:         Vulnerable Servers
+Published Date:   2015-03-04
+Author:           anonymous
+GoogleDork:       allinurl:moadmin.php -google -github
+Description:      allinurl:moadmin.php -google -github
+
+
+The dork "allinurl:moadmin.php -google -github" show all the sites that uses Mongo DB and the moadmin module to amministrate it. Some versions of this module allow non autenticated user to execute arbitrary Unix commands sending a special POST request documented here: https://www.exploit-db.com/exploits/36251/ PsyDel

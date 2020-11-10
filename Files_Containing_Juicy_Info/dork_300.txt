@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/300
+Category:         Files Containing Juicy Info
+Published Date:   2004-06-25
+Author:           anonymous
+GoogleDork:       OWA Public Folders (direct view)
+Description:      OWA Public Folders (direct view)
+
+
+This search looks for Outlook Web Access Public Folders directly. These links open public folders or appointments. Of course there are more ways to find OWA, but the results from this search are different, it just depends which link Google has crawled.An attacker can often read all the messages anonymously or even post messages to the folders. In other cases a login will be required. This is a leak of confidential company information and may give hints for social enginering tricks.

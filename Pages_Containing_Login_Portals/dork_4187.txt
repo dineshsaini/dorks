@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4187
+Category:         Pages Containing Login Portals
+Published Date:   2016-01-26
+Author:           anonymous
+GoogleDork:       inurl:/oam/server/obrareq.cgi | ext:"encquery" | ext:"Portal_Webcenter"
+Description:      inurl:/oam/server/obrareq.cgi | ext:"encquery" | ext:"Portal_Webcenter"
+
+
+Login's for Oracle Access Management -Xploit 

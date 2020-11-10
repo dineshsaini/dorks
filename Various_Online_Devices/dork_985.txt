@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/985
+Category:         Various Online Devices
+Published Date:   2005-05-20
+Author:           anonymous
+GoogleDork:       "To view the Web interface of the SpeedTouch, JavaScript must be supported and enabled on your browser!" -site:webblernet.nl -site:ihackstuff.com -sit
+Description:      "To view the Web interface of the SpeedTouch, JavaScript must be supported and enabled on your browser!" -site:webblernet.nl -site:ihackstuff.com -sit
+
+
+speedtouch 510 DSL modem devices that were once unprotected. That may have changed by now.

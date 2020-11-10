@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/314
+Category:         Various Online Devices
+Published Date:   2004-07-10
+Author:           anonymous
+GoogleDork:       sony SNC-RZ20 network cameras
+Description:      sony SNC-RZ20 network cameras
+
+
+sony NC RZ20 cameras, only one result for this cam at the moment, a nice street view from a skyscraper.

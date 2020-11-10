@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/707
+Category:         Files Containing Passwords
+Published Date:   2004-11-23
+Author:           anonymous
+GoogleDork:       "powered by dudownload" -site:duware.com
+Description:      "powered by dudownload" -site:duware.com
+
+
+Most duware products use Microsoft Access databases in default locations without instructing the users to change them. The plain text admin passwords are just a click away for any attacker who knows how to type an URL. rename ../xxx to ../_private/dudownload.mdb

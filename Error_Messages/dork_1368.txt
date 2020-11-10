@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1368
+Category:         Error Messages
+Published Date:   2006-06-15
+Author:           anonymous
+GoogleDork:       intitle:"Apache Tomcat" "Error Report"
+Description:      intitle:"Apache Tomcat" "Error Report"
+
+
+Apache Tomcat Error messages. These can reveal various kinds information depending on the type of error.

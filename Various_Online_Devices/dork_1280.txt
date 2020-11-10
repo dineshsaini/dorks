@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1280
+Category:         Various Online Devices
+Published Date:   2006-03-18
+Author:           anonymous
+GoogleDork:       intitle:"WxGoos-" ("Camera image"|"60 seconds" )
+Description:      intitle:"WxGoos-" ("Camera image"|"60 seconds" )
+
+
+This is used in serverrooms and such where climate conditions are crucial to hardware health. If an attacker were to guess the password for the configuration page, then he can find POP3 passwords in plain text in the HTML source code.It runs on "I.T. Watchdogs, Inc. Embedded Web Server"

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4363
+Category:         Web Server Detection
+Published Date:   2016-11-29
+Author:           anonymous
+GoogleDork:       "PHP Credits" "Configuration" "PHP Core" ext:php inurl:info
+Description:      "PHP Credits" "Configuration" "PHP Core" ext:php inurl:info
+
+
+Dork: "PHP Credits" "Configuration" "PHP Core" ext:php inurl:info Another way to look Phpinfo() Google Dork by INILERM

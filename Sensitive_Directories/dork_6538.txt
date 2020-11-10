@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6538
+Category:         Sensitive Directories
+Published Date:   2020-09-15
+Author:           Alexandros Pappas
+GoogleDork:       "-- PostgreSQL database dump complete" ext:sql | ext:txt | ext:log | ext:env
+Description:      "-- PostgreSQL database dump complete" ext:sql | ext:txt | ext:log | ext:env
+
+
+# Google Dork: "-- PostgreSQL database dump complete" ext:sql | ext:txt | ext:log | ext:env # Sensitive directories. # Date: 15/09/2020 # Exploit Author: Alexandros Pappas 

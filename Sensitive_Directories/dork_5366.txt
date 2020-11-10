@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5366
+Category:         Sensitive Directories
+Published Date:   2019-08-16
+Author:           Sathishshan
+GoogleDork:       intitle:"Index of" login.php
+Description:      intitle:"Index of" login.php
+
+
+Dork: intitle:"Index of" login.php Author: Sathishshan Info: Contains sensitive information &amp; sensitive files 

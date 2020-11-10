@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2242
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"browsecats.php?cid="
+Description:      inurl:"browsecats.php?cid="
+
+
+SoftBizScripts Hosting Script SQL Injection Vunerability - CVE: 2005-3817: https://www.exploit-db.com/exploits/12439

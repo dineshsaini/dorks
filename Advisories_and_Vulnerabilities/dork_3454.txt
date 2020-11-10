@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3454
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intitle:"login to cacti"
+Description:      intitle:"login to cacti"
+
+
+Cacti 0.8.6i (copy_cacti_user.php) SQL Injection: https://www.exploit-db.com/exploits/3045

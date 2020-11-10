@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/180
+Category:         Files Containing Passwords
+Published Date:   2004-04-26
+Author:           anonymous
+GoogleDork:       eggdrop filetype:user user
+Description:      eggdrop filetype:user user
+
+
+These are eggdrop config files. Avoiding a full-blown descussion about eggdrops and IRC bots, suffice it to say that this file contains usernames and passwords for IRC users.

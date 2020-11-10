@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1411
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-09-13
+Author:           anonymous
+GoogleDork:       "Powered by Vsns Lemon" intitle:"Vsns Lemon"
+Description:      "Powered by Vsns Lemon" intitle:"Vsns Lemon"
+
+
+hxxp://evuln.com/vulns/106/summary.html

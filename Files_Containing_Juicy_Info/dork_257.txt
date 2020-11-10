@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/257
+Category:         Files Containing Juicy Info
+Published Date:   2004-05-26
+Author:           anonymous
+GoogleDork:       inurl:forward filetype:forward -cvs
+Description:      inurl:forward filetype:forward -cvs
+
+
+Users on *nix boxes can forward their mail by placing a .forward file in their home directory. These files reveal email addresses.

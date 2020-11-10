@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4475
+Category:         Various Online Devices
+Published Date:   2017-05-10
+Author:           anonymous
+GoogleDork:       inurl:"multimon.cgi" intitle:"UPS"
+Description:      inurl:"multimon.cgi" intitle:"UPS"
+
+
+Finds live traffic monitors, telling you who's online Dxtroyer

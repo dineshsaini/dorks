@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4805
+Category:         Files Containing Passwords
+Published Date:   2018-05-07
+Author:           vocuzi
+GoogleDork:       intitle:"Index of" intext:"Login Data"
+Description:      intitle:"Index of" intext:"Login Data"
+
+
+Description : Google Chrome saved login credentials SQLite files.  Dork : intitle:"Index of" intext:"Login Data"  Author: Vipin Joshi (@vocuzi) 

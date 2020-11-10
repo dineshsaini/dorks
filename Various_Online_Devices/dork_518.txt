@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/518
+Category:         Various Online Devices
+Published Date:   2004-09-29
+Author:           anonymous
+GoogleDork:       intitle:"lantronix web-manager"
+Description:      intitle:"lantronix web-manager"
+
+
+The Lantronix web manager home pages show the print server configuration (Server Name, Boot Code Version, Firmware, Uptime, Hardware Address, IP Address and Subnet Mask). The other setting pages are password protected.

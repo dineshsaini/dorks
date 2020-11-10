@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3783
+Category:         Files Containing Juicy Info
+Published Date:   2012-05-15
+Author:           anonymous
+GoogleDork:       intext:"Thank you for your purchase/trial of ALWIL Software products.:"
+Description:      intext:"Thank you for your purchase/trial of ALWIL Software products.:"
+
+
+This dork can fetch you Avast product licenses especially Avast Antiviruses , including Professional editions ;) Author: gr00ve_hack3r www.gr00ve-hack3r.com

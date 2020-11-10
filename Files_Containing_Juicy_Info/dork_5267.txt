@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5267
+Category:         Files Containing Juicy Info
+Published Date:   2019-06-24
+Author:           Francis Al Victoriano
+GoogleDork:       inurl:"paypal.log" ext:log
+Description:      inurl:"paypal.log" ext:log
+
+
+# Exploit Title: Expose paypal.log in laravel logs storage # Google Dork: inurl:"paypal.log" ext:log # Author: Francis Al Victoriano 

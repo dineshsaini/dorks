@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5560
+Category:         Error Messages
+Published Date:   2019-09-30
+Author:           Reza Abasi
+GoogleDork:       site:*/cgi-sys/defaultwebpage.cgi intext:"SORRY!"
+Description:      site:*/cgi-sys/defaultwebpage.cgi intext:"SORRY!"
+
+
+Error Pages:  site:*/cgi-sys/defaultwebpage.cgi intext:"SORRY!"  Reza Abasi(Turku) 

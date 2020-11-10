@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1905
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered By 4smart"
+Description:      "Powered By 4smart"
+
+
+Magician Blog 1.0 (Auth Bypass) SQL injection Vulnerability: https://www.exploit-db.com/exploits/9283

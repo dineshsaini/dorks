@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5120
+Category:         Sensitive Directories
+Published Date:   2019-02-15
+Author:           FlyingFrog
+GoogleDork:       inurl:"/cgi-bin/CVS/"
+Description:      inurl:"/cgi-bin/CVS/"
+
+
+AUTHOR: FlyingFrog  Twitter: @ItsKarl0z  ++ Find filed in cgi-bin directories ++  inurl:"/cgi-bin/CVS/" 

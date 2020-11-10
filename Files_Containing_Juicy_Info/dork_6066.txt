@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6066
+Category:         Files Containing Juicy Info
+Published Date:   2020-05-08
+Author:           Jinson Varghese Behanan
+GoogleDork:       "index of" "wp-config.zip"
+Description:      "index of" "wp-config.zip"
+
+
+Dork: "index of" "wp-config.zip" Description: This Google dork can be used to discover publicly available ZIP files containing wp-config.php file which has sensitive WordPress information. Author: Jinson Varghese Behanan (@JinsonCyberSec) Author Homepage: https://www.jinsonvarghese.com 

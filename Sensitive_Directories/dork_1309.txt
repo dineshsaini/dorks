@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1309
+Category:         Sensitive Directories
+Published Date:   2006-02-28
+Author:           anonymous
+GoogleDork:       allintitle:"FirstClass Login"
+Description:      allintitle:"FirstClass Login"
+
+
+allintitle:"FirstClass Login" this is for firstclass directory listingsgo to http://[target]/[path]/Search type just ' in search field and you have a list of downloadable files, you don't see all files on server but you can search for a robots.txt with some folders path or other info for site scructure, crawling in this way you have unauthorized access on all files on the target server

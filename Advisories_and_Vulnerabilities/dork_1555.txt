@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1555
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by React - www.react.nl
+Description:      Powered by React - www.react.nl
+
+
+React software [local file inclusion]: https://www.exploit-db.com/exploits/11943

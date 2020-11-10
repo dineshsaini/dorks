@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3431
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Site powered By Limbo CMS	
+Description:      Site powered By Limbo CMS	
+
+
+Limbo CMS 1.0.4.2 Cuid cookie Blind SQL Injection - CVE: 2008-0734: https://www.exploit-db.com/exploits/5088

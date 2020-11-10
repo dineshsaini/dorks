@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4073
+Category:         Sensitive Directories
+Published Date:   2015-09-07
+Author:           anonymous
+GoogleDork:       intitle:"Index of" "WhatsApp Databases"
+Description:      intitle:"Index of" "WhatsApp Databases"
+
+
+this dork find db.crypt/.db files of whatsapp conversations you can open them with https://code.google.com/p/hotoloti/downloads/detail?name=Whatsapp_Xtract_V2.1_2012-05-10-2.zip&amp; thanks to pmbento --acid_burn9X

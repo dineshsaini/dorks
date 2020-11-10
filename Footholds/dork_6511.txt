@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6511
+Category:         Footholds
+Published Date:   2020-09-01
+Author:           Alexandros Pappas
+GoogleDork:       inurl:/Dashboard.xhtml intitle:"Dashboard"
+Description:      inurl:/Dashboard.xhtml intitle:"Dashboard"
+
+
+# Google Dork: inurl:/Dashboard.xhtml intitle:"Dashboard" # Various exposed dashboards. # Date: 1/09/2020 # Exploit Author: Alexandros Pappas 

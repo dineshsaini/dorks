@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6315
+Category:         Sensitive Directories
+Published Date:   2020-06-22
+Author:           Harsh Wadhwani
+GoogleDork:       Index of: /services/pancard/
+Description:      Index of: /services/pancard/
+
+
+# Google dork: Index of: /services/pancard/ # Exploit Author: Harsh Wadhwani # Description: The dork list out Personally identifiable information on a # website (Sensitive information)  Regards 

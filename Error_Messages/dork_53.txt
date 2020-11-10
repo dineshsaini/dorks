@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/53
+Category:         Error Messages
+Published Date:   2003-08-15
+Author:           anonymous
+GoogleDork:       "Chatologica MetaSearch" "stack tracking"
+Description:      "Chatologica MetaSearch" "stack tracking"
+
+
+There is soo much crap in this error message... Apache version, CGI environment vars, path names, stack-freaking-dumps, process ID's, perl version, yadda yadda yadda...

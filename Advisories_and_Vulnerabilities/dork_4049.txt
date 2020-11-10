@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4049
+Category:         Advisories and Vulnerabilities
+Published Date:   2015-08-12
+Author:           anonymous
+GoogleDork:       allinurl:wp-content/plugins/wptf-image-gallery/
+Description:      allinurl:wp-content/plugins/wptf-image-gallery/
+
+
+Description:- Aribtrary File Download Vuln. Exploit :- www.exploit-db.com/exploits/37751/ Google :- allinurl:wp-content/plugins/wptf-image-gallery/ Sincerely, Zeel Chavda

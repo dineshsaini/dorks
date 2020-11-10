@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4487
+Category:         Error Messages
+Published Date:   2017-05-15
+Author:           anonymous
+GoogleDork:       "--- WebView Livescope Http Server Error ---" -git
+Description:      "--- WebView Livescope Http Server Error ---" -git
+
+
+WebView server errors, mostly found on older servers Dxtroyer

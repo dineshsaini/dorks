@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2830
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intext:"Free Ecommerce Shopping Cart Software by ViArt" +"Your shopping cart is empty!" + "Products Search" +"Advanced Search" + "All Categories"
+Description:      intext:"Free Ecommerce Shopping Cart Software by ViArt" +"Your shopping cart is empty!" + "Products Search" +"Advanced Search" + "All Categories"
+
+
+ViArt Shopping Cart 3.5 Multiple Remote Vulnerabilities - CVE: 2008-6758: https://www.exploit-db.com/exploits/7628

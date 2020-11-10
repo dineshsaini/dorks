@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/503
+Category:         Pages Containing Login Portals
+Published Date:   2004-09-23
+Author:           anonymous
+GoogleDork:       inurl:mewebmail
+Description:      inurl:mewebmail
+
+
+MailEnable Standard Edition provides robust SMTP and POP3 services for Windows NT/2000/XP/2003 systems. This version is free for both personal and commercial usage and does not have any time, user or mailbox restrictions.This search is a portal search. If finds the logins screens. If a vulnerability is found, this search becomes the target base for an attacker.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5510
+Category:         Sensitive Directories
+Published Date:   2019-09-10
+Author:           Mayur Parmar
+GoogleDork:       inurl:/wp-admin/includes/plugin-install.php
+Description:      inurl:/wp-admin/includes/plugin-install.php
+
+
+dork: inurl:/wp-admin/includes/plugin-install.php  Author: Mayur Parmar(th3cyb3rc0p) 

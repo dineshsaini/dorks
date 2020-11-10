@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1922
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "wow roster version 1.*"
+Description:      "wow roster version 1.*"
+
+
+WoW Roster 1.70 (/lib/phpbb.php) Remote File Include Vulnerability: https://www.exploit-db.com/exploits/2109

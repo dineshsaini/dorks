@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1418
+Category:         Various Online Devices
+Published Date:   2006-10-02
+Author:           anonymous
+GoogleDork:       "SnapGear Management Console" "Welcome to the SnapGear Unit!" -pdf
+Description:      "SnapGear Management Console" "Welcome to the SnapGear Unit!" -pdf
+
+
+"Welcome to the SnapGear Unit! To begin configuring your SnapGear unit now, use the menu to the left, or the Quick Setup Wizard .." :)PS: this software looks very much like Cyberguard.

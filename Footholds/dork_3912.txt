@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3912
+Category:         Footholds
+Published Date:   2013-11-25
+Author:           anonymous
+GoogleDork:       intitle:"uploader by ghost-dz" ext:php
+Description:      intitle:"uploader by ghost-dz" ext:php
+
+
+intitle:"uploader by ghost-dz" ext:php

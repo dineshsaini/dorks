@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6383
+Category:         Pages Containing Login Portals
+Published Date:   2020-07-08
+Author:           Alexandros Pappas
+GoogleDork:       "TOPdesk ApplicationServer" inurl:/index.jsp
+Description:      "TOPdesk ApplicationServer" inurl:/index.jsp
+
+
+# Google Dork: "TOPdesk ApplicationServer" inurl:/index.jsp # Pages containing login portals. # Date: 8/07/2020 # Author: Alexandros Pappas 

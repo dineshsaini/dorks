@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2102
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by SoftbizScripts" "ALL JOBS"
+Description:      "Powered by SoftbizScripts" "ALL JOBS"
+
+
+Softbiz Jobs &amp; Recruitment Remote SQL Injection Vulnerability - CVE: 2007-5316: https://www.exploit-db.com/exploits/4504

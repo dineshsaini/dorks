@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4691
+Category:         Files Containing Passwords
+Published Date:   2018-03-07
+Author:           Arya Usha
+GoogleDork:       "database_password" filetype:yml "config/parameters.yml
+Description:      "database_password" filetype:yml "config/parameters.yml
+
+
+Database credentials for mostly CakePHP apps  database_password" filetype:yml "config/parameters.yml"  Thanks Arya Usha 

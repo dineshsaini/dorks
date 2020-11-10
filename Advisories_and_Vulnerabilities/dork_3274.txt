@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3274
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "By Geeklog" "Created this page in" +seconds +powered
+Description:      "By Geeklog" "Created this page in" +seconds +powered
+
+
+Geeklog v1.6.0sr2 - Remote File Upload: https://www.exploit-db.com/exploits/9855

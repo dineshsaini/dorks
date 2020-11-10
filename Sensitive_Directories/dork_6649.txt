@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6649
+Category:         Sensitive Directories
+Published Date:   2020-11-04
+Author:           Alexandros Pappas
+GoogleDork:       "-- Dumping data for table `admin`" | "-- INSERT INTO `admin`" "VALUES" ext:sql | ext:txt | ext:log | ext:env
+Description:      "-- Dumping data for table `admin`" | "-- INSERT INTO `admin`" "VALUES" ext:sql | ext:txt | ext:log | ext:env
+
+
+# Google Dork: "-- Dumping data for table `admin`" | "-- INSERT INTO `admin`" "VALUES" ext:sql | ext:txt | ext:log | ext:env # Sensitive directories containing many times admin usernames and passwords. # Date: 3/11/2020 # Exploit Author: Alexandros Pappas 

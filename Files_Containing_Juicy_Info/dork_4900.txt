@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4900
+Category:         Files Containing Juicy Info
+Published Date:   2018-08-03
+Author:           ManhNho
+GoogleDork:       inurl:"/p3p.xml" | intitle: "p3p.xml" -github.com
+Description:      inurl:"/p3p.xml" | intitle: "p3p.xml" -github.com
+
+
+inurl:"/p3p.xml" | intitle: "p3p.xml" -github.com  p3p.xml files  ManhNho 

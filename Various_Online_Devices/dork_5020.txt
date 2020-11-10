@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5020
+Category:         Various Online Devices
+Published Date:   2018-11-08
+Author:           ManhNho
+GoogleDork:       intitle:"VertrigoServ" + "Welcome to VertrigoServ"
+Description:      intitle:"VertrigoServ" + "Welcome to VertrigoServ"
+
+
+unauthenticated WAMP - admin panel  ManhNho 

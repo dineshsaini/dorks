@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2791
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"com_jphoto"
+Description:      inurl:"com_jphoto"
+
+
+Joomla Component com_jphoto SQL Injection Vulnerability - (id) - CVE: 2009-4598: https://www.exploit-db.com/exploits/10367

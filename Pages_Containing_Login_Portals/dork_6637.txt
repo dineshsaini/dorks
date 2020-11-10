@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6637
+Category:         Pages Containing Login Portals
+Published Date:   2020-10-26
+Author:           Alexandros Pappas
+GoogleDork:       site:sftp.*.*/ intext:"login" intitle:"server login"
+Description:      site:sftp.*.*/ intext:"login" intitle:"server login"
+
+
+# Google Dork: site:sftp.*.*/ intext:"login" intitle:"server login"  # Pages containing login portals.  # Date: 24/10/2020  # Exploit Author: Alexandros Pappas 

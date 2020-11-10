@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4922
+Category:         Pages Containing Login Portals
+Published Date:   2018-08-15
+Author:           Bruno Schmid
+GoogleDork:       intext:"Thank you for using BIG-IP."
+Description:      intext:"Thank you for using BIG-IP."
+
+
+BIG-IP F5 devices footprinting, it gives you login portals and errorcodes for F5  Also try: inurl:my.logout.php3? inurl:"/my.policy" big-ip  Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

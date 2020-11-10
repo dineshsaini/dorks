@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4831
+Category:         Pages Containing Login Portals
+Published Date:   2018-05-25
+Author:           mil1200
+GoogleDork:       allintitle: "Flexi Press System"
+Description:      allintitle: "Flexi Press System"
+
+
+ This dork will show login portal: Flexi Press System  mil1200 

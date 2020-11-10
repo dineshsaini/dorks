@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4971
+Category:         Pages Containing Login Portals
+Published Date:   2018-10-16
+Author:           Bruno Schmid
+GoogleDork:       intitle:login "recruiter" | "employer" | "candidate"
+Description:      intitle:login "recruiter" | "employer" | "candidate"
+
+
+Recruitment and employers login portals.   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

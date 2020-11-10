@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1581
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"com_dailymeals"
+Description:      inurl:"com_dailymeals"
+
+
+Joomla Component com_dailymeals LFI Vulnerability: https://www.exploit-db.com/exploits/10928

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4636
+Category:         Pages Containing Login Portals
+Published Date:   2017-12-11
+Author:           Dxtroyer
+GoogleDork:       inurl:"https://mylogin."
+Description:      inurl:"https://mylogin."
+
+
+Finds login pages, mostly on educational websites  Dxtroyer 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4481
+Category:         Files Containing Juicy Info
+Published Date:   2017-05-11
+Author:           anonymous
+GoogleDork:       "PHP Fatal error: require()" ext:log
+Description:      "PHP Fatal error: require()" ext:log
+
+
+Finds PHP error logs Dxtroyer

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4804
+Category:         Web Server Detection
+Published Date:   2018-05-07
+Author:           ManhNho
+GoogleDork:       intitle:"apache tomcat/" + "Find additional important configuration information in:"
+Description:      intitle:"apache tomcat/" + "Find additional important configuration information in:"
+
+
+intitle:"apache tomcat/" + "Find additional important configuration information in:"  Apache Tomcat web server detected!!!  ManhNho 

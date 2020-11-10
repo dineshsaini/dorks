@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/433
+Category:         Error Messages
+Published Date:   2004-08-14
+Author:           anonymous
+GoogleDork:       filetype:log "PHP Parse error" | "PHP Warning" | "PHP Error"
+Description:      filetype:log "PHP Parse error" | "PHP Warning" | "PHP Error"
+
+
+This search will show an attacker some PHP error logs wich may contain information on wich an attack can be based.

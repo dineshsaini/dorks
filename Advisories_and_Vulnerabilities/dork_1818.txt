@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1818
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intext:PHPhotoalbum v0.5
+Description:      intext:PHPhotoalbum v0.5
+
+
+PHPhotoalbum 0.5 Multiple Remote SQL Injection Vulnerabilities - CVE: 2008-2501: https://www.exploit-db.com/exploits/5683

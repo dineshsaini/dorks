@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6087
+Category:         Files Containing Juicy Info
+Published Date:   2020-05-15
+Author:           ABHIJITH A
+GoogleDork:       intitle:"index of " "users.json"
+Description:      intitle:"index of " "users.json"
+
+
+AUTHOR: ABHIJITH A DESCRIPTION : intitle:"index of " "users.json" Information about user data is obtained 

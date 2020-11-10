@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1324
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-04-05
+Author:           anonymous
+GoogleDork:       "2004-2005 ReloadCMS Team."
+Description:      "2004-2005 ReloadCMS Team."
+
+
+this is for ReloadCMS

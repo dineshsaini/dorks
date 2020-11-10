@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/522
+Category:         Files Containing Juicy Info
+Published Date:   2004-09-29
+Author:           anonymous
+GoogleDork:       +":8080" +":3128" +":80" filetype:txt
+Description:      +":8080" +":3128" +":80" filetype:txt
+
+
+With the string [+":8080" +":3128" +":80" filetype:txt] it is possible to find huge lists of proxies... So, I've written a simple shell script that checks these lists and filters out the not responding proxies. It also stores time response in another file, so you can choose only fast proxies. Furthermore it can control the zone of the proxy with a simple whois grep... The script proxytest.sh is on my website:http://rawlab.relay.homelinux.net/programmi/proxytest.sh

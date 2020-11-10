@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4446
+Category:         Files Containing Passwords
+Published Date:   2017-04-25
+Author:           anonymous
+GoogleDork:       filetype:bak inurl:php "mysql_connect"
+Description:      filetype:bak inurl:php "mysql_connect"
+
+
+PHP backups that contain MySQL database passwords.    filetype:bak inurl:php "mysql_connect"

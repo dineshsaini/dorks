@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1811
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:/phpfootball/
+Description:      inurl:/phpfootball/
+
+
+PHPFootball 1.6 (show.php) Remote Database Disclosure Vulnerability - CVE: 2007-0638: https://www.exploit-db.com/exploits/3226

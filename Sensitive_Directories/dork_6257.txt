@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6257
+Category:         Sensitive Directories
+Published Date:   2020-06-09
+Author:           Hemant Patidar
+GoogleDork:       "index of" "fileadmin"
+Description:      "index of" "fileadmin"
+
+
+Dork: "index of" "fileadmin" Author: Hemant Patidar (HemantSolo) Linkedin: https://www.linkedin.com/in/hemantsolo/  Hemant Patidar  Ethical Hacker | Founder and CEO at Solo Securities,  Cyber Security Analyst at Ismile Technologies  Pursuing B.Tech Civil Engineering from SRM University 

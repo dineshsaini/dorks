@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3482
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by SMF"
+Description:      "Powered by SMF"
+
+
+Simple Machines Forum 1.1 rc2 local inclusion: https://www.exploit-db.com/exploits/2231

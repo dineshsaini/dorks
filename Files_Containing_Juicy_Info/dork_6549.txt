@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6549
+Category:         Files Containing Juicy Info
+Published Date:   2020-09-18
+Author:           Alexandros Pappas
+GoogleDork:       "putty.log" ext:log | ext:cfg | ext:txt
+Description:      "putty.log" ext:log | ext:cfg | ext:txt
+
+
+# Google Dork: "putty.log" ext:log | ext:cfg | ext:txt # Putty logs containing juicy info. # Date: 18/09/2020 # Exploit Author: Alexandros Pappas 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1111
+Category:         Files Containing Passwords
+Published Date:   2005-09-13
+Author:           anonymous
+GoogleDork:       filetype:dat inurl:Sites.dat
+Description:      filetype:dat inurl:Sites.dat
+
+
+If you want to find out FTP passwords from FlashFXP Client, just type this query in google and you'll find files called Sites.dat which contain ftp sites, usernames and passwords. If you want to use it, just install FlashFXP and copy whole section to your sites.dat file (file is in your flashFXP directory).

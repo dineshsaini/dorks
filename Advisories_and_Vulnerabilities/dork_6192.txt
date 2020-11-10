@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6192
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-06-04
+Author:           Abhinav Porwal
+GoogleDork:       inurl:wp-content/plugins/woocommerce
+Description:      inurl:wp-content/plugins/woocommerce
+
+
+Dork: inurl:wp-content/plugins/woocommerce  Description: This google dork lists out Advisories and Vulnerabilities regarding the woo-commerce WordPress plugin. Ref: https://wpvulndb.com/vulnerabilities/10220  Author: Abhinav Porwal 

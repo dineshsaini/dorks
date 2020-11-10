@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/140
+Category:         Files Containing Juicy Info
+Published Date:   2004-03-29
+Author:           anonymous
+GoogleDork:       "Thank you for your order" +receipt
+Description:      "Thank you for your order" +receipt
+
+
+After placing an order via the web, many sites provide a page containing the phrase "Thank you for your order" and provide a receipt for future reference. At the very least, these pages can provide insight into the structure of a web-based shop.

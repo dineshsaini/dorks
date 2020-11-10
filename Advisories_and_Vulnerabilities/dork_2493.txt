@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2493
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       powered by minimal Gallery 0.8
+Description:      powered by minimal Gallery 0.8
+
+
+minimal Gallery 0.8 Remote File Disclosure Vulnerability - CVE: 2008-0259: https://www.exploit-db.com/exploits/4902

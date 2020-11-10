@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/924
+Category:         Pages Containing Login Portals
+Published Date:   2005-03-31
+Author:           anonymous
+GoogleDork:       intitle:endymion.sakÃƒÆ’Ã‚Â©.mail.login.page | inurl:sake.servlet
+Description:      intitle:endymion.sakÃƒÆ’Ã‚Â©.mail.login.page | inurl:sake.servlet
+
+
+sakÃƒÆ’Ã‚Â© Mail, servlet-based web email system, designed for scaling to large numbers of concurrent users. Intended for large universities or enterprise-level mail system

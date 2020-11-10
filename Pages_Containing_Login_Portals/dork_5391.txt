@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5391
+Category:         Pages Containing Login Portals
+Published Date:   2019-08-19
+Author:           Reza Abasi
+GoogleDork:       site:*/admin-login intitle:"Admin Login"
+Description:      site:*/admin-login intitle:"Admin Login"
+
+
+Login page :  site:*/admin-login intitle:"Admin Login" inurl:"/admin-login?view=reset"  Reza Abasi(Turku) 

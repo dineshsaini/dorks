@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4038
+Category:         Advisories and Vulnerabilities
+Published Date:   2015-07-23
+Author:           anonymous
+GoogleDork:       inurl:EndUserPortal.jsp
+Description:      inurl:EndUserPortal.jsp
+
+
+inurl:EndUserPortal.jsp It takes you it brings up login pages for the service desk. https://www.exploit-db.com/exploits/37667/ Author: NumLock90

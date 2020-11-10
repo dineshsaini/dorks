@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4347
+Category:         Various Online Devices
+Published Date:   2016-10-27
+Author:           anonymous
+GoogleDork:       inurl:"-/monitoring" "statistics of JavaMelody"
+Description:      inurl:"-/monitoring" "statistics of JavaMelody"
+
+
+Monitoring of JavaEE applications. Permit to visualize sql request, expire current http user sessions, gather system information etc ... Prunier Charles-Yves

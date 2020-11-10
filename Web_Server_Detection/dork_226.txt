@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/226
+Category:         Web Server Detection
+Published Date:   2004-05-13
+Author:           anonymous
+GoogleDork:       intitle:"300 multiple choices"
+Description:      intitle:"300 multiple choices"
+
+
+This search shows sites that have the 300 error code, but also reveal a server tag at the bottom of the page that an attacker could use to profile a system.

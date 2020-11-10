@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5259
+Category:         Files Containing Juicy Info
+Published Date:   2019-06-18
+Author:           anonymous
+GoogleDork:       docs.google.com/spreadsheets
+Description:      docs.google.com/spreadsheets
+
+
+- `site:https://docs.google.com/spreadsheets/d/ password`  - `site:https://docs.google.com/spreadsheets/d/ password email`  - `site:https://docs.google.com/spreadsheets/d/ username`  - `site:https://docs.google.com/spreadsheets/d/ ssn`  - `site:https://docs.google.com/spreadsheets/d/ passport number` 

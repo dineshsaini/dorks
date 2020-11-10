@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3636
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-12-07
+Author:           anonymous
+GoogleDork:       "Powered by SOOP Portal Raven 1.0b"
+Description:      "Powered by SOOP Portal Raven 1.0b"
+
+
+Submitter: Sun Army - https://www.exploit-db.com/exploits/15703

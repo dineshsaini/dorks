@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1116
+Category:         Various Online Devices
+Published Date:   2005-09-16
+Author:           anonymous
+GoogleDork:       intitle:"netbotz appliance" -inurl:.php -inurl:.asp -inurl:.pdf -inurl:securitypipeline -announces
+Description:      intitle:"netbotz appliance" -inurl:.php -inurl:.asp -inurl:.pdf -inurl:securitypipeline -announces
+
+
+Netbotz devices are made to monitor video, temperature, electricity and door access in server rooms. These systems usually have multiple cameras. The information by itself might not be very dangerous, but someone could use it to plan physical entrance to a server room. This is not good information to have publicly available.

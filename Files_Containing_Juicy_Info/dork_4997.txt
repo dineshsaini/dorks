@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4997
+Category:         Files Containing Juicy Info
+Published Date:   2018-10-24
+Author:           Nirmal Dahal
+GoogleDork:       ext:env intext:APP_ENV= | intext:APP_DEBUG= | intext:APP_KEY=
+Description:      ext:env intext:APP_ENV= | intext:APP_DEBUG= | intext:APP_KEY=
+
+
+*Description: *You can find *"Environment Configuration"* file *(.env)* Of "laravel"* by searching "*ext:env intext:APP_ENV= | intext:APP_DEBUG= | intext:APP_KEY="  Where you can grt "Credentials of database and SMTP servers"*  *Author*: Nirmal Dahal (#Nittam) 

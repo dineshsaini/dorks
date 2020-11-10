@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6651
+Category:         Various Online Devices
+Published Date:   2020-11-04
+Author:           Emre DURMAZ
+GoogleDork:       inurl: 1051/viewer/live/index.html?lang=en
+Description:      inurl: 1051/viewer/live/index.html?lang=en
+
+
+# Google Dork inurl: 1051/viewer/live/index.html?lang=en  # Exploit Author: Emre Durmaz 

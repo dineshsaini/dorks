@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1397
+Category:         Various Online Devices
+Published Date:   2006-06-30
+Author:           anonymous
+GoogleDork:       allintitle:"DVR login"
+Description:      allintitle:"DVR login"
+
+
+softwell Technology "Wit-Eye" DVR.Default user/pass is admin:adminRequires ActiveX

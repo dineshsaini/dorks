@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1382
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-05-30
+Author:           anonymous
+GoogleDork:       intitle:"XOOPS Site" intitle:"Just Use it!" | "powered by xoops (2.0)|(2.0.....)"
+Description:      intitle:"XOOPS Site" intitle:"Just Use it!" | "powered by xoops (2.0)|(2.0.....)"
+
+
+this is the dork for the XOOPS 2.x 'xoopsOption[nocommon]' overwrite vulnerability, advisory &amp; poc exploit:http://retrogod.altervista.org/xoops_20132_incl.html

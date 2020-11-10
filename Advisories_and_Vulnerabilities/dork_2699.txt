@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2699
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Send amazing greetings to your friends and relative!"
+Description:      "Send amazing greetings to your friends and relative!"
+
+
+Greeting card SQL Injection Vulnerability: https://www.exploit-db.com/exploits/13983

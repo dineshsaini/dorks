@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5615
+Category:         Files Containing Juicy Info
+Published Date:   2019-11-04
+Author:           Ismail Tasdelen
+GoogleDork:       intitle:index.of "credential.txt"
+Description:      intitle:index.of "credential.txt"
+
+
+Dork: intitle:index.of "credential.txt"  Author:Ismail Tasdelen  Info: It contains key credential text sensitive information. 

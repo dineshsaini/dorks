@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1744
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered By phpBB Garage 1.2.0"
+Description:      "Powered By phpBB Garage 1.2.0"
+
+
+phpBB Garage 1.2.0 Beta3 Remote SQL Injection Vulnerability - CVE: 2007-6223: https://www.exploit-db.com/exploits/4686

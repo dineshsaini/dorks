@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2700
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Creative Guestbook"
+Description:      "Creative Guestbook"
+
+
+Creative Guestbook 1.0 Multiple Remote Vulnerabilities - CVE: 2007-1479: https://www.exploit-db.com/exploits/3489

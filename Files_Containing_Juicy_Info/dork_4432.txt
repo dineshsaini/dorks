@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4432
+Category:         Files Containing Juicy Info
+Published Date:   2017-04-12
+Author:           anonymous
+GoogleDork:       inurl:"/sitemap.xsd" ext:xsd
+Description:      inurl:"/sitemap.xsd" ext:xsd
+
+
+Finds files leading to sitemaps... Useful for finding login portals and stuff. Dxtroyer

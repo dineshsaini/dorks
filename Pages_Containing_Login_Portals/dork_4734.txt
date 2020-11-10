@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4734
+Category:         Pages Containing Login Portals
+Published Date:   2018-04-02
+Author:           Bruno Schmid
+GoogleDork:       "login" "secure" "intitle:"online banking" -youtube -template -stackoverflow -stackexchange
+Description:      "login" "secure" "intitle:"online banking" -youtube -template -stackoverflow -stackexchange
+
+
+Online banking login portals...  also try: "login" "secure" "intitle:"private banking" -youtube -template -stackoverflow -stackexchange  "login" "secure" "intitle:"investment banking" -youtube -template -stackoverflow -stackexchange    Bruno Schmid 

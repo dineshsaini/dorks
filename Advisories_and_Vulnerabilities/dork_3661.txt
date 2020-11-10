@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3661
+Category:         Advisories and Vulnerabilities
+Published Date:   2011-01-02
+Author:           anonymous
+GoogleDork:       inurl:"/gadmin/index.php"
+Description:      inurl:"/gadmin/index.php"
+
+
+Author: AtT4CKxT3rR0r1ST SQL Injection: www.site.com/gallery.php?id=null[Sql Injection]

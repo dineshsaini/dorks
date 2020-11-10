@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6540
+Category:         Sensitive Directories
+Published Date:   2020-09-15
+Author:           Sahil Saxena
+GoogleDork:       "index of" "users.ibd"
+Description:      "index of" "users.ibd"
+
+
+# Google Dork: "index of" "users.ibd" # Description :- Disclosure of database file tables and sensitive files. # Date: 13/09/2020 # Author: Sahil Saxena # LinkedIn: https://www.linkedin.com/in/sahil-saxena-1333b9174  Thanks, Sahil Saxena 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/641
+Category:         Pages Containing Login Portals
+Published Date:   2004-11-04
+Author:           anonymous
+GoogleDork:       inurl:irc filetype:cgi cgi:irc
+Description:      inurl:irc filetype:cgi cgi:irc
+
+
+CGIIRC is a web-based IRC client. Using a non-transparent proxy an attacker could communicate anonymously by sending direct messages to a contact. Most servers are restricted to one irc server and one or more default channels and will not let allow access to anything else.

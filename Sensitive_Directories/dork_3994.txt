@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3994
+Category:         Sensitive Directories
+Published Date:   2015-02-27
+Author:           anonymous
+GoogleDork:       inurl:/wp-content/wpbackitup_backups
+Description:      inurl:/wp-content/wpbackitup_backups
+
+
+Relates to https://wordpress.org/plugins/wp-backitup/ Sensitive data/site rips/db rips in public accessible folders Mr T3st3r

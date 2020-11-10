@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3252
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "php-addressbook" 					
+Description:      "php-addressbook" 					
+
+
+PHP-Address Book 4.0.x Multiple SQL Injection Vulnerabilities - CVE: 2008-2565: https://www.exploit-db.com/exploits/9023

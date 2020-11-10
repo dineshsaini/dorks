@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1457
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Create your own free webring and bring traffic to your website. Join now, it's free!"
+Description:      "Create your own free webring and bring traffic to your website. Join now, it's free!"
+
+
+Prozilla Webring Website Script (category.php cat) Remote SQL Injection - CVE: 2007-4362: https://www.exploit-db.com/exploits/4284

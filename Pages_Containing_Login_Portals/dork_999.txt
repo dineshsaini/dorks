@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/999
+Category:         Pages Containing Login Portals
+Published Date:   2005-06-07
+Author:           anonymous
+GoogleDork:       intitle:"XcAuctionLite" | "DRIVEN BY XCENT" Lite inurl:admin
+Description:      intitle:"XcAuctionLite" | "DRIVEN BY XCENT" Lite inurl:admin
+
+
+This query reveals login pages for the administration of XcAuction and XcClassified Lite.."XcAuction is a powerful and complete auction package that allows you to add auction capabilities to any web site.""XcClassified allows you to offer free or fee based classified ads to your site visitors. It integrates easily into your existing web site design and offers many features."

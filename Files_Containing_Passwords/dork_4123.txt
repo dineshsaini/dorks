@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4123
+Category:         Files Containing Passwords
+Published Date:   2015-11-11
+Author:           anonymous
+GoogleDork:       intext:smtp | pop3 intext:login | logon intext:password | passcode filetype:xls | filetype:xlsx
+Description:      intext:smtp | pop3 intext:login | logon intext:password | passcode filetype:xls | filetype:xlsx
+
+
+Spreadsheets with pop3 and smtp login details. Decoy

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5699
+Category:         Pages Containing Login Portals
+Published Date:   2020-01-23
+Author:           Reza Abasi
+GoogleDork:       intitle:"Sign in" site:*/idaas/
+Description:      intitle:"Sign in" site:*/idaas/
+
+
+Login Portal:  intitle:"Sign in" site:*/idaas/  Reza Abasi(Turku) 

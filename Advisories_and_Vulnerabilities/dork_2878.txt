@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2878
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "PHPNews Version 0.93"
+Description:      "PHPNews Version 0.93"
+
+
+PHPNews 0.93 (format_menue) Remote File Inclusion Vulnerability - CVE: 2007-4232: https://www.exploit-db.com/exploits/4268

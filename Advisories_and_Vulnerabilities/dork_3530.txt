@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3530
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"phpwcms/index.php?id="
+Description:      inurl:"phpwcms/index.php?id="
+
+
+phpwcms 1.2.6 (Cookie: wcs_user_lang) Local File Include: https://www.exploit-db.com/exploits/2758

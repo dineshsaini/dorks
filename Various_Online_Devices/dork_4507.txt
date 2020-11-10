@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4507
+Category:         Various Online Devices
+Published Date:   2017-05-31
+Author:           anonymous
+GoogleDork:       inurl:"http://ftp.dlink"
+Description:      inurl:"http://ftp.dlink"
+
+
+This dork allows us to find lists of FTP directories of D-Link routers inurl:"http://ftp.dlink" Drok3r

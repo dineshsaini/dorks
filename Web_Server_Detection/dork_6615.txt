@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6615
+Category:         Web Server Detection
+Published Date:   2020-10-15
+Author:           Rahul Parmar
+GoogleDork:       ext:php | intitle:phpinfo "published by the PHP Group"
+Description:      ext:php | intitle:phpinfo "published by the PHP Group"
+
+
+Author: Rahul Parmar Google Dork: ext:php | intitle:phpinfo "published by the PHP Group" Expose PHPinfo file 

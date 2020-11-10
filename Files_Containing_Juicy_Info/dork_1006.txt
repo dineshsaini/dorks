@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1006
+Category:         Files Containing Juicy Info
+Published Date:   2005-06-07
+Author:           anonymous
+GoogleDork:       inurl:XcCDONTS.asp
+Description:      inurl:XcCDONTS.asp
+
+
+This query reveals an .asp script which can often be used to send anonymous emails from fake senders. When combined with a proxy, the usefulness of these scripts is obvious!

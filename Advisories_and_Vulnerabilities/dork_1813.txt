@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1813
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:forum_answer.php?que_id
+Description:      inurl:forum_answer.php?que_id
+
+
+AlstraSoft AskMe Pro 2.1 (profile.php?id) SQL Injection Vulnerability: https://www.exploit-db.com/exploits/14986

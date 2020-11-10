@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/599
+Category:         Pages Containing Login Portals
+Published Date:   2004-10-19
+Author:           anonymous
+GoogleDork:       intitle:"ISPMan : Unauthorized Access prohibited"
+Description:      intitle:"ISPMan : Unauthorized Access prohibited"
+
+
+ISPMan is a distributed system to manage components of ISP from a central management interface.No vulnerabilities are reported to security focus.

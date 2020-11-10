@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1401
+Category:         Pages Containing Login Portals
+Published Date:   2006-08-03
+Author:           anonymous
+GoogleDork:       intitle:"Login to @Mail" (ext:pl | inurl:"index") -dwaffleman
+Description:      intitle:"Login to @Mail" (ext:pl | inurl:"index") -dwaffleman
+
+
+Webmail is a http based email server made by atmail.com. To get to the admin login instead of the regular login add webadmin/ to the url.

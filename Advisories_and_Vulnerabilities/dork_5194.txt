@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5194
+Category:         Advisories and Vulnerabilities
+Published Date:   2019-04-25
+Author:           Amador Aparicio
+GoogleDork:       site:connect.garmin.com inurl:"/modern/profile/"
+Description:      site:connect.garmin.com inurl:"/modern/profile/"
+
+
+Obtain profiles of users of the social network for sportsmen Garmin  Connect.  Reference:  http://www.elladodelmal.com/2019/04/hacking-fitness-via-garmin-connect_24.html  Author: Amador Aparicio, @amadapa  

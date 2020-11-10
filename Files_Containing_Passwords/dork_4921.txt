@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4921
+Category:         Files Containing Passwords
+Published Date:   2018-08-14
+Author:           Rootkit_Pentester
+GoogleDork:       "whoops! there was an error." "db_password"
+Description:      "whoops! there was an error." "db_password"
+
+
+Dork with lots of passwords!.   Dork discover by Rootkit Pentester. 

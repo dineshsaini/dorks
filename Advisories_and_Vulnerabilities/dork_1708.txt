@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1708
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"sticker/sticker.php?id="
+Description:      inurl:"sticker/sticker.php?id="
+
+
+2Capsule (sticker.php id) Remote SQL Injection Vulnerability: https://www.exploit-db.com/exploits/7631

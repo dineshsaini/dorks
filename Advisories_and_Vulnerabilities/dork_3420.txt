@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3420
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "BioScripts"							
+Description:      "BioScripts"							
+
+
+MiniTwitter 0.2b Remote User Options Change - CVE: 2009-2574: https://www.exploit-db.com/exploits/8587

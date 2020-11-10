@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/698
+Category:         Files Containing Juicy Info
+Published Date:   2004-11-23
+Author:           anonymous
+GoogleDork:       "Microsoft (R) Windows * (TM) Version * DrWtsn32 Copyright (C)" ext:log
+Description:      "Microsoft (R) Windows * (TM) Version * DrWtsn32 Copyright (C)" ext:log
+
+
+This file spills a lot of juicy info... in some cases, passwords in the raw dump, but not in any I've found this time around. However, with a computer name, a user name, and various other nuggets of info, this one file seems to sketch the system pretty well.

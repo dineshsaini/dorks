@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/979
+Category:         Various Online Devices
+Published Date:   2005-05-14
+Author:           anonymous
+GoogleDork:       intext:"Powered by: Adobe PrintGear" inurl:admin
+Description:      intext:"Powered by: Adobe PrintGear" inurl:admin
+
+
+Printers equipped with Adobe's PrintGear technologyAdobe's PrintGear technology is a new printing architecture designed specifically for low-cost, high-quality output. At the core of this architecture is a custom chip, the PrintGear Imaging Processor (or PrintGear processor for short). This processor supplies the performance required for high-resolution output, yet helps keep the overall cost of the output device low.

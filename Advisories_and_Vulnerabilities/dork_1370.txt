@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1370
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-05-04
+Author:           anonymous
+GoogleDork:       intext:"Powered by PCPIN.com" -site:pcpin.com -ihackstuff -"works with" -findlaw
+Description:      intext:"Powered by PCPIN.com" -site:pcpin.com -ihackstuff -"works with" -findlaw
+
+
+this is for PCPIN Chat SQL injection/login bypass and arbitrary local inclusion references:http://retrogod.altervista.org/pcpin_504_xpl.htmlhttp://secunia.com/advisories/19708/

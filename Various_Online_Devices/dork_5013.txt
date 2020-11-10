@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5013
+Category:         Various Online Devices
+Published Date:   2018-11-06
+Author:           Sang Bui
+GoogleDork:       inurl:"swagger-ui/index.html"
+Description:      inurl:"swagger-ui/index.html"
+
+
+Searching for the unprotected swagger APIs link. 

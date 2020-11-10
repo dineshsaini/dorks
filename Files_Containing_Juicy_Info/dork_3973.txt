@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3973
+Category:         Files Containing Juicy Info
+Published Date:   2014-11-17
+Author:           anonymous
+GoogleDork:       ext:msg OR ext:eml site:gov OR site:edu
+Description:      ext:msg OR ext:eml site:gov OR site:edu
+
+
+Mails leak by Rootkit.

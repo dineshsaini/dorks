@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6620
+Category:         Various Online Devices
+Published Date:   2020-10-19
+Author:           Alexandros Pappas
+GoogleDork:       inurl:set_config_password.html
+Description:      inurl:set_config_password.html
+
+
+# inurl:set_config_password.html  # HP Printer login portals, where authentication is not set. Attackers can visit the links from the dork output to set Administrator Password.  # Date: 17/10/2020  # Exploit Author: Alexandros Pappas 

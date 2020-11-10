@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2216
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       elkagroup - Image Gallery v1.0 - All right reserved
+Description:      elkagroup - Image Gallery v1.0 - All right reserved
+
+
+elkagroup Image Gallery 1.0 Arbitrary File Upload Vulnerability - CVE: 2009-1446: https://www.exploit-db.com/exploits/8514

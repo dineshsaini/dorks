@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6164
+Category:         Pages Containing Login Portals
+Published Date:   2020-06-02
+Author:           Agrah Jain
+GoogleDork:       inurl:"/forgotpassword.php"
+Description:      inurl:"/forgotpassword.php"
+
+
+# Google Dork inurl:"/forgotpassword.php"  # Description:- Various pages containing forgot password portals which will include various router password page, govt websites, many other companies who have php page of forgot password.  # Author: Agrah Jain # Date: 30-May-2020  

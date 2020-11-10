@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3843
+Category:         Pages Containing Login Portals
+Published Date:   2013-04-09
+Author:           anonymous
+GoogleDork:       intext:Computer Misuse Act inurl:login.aspx
+Description:      intext:Computer Misuse Act inurl:login.aspx
+
+
+Category : Pages containing login portals Description : Dork for finding sensitive login portals Dork : intext:Computer Misuse Act inurl:login.aspx Link : https://encrypted.google.com/#hl=en&amp;output=search&amp;sclient=psy-ab&amp;q=intext:Computer+Misuse+Act+inurl%3Alogin.aspx&amp;oq=intext:Computer+Misuse+Act+inurl%3Alogin.aspx&amp;gs_l=hp.3...1565.1565.0.1684.1.1.0.0.0.0.105.105.0j1.1.0...0.0...1c.1.7.psy-ab.ZaZN16Ureds&amp;pbx=1&amp;bav=on.2,or.r_qf.&amp;bvm=bv.44011176,d.ZWU&amp;fp=7b93b16efbccc178&amp;biw=1362&amp;bih=667 Date : 20/3/2013 Author : Scott Sturrock Email: f00bar'at'linuxmail'dot'org

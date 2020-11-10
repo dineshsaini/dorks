@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2852
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:.asp? Powered by Comersus ASP Shopping Cart
+Description:      inurl:.asp? Powered by Comersus ASP Shopping Cart
+
+
+Comersus ASP Shopping Cart (DD/XSS) Multiple Remote Vulnerabilities: https://www.exploit-db.com/exploits/7259

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6292
+Category:         Files Containing Juicy Info
+Published Date:   2020-06-16
+Author:           Prashant Sharma
+GoogleDork:       "Index of" "/access"
+Description:      "Index of" "/access"
+
+
+Google Dork: "Index of" "/access" Category: Files containing Juicy Info Author: Prashant Sharma LinkedIn: https://www.linkedin.com/in/prashantique/ 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4120
+Category:         Sensitive Directories
+Published Date:   2015-11-11
+Author:           anonymous
+GoogleDork:       inurl:pipermail intitle:index.of parent
+Description:      inurl:pipermail intitle:index.of parent
+
+
+Pipermail Archives Decoy

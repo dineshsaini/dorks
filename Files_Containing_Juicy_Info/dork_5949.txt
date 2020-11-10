@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5949
+Category:         Files Containing Juicy Info
+Published Date:   2020-04-27
+Author:           Alexandros Pappas
+GoogleDork:       intitle:"Index of" db_mysql.inc
+Description:      intitle:"Index of" db_mysql.inc
+
+
+# Google Dork: intitle:"Index of" db_mysql.inc  # Configuration files containing some times database usernames and passwords.  # Date: 27/04/2020  # Author: Alexandros Pappas 

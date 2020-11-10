@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5494
+Category:         Sensitive Directories
+Published Date:   2019-09-03
+Author:           Abhishek Samaddar
+GoogleDork:       inurl:/database* ext:sql intext:index of -site:github.com
+Description:      inurl:/database* ext:sql intext:index of -site:github.com
+
+
+Google Dork: inurl:/database* ext:sql intext:index of -site:github.com  Category: Files Containing Juicy Info. Author:Abhishek Samaddar 

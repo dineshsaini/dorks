@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/345
+Category:         Files Containing Juicy Info
+Published Date:   2004-07-19
+Author:           anonymous
+GoogleDork:       "sets mode: +s"
+Description:      "sets mode: +s"
+
+
+This search reveals secret channels on IRC as revealed by IRC chat logs.

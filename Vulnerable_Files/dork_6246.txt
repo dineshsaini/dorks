@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6246
+Category:         Vulnerable Files
+Published Date:   2020-06-08
+Author:           Priyanka Prasad
+GoogleDork:       index of admin/fckeditor/editor/filemanager/
+Description:      index of admin/fckeditor/editor/filemanager/
+
+
+Dork: index of admin/fckeditor/editor/filemanager/ Description: will show some login and juicy information related to parent directory and details  Author: Priyanka Prasad 

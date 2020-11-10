@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3384
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"modules/articles/index.php?cat_id="
+Description:      inurl:"modules/articles/index.php?cat_id="
+
+
+XOOPS module Articles 1.03 (index.php cat_id) SQL Injection - CVE: 2007-3311: https://www.exploit-db.com/exploits/3594

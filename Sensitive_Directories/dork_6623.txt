@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6623
+Category:         Sensitive Directories
+Published Date:   2020-10-20
+Author:           Alexandros Pappas
+GoogleDork:       inurl:8080 + intext:"httpfileserver 2.3"
+Description:      inurl:8080 + intext:"httpfileserver 2.3"
+
+
+# Google Dork: inurl:8080 + intext:"httpfileserver 2.3"  # Sensitive directories.  # Date: 20/10/2020  # Exploit Author: Alexandros Pappas 

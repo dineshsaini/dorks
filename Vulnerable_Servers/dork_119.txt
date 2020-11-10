@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/119
+Category:         Vulnerable Servers
+Published Date:   2004-03-04
+Author:           anonymous
+GoogleDork:       "Welcome to Intranet"
+Description:      "Welcome to Intranet"
+
+
+According to whatis.com: "An intranet is a private network that is contained within an enterprise. [...] The main purpose of an intranet is to share company information and computing resources among employees [...] and in general looks like a private version of the Internet." Intranets, by definition should not be available to the Internet's unwashed masses as they may contain private corporate information.

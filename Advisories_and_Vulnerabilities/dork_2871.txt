@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2871
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by PHPBasket"
+Description:      "Powered by PHPBasket"
+
+
+PHPBasket (product.php pro_id) SQL Injection Vulnerability - CVE: 2008-3713: https://www.exploit-db.com/exploits/6258

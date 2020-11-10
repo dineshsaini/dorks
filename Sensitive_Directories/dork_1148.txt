@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1148
+Category:         Sensitive Directories
+Published Date:   2005-09-26
+Author:           anonymous
+GoogleDork:       intitle:"Folder Listing" "Folder Listing" Name Size Date/Time File Folder
+Description:      intitle:"Folder Listing" "Folder Listing" Name Size Date/Time File Folder
+
+
+directory listing for Fastream NETFile Web Server

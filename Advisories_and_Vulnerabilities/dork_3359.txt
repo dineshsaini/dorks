@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3359
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "download this free gallery at matteobinda.com"
+Description:      "download this free gallery at matteobinda.com"
+
+
+ASP Photo Gallery 1.0 Multiple SQL Injection Vulnerabilities - CVE: 2008-0256: https://www.exploit-db.com/exploits/4900

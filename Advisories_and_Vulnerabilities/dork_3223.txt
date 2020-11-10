@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3223
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Desenvolvido por: Fio Mental"
+Description:      "Desenvolvido por: Fio Mental"
+
+
+Fiomental &amp; Coolsis Backoffice Multi Vulnerability: https://www.exploit-db.com/exploits/12563

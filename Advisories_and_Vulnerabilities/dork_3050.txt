@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3050
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by ClanAdmin Tools v1.4.2"
+Description:      "Powered by ClanAdmin Tools v1.4.2"
+
+
+ClanWeb 1.4.2 Remote Change Password / Add Admin: https://www.exploit-db.com/exploits/8717

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6454
+Category:         Files Containing Juicy Info
+Published Date:   2020-07-28
+Author:           Alexandros Pappas
+GoogleDork:       "Reflector Dashboard" inurl:/db/index.php/
+Description:      "Reflector Dashboard" inurl:/db/index.php/
+
+
+# Google Dork: "Reflector Dashboard" inurl:/db/index.php/  # Juicy info about Radio Amateur Dashboards.  # Date: 28/07/2020  # Exploit Author: Alexandros Pappas 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3073
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:com_seminar
+Description:      inurl:com_seminar
+
+
+Joomla Component Seminar 1.28 (id) Blind SQL Injection - CVE: 2009-4200: https://www.exploit-db.com/exploits/8867

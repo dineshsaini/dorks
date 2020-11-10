@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2221
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intext:"Powered by CLscript.com"
+Description:      intext:"Powered by CLscript.com"
+
+
+CLScript.com Classifieds Software SQL Injection Vunerability - CVE: 2010-1660: https://www.exploit-db.com/exploits/12423

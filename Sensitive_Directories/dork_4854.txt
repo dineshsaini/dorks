@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4854
+Category:         Sensitive Directories
+Published Date:   2018-06-13
+Author:           edm0nd
+GoogleDork:       intitle:"index of /bins" arm
+Description:      intitle:"index of /bins" arm
+
+
+Description: Find servers infected with mirai  Author: edm0nd 

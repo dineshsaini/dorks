@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3118
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"index.php?css=mid=art="
+Description:      inurl:"index.php?css=mid=art="
+
+
+EasyWay CMS (index.php mid) Remote SQL Injection - CVE: 2008-2555: https://www.exploit-db.com/exploits/5706

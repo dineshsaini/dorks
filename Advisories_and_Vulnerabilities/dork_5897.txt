@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5897
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-04-16
+Author:           Alexandros Pappas
+GoogleDork:       "Powered by PHPBack"
+Description:      "Powered by PHPBack"
+
+
+# Google Dork: "Powered by PHPBack"  # By using this dork, sites "Powered by PHPBack" can be found. PHPBack v1.3.0 is vulnerable to Boolean blind and error based SQL Injection in the 'orderby' parameter. By sending SQL Injection query using MySQL XPATH function ExtractValue() we can grab information from the errors generated. This dork is linked to the following existing exploit: https://www.exploit-db.com/exploits/39711  # Date: 07/04/2020  # Author: Alexandros Pappas 

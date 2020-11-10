@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3307
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Cms.tut.su, 2009 g."
+Description:      "Cms.tut.su, 2009 g."
+
+
+CMS Chainuk 1.2 Multiple Remote Vulnerabilities - CVE: 2009-2333: https://www.exploit-db.com/exploits/9069

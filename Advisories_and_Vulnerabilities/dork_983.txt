@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/983
+Category:         Advisories and Vulnerabilities
+Published Date:   2005-05-30
+Author:           anonymous
+GoogleDork:       inurl:sphpblog intext:"Powered by Simple PHP Blog 0.4.0"
+Description:      inurl:sphpblog intext:"Powered by Simple PHP Blog 0.4.0"
+
+
+simple PHP Blog is vulnerable to mutiple attacks:Vulnerabilities:~~~~~~~~~~~~~~~~A. Full Path disclosuresB. XSS in search.phpC. Critical Information dislosures http://www.securityfocus.com/archive/1/395994

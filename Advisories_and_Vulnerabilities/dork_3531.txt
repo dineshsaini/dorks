@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3531
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intext:"This site is using phpGraphy" | intitle:"my phpgraphy site"
+Description:      intext:"This site is using phpGraphy" | intitle:"my phpgraphy site"
+
+
+PHPGraphy 0.9.12 Privilege Escalation / Commands Execution: https://www.exploit-db.com/exploits/2867

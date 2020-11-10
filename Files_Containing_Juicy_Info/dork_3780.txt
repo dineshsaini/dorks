@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3780
+Category:         Files Containing Juicy Info
+Published Date:   2012-05-15
+Author:           anonymous
+GoogleDork:       ?intitle:index.of?".mysql_history"
+Description:      ?intitle:index.of?".mysql_history"
+
+
+Find some juicy info in .mysql_history files enjoy bastich

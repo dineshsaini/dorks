@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1406
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-08-13
+Author:           anonymous
+GoogleDork:       "powered by minibb forum software"
+Description:      "powered by minibb forum software"
+
+
+This dork is for minibb forum software arbitrary remote inclusion. this is about the unset() issue found by S. Esser: http://www.hardened-php.net/hphp/zend_hash_del_key_or_index_vulnerability.html Try this c codes to calculate hashes if you wanna test the unset() vuln on some other app: http://johnny.ihackstuff.com/index.php?name=PNphpBB2&amp;file=viewtopic&amp;t=3944

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/236
+Category:         Files Containing Juicy Info
+Published Date:   2004-05-14
+Author:           anonymous
+GoogleDork:       filetype:log access.log -CVS
+Description:      filetype:log access.log -CVS
+
+
+These are http server access logs which contain all sorts of information ranging from usernames and passwords to trusted machines on the network to full paths on the server. Could be VERY useful in scoping out a potential target.

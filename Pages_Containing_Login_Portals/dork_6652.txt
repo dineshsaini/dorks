@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6652
+Category:         Pages Containing Login Portals
+Published Date:   2020-11-04
+Author:           Sajan Dhakate
+GoogleDork:       inurl:/eftclient/account/login.htm
+Description:      inurl:/eftclient/account/login.htm
+
+
+# Exploit Title: *inurl:/eftclient/account/login.htm* # Google Dork: *inurl:/eftclient/account/login.htm* # Enhanced File Transfer (EFT) Login portal. EFT from Globalscape is an advanced, powerful managed file transfer (MFT) solution. # Dork Author: Sajan Dhakate  *Thanks &amp; Regards* *Sajan Dhakate* 

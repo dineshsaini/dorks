@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/540
+Category:         Various Online Devices
+Published Date:   2004-10-09
+Author:           anonymous
+GoogleDork:       intitle:"DEFAULT_CONFIG - HP"
+Description:      intitle:"DEFAULT_CONFIG - HP"
+
+
+searches for the web interface of HP switches.

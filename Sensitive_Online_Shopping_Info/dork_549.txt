@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/549
+Category:         Sensitive Online Shopping Info
+Published Date:   2004-10-10
+Author:           anonymous
+GoogleDork:       inurl:midicart.mdb
+Description:      inurl:midicart.mdb
+
+
+MIDICART is s an ASP and PHP based shopping Cart application with MS Access and SQL database. A security vulnerability in the product allows remote attackers to download the product's database, thus gain access to sensitive information about users of the product (name, surname, address, e-mail, phone number, credit card number, and company name).

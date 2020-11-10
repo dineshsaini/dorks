@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/196
+Category:         Files Containing Juicy Info
+Published Date:   2004-05-03
+Author:           anonymous
+GoogleDork:       inurl:tdbin
+Description:      inurl:tdbin
+
+
+This is the default directory for TestDirector (http://www.mercuryinteractive.com/products/testdirector/). This program contains sensitive information including software defect data which should not be publically accessible.

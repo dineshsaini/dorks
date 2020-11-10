@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1793
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "2005 www.frank-karau.de" | "2006 www.frank-karau.de"
+Description:      "2005 www.frank-karau.de" | "2006 www.frank-karau.de"
+
+
+GL-SH Deaf Forum 6.4.4 Local File Inclusion Vulnerabilities - CVE: 2007-3535: https://www.exploit-db.com/exploits/4124

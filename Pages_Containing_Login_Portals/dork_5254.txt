@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5254
+Category:         Pages Containing Login Portals
+Published Date:   2019-06-07
+Author:           Bruno Schmid
+GoogleDork:       inurl:"/vpn/tmindex.html" vpn
+Description:      inurl:"/vpn/tmindex.html" vpn
+
+
+Netscaler &amp; Citrix Gateway VPN login portals   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

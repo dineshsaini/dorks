@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4242
+Category:         Pages Containing Login Portals
+Published Date:   2016-03-23
+Author:           anonymous
+GoogleDork:       intitle:"Login Page" intext:"Phone Adapter Configuration Utility"
+Description:      intitle:"Login Page" intext:"Phone Adapter Configuration Utility"
+
+
+Various online Cisco VOIP devices (SPA 112)! More info: http://www.cisco.com/ Author: Augusto Pereira http://www.augustopereira.com.br

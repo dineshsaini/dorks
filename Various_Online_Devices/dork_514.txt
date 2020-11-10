@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/514
+Category:         Various Online Devices
+Published Date:   2004-09-29
+Author:           anonymous
+GoogleDork:       ("Fiery WebTools" inurl:index2.html) | "WebTools enable * * observe, *, * * * flow * print jobs"
+Description:      ("Fiery WebTools" inurl:index2.html) | "WebTools enable * * observe, *, * * * flow * print jobs"
+
+
+Fiery WebTools offers many of the same capabilities of the Command WorkStationÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢, via a Java-enabled Web browser. All job control options such as job merging, edition and previews, as well as information on the status of the jobs are accessible through Fiery WebTools.

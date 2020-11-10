@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5043
+Category:         Web Server Detection
+Published Date:   2018-12-04
+Author:           CrimsonTorso
+GoogleDork:       "Powered by vShare"
+Description:      "Powered by vShare"
+
+
+Find websites that are used to upload files and videos.  ~ CrimsonTorso 

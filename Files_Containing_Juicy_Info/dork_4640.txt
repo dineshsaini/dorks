@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4640
+Category:         Files Containing Juicy Info
+Published Date:   2017-12-20
+Author:           Huijun Chen
+GoogleDork:       ext:pdf intext:"Category: Password Management: Hardcoded Password" intext:"Issues)"
+Description:      ext:pdf intext:"Category: Password Management: Hardcoded Password" intext:"Issues)"
+
+
+Google Dork: Files Containing Juicy Info Finds Fortify scan reports which contains source code vulnerabilities.  Huijun Chen 

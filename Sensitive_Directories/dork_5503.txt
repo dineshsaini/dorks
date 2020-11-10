@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5503
+Category:         Sensitive Directories
+Published Date:   2019-09-05
+Author:           MiningOmerta
+GoogleDork:       inurl:/scgi-bin*
+Description:      inurl:/scgi-bin*
+
+
+Google Dork Submission for Apache servers, usually publicly facing directories, you might get lucky and find an outdated Cisco Router.  Author: MiningOmerta 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/375
+Category:         Files Containing Juicy Info
+Published Date:   2004-07-26
+Author:           anonymous
+GoogleDork:       inurl:forum filetype:mdb
+Description:      inurl:forum filetype:mdb
+
+
+Microsoft Access databases containing 'forum' information ..

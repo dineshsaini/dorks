@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3738
+Category:         Vulnerable Files
+Published Date:   2011-08-25
+Author:           DigiP
+GoogleDork:       allinurl:forcedownload.php?file=
+Description:      allinurl:forcedownload.php?file=
+
+
+Didn't see this anywhere in the GHDB, but its been known for a while and   widely abused by others.    Google Dork "allinurl:forcedownload.php?file="    Sites that use the forcedownload.php script are vulnerable to url   manipulation, and will spit out any file on the local site, including the   PHP files themselves with all server side code, not the rendered page, but   the source itself. This is most commonly used on wordpress sites to grab the   wp-config.php file to gain access to the database, but is not limited to   wordpress sites. I only list it as an example, so people understand the   weight of flaw.    - DigiP      

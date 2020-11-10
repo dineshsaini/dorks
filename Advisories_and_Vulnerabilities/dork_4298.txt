@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4298
+Category:         Advisories and Vulnerabilities
+Published Date:   2016-06-07
+Author:           anonymous
+GoogleDork:       inurl:"/wp-content/uploads/levoslideshow/"
+Description:      inurl:"/wp-content/uploads/levoslideshow/"
+
+
+Webshell Upload. Wordpress Levo-Slideshow 2.3 inurl:"/wp-content/uploads/levoslideshow/" Decoy

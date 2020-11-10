@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4423
+Category:         Advisories and Vulnerabilities
+Published Date:   2017-04-10
+Author:           Dxtroyer
+GoogleDork:       inurl:"/admin/index.php?msg=" inurl:"%20"
+Description:      inurl:"/admin/index.php?msg=" inurl:"%20"
+
+
+Finds pages that can be XSS'd and edited    e.g.: http://www.site.com/admin/index.php?msg=Click me!    Dxtroyer

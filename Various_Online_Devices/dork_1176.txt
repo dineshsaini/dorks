@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1176
+Category:         Various Online Devices
+Published Date:   2005-11-11
+Author:           anonymous
+GoogleDork:       "This page is for configuring Samsung Network Printer" | printerDetails.htm
+Description:      "This page is for configuring Samsung Network Printer" | printerDetails.htm
+
+
+several different samsung printers

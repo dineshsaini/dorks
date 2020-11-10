@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2595
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:com_awd_song
+Description:      inurl:com_awd_song
+
+
+Joomla JE Awd Song Component Persistent XSS Vulnerability - CVE: 2010-2613: https://www.exploit-db.com/exploits/14059

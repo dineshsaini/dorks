@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6559
+Category:         Pages Containing Login Portals
+Published Date:   2020-09-22
+Author:           Muralikrishna Janga
+GoogleDork:       inurl:"plc login"
+Description:      inurl:"plc login"
+
+
+# Google Dork: inurl:"plc login" # Author: Muralikrishna Janga # Category: Pages Containing Login Portals # Description: Various login portals of Public Limited Companies 

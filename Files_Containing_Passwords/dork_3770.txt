@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3770
+Category:         Files Containing Passwords
+Published Date:   2011-12-27
+Author:           anonymous
+GoogleDork:       (username=* | username:* |) | ( ((password=* | password:*) | (passwd=* | passwd:*) | (credentials=* | credentials:*)) | ((hash=* | hash:*) | (md5:* | md5=*)) | (inurl:auth | inurl:passwd | inurl:pass) ) filetype:log
+Description:      (username=* | username:* |) | ( ((password=* | password:*) | (passwd=* | passwd:*) | (credentials=* | credentials:*)) | ((hash=* | hash:*) | (md5:* | md5=*)) | (inurl:auth | inurl:passwd | inurl:pass) ) filetype:log
+
+
+Logged username, passwords, hashes Author: GhOsT-PR

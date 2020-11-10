@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3754
+Category:         Files Containing Juicy Info
+Published Date:   2011-11-24
+Author:           anonymous
+GoogleDork:       filetype:old (define)(DB_USER|DB_PASS|DB_NAME)
+Description:      filetype:old (define)(DB_USER|DB_PASS|DB_NAME)
+
+
+this dork locates backed up config files filetype:php~ (define)(DB_USER|DB_PASS|DB_NAME) filetype:inc~ (define)(DB_USER|DB_PASS|DB_NAME) filetype:inc (define)(DB_USER|DB_PASS|DB_NAME) filetype:bak (define)(DB_USER|DB_PASS|DB_NAME) Author: Gerald J. Pottier III

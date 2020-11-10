@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/861
+Category:         Pages Containing Login Portals
+Published Date:   2005-02-15
+Author:           anonymous
+GoogleDork:       "Microsoft CRM : Unsupported Browser Version"
+Description:      "Microsoft CRM : Unsupported Browser Version"
+
+
+Microsoft CRM Login portal.MS says:Microsoft CRM integrates with Microsoft Office, Microsoft Business Solutions for Financial Management, and other business systems to give employees a complete view of customer information. The ease of integration with Microsoft Office is of particular valueÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âenabling staff to access Microsoft CRM information from Microsoft Office Outlook and work online or offline with access to sales functionality.

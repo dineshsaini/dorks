@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/969
+Category:         Various Online Devices
+Published Date:   2005-05-02
+Author:           anonymous
+GoogleDork:       intitle:"Freifunk.Net - Status" -site:commando.de
+Description:      intitle:"Freifunk.Net - Status" -site:commando.de
+
+
+Hacked WRT54G Freifunk firmware. The router is based on Linux so after the GPL the source code must be published. some guys from freifunk.net have modified it for their needs.

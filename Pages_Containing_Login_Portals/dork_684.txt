@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/684
+Category:         Pages Containing Login Portals
+Published Date:   2005-03-03
+Author:           anonymous
+GoogleDork:       intitle:"phpPgAdmin - Login" Language
+Description:      intitle:"phpPgAdmin - Login" Language
+
+
+phpPgAdmin is a web-based administration tool for PostgreSQL. It is perfect for PostgreSQL DBAs, newbies and hosting services

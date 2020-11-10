@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6608
+Category:         Files Containing Passwords
+Published Date:   2020-10-13
+Author:           Alexandros Pappas
+GoogleDork:       "db.username" + "db.password" ext:properties
+Description:      "db.username" + "db.password" ext:properties
+
+
+# Google Dork: "db.username" + "db.password" ext:properties  # Files containing usernames and passwords.  # Date: 13/10/2020  # Exploit Author: Alexandros Pappas 

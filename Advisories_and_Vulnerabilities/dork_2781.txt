@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2781
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by cP Creator v2.7.1
+Description:      Powered by cP Creator v2.7.1
+
+
+cP Creator v2.7.1 Remote Sql Injection - CVE: 2009-3330: https://www.exploit-db.com/exploits/9726

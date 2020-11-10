@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4508
+Category:         Various Online Devices
+Published Date:   2017-06-05
+Author:           anonymous
+GoogleDork:       intitle:"webcamXP 5" -download
+Description:      intitle:"webcamXP 5" -download
+
+
+Finds WebcamXP cameras Dxtroyer

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4928
+Category:         Sensitive Directories
+Published Date:   2018-08-20
+Author:           Gionathan Reale
+GoogleDork:       "Index of" "database.sql"
+Description:      "Index of" "database.sql"
+
+
+"Index of" "database.sql"  This Google Dork discovers servers with open directories exposing  database files.   - Gionathan "John" Reale (https://www.exploit-db.com/author/?a=9609) 

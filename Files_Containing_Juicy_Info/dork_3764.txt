@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3764
+Category:         Files Containing Juicy Info
+Published Date:   2011-12-19
+Author:           anonymous
+GoogleDork:       Microsoft-IIS/7.0 intitle:index.of name size
+Description:      Microsoft-IIS/7.0 intitle:index.of name size
+
+
+IIS 7 directory listing. Author: huang 

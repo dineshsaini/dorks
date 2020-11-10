@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3744
+Category:         Footholds
+Published Date:   2011-09-26
+Author:           anonymous
+GoogleDork:       inurl:"amfphp/browser/servicebrowser.swf"
+Description:      inurl:"amfphp/browser/servicebrowser.swf"
+
+
+AMFPHP service browser, debug interface. Author: syddd

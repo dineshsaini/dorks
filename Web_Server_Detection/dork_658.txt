@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/658
+Category:         Web Server Detection
+Published Date:   2004-11-07
+Author:           anonymous
+GoogleDork:       "About Mac OS Personal Web Sharing"
+Description:      "About Mac OS Personal Web Sharing"
+
+
+Mac OS Personal Web Sharing allows Mac OS users to share Folders over the Web.If you open this page you will shown the system's major version as requirement.

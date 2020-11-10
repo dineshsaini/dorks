@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5799
+Category:         Sensitive Directories
+Published Date:   2020-03-17
+Author:           Rohit Gautam
+GoogleDork:       intitle:"index of" "jwt-auth"
+Description:      intitle:"index of" "jwt-auth"
+
+
+Google Dork Query to find out insecure and sensitve settings.yml metadata stored in YML format.  Google Dork Query: *intitle:"index of" "jwt-auth"* 

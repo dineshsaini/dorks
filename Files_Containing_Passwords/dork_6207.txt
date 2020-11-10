@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6207
+Category:         Files Containing Passwords
+Published Date:   2020-06-04
+Author:           Ritik Sahni
+GoogleDork:       "index of" ".env"
+Description:      "index of" ".env"
+
+
+# Title: Sensitive file disclosure containing passwords. # Google Dork: "index of" ".env" # Date: 04/06/2020 # Author: Ritik Sahni 

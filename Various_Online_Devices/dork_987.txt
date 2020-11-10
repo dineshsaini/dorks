@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/987
+Category:         Various Online Devices
+Published Date:   2005-05-31
+Author:           anonymous
+GoogleDork:       intitle:"Dell *" inurl:port_0
+Description:      intitle:"Dell *" inurl:port_0
+
+
+oA few Online Dell Printers, status, paper, toner levels, ips macs, the usual.. (Lexmark and Dell seem to share the same embedded webserver it seems, try changing the vendor name.)

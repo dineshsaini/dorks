@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3632
+Category:         Files Containing Juicy Info
+Published Date:   2010-12-07
+Author:           anonymous
+GoogleDork:       inurl:"config.php.new" +vbulletin
+Description:      inurl:"config.php.new" +vbulletin
+
+
+locates the default configuration file for vBulletin (/includes/config.php.new) Author: MaXe

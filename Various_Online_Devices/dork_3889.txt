@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3889
+Category:         Various Online Devices
+Published Date:   2013-09-24
+Author:           anonymous
+GoogleDork:       inurl:"/cgi-mod/index.cgi"
+Description:      inurl:"/cgi-mod/index.cgi"
+
+
+Returns login pages for various Barracuda Networks branded hardware spam filters and mail archivers. 4N6 Security

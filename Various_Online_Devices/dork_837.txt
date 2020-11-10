@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/837
+Category:         Various Online Devices
+Published Date:   2005-01-27
+Author:           anonymous
+GoogleDork:       allinurl:index.htm?cus?audio
+Description:      allinurl:index.htm?cus?audio
+
+
+This will find webcams made by Sweex, Orite and others. Supports motion detection, ftp, smtp and save to .avi. Needs ActiveX so works for IE/win only ..

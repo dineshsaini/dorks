@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3914
+Category:         Sensitive Directories
+Published Date:   2013-11-25
+Author:           anonymous
+GoogleDork:       intitle:"index of" intext:".ds_store"
+Description:      intitle:"index of" intext:".ds_store"
+
+
+Mac OSX directories -- -[Voluntas Vincit Omnia]- website http://www.erisresearch.org/ Google+ https://plus.google.com/u/0/114827336297709201563

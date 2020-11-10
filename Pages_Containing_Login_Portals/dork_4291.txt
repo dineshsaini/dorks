@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4291
+Category:         Pages Containing Login Portals
+Published Date:   2016-06-01
+Author:           anonymous
+GoogleDork:       inurl:/WebInterface/login.html
+Description:      inurl:/WebInterface/login.html
+
+
+Login Pages for CrushFTP May bring up other programs FTP pages.

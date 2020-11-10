@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4156
+Category:         Various Online Devices
+Published Date:   2015-12-17
+Author:           anonymous
+GoogleDork:       inurl:"cgi-bin" "No password set!" " There is no password set on this router."
+Description:      inurl:"cgi-bin" "No password set!" " There is no password set on this router."
+
+
+Dork reveals panels of router without passwords. Enjoy xD. This Dork discovered by Rootkit Pentester.

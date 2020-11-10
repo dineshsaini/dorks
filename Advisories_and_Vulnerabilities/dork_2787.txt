@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2787
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by bSpeak 1.10"
+Description:      "Powered by bSpeak 1.10"
+
+
+bSpeak 1.10 (forumid) Remote Blind SQL Injection Vulnerability - CVE: 2009-1747: https://www.exploit-db.com/exploits/8751

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1551
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"com_bfsurvey"
+Description:      inurl:"com_bfsurvey"
+
+
+Joomla Component com_bfsurvey LFI Vulnerability - CVE: 2010-2259: https://www.exploit-db.com/exploits/10946

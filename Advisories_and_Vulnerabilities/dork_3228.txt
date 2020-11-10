@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3228
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allinurl:forum_answer.php?que_id=
+Description:      allinurl:forum_answer.php?que_id=
+
+
+AskMe Pro 2.1 (que_id) SQL Injection Vulnerability - CVE: 2007-4085: https://www.exploit-db.com/exploits/12372

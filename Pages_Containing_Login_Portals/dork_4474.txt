@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4474
+Category:         Pages Containing Login Portals
+Published Date:   2017-05-10
+Author:           anonymous
+GoogleDork:       inurl:"member.php?action=login"
+Description:      inurl:"member.php?action=login"
+
+
+Finds logins powered by MyBB Dxtroyer

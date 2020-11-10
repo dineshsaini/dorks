@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1812
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Search Adult Directory:"
+Description:      "Search Adult Directory:"
+
+
+Adult Directory (cat_id) Remote SQL Injection Vulnerability - CVE: 2007-4056: https://www.exploit-db.com/exploits/4238

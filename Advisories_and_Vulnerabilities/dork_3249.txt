@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3249
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered By PHPDug version 2.0.0
+Description:      Powered By PHPDug version 2.0.0
+
+
+PHPDug version 2.0.0 Cross Site Scripting Vulnerability: https://www.exploit-db.com/exploits/11017

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4264
+Category:         Pages Containing Login Portals
+Published Date:   2016-04-14
+Author:           anonymous
+GoogleDork:       inurl:dynamic.php?page=mailbox
+Description:      inurl:dynamic.php?page=mailbox
+
+
+# Exploit Title: Webmail login pages # Google Dork: inurl:dynamic.php?page=mailbox # Date: 04/14/2016 # Author: Stephanie Jensen Summary webmail login pages - many with obvious usernames in search results. Login attempts seem unlimited. 

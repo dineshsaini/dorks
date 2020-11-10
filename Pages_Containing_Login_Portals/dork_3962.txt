@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3962
+Category:         Pages Containing Login Portals
+Published Date:   2014-10-02
+Author:           anonymous
+GoogleDork:       intitle:"virtual office" sonicwall domain
+Description:      intitle:"virtual office" sonicwall domain
+
+
+Network or vulnerability data IP address AD Domain NameLogin entry/method for internal network 

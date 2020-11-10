@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2346
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allintext:"Powered by: TotalCalendar"
+Description:      allintext:"Powered by: TotalCalendar"
+
+
+TotalCalendar 2.402 (view_event.php) Remote SQL Injection Vulns - CVE: 2007-3515: https://www.exploit-db.com/exploits/4130

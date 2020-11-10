@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4322
+Category:         Pages Containing Login Portals
+Published Date:   2016-08-30
+Author:           anonymous
+GoogleDork:       inurl:"/login/login.html" intitle:"Greenbone Security Assistant"
+Description:      inurl:"/login/login.html" intitle:"Greenbone Security Assistant"
+
+
+OpenVAS login page, by neon

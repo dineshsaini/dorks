@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6094
+Category:         Sensitive Directories
+Published Date:   2020-05-18
+Author:           Abhi Chitkara
+GoogleDork:       intitle:"index of" "tinyfilemanager.php"
+Description:      intitle:"index of" "tinyfilemanager.php"
+
+
+Dork: intitle:"index of" "tinyfilemanager.php" Description: This google dork lists out websites with the "tinyfilemanager.php" shell uploaded on them and informs the attacker that a remote shell upload is possible. Author: Abhi Chitkara 

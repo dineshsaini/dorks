@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3558
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"option=com_tophotelmodule"
+Description:      inurl:"option=com_tophotelmodule"
+
+
+CVE: 2009-3368 EDB-ID: This search potentially exposes Joomla Hotel Booking System XSS/SQL Injection Vulnerabilities

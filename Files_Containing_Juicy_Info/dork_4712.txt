@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4712
+Category:         Files Containing Juicy Info
+Published Date:   2018-03-27
+Author:           Bruno Schmid
+GoogleDork:       intitle:"index of" inurl:"paypal" log
+Description:      intitle:"index of" inurl:"paypal" log
+
+
+Juicy info regarding PayPal accounts, Server configurations related to PayPal payments and other sensitive files related to it.    Bruno Schmid 

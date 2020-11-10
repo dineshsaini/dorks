@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6471
+Category:         Pages Containing Login Portals
+Published Date:   2020-08-10
+Author:           Alexandros Pappas
+GoogleDork:       intitle:"OpenWrt - LuCI" "Authorization Required"
+Description:      intitle:"OpenWrt - LuCI" "Authorization Required"
+
+
+# Google Dork: intitle:"OpenWrt - LuCI" "Authorization Required" # Pages containing login portals. # Date: 06/08/2020 # Exploit Author: Alexandros Pappas 

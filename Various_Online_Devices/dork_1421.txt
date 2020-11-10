@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1421
+Category:         Various Online Devices
+Published Date:   2006-10-02
+Author:           anonymous
+GoogleDork:       intitle:Top "Vantage Service Gateway" -inurl:zyxel
+Description:      intitle:Top "Vantage Service Gateway" -inurl:zyxel
+
+
+VSG1200 Vantage Service Gateway (topframe), go up one level for the login page. Vendor page at h**p://www.i-tech.com.au/products/7828_ZYXEL_VSG_1200_Vantage_Service_Management.asp

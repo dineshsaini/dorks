@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3438
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by WikyBlog
+Description:      Powered by WikyBlog
+
+
+WikyBlog v1.7.3rc2 Multiple Vulnerabilities - CVE: 2010-0754: https://www.exploit-db.com/exploits/11560

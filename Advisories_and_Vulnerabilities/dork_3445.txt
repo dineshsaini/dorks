@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3445
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by: Arab Portal v2"
+Description:      "Powered by: Arab Portal v2"
+
+
+Arab Portal v2.x (forum.php qc) Remote SQL Injection - CVE: 2009-2781: https://www.exploit-db.com/exploits/9320

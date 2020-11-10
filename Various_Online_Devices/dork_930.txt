@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/930
+Category:         Various Online Devices
+Published Date:   2005-04-16
+Author:           anonymous
+GoogleDork:       "display printer status" intitle:"Home"
+Description:      "display printer status" intitle:"Home"
+
+
+Xerox Phaser printers.

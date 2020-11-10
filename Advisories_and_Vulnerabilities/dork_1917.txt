@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1917
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"classifieds.php?op=detail_adverts"
+Description:      inurl:"classifieds.php?op=detail_adverts"
+
+
+PHP-Fusion Mod classifieds (lid) Remote SQL Injection Vulnerability - CVE: 2008-5197: https://www.exploit-db.com/exploits/5961

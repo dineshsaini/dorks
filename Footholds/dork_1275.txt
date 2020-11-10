@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1275
+Category:         Footholds
+Published Date:   2006-03-15
+Author:           anonymous
+GoogleDork:       (intitle:"WordPress ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âº Setup Configuration File")|(inurl:"setup-config.php?step=")
+Description:      (intitle:"WordPress ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âº Setup Configuration File")|(inurl:"setup-config.php?step=")
+
+
+Alter setup configuration files.add ?step=1

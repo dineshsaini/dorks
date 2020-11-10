@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4182
+Category:         Footholds
+Published Date:   2016-01-14
+Author:           anonymous
+GoogleDork:       intitle:"Shell I" inurl:revslider inurl:error.php inurl:cmd
+Description:      intitle:"Shell I" inurl:revslider inurl:error.php inurl:cmd
+
+
+Find shells inserted using the revslider vulnerability. -- Stephen Haywood Owner: ASG Consulting averagesecurityguy.info

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1914
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       PHPGÃ©nÃ©alogie fonctionne sur un serveur PHP
+Description:      PHPGÃ©nÃ©alogie fonctionne sur un serveur PHP
+
+
+PHPGenealogy 2.0 (DataDirectory) RFI Vulnerability - CVE: 2009-3541: https://www.exploit-db.com/exploits/9155

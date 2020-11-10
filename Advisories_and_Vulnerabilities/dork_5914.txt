@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5914
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-04-20
+Author:           Alexandros Pappas
+GoogleDork:       inurl:"index.php?option=com_jsjobs"
+Description:      inurl:"index.php?option=com_jsjobs"
+
+
+# Google Dork: inurl:"index.php?option=com_jsjobs"  # By using this dork, sites vulnerable to Joomla! component com_jsjobs - 'customfields.php' SQL Injection, can be found. This dork is linked to the following existing exploit: https://www.exploit-db.com/exploits/47249  # Date: 17/04/2020  # Author: Alexandros Pappas 

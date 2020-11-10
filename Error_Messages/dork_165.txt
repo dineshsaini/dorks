@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/165
+Category:         Error Messages
+Published Date:   2004-04-19
+Author:           anonymous
+GoogleDork:       intitle:"Error Occurred" "The error occurred in" filetype:cfm
+Description:      intitle:"Error Occurred" "The error occurred in" filetype:cfm
+
+
+This is a typical error message from ColdFusion. A good amount of information is available from an error message like this including lines of source code, full pathnames, SQL query info, database name, SQL state info and local time info.

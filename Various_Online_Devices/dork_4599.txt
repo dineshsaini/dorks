@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4599
+Category:         Various Online Devices
+Published Date:   2017-10-23
+Author:           anonymous
+GoogleDork:       inurl:"set_config_networkIPv6.html"
+Description:      inurl:"set_config_networkIPv6.html"
+
+
+Finds lots of HP colour printers hooked up to the internet  Dxtroyer 

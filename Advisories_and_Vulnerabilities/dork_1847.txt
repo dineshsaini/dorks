@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1847
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:index.php?option=com_mambads
+Description:      inurl:index.php?option=com_mambads
+
+
+Mambo Component com_mambads SQL Injection Vulnerability: https://www.exploit-db.com/exploits/11719

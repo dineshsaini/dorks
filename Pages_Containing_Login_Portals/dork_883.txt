@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/883
+Category:         Pages Containing Login Portals
+Published Date:   2005-03-05
+Author:           anonymous
+GoogleDork:       inurl:WCP_USER
+Description:      inurl:WCP_USER
+
+
+WebConnect is client-server based software that provides secure browser based emulation to mainframe, midrange and UNIX systems

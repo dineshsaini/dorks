@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3356
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:com_seyret
+Description:      inurl:com_seyret
+
+
+Joomla Seyret Video Component (com_seyret) Blind SQL Injection: https://www.exploit-db.com/exploits/14172

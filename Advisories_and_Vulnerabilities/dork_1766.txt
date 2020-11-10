@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1766
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:com_filiale
+Description:      inurl:com_filiale
+
+
+Joomla Component Filiale 1.0.4 (idFiliale) SQL Injection Vulnerability - CVE: 2008-1935: https://www.exploit-db.com/exploits/5488

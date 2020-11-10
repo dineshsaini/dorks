@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4170
+Category:         Footholds
+Published Date:   2015-12-31
+Author:           anonymous
+GoogleDork:       crime24 stealer ext:txt
+Description:      crime24 stealer ext:txt
+
+
+crime24 stealer ext:txt atawho-sonadam-hackunity

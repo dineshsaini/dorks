@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1248
+Category:         Various Online Devices
+Published Date:   2006-01-16
+Author:           anonymous
+GoogleDork:       intitle:"::::: INTELLINET IP Camera Homepage :::::" OR inurl:/main_activex.asp OR inurl:/main_applet.cgi
+Description:      intitle:"::::: INTELLINET IP Camera Homepage :::::" OR inurl:/main_activex.asp OR inurl:/main_applet.cgi
+
+
+A variation on Jeffball55's original Intellinet Ip Camera.This search finds several more web cams.A suggested secondary search:"Administrator Menu" "camera Name" "Location" "frame rate" intitle:network.camera -pdfThanks jeffball.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5280
+Category:         Pages Containing Login Portals
+Published Date:   2019-07-15
+Author:           Francis Al Victoriano
+GoogleDork:       intext:Grafana New version available! -grafana.com -grafana.org inurl:/login
+Description:      intext:Grafana New version available! -grafana.com -grafana.org inurl:/login
+
+
+# Exploit Title: Grafana login  # Google Dork: intext:Grafana New Version available! -grafana.com -grafana.org inurl:/login  # Author: Francis Al Victoriano 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1138
+Category:         Vulnerable Files
+Published Date:   2005-09-25
+Author:           anonymous
+GoogleDork:       inurl:cartwiz/store/index.asp
+Description:      inurl:cartwiz/store/index.asp
+
+
+The CartWIZ eCommerce Shopping Cart System will help you build your online store through an interactive web-based e-commerce administration interface.There are, multiple sql injection and xss in cartwiz asp cart.http://neworder.box.sk/explread.php?newsid=13534

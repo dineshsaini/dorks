@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1446
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allinurl: "wordspew-rss.php"
+Description:      allinurl: "wordspew-rss.php"
+
+
+Wordpress Plugin Wordspew Remote SQL Injection Vulnerability - CVE: 2008-0682: https://www.exploit-db.com/exploits/5039

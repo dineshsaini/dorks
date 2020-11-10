@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5627
+Category:         Pages Containing Login Portals
+Published Date:   2019-11-06
+Author:           Reza Abasi
+GoogleDork:       inurl:"/password.php" intitle:"Forgot your password"
+Description:      inurl:"/password.php" intitle:"Forgot your password"
+
+
+Login Portal:  inurl:"/password.php" intitle:"Forgot your password"  Reza Abasi(Turku) 

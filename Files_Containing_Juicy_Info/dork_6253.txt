@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6253
+Category:         Files Containing Juicy Info
+Published Date:   2020-06-09
+Author:           Sagar Banwa
+GoogleDork:       intitle:"index of /" "nginx.conf"
+Description:      intitle:"index of /" "nginx.conf"
+
+
+intitle:"index of /" "nginx.conf"  BY  Sagar Banwa 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1443
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by v1.14 powered by philboard v1.14
+Description:      Powered by v1.14 powered by philboard v1.14
+
+
+W1L3D4 Philboard 1.2 (Blind SQL/XSS) Multiple Remote Vulnerabilities - CVE: 2008-5192: https://www.exploit-db.com/exploits/5958

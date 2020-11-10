@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6337
+Category:         Files Containing Juicy Info
+Published Date:   2020-06-30
+Author:           Sandeep Kumar
+GoogleDork:       "-----BEGIN RSA PRIVATE KEY-----" inurl:id_rsa
+Description:      "-----BEGIN RSA PRIVATE KEY-----" inurl:id_rsa
+
+
+Dork: "-----BEGIN RSA PRIVATE KEY-----" inurl:id_rsa Description: Some hashes (passwords, certs, etc.) Author: Sandeep Kumar 

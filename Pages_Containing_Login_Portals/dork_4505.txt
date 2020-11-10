@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4505
+Category:         Pages Containing Login Portals
+Published Date:   2017-05-29
+Author:           anonymous
+GoogleDork:       inurl:"http://webmail."
+Description:      inurl:"http://webmail."
+
+
+Finds various webmail servers. Dxtroyer

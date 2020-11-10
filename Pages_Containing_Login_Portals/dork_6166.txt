@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6166
+Category:         Pages Containing Login Portals
+Published Date:   2020-06-02
+Author:           Agrah Jain
+GoogleDork:       inurl:adminlogin.htm
+Description:      inurl:adminlogin.htm
+
+
+# Google Dork inurl:adminlogin.htm  # Description:- list of admin login page of various websites.  # Author: Agrah Jain # Date: 30-May-2020  

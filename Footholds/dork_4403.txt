@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4403
+Category:         Footholds
+Published Date:   2017-03-01
+Author:           anonymous
+GoogleDork:       inurl:?filesrc=**** ~"Current" ~"asp"
+Description:      inurl:?filesrc=**** ~"Current" ~"asp"
+
+
+Also here are more different uploaded shell names. inurl:"?filesrc=//" "Upload" ~admin    -Xploit 

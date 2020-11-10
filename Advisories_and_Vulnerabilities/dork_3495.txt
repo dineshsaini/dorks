@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3495
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by BLOG:CMS"|"Powered by blogcms.com"|"2003-2004, Radek Hulán"
+Description:      "Powered by BLOG:CMS"|"Powered by blogcms.com"|"2003-2004, Radek Hulán"
+
+
+BLOG:CMS 4.0.0k Remote SQL Injection - CVE: 2006-3364: https://www.exploit-db.com/exploits/1960

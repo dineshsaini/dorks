@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1478
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "2007 RADIOZAZA www.radiozaza.de? istek hatti Version 2.5"
+Description:      "2007 RADIOZAZA www.radiozaza.de? istek hatti Version 2.5"
+
+
+Radio istek scripti 2.5 Remote Configuration Disclosure Vulnerability - CVE: 2009-4096: https://www.exploit-db.com/exploits/10231

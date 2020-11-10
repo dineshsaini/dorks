@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2446
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:news.php?mode=voir
+Description:      inurl:news.php?mode=voir
+
+
+TR News 2.1 (nb) Remote SQL Injection Vulnerability - CVE: 2008-1957: https://www.exploit-db.com/exploits/5483

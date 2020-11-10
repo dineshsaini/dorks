@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4827
+Category:         Sensitive Directories
+Published Date:   2018-05-17
+Author:           Bruno Schmid
+GoogleDork:       inurl:"RootFolder=" Allitems "confidential" | "classified" | "passwords" | username
+Description:      inurl:"RootFolder=" Allitems "confidential" | "classified" | "passwords" | username
+
+
+SharePoint directories exposing sensitive information, usernames and somtimes passwords    Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

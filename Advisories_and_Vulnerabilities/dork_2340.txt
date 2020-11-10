@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2340
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intitle:USP FOSS Distribution
+Description:      intitle:USP FOSS Distribution
+
+
+USP FOSS Distribution 1.01 (dnld) Remote File Disclosure Vulnerability - CVE: 2007-2271: https://www.exploit-db.com/exploits/3794

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3030
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:com_n-forms
+Description:      inurl:com_n-forms
+
+
+Joomla Component n-forms 1.01 Blind SQL Injection: https://www.exploit-db.com/exploits/6055

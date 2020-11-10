@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4823
+Category:         Files Containing Passwords
+Published Date:   2018-05-16
+Author:           Bruno Schmid
+GoogleDork:       intitle:"index.of" inurl:"cvs" login | passwd | password | access | pass -github -pub
+Description:      intitle:"index.of" inurl:"cvs" login | passwd | password | access | pass -github -pub
+
+
+Files and directories containing passwords and other juicy info   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

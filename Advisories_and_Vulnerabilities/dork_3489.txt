@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3489
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Realizzato utilizzando Web Portal
+Description:      Realizzato utilizzando Web Portal
+
+
+WebPortal CMS 0.6-beta Remote Password Change - CVE: 2008-0142: https://www.exploit-db.com/exploits/4835

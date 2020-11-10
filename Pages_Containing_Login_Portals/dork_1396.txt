@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1396
+Category:         Pages Containing Login Portals
+Published Date:   2006-06-29
+Author:           anonymous
+GoogleDork:       intitle:Ampache intitle:"love of music" password | login | "Remember Me." -welcome
+Description:      intitle:Ampache intitle:"love of music" password | login | "Remember Me." -welcome
+
+
+Ampache is a Web-based MP3/Ogg/RM/Flac/WMA/M4A manager. It allows you to view, edit, and play your audio files via HTTP/IceCast/Mpd or Moosic. It has support for downsampling, playlists, artist, and album views, album art, random play, song play tracking, user themes, and remote catalogs using XML-RPC.

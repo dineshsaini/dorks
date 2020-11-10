@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6287
+Category:         Footholds
+Published Date:   2020-06-16
+Author:           Rishabh Chaplot
+GoogleDork:       inurl:/download_file/ intext:"index of /"
+Description:      inurl:/download_file/ intext:"index of /"
+
+
+inurl:/download_file/ intext:"index of /"  ---- Regards, Rishabh Chaplot 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5752
+Category:         Sensitive Directories
+Published Date:   2020-02-24
+Author:           Sagar Banwa
+GoogleDork:       inurl:concrete/config/
+Description:      inurl:concrete/config/
+
+
+Interesting directories from concrete5 cms exploiting directory listing.  inurl:concrete/config/  Interesting directories from concrete5 cms exploiting directory listing shoing config dir.  By Sagar Banwa 

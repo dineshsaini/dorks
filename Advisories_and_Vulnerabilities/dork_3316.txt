@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3316
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Site powered by GuppY"
+Description:      "Site powered by GuppY"
+
+
+GuppY 4.6.3 (includes.inc selskin) Remote File Inclusion Vulnerability - CVE: 2007-5844: https://www.exploit-db.com/exploits/4602

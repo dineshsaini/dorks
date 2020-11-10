@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2914
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Platform Dokeos 1.8.4 Â© 2007
+Description:      Platform Dokeos 1.8.4 Â© 2007
+
+
+Dokeos 1.8.4 Bypass Upload Shell From Your Profile Vulnerability - CVE: 2007-6479: https://www.exploit-db.com/exploits/4753

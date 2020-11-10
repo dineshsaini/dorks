@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5909
+Category:         Pages Containing Login Portals
+Published Date:   2020-04-16
+Author:           Reza Abasi
+GoogleDork:       site:*/PassRecover
+Description:      site:*/PassRecover
+
+
+Login Portal:  site:*/PassRecover  Reza Abasi(Turku) 

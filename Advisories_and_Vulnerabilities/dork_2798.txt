@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2798
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Copyright-2008@zeejobsite.com"
+Description:      "Copyright-2008@zeejobsite.com"
+
+
+ZEEJOBSITE 2.0 Remote File Upload Vulnerability - CVE: 2008-6913: https://www.exploit-db.com/exploits/7062

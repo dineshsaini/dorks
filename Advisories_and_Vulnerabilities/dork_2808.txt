@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2808
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:/component/jesectionfinder/
+Description:      inurl:/component/jesectionfinder/
+
+
+Joomla Component JE Section Finder LFI Vulnerability - CVE: 2010-2680: https://www.exploit-db.com/exploits/14064

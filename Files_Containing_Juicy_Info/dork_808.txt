@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/808
+Category:         Files Containing Juicy Info
+Published Date:   2005-01-02
+Author:           anonymous
+GoogleDork:       Peoples MSN contact lists
+Description:      Peoples MSN contact lists
+
+
+This will give msn contact lists .. modify the "msn" to what ever you feel is messenger related

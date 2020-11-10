@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6486
+Category:         Various Online Devices
+Published Date:   2020-08-20
+Author:           Alexandros Pappas
+GoogleDork:       intitle:"Tuxedo Connected Controller"
+Description:      intitle:"Tuxedo Connected Controller"
+
+
+# Google Dork: intitle:"Tuxedo Connected Controller" # Web based home automation control pages. # Date: 20/08/2020 # Exploit Author: Alexandros Pappas 

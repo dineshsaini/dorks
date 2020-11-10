@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5279
+Category:         Footholds
+Published Date:   2019-07-15
+Author:           ManhNho
+GoogleDork:       inurl:/phpmyadmin/index.php?db=
+Description:      inurl:/phpmyadmin/index.php?db=
+
+
+inurl:/phpmyadmin/index.php?db=  phpmyadmin authenticated panel  ManhNho 

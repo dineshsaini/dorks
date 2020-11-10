@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2901
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "powered by real-estate-website"
+Description:      "powered by real-estate-website"
+
+
+Real Estate Web Site 1.0 (SQL/XSS) Multiple Remote Vulnerabilities: https://www.exploit-db.com/exploits/5763

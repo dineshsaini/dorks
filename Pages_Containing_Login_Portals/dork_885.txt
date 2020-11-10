@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/885
+Category:         Pages Containing Login Portals
+Published Date:   2005-03-15
+Author:           anonymous
+GoogleDork:       intitle:"Kurant Corporation StoreSense" filetype:bok
+Description:      intitle:"Kurant Corporation StoreSense" filetype:bok
+
+
+These are Kurant StoreSense admin logon pages.

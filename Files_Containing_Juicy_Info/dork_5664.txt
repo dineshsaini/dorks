@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5664
+Category:         Files Containing Juicy Info
+Published Date:   2019-12-10
+Author:           Eka Syahwan
+GoogleDork:       Navicat MySQL Data Transfer filetype:sql
+Description:      Navicat MySQL Data Transfer filetype:sql
+
+
+# Google Dork : Navicat MySQL Data Transfer filetype:sql # Category : Files Containing Juicy Info # Date : 10-12-2019 # Author : Eka Syahwan 

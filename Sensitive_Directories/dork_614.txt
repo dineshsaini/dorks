@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/614
+Category:         Sensitive Directories
+Published Date:   2004-10-25
+Author:           anonymous
+GoogleDork:       index.of.dcim
+Description:      index.of.dcim
+
+
+The DCIM directory is the default name for a few brands of digital camers. This is not a big network security risk, but like netcams it can reveal juicy details if found on corporate intranets.

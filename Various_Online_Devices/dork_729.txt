@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/729
+Category:         Various Online Devices
+Published Date:   2004-11-30
+Author:           anonymous
+GoogleDork:       inurl:"ipp/pdisplay.htm"
+Description:      inurl:"ipp/pdisplay.htm"
+
+
+Providing a standout printing solution, Novell iPrint offers secure print services that extend across multiple networks and operating systemsÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âbringing the power of the Net to your business environment. This search locates various online printers.

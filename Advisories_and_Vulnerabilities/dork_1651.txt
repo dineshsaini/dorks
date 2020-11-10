@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1651
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "© 2004 PHPKick.de Version 0.8"
+Description:      "© 2004 PHPKick.de Version 0.8"
+
+
+PHPKick v0.8 statistics.php SQL Injection - CVE: 2010-3029: https://www.exploit-db.com/exploits/14578

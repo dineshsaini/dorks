@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/680
+Category:         Files Containing Juicy Info
+Published Date:   2004-11-16
+Author:           anonymous
+GoogleDork:       ext:cgi inurl:editcgi.cgi inurl:file=
+Description:      ext:cgi inurl:editcgi.cgi inurl:file=
+
+
+This was inspired by the K-Otic report. Only two results at time of writing. The cgi script lets you view any file on the system, including /etc/.. (guess it ;)http://www.k-otik.com/exploits/08242004.Axis.sh.php

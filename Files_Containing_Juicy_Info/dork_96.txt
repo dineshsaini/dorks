@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/96
+Category:         Files Containing Juicy Info
+Published Date:   2004-03-04
+Author:           anonymous
+GoogleDork:       "robots.txt" "Disallow:" filetype:txt
+Description:      "robots.txt" "Disallow:" filetype:txt
+
+
+The robots.txt file serves as a set of instructions for web crawlers. The "disallow" tag tells a web crawler where NOT to look, for whatever reason. Hackers will always go to those places first!

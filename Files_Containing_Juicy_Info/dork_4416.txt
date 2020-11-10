@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4416
+Category:         Files Containing Juicy Info
+Published Date:   2017-04-07
+Author:           anonymous
+GoogleDork:       "PGP SIGNED MESSAGE-----" inurl:"md5sums"
+Description:      "PGP SIGNED MESSAGE-----" inurl:"md5sums"
+
+
+FInds sums (MD5, SHA1, etc) that people don't want you to see! Dxtroyer

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/769
+Category:         Various Online Devices
+Published Date:   2004-12-13
+Author:           anonymous
+GoogleDork:       intitle:"Spam Firewall" inurl:"8000/cgi-bin/index.cgi"
+Description:      intitle:"Spam Firewall" inurl:"8000/cgi-bin/index.cgi"
+
+
+The Barracuda Spam Firewall is an integrated hardware and software solution for complete protection of your email server. It provides a powerful, easy to use, and affordable solution to eliminating spam and virus from your organization.

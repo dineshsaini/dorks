@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/108
+Category:         Web Server Detection
+Published Date:   2004-03-04
+Author:           anonymous
+GoogleDork:       intitle:"Test Page for Apache" "It Worked!"
+Description:      intitle:"Test Page for Apache" "It Worked!"
+
+
+This is the default web page for Apache 1.2.6 - 1.3.9. Hackers can use this information to determine the version of the web server, or to search Google for vulnerable targets. In addition, this indicates that the web server is not well maintained.

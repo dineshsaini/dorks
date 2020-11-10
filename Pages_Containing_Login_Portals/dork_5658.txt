@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5658
+Category:         Pages Containing Login Portals
+Published Date:   2019-11-26
+Author:           MiningOmerta
+GoogleDork:       site:*/my.policy
+Description:      site:*/my.policy
+
+
+#Author: MiningOmerta #Google Dork Submission #This takes you to some log-in pages, some to logged-out pages, and others to juicy info.   site:*/my.policy 

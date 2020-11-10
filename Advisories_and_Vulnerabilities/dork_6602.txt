@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6602
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-10-09
+Author:           Alexandros Pappas
+GoogleDork:       intext:"Published with Textpattern CMS"
+Description:      intext:"Published with Textpattern CMS"
+
+
+# Google Dork: intext:"Published with Textpattern CMS"  # Textpattern CMS 4.6.2 - 'body' Persistent Cross-Site Scripting. https://www.exploit-db.com/exploits/48861  # Date: 9/10/2020  # Exploit Author: Alexandros Pappas 

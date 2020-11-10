@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/864
+Category:         Advisories and Vulnerabilities
+Published Date:   2005-02-09
+Author:           anonymous
+GoogleDork:       "Powered by MercuryBoard [v1"
+Description:      "Powered by MercuryBoard [v1"
+
+
+Exploit for MercuryBoard:http://www.securityfocus.com/archive/1/389881/2005-02-06/2005-02-12/0Enter the following search:"Powered by MercuryBoard [v1"And the exploit does work!

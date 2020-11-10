@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6299
+Category:         Footholds
+Published Date:   2020-06-17
+Author:           Viraj Mota
+GoogleDork:       intitle:"index of" "admin/xml"
+Description:      intitle:"index of" "admin/xml"
+
+
+Google Dork: intitle:"index of" "admin/xml" Exploit Author: Viraj Mota Description: This Google dork lists out sensitive XML file stored in the admin folder for a website.  Best regards, Viraj Mota 

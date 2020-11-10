@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6176
+Category:         Files Containing Juicy Info
+Published Date:   2020-06-04
+Author:           Apurva Badave
+GoogleDork:       intitle:"index of" "var/log/"
+Description:      intitle:"index of" "var/log/"
+
+
+Google Dork: intitle:"index of" "var/log/" Date: 2020-05-30 Exploit Author: Apurva Badave Description: This Google dork shows juicy information about different logs used by the website. Logs like connector.log, debug log,system.log, exception.log, etc  Thanks, Apurva Badave 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4696
+Category:         Files Containing Juicy Info
+Published Date:   2018-03-12
+Author:           ManhNho
+GoogleDork:       inurl:"/etc/fail2ban/" + ext:conf
+Description:      inurl:"/etc/fail2ban/" + ext:conf
+
+
+inurl:"/etc/fail2ban/" + ext:conf   Fail2ban config files  inurl:"/etc/fail2ban/filter.d/" + ext:conf  Fail2ban filter.d config files    ManhNho 

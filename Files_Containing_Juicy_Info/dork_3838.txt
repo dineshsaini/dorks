@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3838
+Category:         Files Containing Juicy Info
+Published Date:   2013-04-09
+Author:           anonymous
+GoogleDork:       inurl:"php?id=" intext:"DB_Error Object "
+Description:      inurl:"php?id=" intext:"DB_Error Object "
+
+
+Description: Files containing juicy info Author:ruben_linux

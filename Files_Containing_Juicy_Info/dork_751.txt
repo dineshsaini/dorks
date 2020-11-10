@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/751
+Category:         Files Containing Juicy Info
+Published Date:   2004-12-05
+Author:           anonymous
+GoogleDork:       php-addressbook "This is the addressbook for *" -warning
+Description:      php-addressbook "This is the addressbook for *" -warning
+
+
+php-addressbook shows user address information without a password.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4134
+Category:         Pages Containing Login Portals
+Published Date:   2015-11-19
+Author:           anonymous
+GoogleDork:       intext:"Roundcube Webmail" intitle:"Welcome to Roundcube Webmail" -site:roundcube.net
+Description:      intext:"Roundcube Webmail" intitle:"Welcome to Roundcube Webmail" -site:roundcube.net
+
+
+Roundcube Webmail Login Portals. Decoy

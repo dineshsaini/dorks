@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3499
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "This forum powered by Phorum."
+Description:      "This forum powered by Phorum."
+
+
+Phorum 5 (pm.php) Arbitrary Local Inclusion - CVE: 2006-3611: https://www.exploit-db.com/exploits/2008

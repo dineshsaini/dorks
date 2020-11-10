@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3743
+Category:         Vulnerable Servers
+Published Date:   2011-09-26
+Author:           anonymous
+GoogleDork:       inurl:view.php?board1_sn=
+Description:      inurl:view.php?board1_sn=
+
+
+locates a webapp vulnerable to SQL injection

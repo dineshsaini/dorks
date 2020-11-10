@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2651
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "by in-link" or "Powered by In-Link 2."
+Description:      "by in-link" or "Powered by In-Link 2."
+
+
+In-link 2.3.4 (ADODB_DIR) Remote File Include Vulnerabilities: https://www.exploit-db.com/exploits/2295

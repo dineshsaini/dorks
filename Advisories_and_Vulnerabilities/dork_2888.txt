@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2888
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Scientific Image DataBase"
+Description:      "Scientific Image DataBase"
+
+
+Scientific Image DataBase 0.41 Blind SQL Injection - CVE: 2008-2834: https://www.exploit-db.com/exploits/5885

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4325
+Category:         Files Containing Juicy Info
+Published Date:   2016-09-05
+Author:           anonymous
+GoogleDork:       inurl:wp-content/debug.log
+Description:      inurl:wp-content/debug.log
+
+
+According to the Wordpress docs at https://codex.wordpress.org/Debugging_in_WordPress the option exists to enable a debug log for a number of actions in Wordpress. In true Wordpress style, this file is dropped into a web-readable directly, with no consideration for who may be able to read the file. Being a debug log, as you would expect this file can include full SQL queries, full file paths, usernames, passwords and all other other detail you'd expect in a debug log! Of course, Google has picked up a number of these files, and I'm sure there are many more just a quick scan away probably only protected by robots.txt files. GHDB Entry: https://google.com/search?q=inurl:wp-content/debug.log James

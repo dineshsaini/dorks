@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1853
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered By IP.Board 3.0.0 Beta 5"
+Description:      "Powered By IP.Board 3.0.0 Beta 5"
+
+
+Invision Power Board 3.0.0b5 Active XSS &amp; Path Disclosure Vulns: https://www.exploit-db.com/exploits/8538

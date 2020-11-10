@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3407
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:/webquest/soporte_derecha_w.php?
+Description:      inurl:/webquest/soporte_derecha_w.php?
+
+
+PHP Webquest 2.5 (id_actividad) Remote SQL Injection - CVE: 2007-4920: https://www.exploit-db.com/exploits/4407

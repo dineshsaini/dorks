@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3406
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by Burning Board Lite 1.0.2" or "Powered by Burning Board 2.3.6"
+Description:      "Powered by Burning Board Lite 1.0.2" or "Powered by Burning Board 2.3.6"
+
+
+Woltlab Burning Board 1.0.2, 2.3.6 search.php SQL Injection - CVE: 2007-0388: https://www.exploit-db.com/exploits/3143

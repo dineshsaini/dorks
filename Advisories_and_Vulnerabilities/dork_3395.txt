@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3395
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Splatt Forum©"
+Description:      "Splatt Forum©"
+
+
+PHP-Nuke Module splattforum 4.0 RC1 Local File Inclusion - CVE: 2007-1633: https://www.exploit-db.com/exploits/3518

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6037
+Category:         Files Containing Juicy Info
+Published Date:   2020-05-06
+Author:           Abhi Chitkara
+GoogleDork:       intitle:"index of" "google-api-private-key.json"
+Description:      intitle:"index of" "google-api-private-key.json"
+
+
+Dork: intitle:"index of" "google-api-private-key.json" Description: This google dork lists out google api private keys in web servers. Author: Abhi Chitkara 

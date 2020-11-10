@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1937
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by sendcard - an advanced PHP e-card program" -site:sendcard.org
+Description:      "Powered by sendcard - an advanced PHP e-card program" -site:sendcard.org
+
+
+Sendcard 3.4.1 (sendcard.php form) Local File Inclusion Vulnerability - CVE: 2007-2471: https://www.exploit-db.com/exploits/3827

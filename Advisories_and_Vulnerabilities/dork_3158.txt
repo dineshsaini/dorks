@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3158
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"com_ajaxchat"
+Description:      inurl:"com_ajaxchat"
+
+
+Joomla Ajax Chat 1.0 remote file inclusion - CVE: 2009-3822: https://www.exploit-db.com/exploits/9888

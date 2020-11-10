@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4526
+Category:         Files Containing Juicy Info
+Published Date:   2017-06-14
+Author:           anonymous
+GoogleDork:       inurl:app/config/ intext:parameters.yml intitle:index.of
+Description:      inurl:app/config/ intext:parameters.yml intitle:index.of
+
+
+Category: Files Containing Passwords Query: inurl:app/config/ intext:parameters.yml intitle:index.of Target: Symfony (PHP Framework) Contains: - database &amp; e-mail credentials - secret 

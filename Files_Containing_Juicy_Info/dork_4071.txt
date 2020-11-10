@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4071
+Category:         Files Containing Juicy Info
+Published Date:   2015-09-02
+Author:           anonymous
+GoogleDork:       site:.edu | .gov ext:bkf | ext:bkp | ext:bak | ext:old | ext:backup
+Description:      site:.edu | .gov ext:bkf | ext:bkp | ext:bak | ext:old | ext:backup
+
+
+Dork : site:.edu | .gov ext:bkf | ext:bkp | ext:bak | ext:old | ext:backup This Will help to grab the Backup and old file of the (.gov and .edu) Website's By : Mishra Dhiraj (D)

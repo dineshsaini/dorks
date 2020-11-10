@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3853
+Category:         Pages Containing Login Portals
+Published Date:   2013-08-08
+Author:           anonymous
+GoogleDork:       intitle:"VNC Viewer for Java"
+Description:      intitle:"VNC Viewer for Java"
+
+
+VNC Viewer for Java ~4N6 Security~

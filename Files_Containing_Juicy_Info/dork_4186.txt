@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4186
+Category:         Files Containing Juicy Info
+Published Date:   2016-01-25
+Author:           anonymous
+GoogleDork:       intext:"Microsoft(R) Server Maintenance Utility (Unicode)" ext:txt
+Description:      intext:"Microsoft(R) Server Maintenance Utility (Unicode)" ext:txt
+
+
+Details: Search result shows Txt files. Text files contains database information+server path disclosure+different db queries.  (¯`·._.·[ Silent_Z3R0 ]·._.·´¯)(¯`·._.·[ Pak Cyber Army ]·._.·´¯)

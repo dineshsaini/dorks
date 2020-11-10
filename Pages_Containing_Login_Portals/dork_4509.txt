@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4509
+Category:         Pages Containing Login Portals
+Published Date:   2017-06-05
+Author:           anonymous
+GoogleDork:       intitle:"Dell SonicWALL - Authentication"
+Description:      intitle:"Dell SonicWALL - Authentication"
+
+
+Finds tons upon tons of Dell SonicWALL firewall servers Dxtroyer

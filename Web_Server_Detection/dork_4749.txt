@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4749
+Category:         Web Server Detection
+Published Date:   2018-04-06
+Author:           _palonE
+GoogleDork:       intitle:"miniProxy"
+Description:      intitle:"miniProxy"
+
+
+This dork finds this little script: (https://github.com/joshdick/miniProxy). This will provide free proxies to use for browsing or, as it is usable with GET parameters, to use with cURL.  Use ethically and responsibly. Dork by _palonE 

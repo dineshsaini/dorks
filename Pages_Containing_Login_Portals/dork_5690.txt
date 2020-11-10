@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5690
+Category:         Pages Containing Login Portals
+Published Date:   2020-01-10
+Author:           Bruno Schmid
+GoogleDork:       intitle:"webview login" alcatel lucent
+Description:      intitle:"webview login" alcatel lucent
+
+
+Alcatel-Lucent devices   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

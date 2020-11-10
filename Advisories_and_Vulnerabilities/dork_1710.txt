@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1710
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by Md-Pro"
+Description:      "Powered by Md-Pro"
+
+
+Md-Pro 1.0.8x (Topics topicid) Remote SQL Injection Vulnerability - CVE: 2007-3938: https://www.exploit-db.com/exploits/4199

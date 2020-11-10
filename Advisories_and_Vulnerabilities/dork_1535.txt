@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1535
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by: Censura"
+Description:      "Powered by: Censura"
+
+
+Censura 1.15.04 (censura.php vendorid) SQL Injection Vulnerability - CVE: 2007-2673: https://www.exploit-db.com/exploits/3843

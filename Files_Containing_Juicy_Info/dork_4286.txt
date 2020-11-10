@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4286
+Category:         Files Containing Juicy Info
+Published Date:   2016-05-20
+Author:           anonymous
+GoogleDork:       filetype:txt "gmail" | "hotmail" | "yahoo" -robots site:gov | site:us
+Description:      filetype:txt "gmail" | "hotmail" | "yahoo" -robots site:gov | site:us
+
+
+filetype:txt "gmail" | "hotmail" | "yahoo" -robots site:gov | site:us Emails

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4003
+Category:         Various Online Devices
+Published Date:   2015-04-30
+Author:           anonymous
+GoogleDork:       inurl:ftp inurl:Seagate inurl:Backup inurl:Plus inurl:Drive
+Description:      inurl:ftp inurl:Seagate inurl:Backup inurl:Plus inurl:Drive
+
+
+## Open Seagate NAS drives inurl:ftp inurl:Seagate inurl:Backup inurl:Plus inurl:Drive Jason Coleman - CISSP, GWAPT Analyst, Security Management Program | Verizon Enterprise Solutions

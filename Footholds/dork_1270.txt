@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1270
+Category:         Footholds
+Published Date:   2006-03-06
+Author:           anonymous
+GoogleDork:       "index of /" ( upload.cfm | upload.asp | upload.php | upload.cgi | upload.jsp | upload.pl )
+Description:      "index of /" ( upload.cfm | upload.asp | upload.php | upload.cgi | upload.jsp | upload.pl )
+
+
+searches for scripts that let you upload files which you can then execute on the server.

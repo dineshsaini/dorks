@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1543
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"com_jvideodirect "
+Description:      inurl:"com_jvideodirect "
+
+
+Joomla Component com_jvideodirect Directory Traversal - CVE: 2010-0942: https://www.exploit-db.com/exploits/11089

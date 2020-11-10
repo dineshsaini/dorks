@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/528
+Category:         Advisories and Vulnerabilities
+Published Date:   2004-10-05
+Author:           anonymous
+GoogleDork:       inurl:"comment.php?serendipity"
+Description:      inurl:"comment.php?serendipity"
+
+
+serendipity is a weblog/blog system, implemented with PHP. It is standards compliant, feature rich and open source.For an attacker it is possible to inject SQL commands.http://www.securityfocus.com/bid/11269/discussion/

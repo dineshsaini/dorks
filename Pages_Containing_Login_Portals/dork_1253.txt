@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1253
+Category:         Pages Containing Login Portals
+Published Date:   2006-01-16
+Author:           anonymous
+GoogleDork:       "Powered by Midmart Messageboard" "Administrator Login"
+Description:      "Powered by Midmart Messageboard" "Administrator Login"
+
+
+Midmart Messageboard lets you run a highly customizable bulletin board with a very nice user interface (similar to Yahoo Clubs) on your web site in few minutes. Many other features included. Rar found it murfie cleaned it up.

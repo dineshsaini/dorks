@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1206
+Category:         Advisories and Vulnerabilities
+Published Date:   2005-11-25
+Author:           anonymous
+GoogleDork:       ("Skin Design by Amie of Intense")|("Fanfiction Categories" "Featured Stories")|("default2, 3column, Romance, eFiction")
+Description:      ("Skin Design by Amie of Intense")|("Fanfiction Categories" "Featured Stories")|("default2, 3column, Romance, eFiction")
+
+
+eFiction

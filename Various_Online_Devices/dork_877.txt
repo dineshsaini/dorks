@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/877
+Category:         Various Online Devices
+Published Date:   2005-03-05
+Author:           anonymous
+GoogleDork:       allintitle:Brains, Corp. camera
+Description:      allintitle:Brains, Corp. camera
+
+
+mmEye webcam / cam servermmEye is a multifunction multimedia server equipped with 32bit RISC CPU SH-3, and runs UNIX operating system (NetBSD).It has video input ports (1 S signal port, 2 composite signal ports) and PCMCIA Type II slots built in.

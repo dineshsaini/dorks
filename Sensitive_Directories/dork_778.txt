@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/778
+Category:         Sensitive Directories
+Published Date:   2004-12-19
+Author:           anonymous
+GoogleDork:       "Powered by Invision Power File Manager" (inurl:login.php) | (intitle:"Browsing directory /" )
+Description:      "Powered by Invision Power File Manager" (inurl:login.php) | (intitle:"Browsing directory /" )
+
+
+Invision Power File Manager is a popular file management script, written in the popular PHP Scripting Language. It is compatiable with all forms of Unix and Windows and allows the user to control their files via any modern browser.

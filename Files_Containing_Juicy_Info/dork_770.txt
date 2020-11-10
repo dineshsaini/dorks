@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/770
+Category:         Files Containing Juicy Info
+Published Date:   2004-12-13
+Author:           anonymous
+GoogleDork:       inurl:ds.py
+Description:      inurl:ds.py
+
+
+Affordable Web-based document and content management application lets businesses of every size rapidly deploy a world-class Enterprise Content Management (ECM) solution to help reduce costs, optimize information flow, and reduce risk

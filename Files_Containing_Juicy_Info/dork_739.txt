@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/739
+Category:         Files Containing Juicy Info
+Published Date:   2004-12-03
+Author:           anonymous
+GoogleDork:       ext:pqi pqi -database
+Description:      ext:pqi pqi -database
+
+
+PQ DriveImage allows administrators to create hard rive images for lots of purposes including backup, migration, etc. These files contain the hard drive images which can be restored to create an exact duplicate of a hard drive, which could contain just about anything!

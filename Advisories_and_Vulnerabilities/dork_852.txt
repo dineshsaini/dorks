@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/852
+Category:         Advisories and Vulnerabilities
+Published Date:   2005-01-30
+Author:           anonymous
+GoogleDork:       "SquirrelMail version 1.4.4" inurl:src ext:php
+Description:      "SquirrelMail version 1.4.4" inurl:src ext:php
+
+
+date :Jan 30 2005 this search reveal the src/webmail.php which would allow acrafted URL to include a remote web page. This was assigned CAN-2005-0103by the Common Vulnerabilities and Exposures.-what can possibly be done :*A possible cross site scripting issue exists in src/webmail.php that isonly accessible when the PHP installation is running with register_globalsset to On.*A possible local file inclusion issue was uncovered by one of ourdevelopers involving custom preference handlers. This issue is onlyactive if the PHP installation is running with register_globals set to On.

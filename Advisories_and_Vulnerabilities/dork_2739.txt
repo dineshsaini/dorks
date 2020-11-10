@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2739
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "index.php?option=com_chronocontact" / "com_chronocontact"
+Description:      "index.php?option=com_chronocontact" / "com_chronocontact"
+
+
+Joomla Component ChronoForms (com_chronocontact): https://www.exploit-db.com/exploits/12843

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4840
+Category:         Sensitive Directories
+Published Date:   2018-06-04
+Author:           Brain Reflow
+GoogleDork:       allintext:'HttpFileServer 2.3k'
+Description:      allintext:'HttpFileServer 2.3k'
+
+
+Dork about sensitive directory of HFS File Share Server  allintext:'HttpFileServer 2.3k'  Author : *.doc-TOR aka Brain Reflow https://twitter.com/The_d0c_T0R 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4681
+Category:         Sensitive Directories
+Published Date:   2018-02-23
+Author:           r00t3rXCrypt0
+GoogleDork:       inurl:/openwebmail/cgi-bin/openwebmail/etc/
+Description:      inurl:/openwebmail/cgi-bin/openwebmail/etc/
+
+
+Dork Author: Tunahan GÜRAL(r00t3rXCrypt0)

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/687
+Category:         Advisories and Vulnerabilities
+Published Date:   2004-11-18
+Author:           anonymous
+GoogleDork:       "Obtenez votre forum Aztek" -site:forum-aztek.com
+Description:      "Obtenez votre forum Aztek" -site:forum-aztek.com
+
+
+Atztek Forum is a french forum system. Aztek Forum is reported prone to multiple input validation vulnerabilities. These issues may allow an attacker to carry out cross-site scripting and possibly other attacks.http://www.securityfocus.com/bid/11654

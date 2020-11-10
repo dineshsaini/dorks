@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5281
+Category:         Various Online Devices
+Published Date:   2019-07-15
+Author:           Francis Al Victoriano
+GoogleDork:       inurl:app/kibana intext:Loading Kibana
+Description:      inurl:app/kibana intext:Loading Kibana
+
+
+# Exploit Title: Kibana Login no credentials  # Google Dork: inurl:app/kibana intext:Loading Kibana  #Author: Francis Al Victoriano 

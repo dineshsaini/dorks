@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4333
+Category:         Footholds
+Published Date:   2016-09-27
+Author:           anonymous
+GoogleDork:       "You have selected the following files for upload (0 Files)."
+Description:      "You have selected the following files for upload (0 Files)."
+
+
+Find file upload pages. The dork is: "You have selected the following files for upload (0 Files)." Gabe Mills Hacker

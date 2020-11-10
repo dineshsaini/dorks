@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5675
+Category:         Pages Containing Login Portals
+Published Date:   2019-12-30
+Author:           Ismail Tasdelen
+GoogleDork:       intitle:"Check Point - Login"
+Description:      intitle:"Check Point - Login"
+
+
+intitle:"Check Point - Login"  This dork found checkpoint login panel.  Author : Ismail Tasdelen 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2743
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"com_eventcal"
+Description:      inurl:"com_eventcal"
+
+
+Joomla eventcal Component 1.6.4 com_eventcal Blind SQL Injection Vulnerability: https://www.exploit-db.com/exploits/14187

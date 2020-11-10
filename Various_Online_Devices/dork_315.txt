@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/315
+Category:         Various Online Devices
+Published Date:   2004-07-10
+Author:           anonymous
+GoogleDork:       Mobotix netcams
+Description:      Mobotix netcams
+
+
+Mobotix netcams use the thttpd-2.x. server (http://www.acme.com/software/thttpd/). The latest version today is 2.25b, but most cams run older versions. They produce a rather nice image quality.Moderator note: this search was found by L0om and cleaned up by Wolveso.

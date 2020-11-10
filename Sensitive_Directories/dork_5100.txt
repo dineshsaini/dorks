@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5100
+Category:         Sensitive Directories
+Published Date:   2019-02-13
+Author:           Manish Bhandarkar
+GoogleDork:       allinurl:"wp-content/plugins/wordpress-popup/views/admin/"
+Description:      allinurl:"wp-content/plugins/wordpress-popup/views/admin/"
+
+
+Category : Sensitive Directories   Description : Dork for finding private directories inside wordpress-popup plugin including admin data which are present in Wordpress websites.   Note : To access more sensitive files locate to parent directory until /admin or /conf etc.   Dork : allinurl:"wp-content/plugins/wordpress-popup/views/admin/"   Also Try : allinurl:"wp-content/plugins/wordpress-popup/"   Date : 10/2/2019   Author : Manish Bhandarkar  Blog : https://hackingforsecurity.blogspot.com/ 

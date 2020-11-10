@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2127
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allinurl :"modules/recipe"
+Description:      allinurl :"modules/recipe"
+
+
+XOOPS Module Recipe (detail.php id) SQL Injection Vulnerability: https://www.exploit-db.com/exploits/5473

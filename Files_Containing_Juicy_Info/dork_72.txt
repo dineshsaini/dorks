@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/72
+Category:         Files Containing Juicy Info
+Published Date:   2004-03-04
+Author:           anonymous
+GoogleDork:       cgiirc.conf
+Description:      cgiirc.conf
+
+
+CGIIRC is a web-based IRC client. Very cool stuff. The cgiirc.config file lists the options for this porgram, including the default sites that can be attached to, server passwords, and crypts of admin passwords. This file is for CGIIRC, not Google surfers!

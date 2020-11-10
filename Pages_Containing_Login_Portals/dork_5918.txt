@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5918
+Category:         Pages Containing Login Portals
+Published Date:   2020-04-20
+Author:           Abhi Chitkara
+GoogleDork:       inurl:"login.html" intitle:"d-link"
+Description:      inurl:"login.html" intitle:"d-link"
+
+
+Google Dork: inurl:"login.html" intitle:"d-link" Description: Pages containing d-link routers login pages. Author: Abhi Chitkara 

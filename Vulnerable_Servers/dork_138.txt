@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/138
+Category:         Vulnerable Servers
+Published Date:   2004-03-29
+Author:           anonymous
+GoogleDork:       "Select a database to view" intitle:"filemaker pro"
+Description:      "Select a database to view" intitle:"filemaker pro"
+
+
+An oldie but a goodie. This search locates servers which provides access to Filemaker pro databases via the web. The severity of this search varies wildly depending on the security of the database itself. Regardless, if Google can crawl it, it's potentially using cleartext authentication.

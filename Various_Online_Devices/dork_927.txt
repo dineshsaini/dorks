@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/927
+Category:         Various Online Devices
+Published Date:   2005-04-12
+Author:           anonymous
+GoogleDork:       intitle:"Lexmark *" inurl:port_0
+Description:      intitle:"Lexmark *" inurl:port_0
+
+
+Lexmark printers (4 models)

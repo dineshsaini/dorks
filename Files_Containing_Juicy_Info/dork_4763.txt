@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4763
+Category:         Files Containing Juicy Info
+Published Date:   2018-04-12
+Author:           Bruno Schmid
+GoogleDork:       inurl:"/Setup/Default.aspx" "mojoPortal"
+Description:      inurl:"/Setup/Default.aspx" "mojoPortal"
+
+
+MojoPortal installation pages giving juicy info.   Bruno Schmid 

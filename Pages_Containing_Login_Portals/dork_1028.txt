@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1028
+Category:         Pages Containing Login Portals
+Published Date:   2005-06-09
+Author:           anonymous
+GoogleDork:       inurl:textpattern/index.php
+Description:      inurl:textpattern/index.php
+
+
+Login portal for textpattern a CMS/Blogger tool.

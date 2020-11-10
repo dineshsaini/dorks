@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4760
+Category:         Pages Containing Login Portals
+Published Date:   2018-04-12
+Author:           Bruno Schmid
+GoogleDork:       inurl:"cmd=auth?" -github -stackoverflow -gitlab
+Description:      inurl:"cmd=auth?" -github -stackoverflow -gitlab
+
+
+Many login portals     Bruno Schmid  

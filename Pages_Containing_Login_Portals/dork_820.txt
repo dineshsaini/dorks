@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/820
+Category:         Pages Containing Login Portals
+Published Date:   2005-01-15
+Author:           anonymous
+GoogleDork:       intitle:"VNC viewer for Java"
+Description:      intitle:"VNC viewer for Java"
+
+
+VNC (Virtual Network Computing) allows a pc to be controlled remotely over the Internet. These are the password protected but still shouldn't be allowed to be indexed by Google by accident.

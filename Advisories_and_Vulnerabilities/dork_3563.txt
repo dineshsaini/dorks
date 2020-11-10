@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3563
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Runcms Copyright" "2002 - 2007" +"page created"
+Description:      "Runcms Copyright" "2002 - 2007" +"page created"
+
+
+RunCms 1.5.2 (debug_show.php) Remote SQL Injection - CVE: 2007-2539: https://www.exploit-db.com/exploits/3850

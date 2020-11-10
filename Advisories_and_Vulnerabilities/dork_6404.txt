@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6404
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-07-14
+Author:           Lokesh S
+GoogleDork:       inurl:wp-content/plugins/gravityforms
+Description:      inurl:wp-content/plugins/gravityforms
+
+
+Dork: inurl:wp-content/plugins/gravityforms  Description: This google dork lists out Advisories and Vulnerabilities regarding the gravity forms wordpress plugin.  Ref: https://wpvulndb.com/vulnerabilities/10252  Author: Lokesh S 

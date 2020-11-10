@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5221
+Category:         Pages Containing Login Portals
+Published Date:   2019-05-23
+Author:           edm0nd
+GoogleDork:       "please sign in" "sign in" "gophish" +"login"
+Description:      "please sign in" "sign in" "gophish" +"login"
+
+
+Description: Find login portal pages for Gophish script setups. Default login creds are admin:gophish. Category: Pages Containing Login Portals  Author: edm0nd https://twitter.com/edmond_major 

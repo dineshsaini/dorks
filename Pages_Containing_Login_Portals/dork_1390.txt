@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1390
+Category:         Pages Containing Login Portals
+Published Date:   2006-07-29
+Author:           anonymous
+GoogleDork:       FlashChat v4.5.7
+Description:      FlashChat v4.5.7
+
+
+This simple search brings up lots of online Flash Chat clients. Flash Chat's administration directory is always found by visiting /admin in the URL. Example: www.webaddress.com/flashChat/admin/The default Admin password is "adminpass" (Without the speech marks).

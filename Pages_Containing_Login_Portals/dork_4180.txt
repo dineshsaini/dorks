@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4180
+Category:         Pages Containing Login Portals
+Published Date:   2016-01-11
+Author:           anonymous
+GoogleDork:       inurl:intranet -intext:intranet
+Description:      inurl:intranet -intext:intranet
+
+
+This Dork show millions of access to intranet pages. Dork by Rootkit Pentester. Regards.

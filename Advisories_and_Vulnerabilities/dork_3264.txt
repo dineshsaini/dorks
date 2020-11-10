@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3264
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"/modules/repository/"
+Description:      inurl:"/modules/repository/"
+
+
+XOOPS Module Repository (viewcat.php) Remote SQL Injection - CVE: 2007-1847: https://www.exploit-db.com/exploits/3612

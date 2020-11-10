@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6172
+Category:         Pages Containing Login Portals
+Published Date:   2020-06-04
+Author:           Suhanaz Kazi
+GoogleDork:       inurl:admin/admin/Login
+Description:      inurl:admin/admin/Login
+
+
+# Google Dork: inurl:admin/admin/Login  # Description:- This page contains various admin login portals.  # Author: Suhanaz Kazi # Date: 29-May-2020 # Linkedin: http://linkedin.com/in/suhanaaz --  Regards, Suhanaz 

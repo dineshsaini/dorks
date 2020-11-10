@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2543
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by: PHPDirector 0.30 or nurl:videos.php?id=
+Description:      Powered by: PHPDirector 0.30 or nurl:videos.php?id=
+
+
+PHPDirector 0.30 (videos.php) SQL Injection Vulnerability: https://www.exploit-db.com/exploits/14106

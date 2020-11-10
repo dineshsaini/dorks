@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3593
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:wp-login.php Register Username Password -echo
+Description:      inurl:wp-login.php Register Username Password -echo
+
+
+CVE: 2006-2667 EDB-ID: 6 This search can potentially identify vulnerable installations of WordPress.

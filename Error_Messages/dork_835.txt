@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/835
+Category:         Error Messages
+Published Date:   2005-01-26
+Author:           anonymous
+GoogleDork:       intext:"Error Message : Error loading required libraries."
+Description:      intext:"Error Message : Error loading required libraries."
+
+
+This throws up pages which contain "CGI ERROR" reports - which include the file (and line number) of the errors occurence, the version of Perl being used, detailed server information (of the form "Apache/1.3.27 (Unix) (Red-Hat/Linux) mod_ssl/2.8.12 OpenSSL/0.9.6b DAV/1.0.3 PHP/4.3.2 mod_perl/1.26"), usernames, setup file names, form / query information, port and path information, etc.. perfect for system-profiling!

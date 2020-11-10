@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4392
+Category:         Files Containing Passwords
+Published Date:   2017-02-07
+Author:           anonymous
+GoogleDork:       site:cloudshark.org/captures# password
+Description:      site:cloudshark.org/captures# password
+
+
+Dork: site:cloudshark.org/captures# password PCAP captures containing passwords Mr. Cheshire See also: http://www.elladodelmal.com/2017/02/cloudshark-tus-credenciales-en-las.html

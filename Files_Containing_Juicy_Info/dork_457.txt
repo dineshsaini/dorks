@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/457
+Category:         Files Containing Juicy Info
+Published Date:   2004-09-06
+Author:           anonymous
+GoogleDork:       filetype:bkf bkf
+Description:      filetype:bkf bkf
+
+
+This search will show backupfiles for xp/2000 machines.Of course these files could contain nearly everything, depending on the user selection and they can also be password protected.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5500
+Category:         Pages Containing Login Portals
+Published Date:   2019-09-04
+Author:           Reza Abasi
+GoogleDork:       site:remote.*.* intitle:"User Authentication"
+Description:      site:remote.*.* intitle:"User Authentication"
+
+
+Login portal:  site:remote.*.* intitle:"User Authentication" intitle:"User Authentication" site:*/sslvpn_logon.shtml"  Reza Abasi(Turku) 

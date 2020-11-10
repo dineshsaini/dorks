@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5704
+Category:         Pages Containing Login Portals
+Published Date:   2020-01-27
+Author:           UsmanAliMaan
+GoogleDork:       intitle:Check_MK Multisite Login
+Description:      intitle:Check_MK Multisite Login
+
+
+Dork for search Checkmk:  Checkmk has long been available as an open source IT monitoring solution, supported by a large user community   Author:  UsmanAliMaan 

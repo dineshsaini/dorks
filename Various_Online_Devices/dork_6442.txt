@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6442
+Category:         Various Online Devices
+Published Date:   2020-07-26
+Author:           Alexandros Pappas
+GoogleDork:       intext:"Device Name" | intext:"Host Name" inurl:mainFrame.cgi
+Description:      intext:"Device Name" | intext:"Host Name" inurl:mainFrame.cgi
+
+
+# Google Dork: intext:"Device Name" | intext:"Host Name" inurl:mainFrame.cgi # Various online devices. # Date: 24/07/2020 # Exploit Author: Alexandros Pappas 

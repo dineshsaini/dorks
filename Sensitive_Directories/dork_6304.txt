@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6304
+Category:         Sensitive Directories
+Published Date:   2020-06-17
+Author:           Ambadi MP
+GoogleDork:       intitle:"index of" "oauth-private.key"
+Description:      intitle:"index of" "oauth-private.key"
+
+
+# Dork:intitle:"index of" "oauth-private.key" # Oauth Private Keys # Author: Ambadi MP 

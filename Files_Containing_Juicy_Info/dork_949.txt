@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/949
+Category:         Files Containing Juicy Info
+Published Date:   2005-04-27
+Author:           anonymous
+GoogleDork:       ext:jbf jbf
+Description:      ext:jbf jbf
+
+
+There is a full path disclosure in .jbf files (paint shop pro), which by itself is not a vulnerability, but it becomes interesting when uploaded or used on webservers. Use a tool like 'strings' to read the ascii parts, the path is on the top of the file.

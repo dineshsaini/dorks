@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1947
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by ECShop v2.5.0"
+Description:      "Powered by ECShop v2.5.0"
+
+
+ECShop 2.5.0 (order_sn) Remote SQL Injection Vulnerability - CVE: 2009-1622: https://www.exploit-db.com/exploits/8548

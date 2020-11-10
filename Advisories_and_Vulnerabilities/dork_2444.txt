@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2444
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allinurl:"/questcms/"
+Description:      allinurl:"/questcms/"
+
+
+Questcms (XSS/Directory Traversal/SQL) Multiple Remote Vulnerabilities - CVE: 2008-4773: https://www.exploit-db.com/exploits/6853

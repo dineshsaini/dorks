@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/934
+Category:         Advisories and Vulnerabilities
+Published Date:   2005-04-04
+Author:           anonymous
+GoogleDork:       intext:"Powered by phpBB 2.0.13" inurl:"cal_view_month.php"|inurl:"downloads.php"
+Description:      intext:"Powered by phpBB 2.0.13" inurl:"cal_view_month.php"|inurl:"downloads.php"
+
+
+phpBB 2.0.13 with installed Calendar Pro MOD are vulnerable to SQL injection attacks. An attacker can download the MD5 hashes from the account databse without authorization.

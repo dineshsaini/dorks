@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2803
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intext:"Powered By WorldPay" inurl:productdetail.php
+Description:      intext:"Powered By WorldPay" inurl:productdetail.php
+
+
+WorldPay Script Shop (productdetail) SQL Injection Vulnerability: https://www.exploit-db.com/exploits/10976

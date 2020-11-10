@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3511
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "SmodBIP" &amp; "Aktualno.ci"
+Description:      "SmodBIP" &amp; "Aktualno.ci"
+
+
+SmodBIP 1.06 (aktualnosci zoom) Remote SQL Injection - CVE: 2007-1920: https://www.exploit-db.com/exploits/3678

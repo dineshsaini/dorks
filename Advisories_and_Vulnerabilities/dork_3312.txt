@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3312
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by MyPHP Forum v3.0
+Description:      Powered by MyPHP Forum v3.0
+
+
+MyPHP Forum 3.0 (Final) Remote SQL Injection Vulnerability - CVE: 2008-0099: https://www.exploit-db.com/exploits/4831

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6435
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-07-26
+Author:           cyb3rmx0
+GoogleDork:       intitle:ePMP 1000 intext:Log In -site:*.com -site:com.*
+Description:      intitle:ePMP 1000 intext:Log In -site:*.com -site:com.*
+
+
+Hello! I have found a google dork to find ePMP 1000 devices. ePMP 1000 is vulnerable to command execution and changing of administrator credentials You can find a lot of vulnerable hosts with this google dork.  Have a nice day! 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6496
+Category:         Pages Containing Login Portals
+Published Date:   2020-08-26
+Author:           Varsha V Rajan
+GoogleDork:       inurl:"/portal/webclient" intitle:"VMware Horizon"
+Description:      inurl:"/portal/webclient" intitle:"VMware Horizon"
+
+
+# Google Dork: inurl:"/portal/webclient" intitle:"VMware Horizon" # Description: This dork will list out all the VMware Horizon login portals. # Date: 25/08/2020 # Exploit Author: Varsha V Rajan  Thanks &amp; Regards,  Varsha V Rajan 

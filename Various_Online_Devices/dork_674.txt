@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/674
+Category:         Various Online Devices
+Published Date:   2004-11-09
+Author:           anonymous
+GoogleDork:       "intitle:Cisco Systems, Inc. VPN 3000 Concentrator"
+Description:      "intitle:Cisco Systems, Inc. VPN 3000 Concentrator"
+
+
+The Cisco VPN 3000 Concentrator is a remote access VPN. The 'Concentrator' is a piece of hardware that manages a companies VPN's. This google dork searches for the Concentrators login portal for remote access. With the correct username and password an attacker can '0wn' their Concentrator; i.e. be able to delete, copy, read, configure anything on the Concentrator.

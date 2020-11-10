@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1352
+Category:         Vulnerable Servers
+Published Date:   2006-05-03
+Author:           anonymous
+GoogleDork:       intitle:"Uploader - Uploader v6" -pixloads.com
+Description:      intitle:"Uploader - Uploader v6" -pixloads.com
+
+
+File upload servers, dangerous if used in couple with mytrashmail.com

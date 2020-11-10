@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5646
+Category:         Files Containing Juicy Info
+Published Date:   2019-11-12
+Author:           Ismail Tasdelen
+GoogleDork:       intitle:"index of" "ssh.yml"
+Description:      intitle:"index of" "ssh.yml"
+
+
+Files containing password:  intitle:"index of" "ssh.yml" intitle:"index of" "database-old.yml" intitle:"index of" "configuration.yml" intitle:"index of" "database.yml" intitle:"index of" "ftp.yml"  Author : Ismail Tasdelen 

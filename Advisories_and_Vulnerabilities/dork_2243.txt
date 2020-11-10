@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2243
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by MySpace Content Zone"
+Description:      "Powered by MySpace Content Zone"
+
+
+MySpace Content Zone 3.x Remote File Upload Vulnerability - CVE: 2007-6668: https://www.exploit-db.com/exploits/4741

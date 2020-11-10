@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/333
+Category:         Files Containing Passwords
+Published Date:   2004-07-16
+Author:           anonymous
+GoogleDork:       inurl:lilo.conf filetype:conf password -tatercounter2000 -bootpwd -man
+Description:      inurl:lilo.conf filetype:conf password -tatercounter2000 -bootpwd -man
+
+
+LILO is a general purpose boot manager that can be used to boot multiple operating systems, including Linux. The normal configuration file is located in /etc/lilo.conf. Each bootable image can be protected by a password if needed. Please note that all searches for configuration files will contain at least some false positives.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1326
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-04-10
+Author:           anonymous
+GoogleDork:       inurl:server.php ext:php intext:"No SQL" -Released
+Description:      inurl:server.php ext:php intext:"No SQL" -Released
+
+
+vulnerabilitydiscovered by Secunia, quick reference:http://www.securityfocus.com/bid/16187an example of exploit for PHPOpenChat:http://retrogod.altervista.org/phpopenchat_30x_sql_xpl.htmla DOS exploit:http://retrogod.altervista.org/adodb_dos.html

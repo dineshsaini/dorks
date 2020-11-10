@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4197
+Category:         Pages Containing Login Portals
+Published Date:   2016-02-09
+Author:           anonymous
+GoogleDork:       inurl:login.do intext:government
+Description:      inurl:login.do intext:government
+
+
+# Exploit Title: Dork to find Government and Military website access portals. # Google Dork: inurl:login.do intext:government # Description : Finds out login access portals to Military and Government Systems. Enjoy. # Date: 09/02/2016 # Exploit Author: XDarkCoder

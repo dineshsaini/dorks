@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2777
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:K-Search, Powered By K-Search
+Description:      inurl:K-Search, Powered By K-Search
+
+
+K-Search (SQL/XSS) Multiple Remote Vulnerabilities - CVE: 2010-2457: https://www.exploit-db.com/exploits/13993

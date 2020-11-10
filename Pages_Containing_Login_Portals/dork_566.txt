@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/566
+Category:         Pages Containing Login Portals
+Published Date:   2004-10-14
+Author:           anonymous
+GoogleDork:       inurl:default.asp intitle:"WebCommander"
+Description:      inurl:default.asp intitle:"WebCommander"
+
+
+Polycom WebCommander gives you control over all aspects of setting up conferences on Polycom MGC MCUs. With Polycom WebCommander, scheduling and launching multipoint conferences, ad hoc meetings or future conferences is an easy, productive way to schedule meetings.

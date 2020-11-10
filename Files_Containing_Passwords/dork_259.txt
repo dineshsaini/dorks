@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/259
+Category:         Files Containing Passwords
+Published Date:   2004-05-26
+Author:           anonymous
+GoogleDork:       filetype:netrc password
+Description:      filetype:netrc password
+
+
+The .netrc file is used for automatic login to servers. The passwords are stored in cleartext.

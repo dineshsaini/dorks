@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/562
+Category:         Various Online Devices
+Published Date:   2004-10-12
+Author:           anonymous
+GoogleDork:       inurl:netw_tcp.shtml
+Description:      inurl:netw_tcp.shtml
+
+
+An Axis Network Camera captures and transmits live images directly over an IP network (e.g. LAN/intranet/Internet), enabling users to remotely view and/or manage the camera from a Web browser on any computer [..]

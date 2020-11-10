@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/908
+Category:         Advisories and Vulnerabilities
+Published Date:   2005-03-20
+Author:           anonymous
+GoogleDork:       filetype:php intitle:"paNews v2.0b4"
+Description:      filetype:php intitle:"paNews v2.0b4"
+
+
+PaNews is reported prone to a remote PHP script code execution vulnerability. It is reported that PHP script code may be injected into the PaNews software through the 'showcopy' parameter of the 'admin_setup.php' script. http://www.securityfocus.com/bid/12611

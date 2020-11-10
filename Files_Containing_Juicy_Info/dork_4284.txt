@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4284
+Category:         Files Containing Juicy Info
+Published Date:   2016-05-20
+Author:           anonymous
+GoogleDork:       inurl:vidyo -site:vidyo.com inurl:portal
+Description:      inurl:vidyo -site:vidyo.com inurl:portal
+
+
+Vidyo Portals. File Disclosure inurl:vidyo -site:vidyo.com inurl:portal

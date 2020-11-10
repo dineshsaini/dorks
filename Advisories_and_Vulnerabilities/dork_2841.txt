@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2841
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       [ Copyright 2005-2006 phpDirectorySourceâ„¢, all rights reserved ]
+Description:      [ Copyright 2005-2006 phpDirectorySourceâ„¢, all rights reserved ]
+
+
+phpDirectorySource (XSS/SQL) Multiple Remote Vulnerabilities - CVE: 2009-4681: https://www.exploit-db.com/exploits/9226

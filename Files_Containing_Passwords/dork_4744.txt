@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4744
+Category:         Files Containing Passwords
+Published Date:   2018-04-04
+Author:           Kiran S
+GoogleDork:       CakePHP inurl:database.php intext:db_password
+Description:      CakePHP inurl:database.php intext:db_password
+
+
+Contains database username and password along with dbname.  Thanks Kiran S 

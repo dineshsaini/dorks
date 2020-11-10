@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4050
+Category:         Various Online Devices
+Published Date:   2015-08-17
+Author:           anonymous
+GoogleDork:       inurl:"/squid-reports/" AND intitle:"SARG reports"
+Description:      inurl:"/squid-reports/" AND intitle:"SARG reports"
+
+
+Search the Sarg monitoring graphs of Web Proxy SQUID3 Ing. Daniel Maldonado http://www.caceriadespammers.com.ar

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2471
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"webboard/view.php?topic="
+Description:      inurl:"webboard/view.php?topic="
+
+
+Webboard v.2.90 beta Remote File Disclosure Vulnerability - CVE: 2009-2600: https://www.exploit-db.com/exploits/8823

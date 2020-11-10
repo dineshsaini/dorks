@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4956
+Category:         Files Containing Juicy Info
+Published Date:   2018-09-17
+Author:           ManhNho
+GoogleDork:       inurl:/yum.log | intitle:yum.log + ext:log
+Description:      inurl:/yum.log | intitle:yum.log + ext:log
+
+
+inurl:/yum.log | intitle:yum.log + ext:log  yum log files  ManhNho 

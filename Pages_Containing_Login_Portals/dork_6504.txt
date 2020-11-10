@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6504
+Category:         Pages Containing Login Portals
+Published Date:   2020-08-31
+Author:           Alexandros Pappas
+GoogleDork:       intitle:"Wimax CPE Configuration"
+Description:      intitle:"Wimax CPE Configuration"
+
+
+# Google Dork: intitle:"Wimax CPE Configuration" # Wimax CPE Configuration portals. # Date: 30/08/2020 # Exploit Author: Alexandros Pappas 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3662
+Category:         Advisories and Vulnerabilities
+Published Date:   2011-01-02
+Author:           anonymous
+GoogleDork:       "Powered by YourTube v1.0"
+Description:      "Powered by YourTube v1.0"
+
+
+Author: AtT4CKxT3rR0r1ST CSRF: https://www.exploit-db.com/exploits/15892

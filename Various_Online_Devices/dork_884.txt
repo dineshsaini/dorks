@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/884
+Category:         Various Online Devices
+Published Date:   2005-03-04
+Author:           anonymous
+GoogleDork:       intitle:"Dell Laser Printer" ews
+Description:      intitle:"Dell Laser Printer" ews
+
+
+Finds Dell's printers with EWS.EWS : Embedded Web Server technology enables the usage of a standard web browser to manage many aspects of the printer, for example, view consumable life, configure network parameters, view serial number information, printer usage etc..

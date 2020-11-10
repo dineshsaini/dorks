@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6243
+Category:         Pages Containing Login Portals
+Published Date:   2020-06-08
+Author:           Abhi Chitkara
+GoogleDork:       intitle:.*edu/login
+Description:      intitle:.*edu/login
+
+
+Dork: intitle:.*edu/login Description: This google dorks lists out edu website login portals. Author: Abhi Chitkara 

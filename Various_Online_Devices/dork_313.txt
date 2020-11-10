@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/313
+Category:         Various Online Devices
+Published Date:   2004-07-10
+Author:           anonymous
+GoogleDork:       seyeon FlexWATCH cameras
+Description:      seyeon FlexWATCH cameras
+
+
+seyeon provides various type of products and software to build up a remote video monitoring and surveillance system over the TCP/IP network. FlexWATCHÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ Network video server series has built-in Web server based on TCP/IP technology. It also has an embedded RTOS.The admin pages are at http://[sitename]/admin/aindex.htm.

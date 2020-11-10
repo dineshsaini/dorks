@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2332
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "visiteurs v2.0"
+Description:      "visiteurs v2.0"
+
+
+Les Visiteurs (Visitors) 2.0 (config.inc.php) File Include Vulnerability: https://www.exploit-db.com/exploits/2449

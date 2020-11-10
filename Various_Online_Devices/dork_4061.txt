@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4061
+Category:         Various Online Devices
+Published Date:   2015-08-24
+Author:           anonymous
+GoogleDork:       inurl:/set_config_password.html
+Description:      inurl:/set_config_password.html
+
+
+Submitter: Gman The Mod-dog

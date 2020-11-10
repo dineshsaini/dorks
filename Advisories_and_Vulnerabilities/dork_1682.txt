@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1682
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Maintained with the Ocean12 Poll Manager Pro v1.00
+Description:      Maintained with the Ocean12 Poll Manager Pro v1.00
+
+
+Ocean12 Poll Manager Pro Database Disclosure Vulnerability: https://www.exploit-db.com/exploits/7246

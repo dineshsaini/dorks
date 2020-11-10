@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4353
+Category:         Various Online Devices
+Published Date:   2016-11-18
+Author:           anonymous
+GoogleDork:       intext:SOAP 1.1 intext:SOAP 1.2 intext:UPLOAD intext:GET intext:POST inurl:op
+Description:      intext:SOAP 1.1 intext:SOAP 1.2 intext:UPLOAD intext:GET intext:POST inurl:op
+
+
+Google Dork: intext:SOAP 1.1 intext:SOAP 1.2 intext:UPLOAD intext:GET intext:POST inurl:op Author: Aconite33 Description: Identify vulnerable sites that have SOAP, POST/GET functions

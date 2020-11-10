@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/563
+Category:         Web Server Detection
+Published Date:   2004-10-12
+Author:           anonymous
+GoogleDork:       intitle:"Object not found!" intext:"Apache/2.0.* (Linux/SuSE)"
+Description:      intitle:"Object not found!" intext:"Apache/2.0.* (Linux/SuSE)"
+
+
+This one detects apache werbservers (2.0.X/SuSE) with its error page.

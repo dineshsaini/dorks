@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/443
+Category:         Files Containing Passwords
+Published Date:   2004-08-20
+Author:           anonymous
+GoogleDork:       LeapFTP intitle:"index.of./" sites.ini modified
+Description:      LeapFTP intitle:"index.of./" sites.ini modified
+
+
+The LeapFTP client configuration file "sites.ini" holds the login credentials for those sites in plain text. The passwords seems to be encrypted.

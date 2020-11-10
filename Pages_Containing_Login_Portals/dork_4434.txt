@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4434
+Category:         Pages Containing Login Portals
+Published Date:   2017-04-13
+Author:           anonymous
+GoogleDork:       inurl:"/admin.php?cont="
+Description:      inurl:"/admin.php?cont="
+
+
+Finds Radius Manager login pages (mostly HTTP!) Dxtroyer

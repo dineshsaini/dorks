@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3288
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"com_gameserver"
+Description:      inurl:"com_gameserver"
+
+
+Joomla Component com_gameserver 1.0 (id) SQL Injection Vulnerability - CVE: 2009-3063: https://www.exploit-db.com/exploits/9571

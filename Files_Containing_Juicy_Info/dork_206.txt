@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/206
+Category:         Files Containing Juicy Info
+Published Date:   2004-05-05
+Author:           anonymous
+GoogleDork:       filetype:conf inurl:firewall -intitle:cvs
+Description:      filetype:conf inurl:firewall -intitle:cvs
+
+
+These are firewall configuration files. Although these are often examples or sample files, in many cases they can still be used for information gathering purposes.

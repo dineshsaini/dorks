@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/831
+Category:         Files Containing Juicy Info
+Published Date:   2005-01-22
+Author:           anonymous
+GoogleDork:       ext:txt inurl:dxdiag
+Description:      ext:txt inurl:dxdiag
+
+
+This will find text dumps of the DirectX Diag utility. It gives an outline of the hardware of the computer, and goes into quite a bit of detail listing driver versions and such. I can't think of any serious security implacations of this data, but I'll leave it to your imagination.

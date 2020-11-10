@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1252
+Category:         Files Containing Juicy Info
+Published Date:   2006-01-16
+Author:           anonymous
+GoogleDork:       intext:ViewCVS inurl:Settings.php
+Description:      intext:ViewCVS inurl:Settings.php
+
+
+CVs is a software used to keep track of changes to websites. You can review all updates and previous files wihtout actualy loging into CVS. It is possible to see password files, directory structure, how often is the website updated, previous code find exploits, etc.

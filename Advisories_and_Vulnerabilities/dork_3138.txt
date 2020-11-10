@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3138
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:index.php?menu=showcat=
+Description:      inurl:index.php?menu=showcat=
+
+
+Alstrasoft Forum (cat) Remote SQL Injection Vulnerability - CVE: 2008-3954: https://www.exploit-db.com/exploits/6396

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4110
+Category:         Advisories and Vulnerabilities
+Published Date:   2015-11-03
+Author:           anonymous
+GoogleDork:       "powered by joomla 3.2" OR "powered by joomla 3.3" OR "powered by joomla 3.4"
+Description:      "powered by joomla 3.2" OR "powered by joomla 3.3" OR "powered by joomla 3.4"
+
+
+Search for all websites built on specific versions of Joomla CMS . These specific versions of Joomla could potentially be vulnerable to the SQL injection attack (CVE-2015-7297) . Thanks Dheeraj 

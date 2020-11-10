@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4017
+Category:         Sensitive Directories
+Published Date:   2015-06-10
+Author:           anonymous
+GoogleDork:       inurl:private_files
+Description:      inurl:private_files
+
+
+Directory private files xD. By Rootkit.

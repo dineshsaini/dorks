@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3433
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "POWERED BY PHPNUKE.IR"
+Description:      "POWERED BY PHPNUKE.IR"
+
+
+PHPnuke 8.2 Remote Upload File: https://www.exploit-db.com/exploits/14058

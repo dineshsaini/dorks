@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2019
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intitle:"Dacio's Image Gallery"
+Description:      intitle:"Dacio's Image Gallery"
+
+
+Dacio's Image Gallery 1.6 (DT/Bypass/SU) Remote Vulnerabilities: https://www.exploit-db.com/exploits/8653

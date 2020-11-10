@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2748
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:modules.php?op= "pollID"
+Description:      inurl:modules.php?op= "pollID"
+
+
+MD-Pro 1.083.x Survey Module (pollID) Blind SQL Injection Vulnerability - CVE: 2009-2618: https://www.exploit-db.com/exploits/9021

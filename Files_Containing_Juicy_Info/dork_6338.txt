@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6338
+Category:         Files Containing Juicy Info
+Published Date:   2020-06-30
+Author:           Mohit khemchandani
+GoogleDork:       "Index of" "accounts.sql"
+Description:      "Index of" "accounts.sql"
+
+
+Title: Containing juicy info Google Dork: "Index of" "accounts.sql" Date: 28/06/2020 Author : Mohit khemchandani

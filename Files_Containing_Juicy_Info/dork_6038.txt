@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6038
+Category:         Files Containing Juicy Info
+Published Date:   2020-05-06
+Author:           Abhi Chitkara
+GoogleDork:       intitle:"index of" "secrets.py"
+Description:      intitle:"index of" "secrets.py"
+
+
+Dork: intitle:"index of" "secrets.py" Description: This google dork lists secret python files in a webserver. Author: Abhi Chitkara 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1465
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:com_simpleshop
+Description:      inurl:com_simpleshop
+
+
+Joomla Component simpleshop 3.4 SQL injection Vulnerability - CVE: 2008-2568: https://www.exploit-db.com/exploits/5743

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5229
+Category:         Pages Containing Login Portals
+Published Date:   2019-05-29
+Author:           Fabio Stoll
+GoogleDork:       intitle:"iLO Login" intext:"Integrated Lights-Out 3"
+Description:      intitle:"iLO Login" intext:"Integrated Lights-Out 3"
+
+
+intitle:"iLO Login" intext:"Integrated Lights-Out 3"  Descrption: Find HP / HPE ilo 3 pages exposed to the Internet and discovered by Google.  Author: Fabio Stoll (Fastor)

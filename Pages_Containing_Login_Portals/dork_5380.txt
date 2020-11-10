@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5380
+Category:         Pages Containing Login Portals
+Published Date:   2019-08-19
+Author:           Reza Abasi
+GoogleDork:       site:*/logon/ intitle:"Sign In"
+Description:      site:*/logon/ intitle:"Sign In"
+
+
+Login page :  site:*/logon/ intitle:"Sign In" site:*/logon/ intitle:"login" site:*/logon/ intitle:"Logon" inurl:/Logon.aspx site:*/logon/ intitle:"Logon" inurl:/logon.html site:*/logon/ intitle:"Logon" inurl:/logon.jsp  Reza Abasi(Turku) 

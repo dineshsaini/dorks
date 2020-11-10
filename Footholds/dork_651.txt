@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/651
+Category:         Footholds
+Published Date:   2004-11-06
+Author:           anonymous
+GoogleDork:       inurl:ConnectComputer/precheck.htm | inurl:Remote/logon.aspx
+Description:      inurl:ConnectComputer/precheck.htm | inurl:Remote/logon.aspx
+
+
+Windows Small Business Server 2003: The network configuration page is called "ConnectComputer/precheck.htm " and the Remote Web login page is called "remote/logon.aspx".

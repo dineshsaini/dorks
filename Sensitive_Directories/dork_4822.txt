@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4822
+Category:         Sensitive Directories
+Published Date:   2018-05-16
+Author:           Bruno Schmid
+GoogleDork:       inurl:"paypal" intitle:"index of" backup | db | access -github
+Description:      inurl:"paypal" intitle:"index of" backup | db | access -github
+
+
+Some juicy information regarding paypal backups and more.   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

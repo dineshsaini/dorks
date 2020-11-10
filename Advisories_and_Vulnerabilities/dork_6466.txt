@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6466
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-08-06
+Author:           Alexandros Pappas
+GoogleDork:       inurl:''com_gmapfp''
+Description:      inurl:''com_gmapfp''
+
+
+# Google Dork: inurl:''com_gmapfp''  # Joomla! Component GMapFP 3.30 - Arbitrary File Upload. This dork is linked to the following existing exploit: https://www.exploit-db.com/exploits/48248  # Date: 31/07/2020  # Exploit Author: Alexandros Pappas 

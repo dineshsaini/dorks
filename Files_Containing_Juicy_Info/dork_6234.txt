@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6234
+Category:         Files Containing Juicy Info
+Published Date:   2020-06-08
+Author:           Hemant Patidar
+GoogleDork:       index of "backup.zip"
+Description:      index of "backup.zip"
+
+
+Google Dork: index of "backup.zip" Author: Hemant Patidar (HemantSolo) Linkedin: https://www.linkedin.com/in/hemantsolo/  

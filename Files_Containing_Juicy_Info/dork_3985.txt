@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3985
+Category:         Files Containing Juicy Info
+Published Date:   2015-01-27
+Author:           anonymous
+GoogleDork:       inurl:"/server-info" intext:"Loaded Modules"
+Description:      inurl:"/server-info" intext:"Loaded Modules"
+
+
+Search Apache server information though default module info_module: inurl:"/server-info" intext:"Loaded Modules" Author: @felmoltor -- Felipe Molina de la Torre

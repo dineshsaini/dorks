@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5061
+Category:         Files Containing Juicy Info
+Published Date:   2019-01-02
+Author:           Kevin Randall
+GoogleDork:       filetype:pub "ssh-rsa"
+Description:      filetype:pub "ssh-rsa"
+
+
+Find SSH Public Keys   filetype:pub "ssh-rsa"   Discovered By: Kevin Randall 

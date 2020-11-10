@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/788
+Category:         Pages Containing Login Portals
+Published Date:   2004-12-19
+Author:           anonymous
+GoogleDork:       intext:""BiTBOARD v2.0" BiTSHiFTERS Bulletin Board"
+Description:      intext:""BiTBOARD v2.0" BiTSHiFTERS Bulletin Board"
+
+
+The bitboard2 is a board that need no database to work. So it is useful for webmaster that have no access to a sql database. The password file can be retrieve from/admin/data_passwd.dat

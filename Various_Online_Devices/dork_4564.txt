@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4564
+Category:         Various Online Devices
+Published Date:   2017-07-31
+Author:           anonymous
+GoogleDork:       intitle:"twonky server" inurl:"9000" -intext:"9000"
+Description:      intitle:"twonky server" inurl:"9000" -intext:"9000"
+
+
+Finds Twonky media-sharing servers Dxtroyer

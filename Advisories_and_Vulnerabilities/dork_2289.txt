@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2289
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by:Traidnt Gallery Version 1.0.
+Description:      Powered by:Traidnt Gallery Version 1.0.
+
+
+Traidnt Gallery add Admin: https://www.exploit-db.com/exploits/10629

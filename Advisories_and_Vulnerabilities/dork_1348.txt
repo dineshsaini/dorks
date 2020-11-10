@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1348
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-04-28
+Author:           anonymous
+GoogleDork:       inurl:database.php | inurl:info_db.php ext:php "Database V2.*" "Burning Board *"
+Description:      inurl:database.php | inurl:info_db.php ext:php "Database V2.*" "Burning Board *"
+
+
+this is for Woltlab Burning Board 2.x (Datenbank MOD fileid)exploit:http://seclists.org/lists/bugtraq/2006/Mar/0058.html

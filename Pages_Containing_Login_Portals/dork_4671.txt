@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4671
+Category:         Pages Containing Login Portals
+Published Date:   2018-02-14
+Author:           Nisankh Acharjya
+GoogleDork:       inurl:/frontend/paper_lantern/index.html
+Description:      inurl:/frontend/paper_lantern/index.html
+
+
+inurl:/frontend/paper_lantern/index.html  This Dork is useful to search and find CPANEL login 

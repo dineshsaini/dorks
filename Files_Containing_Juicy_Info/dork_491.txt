@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/491
+Category:         Files Containing Juicy Info
+Published Date:   2004-09-21
+Author:           anonymous
+GoogleDork:       ext:log "Software: Microsoft Internet Information Services *.*"
+Description:      ext:log "Software: Microsoft Internet Information Services *.*"
+
+
+Microsoft Internet Information Services (IIS) has log files that are normally not in the docroot, but then again, some people manage to share them. An attacker may use these to gather: loginnames (FTP service), pathinformation, databasenames, and stuff..Examples:12:09:37 194.236.57.10 [2501]USER micze 33112:09:38 194.236.57.10 [2501]PASS - 23008:30:38 194.236.57.10 [2416]DELE com-gb97.mdb2000-06-18 15:08:30 200.16.212.225 activeip\carpinchos 4.22.121.13 80 POST /_vti_bin/_vti_aut/author.dll - 200 2958 551 120 MSFrontPage/4.0 -

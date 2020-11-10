@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2039
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"com_ckforms"
+Description:      inurl:"com_ckforms"
+
+
+Joomla Component com_ckforms Multiple Vulnerabilities - CVE: 2010-1344: https://www.exploit-db.com/exploits/11785

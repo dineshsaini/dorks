@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2211
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "ATutor 1.6.4"
+Description:      "ATutor 1.6.4"
+
+
+ATutor 1.6.4 Multiple Cross Site Scripting - CVE: 2010-0971: https://www.exploit-db.com/exploits/11685

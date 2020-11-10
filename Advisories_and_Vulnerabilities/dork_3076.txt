@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3076
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by LiteCommerce
+Description:      Powered by LiteCommerce
+
+
+litecommerce 2004 (category_id) Remote SQL Injection Vulnerability - CVE: 2005-1032: https://www.exploit-db.com/exploits/4300

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5990
+Category:         Files Containing Juicy Info
+Published Date:   2020-05-04
+Author:           Alexandros Pappas
+GoogleDork:       intext:"laravel" ext:env intext:"db_password" -git
+Description:      intext:"laravel" ext:env intext:"db_password" -git
+
+
+# Google Dork: intext:"laravel" ext:env intext:"db_password" -git  # Laravel Database credentials.  # Date: 1/05/2020  # Author: Alexandros Pappas 

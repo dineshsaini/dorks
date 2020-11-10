@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4837
+Category:         Sensitive Directories
+Published Date:   2018-06-04
+Author:           Brain Reflow
+GoogleDork:       inurl:'listprojects.spr'
+Description:      inurl:'listprojects.spr'
+
+
+Dork show a list of project in Codebeamer directory  Author: Brain Reflow 

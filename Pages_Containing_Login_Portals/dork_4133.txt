@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4133
+Category:         Pages Containing Login Portals
+Published Date:   2015-11-16
+Author:           anonymous
+GoogleDork:       intitle:FootPrints Login | inurl:/MRcgi/MRentrancePage.pl
+Description:      intitle:FootPrints Login | inurl:/MRcgi/MRentrancePage.pl
+
+
+Numara Software  FootPrints Logins -Xploit

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1075
+Category:         Error Messages
+Published Date:   2005-08-16
+Author:           anonymous
+GoogleDork:       "There seems to have been a problem with the" " Please try again by clicking the Refresh button in your web browser."
+Description:      "There seems to have been a problem with the" " Please try again by clicking the Refresh button in your web browser."
+
+
+search reveals database errors on vbulletin sites. View the page source and you can get information about the sql query executed, this can help in all manner of ways depending on the query.

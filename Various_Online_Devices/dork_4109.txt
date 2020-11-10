@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4109
+Category:         Various Online Devices
+Published Date:   2015-11-03
+Author:           anonymous
+GoogleDork:       "Build ref: 26"
+Description:      "Build ref: 26"
+
+
+Google Dork Description: Automatic Number Plate Recognition Systems (ANPRs) Cameras Google Search: "Build ref: 26" Vendor: PIPS Technology (3M) http://www.roadtraffic-technology.com/contractors/photo_enforcement/pips-technology Listing of ANPRs/ALPRs cameras. John Jolly

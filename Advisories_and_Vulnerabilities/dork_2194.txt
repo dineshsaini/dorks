@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2194
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered By WebSihirbazÄ±
+Description:      Powered By WebSihirbazÄ±
+
+
+WebSihirbazi 5.1.1 (pageid) Remote SQL Injection Vulnerability - CVE: 2007-6556: https://www.exploit-db.com/exploits/4777

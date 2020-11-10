@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/321
+Category:         Sensitive Directories
+Published Date:   2004-07-12
+Author:           anonymous
+GoogleDork:       Index of phpMyAdmin
+Description:      Index of phpMyAdmin
+
+
+phpMyAdmin is a tool written in PHP intended to handle the administration of MySQL over the Web. Currently it can create and drop databases, create/drop/alter tables, delete/edit/add fields, execute any SQL statement, manage keys on fields (http://sourceforge.net/projects/phpmyadmin/).An attacker can use this search to find phpMyAdmin enabled MySQL servers by using the "index of /" method. Consider this an alternative way an attacker could find them besides the older Googledorks for phpMyAdmin.

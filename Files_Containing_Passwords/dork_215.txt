@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/215
+Category:         Files Containing Passwords
+Published Date:   2004-05-11
+Author:           anonymous
+GoogleDork:       filetype:reg reg HKEY_CURRENT_USER SSHHOSTKEYS
+Description:      filetype:reg reg HKEY_CURRENT_USER SSHHOSTKEYS
+
+
+This search reveals SSH host key fro the Windows Registry. These files contain information about where the user connects including hostnames and port numbers, and shows sensitive information such as the SSH host key in use by that client.

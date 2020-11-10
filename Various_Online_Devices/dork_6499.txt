@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6499
+Category:         Various Online Devices
+Published Date:   2020-08-28
+Author:           Juan Christian
+GoogleDork:       inurl:/presentation/html/top/index.html
+Description:      inurl:/presentation/html/top/index.html
+
+
+# Google Dork: inurl:/presentation/html/top/index.html # Description: discover publicly available Epson devices (printer, scanner etc.) # Author: Juan Christian (https://www.linkedin.com/in/juanchristian) 

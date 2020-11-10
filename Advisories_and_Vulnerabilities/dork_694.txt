@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/694
+Category:         Advisories and Vulnerabilities
+Published Date:   2004-11-18
+Author:           anonymous
+GoogleDork:       inurl:cal_make.pl
+Description:      inurl:cal_make.pl
+
+
+A security vulnerability in PerlCal allows remote attackers to access files that reside outside the normally bounding HTML root directory. http://www.securityfocus.com/bid/2663

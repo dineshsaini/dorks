@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2568
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       infusions/triscoop_race_system/race_details.php?
+Description:      infusions/triscoop_race_system/race_details.php?
+
+
+PHP-Fusion Mod triscoop_race_system (raceid) SQL Injection Vuln: https://www.exploit-db.com/exploits/6684

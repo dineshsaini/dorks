@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6079
+Category:         Files Containing Juicy Info
+Published Date:   2020-05-13
+Author:           Alexandros Pappas
+GoogleDork:       intitle:"index of" "dhparams.pem"
+Description:      intitle:"index of" "dhparams.pem"
+
+
+# Google Dork:  intitle:"index of" "dhparams.pem" intitle:"index of" "bundle.pem"  # Juicy and sensitive information.  # Date: 13/05/2020  # Author: Alexandros Pappas 

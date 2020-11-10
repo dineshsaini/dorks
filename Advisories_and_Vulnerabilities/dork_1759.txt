@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1759
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "powered by sunshop"
+Description:      "powered by sunshop"
+
+
+SunShop Shopping Cart 3.5 (abs_path) RFI Vulnerabilities - CVE: 2007-2070: https://www.exploit-db.com/exploits/3748

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5109
+Category:         Pages Containing Login Portals
+Published Date:   2019-02-15
+Author:           Bruno Schmid
+GoogleDork:       intext:pin | userid &amp; password intitle:supplier | supply &amp; login | portal
+Description:      intext:pin | userid &amp; password intitle:supplier | supply &amp; login | portal
+
+
+Login portals   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

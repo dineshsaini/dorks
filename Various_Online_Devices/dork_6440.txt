@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6440
+Category:         Various Online Devices
+Published Date:   2020-07-26
+Author:           Alexandros Pappas
+GoogleDork:       intext:"Frame rate" inurl:/home/homej.html
+Description:      intext:"Frame rate" inurl:/home/homej.html
+
+
+# Google Dork: intext:"Frame rate" inurl:/home/homej.html # Various online devices. # Date: 24/07/2020 # Exploit Author: Alexandros Pappas 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5556
+Category:         Footholds
+Published Date:   2019-09-26
+Author:           Reza Abasi
+GoogleDork:       site:*/wp-admin/install.php intitle:WordPress Installation
+Description:      site:*/wp-admin/install.php intitle:WordPress Installation
+
+
+Files Containing Juicy Info:  site:*/wp-admin/install.php intitle:WordPress Installation  Reza Abasi(Turku) 

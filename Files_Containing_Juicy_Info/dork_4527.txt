@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4527
+Category:         Files Containing Juicy Info
+Published Date:   2017-06-15
+Author:           anonymous
+GoogleDork:       "random's system information tool" ext:txt
+Description:      "random's system information tool" ext:txt
+
+
+Finds logs from system info stealers Dxtroyer

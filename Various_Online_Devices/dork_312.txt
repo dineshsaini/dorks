@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/312
+Category:         Various Online Devices
+Published Date:   2004-07-10
+Author:           anonymous
+GoogleDork:       sony SNC-RZ30 Network Cameras
+Description:      sony SNC-RZ30 Network Cameras
+
+
+sony NC RZ30 camera's require a java capable browser. The admin panel is found at http://[sitename]/home/l4/admin.html.

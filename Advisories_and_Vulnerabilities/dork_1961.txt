@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1961
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "com_lmo"
+Description:      "com_lmo"
+
+
+Joomla LMO Component 1.0b2 Remote Include Vulnerability - CVE: 2006-3970: https://www.exploit-db.com/exploits/2092

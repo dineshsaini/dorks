@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/683
+Category:         Various Online Devices
+Published Date:   2004-11-16
+Author:           anonymous
+GoogleDork:       "Starting SiteZAP 6.0"
+Description:      "Starting SiteZAP 6.0"
+
+
+siteZap webcams !

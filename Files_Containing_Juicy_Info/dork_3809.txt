@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3809
+Category:         Files Containing Juicy Info
+Published Date:   2012-11-02
+Author:           anonymous
+GoogleDork:       inurl:.com/configuration.php-dist
+Description:      inurl:.com/configuration.php-dist
+
+
+Finds the configuration files of the PHP Database on the server. By Chintan GurjarRahul Tygi

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5863
+Category:         Files Containing Juicy Info
+Published Date:   2020-03-31
+Author:           Alexandros Pappas
+GoogleDork:       filetype:reg reg [HKEY_CURRENT_USER\Software\] -git
+Description:      filetype:reg reg [HKEY_CURRENT_USER\Software\] -git
+
+
+# Google Dork: filetype:reg reg [HKEY_CURRENT_USER\Software\] -git  # By using this dork, some passwords for WinVNC and FAR plugins for Mail, FTP and ProxyFTP can be found.  # Date: 31/03/2020  # Author: Alexandros Pappas 

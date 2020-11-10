@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2707
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intext:Powered by AWCM v2.1
+Description:      intext:Powered by AWCM v2.1
+
+
+AWCM 2.1 Local File Inclusion / Auth Bypass Vulnerabilities - CVE: 2009-3219: https://www.exploit-db.com/exploits/9237

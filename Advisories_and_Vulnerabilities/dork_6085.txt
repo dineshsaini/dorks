@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6085
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-05-14
+Author:           Abhi Chitkara
+GoogleDork:       inurl:wp-content/plugins/easy-testimonials
+Description:      inurl:wp-content/plugins/easy-testimonials
+
+
+Dork: inurl:wp-content/plugins/easy-testimonials Description: This google dork lists out Advisories and Vulnerabilities regarding the easy testimonials wordpress plugin. Ref: https://wpvulndb.com/vulnerabilities/10223 Author: Abhi Chitkara 

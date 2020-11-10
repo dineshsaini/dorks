@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4454
+Category:         Files Containing Juicy Info
+Published Date:   2017-05-01
+Author:           anonymous
+GoogleDork:       "Scan result of Farbar Recovery Scan Tool" ext:txt
+Description:      "Scan result of Farbar Recovery Scan Tool" ext:txt
+
+
+Finds logfiles for... Farbar?!? I don't even know. Some cool info, though. Dxtroyer

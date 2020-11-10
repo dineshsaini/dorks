@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3942
+Category:         Pages Containing Login Portals
+Published Date:   2014-04-07
+Author:           anonymous
+GoogleDork:       inurl:typo3/install/index.php?mode=
+Description:      inurl:typo3/install/index.php?mode=
+
+
+typo3 install logins Bruno Schmid

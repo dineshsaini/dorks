@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4258
+Category:         Pages Containing Login Portals
+Published Date:   2016-04-11
+Author:           anonymous
+GoogleDork:       inurl:/Remote/logon?ReturnUrl
+Description:      inurl:/Remote/logon?ReturnUrl
+
+
+inurl:/Remote/logon?ReturnUrl This google dork can access many outdated and vulnerable windows servers out there.. Created by Sivabalan ( CYBER GENIUS)

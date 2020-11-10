@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/29
+Category:         Error Messages
+Published Date:   2003-06-24
+Author:           anonymous
+GoogleDork:       MYSQL error message: supplied argument....
+Description:      MYSQL error message: supplied argument....
+
+
+One of many potential error messages that spew interesting information. The results of this message give you real path names inside the webserver as well as more php scripts for potential "crawling" activities.

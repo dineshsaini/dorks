@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4076
+Category:         Pages Containing Login Portals
+Published Date:   2015-09-10
+Author:           anonymous
+GoogleDork:       inurl:"remote.php/webdav" -site:owncloud.org
+Description:      inurl:"remote.php/webdav" -site:owncloud.org
+
+
+Category: Pages Containin Login Portals Author: Felipe Molina (@femoltor) Owncloud WebDav login

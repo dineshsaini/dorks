@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4018
+Category:         Files Containing Juicy Info
+Published Date:   2015-06-10
+Author:           anonymous
+GoogleDork:       filetype:pcf vpn OR Group
+Description:      filetype:pcf vpn OR Group
+
+
+Google Dork: filetype:pcf vpn OR Group Author: azupwn This dork allows you to search for publicly accessible profile configuration files (.pcf) used by VPN clients. These files typically contain usernames, password, tunneling ports, VPN server information and other information. Cheers, -- azupwn

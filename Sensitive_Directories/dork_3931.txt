@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3931
+Category:         Sensitive Directories
+Published Date:   2014-02-05
+Author:           anonymous
+GoogleDork:       allinurl:/hide_my_wp=
+Description:      allinurl:/hide_my_wp=
+
+
+i just found a google dork that is file/path disclosure of Hide My WP plugin Google dork - allinurl:/hide_my_wp= it will show the plugin file folder and all file. thanks kamrul hassan arman

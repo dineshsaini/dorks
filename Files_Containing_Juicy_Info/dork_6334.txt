@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6334
+Category:         Files Containing Juicy Info
+Published Date:   2020-06-26
+Author:           Alexandros Pappas
+GoogleDork:       intitle:"index of" "*named.root.key"
+Description:      intitle:"index of" "*named.root.key"
+
+
+# Google Dork: intitle:"index of" "*named.root.key" # Juicy information and sensitive directories. # Date: 26/06/2020 # Exploit Author: Alexandros Pappas 

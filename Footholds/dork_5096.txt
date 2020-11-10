@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5096
+Category:         Footholds
+Published Date:   2019-02-11
+Author:           Alfie
+GoogleDork:       inurl:"/sidekiq/busy"
+Description:      inurl:"/sidekiq/busy"
+
+
+*Google dork description: Get the sidekiq dashboard that is used to run Ruby systems. You have the access to view, start, stop processes*  *Google Search:* inurl:"/sidekiq/busy"  *Submitted by:* Alfie  Website: (https://the-infosec.com) 

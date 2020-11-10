@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3642
+Category:         Vulnerable Servers
+Published Date:   2010-12-10
+Author:           anonymous
+GoogleDork:       inurl:/vb/install/install.php
+Description:      inurl:/vb/install/install.php
+
+
+Vbulletin installation wizards, allow users to modify installation parameters. May also reveal sql username, password and table installations. Author: ScOrPiOn

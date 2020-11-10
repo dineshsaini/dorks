@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3903
+Category:         Files Containing Juicy Info
+Published Date:   2013-11-25
+Author:           anonymous
+GoogleDork:       filetype:php intext:"PROJECT HONEY POT ADDRESS DISTRIBUTION SCRIPT"
+Description:      filetype:php intext:"PROJECT HONEY POT ADDRESS DISTRIBUTION SCRIPT"
+
+
+Project Honey Pot anti-spammer detection (http://www.projecthoneypot.org/) Can identify the honeypot and get the site's honeypot keys -- -[Voluntas Vincit Omnia]- website http://www.erisresearch.org/ Google+ https://plus.google.com/u/0/114827336297709201563

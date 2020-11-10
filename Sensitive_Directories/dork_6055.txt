@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6055
+Category:         Sensitive Directories
+Published Date:   2020-05-06
+Author:           Alexandros Pappas
+GoogleDork:       intitle:"index of" "test/storage/framework/sessions/"
+Description:      intitle:"index of" "test/storage/framework/sessions/"
+
+
+# Google Dork: intitle:"index of" "test/storage/framework/sessions/"  # Juicy information and sensitive directories, including tokens and more.  # Date: 6/05/2020  # Author: Alexandros Pappas 

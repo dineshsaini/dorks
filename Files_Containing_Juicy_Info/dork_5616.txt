@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5616
+Category:         Files Containing Juicy Info
+Published Date:   2019-11-04
+Author:           Ismail Tasdelen
+GoogleDork:       intitle:index.of "key.txt"
+Description:      intitle:index.of "key.txt"
+
+
+Dork: intitle:index.of "key.txt"  Author:Ismail Tasdelen  Info: It contains key clear text sensitive information. 

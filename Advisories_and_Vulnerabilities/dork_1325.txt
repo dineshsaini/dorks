@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1325
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-04-10
+Author:           anonymous
+GoogleDork:       intext:"2000-2001 The phpHeaven Team" -sourceforge
+Description:      intext:"2000-2001 The phpHeaven Team" -sourceforge
+
+
+intext:"2000-2001 The phpHeaven Team" -sourceforge this is for PHPMyChat remote commands execution,advisory/poc exploits:http://retrogod.altervista.org/phpmychat_0145_xpl.htmlhttp://retrogod.altervista.org/phpmychat_015dev_xpl.html

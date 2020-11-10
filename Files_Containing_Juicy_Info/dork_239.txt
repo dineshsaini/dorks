@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/239
+Category:         Files Containing Juicy Info
+Published Date:   2004-05-17
+Author:           anonymous
+GoogleDork:       intitle:intranet inurl:intranet +intext:"phone"
+Description:      intitle:intranet inurl:intranet +intext:"phone"
+
+
+These pages are often private intranet pages which contain phone listings and email addresses. These pages can be used as a sort of online "dumpster dive".

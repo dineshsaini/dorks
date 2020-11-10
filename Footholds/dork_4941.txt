@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4941
+Category:         Footholds
+Published Date:   2018-09-10
+Author:           ManhNho
+GoogleDork:       intext:"M3R1C4 SHELL BACKDOOR"
+Description:      intext:"M3R1C4 SHELL BACKDOOR"
+
+
+intext:"M3R1C4 SHELL BACKDOOR"  foothold web shell  ManhNho 

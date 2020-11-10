@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6076
+Category:         Files Containing Juicy Info
+Published Date:   2020-05-12
+Author:           Abhi Chitkara
+GoogleDork:       intitle:"index of" "token.txt"
+Description:      intitle:"index of" "token.txt"
+
+
+Dork: intitle:"index of" "token.txt" Description: This google dork lists out sensitive tokens used on a web server. Author: Abhi Chitkara 

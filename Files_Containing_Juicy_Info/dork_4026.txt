@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4026
+Category:         Files Containing Juicy Info
+Published Date:   2015-06-24
+Author:           anonymous
+GoogleDork:       "signons.sqlite" intitle:"index of"
+Description:      "signons.sqlite" intitle:"index of"
+
+
+"signons.sqlite" intitle:"index of" This dork finds firefox profiles and other softwares that use the similar format that you can grab and put in your own firefox or other installation and reveal all passwords saved, history, bookmarks, saved cookies and pretty much everything! When you get hacked using this method it feels like you are getting hacked by a whole team. by _sNapper -- "The answer to every problem is One." -- Myself -- "Life is like war, for the most part--planning it is useless." -- Myself

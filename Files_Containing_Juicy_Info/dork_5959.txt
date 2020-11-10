@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5959
+Category:         Files Containing Juicy Info
+Published Date:   2020-04-28
+Author:           Alexandros Pappas
+GoogleDork:       intitle:"index of" keepass.kdbx OR database.kdbx
+Description:      intitle:"index of" keepass.kdbx OR database.kdbx
+
+
+# Google Dork: intitle:"index of" keepass.kdbx OR database.kdbx  # KeePass database key file in open web directories.  # Date: 28/04/2020  # Author: Alexandros Pappas 

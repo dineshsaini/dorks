@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6470
+Category:         Files Containing Juicy Info
+Published Date:   2020-08-10
+Author:           Alexandros Pappas
+GoogleDork:       allintext:"API_SECRET*" ext:env | ext:yml
+Description:      allintext:"API_SECRET*" ext:env | ext:yml
+
+
+# Google Dork: allintext:"API_SECRET*" ext:env | ext:yml # Juicy info. # Date: 10/08/2020 # Exploit Author: Alexandros Pappas 

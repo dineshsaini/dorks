@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2290
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"powered by eggblog"
+Description:      inurl:"powered by eggblog"
+
+
+Eggblog 3.07 Remote (SQL Injection / Privilege Escalation) - CVE: 2006-2725: https://www.exploit-db.com/exploits/1842

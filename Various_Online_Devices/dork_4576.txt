@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4576
+Category:         Various Online Devices
+Published Date:   2017-08-15
+Author:           anonymous
+GoogleDork:       inurl:share.cgi?ssid=
+Description:      inurl:share.cgi?ssid=
+
+
+This dork show myQnap cloud servers files and folder shared. Have Fun!!!. Rootkit Pentester.

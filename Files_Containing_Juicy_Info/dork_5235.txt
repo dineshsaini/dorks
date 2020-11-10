@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5235
+Category:         Files Containing Juicy Info
+Published Date:   2019-05-31
+Author:           Dec0y
+GoogleDork:       intext:backup.sql intitle:index.of
+Description:      intext:backup.sql intitle:index.of
+
+
+SQL Backups. 

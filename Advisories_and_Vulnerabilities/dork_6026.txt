@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6026
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-05-05
+Author:           Abhi Chitkara
+GoogleDork:       inurl:/wp-content/themes/listingpro/
+Description:      inurl:/wp-content/themes/listingpro/
+
+
+Dork: inurl:/wp-content/themes/listingpro/ Description: This Google dork lists out Advisories and Vulnerabilities about the listingpro theme. Ref: https://wpvulndb.com/vulnerabilities/10025 Author: Abhi Chitkara 

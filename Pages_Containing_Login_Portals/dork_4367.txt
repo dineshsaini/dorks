@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4367
+Category:         Pages Containing Login Portals
+Published Date:   2016-12-05
+Author:           anonymous
+GoogleDork:       intitle:"Vigor Login Page"
+Description:      intitle:"Vigor Login Page"
+
+
+Vigor router login panel Google Dork: intitle:"Vigor Login Page" Date: 2016-12-01 Author: Devendra Singh Solanki

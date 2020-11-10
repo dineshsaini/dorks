@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1203
+Category:         Various Online Devices
+Published Date:   2005-11-21
+Author:           anonymous
+GoogleDork:       intitle:"Sony SNT-V304 Video Network Station" inurl:hsrindex.shtml
+Description:      intitle:"Sony SNT-V304 Video Network Station" inurl:hsrindex.shtml
+
+
+The SNT-V304 Video Network Station.Sony's network camera control station.

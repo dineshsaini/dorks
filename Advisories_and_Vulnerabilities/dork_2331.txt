@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2331
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intitle:WEBEYES GUEST BOOK inurl:.asp?id=
+Description:      intitle:WEBEYES GUEST BOOK inurl:.asp?id=
+
+
+WebEyes Guest Book v.3 (yorum.asp mesajid) SQL Injection Vulnerability - CVE: 2009-1950: https://www.exploit-db.com/exploits/8859

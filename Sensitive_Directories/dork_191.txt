@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/191
+Category:         Sensitive Directories
+Published Date:   2004-04-28
+Author:           anonymous
+GoogleDork:       inurl:/pls/sample/admin_/help/
+Description:      inurl:/pls/sample/admin_/help/
+
+
+This is the default installation location of Oracle manuals. This helps in footprinting a server, allowing an attacker to determine software version information which may aid in an attack.

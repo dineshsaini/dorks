@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2721
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Designed &amp; Developed by Zeeways.com"
+Description:      "Designed &amp; Developed by Zeeways.com"
+
+
+zeeproperty 1.0 (Upload/XSS) Multiple Remote Vulnerabilities - CVE: 2008-6915: https://www.exploit-db.com/exploits/7058

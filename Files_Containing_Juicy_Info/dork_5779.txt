@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5779
+Category:         Files Containing Juicy Info
+Published Date:   2020-03-09
+Author:           Reza Abasi
+GoogleDork:       intitle:"index of" accounts.xml
+Description:      intitle:"index of" accounts.xml
+
+
+pages containing juicy info:  intitle:"index of" accounts.xml  Reza Abasi(Turku) 

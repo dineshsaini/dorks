@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5282
+Category:         Pages Containing Login Portals
+Published Date:   2019-07-16
+Author:           Francis Al Victoriano
+GoogleDork:       inurl:simple/view/login.html
+Description:      inurl:simple/view/login.html
+
+
+# Exploit Title: Huawei Lan Switch Login  # Google Dork: inurl:simple/view/login.html  # Author: Francis Al Victoriano 

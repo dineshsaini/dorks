@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6578
+Category:         Various Online Devices
+Published Date:   2020-09-28
+Author:           Alexandros Pappas
+GoogleDork:       inurl:"webArch/mainFrame.cgi" + "Web Image Monitor"
+Description:      inurl:"webArch/mainFrame.cgi" + "Web Image Monitor"
+
+
+# Google Dork: inurl:"webArch/mainFrame.cgi" + "Web Image Monitor" # Web portals for Ricoh printers. # Date: 26/09/2020 # Exploit Author: Alexandros Pappas 

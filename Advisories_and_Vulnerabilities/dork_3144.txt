@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3144
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by Digital College 1.0 - Magtrb Soft 2010
+Description:      Powered by Digital College 1.0 - Magtrb Soft 2010
+
+
+Digital College 1.0 Upload Vulnerability: https://www.exploit-db.com/exploits/12568

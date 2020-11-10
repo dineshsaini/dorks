@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5437
+Category:         Various Online Devices
+Published Date:   2019-08-22
+Author:           Steve George
+GoogleDork:       intitle:"VideoEdge Admin Interface"
+Description:      intitle:"VideoEdge Admin Interface"
+
+
+Various online devices  - Steve George 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3338
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by Elvin Bug Tracking Server.
+Description:      Powered by Elvin Bug Tracking Server.
+
+
+Elvin BTS 1.2.0 Multiple Remote Vulnerabilities - CVE: 2009-2123: https://www.exploit-db.com/exploits/8953

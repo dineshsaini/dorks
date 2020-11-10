@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5834
+Category:         Pages Containing Login Portals
+Published Date:   2020-03-27
+Author:           Alexandros Pappas
+GoogleDork:       inurl:8080/webinterface intitle:"crushftp"
+Description:      inurl:8080/webinterface intitle:"crushftp"
+
+
+# Google Dork: inurl:8080/webinterface intitle:"crushftp"  # By using this dork, various web interfaces for the Crush FTP containing login portals can be found.  # Date: 27/03/2020  # Author: Alexandros Pappas 

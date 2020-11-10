@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5668
+Category:         Pages Containing Login Portals
+Published Date:   2019-12-18
+Author:           Leandro Naranjo
+GoogleDork:       intext:"Service provided by Horos."
+Description:      intext:"Service provided by Horos."
+
+
+# Google Dork : intext:"Service provided by Horos." # Description: Find websites with medical information about people, such as x-rays. Some logins are without authentication. # Category : Files Containing Juicy Info # Date : 17/12/2019 # Author : Leandro Naranjo # Social: @tw1_lea

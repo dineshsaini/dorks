@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/431
+Category:         Files Containing Passwords
+Published Date:   2004-08-14
+Author:           anonymous
+GoogleDork:       filetype:bak inurl:"htaccess|passwd|shadow|htusers"
+Description:      filetype:bak inurl:"htaccess|passwd|shadow|htusers"
+
+
+This will search for backup files (*.bak) created by some editors or even by the administrator himself (before activating a new version). Every attacker knows that changing the extenstion of a file on a webserver can have ugly consequences.

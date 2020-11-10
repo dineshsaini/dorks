@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/926
+Category:         Advisories and Vulnerabilities
+Published Date:   2005-04-12
+Author:           anonymous
+GoogleDork:       powered.by.instaBoard.version.1.3
+Description:      powered.by.instaBoard.version.1.3
+
+
+InstaBoard is a coldfusion forum solution. In its version 1.3 it is vulnerable to SQL Injection.Bugtraq ID 7338

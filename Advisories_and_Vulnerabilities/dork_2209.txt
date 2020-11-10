@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2209
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Uebimiau Webmail v3.2.0-1.8
+Description:      Uebimiau Webmail v3.2.0-1.8
+
+
+Uebimiau Web-Mail v3.2.0-1.8 Remote File / Overwrite Vulnerabilities: https://www.exploit-db.com/exploits/8944

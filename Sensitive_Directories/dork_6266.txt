@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6266
+Category:         Sensitive Directories
+Published Date:   2020-06-10
+Author:           Prashant Sharma
+GoogleDork:       "Index of" "sass-cache"
+Description:      "Index of" "sass-cache"
+
+
+Google Dork: "Index of" "sass-cache" Category: Sensitive Directories Author: Prashant Sharma (@Prashantique) LinkedIn: https://www.linkedin.com/in/prashantique/ 

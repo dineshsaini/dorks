@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4202
+Category:         Footholds
+Published Date:   2016-02-16
+Author:           anonymous
+GoogleDork:       intitle: "phpshell" "Php Safe-Mode Bypass"
+Description:      intitle: "phpshell" "Php Safe-Mode Bypass"
+
+
+intitle: "phpshell" "Php Safe-Mode Bypass"

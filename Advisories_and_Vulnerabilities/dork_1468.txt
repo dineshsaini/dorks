@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1468
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       display_blog.php
+Description:      display_blog.php
+
+
+Social Site Generator (sgc_id) Remote SQL Injection Vulnerability - CVE: 2008-6419: https://www.exploit-db.com/exploits/5701

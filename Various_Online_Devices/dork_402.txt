@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/402
+Category:         Various Online Devices
+Published Date:   2004-08-05
+Author:           anonymous
+GoogleDork:       Phasers 4500/6250/8200/8400
+Description:      Phasers 4500/6250/8200/8400
+
+
+More Xerox printers (Phasers 4500/6250/8200/8400). An attacker can access the webinterface with this search.

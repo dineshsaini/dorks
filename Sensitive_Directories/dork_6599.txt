@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6599
+Category:         Sensitive Directories
+Published Date:   2020-10-08
+Author:           Alexandros Pappas
+GoogleDork:       intitle:"index of" "/CFIDE/" intext:"administrator"
+Description:      intitle:"index of" "/CFIDE/" intext:"administrator"
+
+
+# Google Dork: intitle:"index of" "/CFIDE/" intext:"administrator" # Sensitive directories. # Date: 8/10/2020 # Exploit Author: Alexandros Pappas 

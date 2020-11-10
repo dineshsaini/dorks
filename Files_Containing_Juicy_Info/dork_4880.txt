@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4880
+Category:         Files Containing Juicy Info
+Published Date:   2018-07-03
+Author:           Bruno Schmid
+GoogleDork:       filetype:xls | xlsx intext:cisco -cisco.com site:.gov
+Description:      filetype:xls | xlsx intext:cisco -cisco.com site:.gov
+
+
+Very nice network infrastructure info  Also try: filetype:xls | xlsx intext:fortigate -fortinet.com site:.gov filetype:xls | xlsx intext:bluecoat -bluecoat.com site:.gov filetype:xls | xlsx intext:checkpoint -checkpoint.com site:.gov   Bruno Schmid  https://ch.linkedin.com/in/schmidbruno 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/866
+Category:         Web Server Detection
+Published Date:   2005-02-15
+Author:           anonymous
+GoogleDork:       intitle:"welcome to mono xsp"
+Description:      intitle:"welcome to mono xsp"
+
+
+XSD is the demo webserver for the Mono project and allows the execution of ASP.NET on Unix

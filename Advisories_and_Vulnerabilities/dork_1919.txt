@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1919
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Emefa Guestbook V 3.0"
+Description:      "Emefa Guestbook V 3.0"
+
+
+Emefa Guestbook 3.0 Remote Database Disclosure Vulnerability - CVE: 2008-5852: https://www.exploit-db.com/exploits/7534

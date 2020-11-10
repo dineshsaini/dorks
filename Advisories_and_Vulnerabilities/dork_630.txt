@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/630
+Category:         Advisories and Vulnerabilities
+Published Date:   2004-10-27
+Author:           anonymous
+GoogleDork:       intitle:welcome.to.horde
+Description:      intitle:welcome.to.horde
+
+
+Horde Mail is web based email software, great for checking messages on the road. Several vulnerabilities were reported to Security Focus.

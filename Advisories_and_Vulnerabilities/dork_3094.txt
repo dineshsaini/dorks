@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3094
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Web Site Design by Red Cat Studios"
+Description:      "Web Site Design by Red Cat Studios"
+
+
+Realtor WebSite System E-Commerce SQL Injection Vulnerability: https://www.exploit-db.com/exploits/12772

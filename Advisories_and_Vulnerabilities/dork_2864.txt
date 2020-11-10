@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2864
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by PBBoard© 2009 Version 2.0.5
+Description:      Powered by PBBoard© 2009 Version 2.0.5
+
+
+PBBoard Version 2.0.5 Mullti Vulnerability: https://www.exploit-db.com/exploits/11570

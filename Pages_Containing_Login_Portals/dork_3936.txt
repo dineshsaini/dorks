@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3936
+Category:         Pages Containing Login Portals
+Published Date:   2014-02-28
+Author:           anonymous
+GoogleDork:       intitle:Admin inurl:login.php site:.co.in
+Description:      intitle:Admin inurl:login.php site:.co.in
+
+
+dork submitted by M4RKM3N aka Osama Mahmood revels admin login panels of sites :)

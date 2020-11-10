@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1190
+Category:         Pages Containing Login Portals
+Published Date:   2005-11-16
+Author:           anonymous
+GoogleDork:       "This is a restricted Access Server" "Javascript Not Enabled!"|"Messenger Express" -edu -ac
+Description:      "This is a restricted Access Server" "Javascript Not Enabled!"|"Messenger Express" -edu -ac
+
+
+Mostly Login Pages for iPlanet Messenger Express, which is a web-based electronic mail program that enables end users to access their mailboxes using a browser. Messenger Express clients send mail to a specialized web server that is part of iPlanet Messaging Server. Thanks to the forum members for cleaning up the search.

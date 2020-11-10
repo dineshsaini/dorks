@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6582
+Category:         Files Containing Passwords
+Published Date:   2020-09-29
+Author:           Alexandros Pappas
+GoogleDork:       "admin_password" ext:txt | ext:log | ext:cfg
+Description:      "admin_password" ext:txt | ext:log | ext:cfg
+
+
+# Google Dork: "admin_password" ext:txt | ext:log | ext:cfg # Admin passwords. # Date: 29/09/2020 # Exploit Author: Alexandros Pappas 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/295
+Category:         Files Containing Juicy Info
+Published Date:   2004-06-22
+Author:           anonymous
+GoogleDork:       filetype:ctt ctt messenger
+Description:      filetype:ctt ctt messenger
+
+
+MSN Messenger uses the file extension *.ctt when you export the contact list. An attacker could use this for social enginering tricks.

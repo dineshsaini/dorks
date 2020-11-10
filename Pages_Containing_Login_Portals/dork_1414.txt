@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1414
+Category:         Pages Containing Login Portals
+Published Date:   2006-09-20
+Author:           anonymous
+GoogleDork:       inurl:"/?pagename=CustomerLogin"
+Description:      inurl:"/?pagename=CustomerLogin"
+
+
+Customer login pages for what looks like an inhouse eshop. More information here:h**p://catalinalifesciences.com/ Credit to cp for clean up.

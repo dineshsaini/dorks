@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3331
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by ProjectCMS"							
+Description:      "Powered by ProjectCMS"							
+
+
+ProjectCMS 1.1b Multiple Remote Vulnerabilities: https://www.exploit-db.com/exploits/8608

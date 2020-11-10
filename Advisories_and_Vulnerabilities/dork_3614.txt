@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3614
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-24
+Author:           anonymous
+GoogleDork:       inurl:"?delete" +intext:"PHP version" +intext:"Safe_mode"
+Description:      inurl:"?delete" +intext:"PHP version" +intext:"Safe_mode"
+
+
+Matches some well known phpshells (r57 and the like).

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2029
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:com_idoblog
+Description:      inurl:com_idoblog
+
+
+Joomla Component iDoBlog b24 Remote SQL Injection Vulnerability - CVE: 2008-2627: https://www.exploit-db.com/exploits/5730

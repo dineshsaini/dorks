@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/891
+Category:         Pages Containing Login Portals
+Published Date:   2005-02-20
+Author:           anonymous
+GoogleDork:       inurl:"suse/login.pl"
+Description:      inurl:"suse/login.pl"
+
+
+More Suse login portals, mostly Open Exchange.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1226
+Category:         Files Containing Juicy Info
+Published Date:   2005-12-19
+Author:           anonymous
+GoogleDork:       (intitle:WebStatistica inurl:main.php) | (intitle:"WebSTATISTICA server") -inurl:statsoft -inurl:statsoftsa -inurl:statsoftinc.com -edu -software -rob
+Description:      (intitle:WebStatistica inurl:main.php) | (intitle:"WebSTATISTICA server") -inurl:statsoft -inurl:statsoftsa -inurl:statsoftinc.com -edu -software -rob
+
+
+WebStatistica provides detailed statistics about a web page. Normally you would have to login to view these statistics but the sites have put autologin on.

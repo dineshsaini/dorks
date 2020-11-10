@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3104
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by Clipshare"
+Description:      "Powered by Clipshare"
+
+
+ClipShare 2.6 Remote User Password Change - CVE: 2008-7188: https://www.exploit-db.com/exploits/4837

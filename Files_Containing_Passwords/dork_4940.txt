@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4940
+Category:         Files Containing Passwords
+Published Date:   2018-09-10
+Author:           ManhNho
+GoogleDork:       inurl:"wp-license.php?file=../..//wp-config"
+Description:      inurl:"wp-license.php?file=../..//wp-config"
+
+
+inurl:"wp-license.php?file=../..//wp-config"  File contain password and directory traversal vulnerability  ManhNho 

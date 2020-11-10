@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5002
+Category:         Files Containing Juicy Info
+Published Date:   2018-10-29
+Author:           Sh3llb0y
+GoogleDork:       intext:"Resource dumped by" intext:jcr -site:adobe.com
+Description:      intext:"Resource dumped by" intext:jcr -site:adobe.com
+
+
+This request shows a Find useful information about Adobe AEM-CQ implementation  DORK: intext:"Resource dumped by" intext:jcr -site:adobe.com  Cheers. Sh3llb0y 

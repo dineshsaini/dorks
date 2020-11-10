@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1642
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Engine powered by easyLink V1.1.0.
+Description:      Engine powered by easyLink V1.1.0.
+
+
+easyLink 1.1.0 (detail.php) Remote SQL Injection Vulnerability - CVE: 2008-6471: https://www.exploit-db.com/exploits/6494

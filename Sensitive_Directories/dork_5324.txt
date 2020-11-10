@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5324
+Category:         Sensitive Directories
+Published Date:   2019-08-05
+Author:           Mayur Parmar
+GoogleDork:       intitle:"Index of" phpmyadmin
+Description:      intitle:"Index of" phpmyadmin
+
+
+Dork: intitle:"Index of" phpmyadmin  Author:mayur parmar(th3cyb3rc0p)  Info: Contains sensitive information 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/45
+Category:         Files Containing Passwords
+Published Date:   2003-06-30
+Author:           anonymous
+GoogleDork:       filetype:xls username password email
+Description:      filetype:xls username password email
+
+
+This search shows Microsoft Excel spreadsheets containing the words username, password and email. Beware that there are a ton of blank "template" forms to weed through, but you can tell from the Google summary that some of these are winners... err losers.. depending on your perspective.

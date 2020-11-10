@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5789
+Category:         Sensitive Directories
+Published Date:   2020-03-16
+Author:           Rohit Gautam
+GoogleDork:       intitle:"index of" inurl:wp-json embedurl?
+Description:      intitle:"index of" inurl:wp-json embedurl?
+
+
+Google Dork Query to find out sensitive information for misconfigured wordpress base servers.  Google Dork Query: *intitle:"index of" inurl:wp-json embedurl?* 

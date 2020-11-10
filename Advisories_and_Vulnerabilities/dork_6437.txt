@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6437
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-07-26
+Author:           Lokesh S
+GoogleDork:       inurl:wp-content/plugins/updraftplus
+Description:      inurl:wp-content/plugins/updraftplus
+
+
+Dork: inurl:wp-content/plugins/updraftplus Description: This google dork lists out Advisories and Vulnerabilities regarding the updraftplus wordpress plugin. Ref: https://wpvulndb.com/vulnerabilities/9843 Author: Lokesh S 

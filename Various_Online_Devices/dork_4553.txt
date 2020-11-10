@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4553
+Category:         Various Online Devices
+Published Date:   2017-07-20
+Author:           anonymous
+GoogleDork:       intitle:"GitBucket" intext:"Recent updated repositories" intext:"Sign In"
+Description:      intitle:"GitBucket" intext:"Recent updated repositories" intext:"Sign In"
+
+
+Dork: intitle:"GitBucket" intext:"Recent updated repositories" intext:"Sign In" Description: Find GitBucket servers Author: scumsec

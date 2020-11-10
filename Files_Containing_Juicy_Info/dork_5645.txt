@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5645
+Category:         Files Containing Juicy Info
+Published Date:   2019-11-12
+Author:           Ismail Tasdelen
+GoogleDork:       intitle:index.of "access.conf"
+Description:      intitle:index.of "access.conf"
+
+
+Dork: intitle:index.of "access.conf" Author:Ismail Tasdelen  Info: It contains access.conf clear text sensitive information. 

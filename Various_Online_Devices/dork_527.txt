@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/527
+Category:         Various Online Devices
+Published Date:   2004-10-05
+Author:           anonymous
+GoogleDork:       intitle:webeye inurl:login.ml
+Description:      intitle:webeye inurl:login.ml
+
+
+This one gets you on the webinterface of Webeye webcams.

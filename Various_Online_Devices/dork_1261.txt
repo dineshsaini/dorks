@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1261
+Category:         Various Online Devices
+Published Date:   2006-02-08
+Author:           anonymous
+GoogleDork:       intext:"Welcome to Taurus" "The Taurus Server Appliance" intitle:"The Taurus Server Appliance"
+Description:      intext:"Welcome to Taurus" "The Taurus Server Appliance" intitle:"The Taurus Server Appliance"
+
+
+Celestix Networks, Inc., the premier supplier of network server appliance, announces the Taurus(TM) Server Appliance, the all-in-one networking solution for the small to midsize business. The Taurus(TM) Server Appliance offers no compromise on functionality and scalability, and provides optimum efficiency at a lower price than traditional servers.With a single purchase, up to 250 users have integrated file and peripheral sharing, high-speed Internet access, email, scheduled back-up, VPN and secure firewall, anti-virus engine, and Intranet. Standard with built-in networking software and optimized applications, the Taurus(TM) supplies up to 40-GB of Internal storage. Seperate Admin and root password. Root password must be changed from the command prompt which means most Sysadmins won't change it from Default. Manuel hosted by the device no password needed.

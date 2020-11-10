@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4072
+Category:         Files Containing Juicy Info
+Published Date:   2015-09-07
+Author:           anonymous
+GoogleDork:       site:target.com ext:xml | ext:conf | ext:cnf | ext:reg | ext:inf | ext:rdp | ext:cfg | ext:txt | ext:ora | ext:ini
+Description:      site:target.com ext:xml | ext:conf | ext:cnf | ext:reg | ext:inf | ext:rdp | ext:cfg | ext:txt | ext:ora | ext:ini
+
+
+Dork; site:target.com ext:xml | ext:conf | ext:cnf | ext:reg | ext:inf | ext:rdp | ext:cfg | ext:txt | ext:ora | ext:ini This dork will search for any configuration files a target or targets may have. You can change in site:target.com - to target:edu (for education targets) By Kevin Mark

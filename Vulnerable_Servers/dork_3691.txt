@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3691
+Category:         Vulnerable Servers
+Published Date:   2011-02-24
+Author:           anonymous
+GoogleDork:       MySQL: ON MSSQL: OFF Oracle: OFF MSSQL: OFF PostgreSQL: OFF cURL: ON WGet: ON Fetch: OFF Perl: ON
+Description:      MySQL: ON MSSQL: OFF Oracle: OFF MSSQL: OFF PostgreSQL: OFF cURL: ON WGet: ON Fetch: OFF Perl: ON
+
+
+Author :- eXeSoul You will get lots of web shells even some private shells.

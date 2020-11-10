@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6488
+Category:         Pages Containing Login Portals
+Published Date:   2020-08-20
+Author:           Alexandros Pappas
+GoogleDork:       site:*/piwik "Sign in" "Matomo"
+Description:      site:*/piwik "Sign in" "Matomo"
+
+
+# Google Dork: site:*/piwik "Sign in" "Matomo" # Matomo login portals. # Date: 12/08/2020 # Exploit Author: Alexandros Pappas 

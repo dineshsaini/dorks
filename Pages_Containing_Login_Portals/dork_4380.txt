@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4380
+Category:         Pages Containing Login Portals
+Published Date:   2017-01-09
+Author:           anonymous
+GoogleDork:       inurl:action=php.login
+Description:      inurl:action=php.login
+
+
+#GoogleDork:inurl:action=php.login #you can found a different admin page #Dork Author: @HACKERHMB

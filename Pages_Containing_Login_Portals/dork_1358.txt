@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1358
+Category:         Pages Containing Login Portals
+Published Date:   2006-05-03
+Author:           anonymous
+GoogleDork:       "SquirrelMail version" "By the SquirrelMail Development Team"
+Description:      "SquirrelMail version" "By the SquirrelMail Development Team"
+
+
+More SquirrelMail Logins

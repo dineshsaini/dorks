@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2754
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       index.asp?archivio=OK
+Description:      index.asp?archivio=OK
+
+
+Ublog access version Arbitrary Database Disclosure: https://www.exploit-db.com/exploits/8610

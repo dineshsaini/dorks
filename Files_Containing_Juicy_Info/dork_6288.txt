@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6288
+Category:         Files Containing Juicy Info
+Published Date:   2020-06-16
+Author:           Rahul Parmar
+GoogleDork:       index of /backend/prod/config
+Description:      index of /backend/prod/config
+
+
+Dork: index of /backend/prod/config Description : Files Containing Juicy Info Author : Rahul Parmar  

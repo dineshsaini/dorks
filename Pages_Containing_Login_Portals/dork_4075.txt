@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4075
+Category:         Pages Containing Login Portals
+Published Date:   2015-09-07
+Author:           anonymous
+GoogleDork:       inurl:"/wap/LoginPolicy.jsp"
+Description:      inurl:"/wap/LoginPolicy.jsp"
+
+
+Stoneware webnetwork Cloud  Allows for Portal Cloud login. -Xploit 

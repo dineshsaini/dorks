@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4949
+Category:         Pages Containing Login Portals
+Published Date:   2018-09-13
+Author:           Osman Arif
+GoogleDork:       inurl:/banking.jsp?fldsegment=
+Description:      inurl:/banking.jsp?fldsegment=
+
+
+[*] Description: Finds The Internet Banking Portals Which Are Running on Oracle Flex-cube Core Banking Solutions.  [*] Google Dork: inurl:/banking.jsp?fldsegment=  [*] Author: Osman Arif

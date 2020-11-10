@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4566
+Category:         Various Online Devices
+Published Date:   2017-07-31
+Author:           anonymous
+GoogleDork:       inurl:scgi-bin intitle:"NETGEAR ProSafe"
+Description:      inurl:scgi-bin intitle:"NETGEAR ProSafe"
+
+
+NETGEAR ProSafe Dual WAN Gigabit Firewall. Default username: admin. Default password: password inurl:scgi-bin intitle:"NETGEAR ProSafe" -- @verovan

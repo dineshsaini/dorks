@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2970
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by MetInfo 3.0
+Description:      Powered by MetInfo 3.0
+
+
+Metinfo v3.0 Multiple Vulnerabilities: https://www.exploit-db.com/exploits/15496

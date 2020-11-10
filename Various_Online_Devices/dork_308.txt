@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/308
+Category:         Various Online Devices
+Published Date:   2004-07-08
+Author:           anonymous
+GoogleDork:       intitle:"View and Configure PhaserLink"
+Description:      intitle:"View and Configure PhaserLink"
+
+
+These printer's configuration is wide open. Attackers can change just about any value through this control panel. Take it from FX, printers can be dangerous too! Besides, a POP3 server, username and password can be entered into these things! =)

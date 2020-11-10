@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4708
+Category:         Files Containing Juicy Info
+Published Date:   2018-03-22
+Author:           ManhNho
+GoogleDork:       intitle:"Proberv0." | inurl:/proberv.php
+Description:      intitle:"Proberv0." | inurl:/proberv.php
+
+
+intitle:"Proberv0." | inurl:/proberv.php  Reveals a lot of sensitive information via Proberv.php  ManhNho 

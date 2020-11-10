@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2489
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       com_easybook
+Description:      com_easybook
+
+
+Joomla Component EasyBook 1.1 (gbid) SQL Injection - CVE: 2008-2569: https://www.exploit-db.com/exploits/5740

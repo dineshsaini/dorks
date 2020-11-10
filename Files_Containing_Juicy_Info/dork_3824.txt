@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3824
+Category:         Files Containing Juicy Info
+Published Date:   2012-12-31
+Author:           anonymous
+GoogleDork:       inurl:admin intext:username= AND email= AND password= OR pass= filetype:xls
+Description:      inurl:admin intext:username= AND email= AND password= OR pass= filetype:xls
+
+
+-- nitish mehta

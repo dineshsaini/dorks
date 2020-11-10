@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6403
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-07-14
+Author:           Abhi Chitkara
+GoogleDork:       inurl:wp-content/plugins/knight-lab-timelinejs
+Description:      inurl:wp-content/plugins/knight-lab-timelinejs
+
+
+Dork: inurl:wp-content/plugins/knight-lab-timelinejs Description: This google dork lists out Advisories and Vulnerabilities regarding the knight-lab-timelinejs wordpress plugin. Ref: https://wpvulndb.com/vulnerabilities/10298 Author: Abhi Chitkara 

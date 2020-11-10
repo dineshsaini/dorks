@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3253
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"com_jsjobs"
+Description:      inurl:"com_jsjobs"
+
+
+Joomla Component com_jsjobs 1.0.5.6 SQL Injection Vulnerabilities - CVE: 2009-4599: https://www.exploit-db.com/exploits/10366

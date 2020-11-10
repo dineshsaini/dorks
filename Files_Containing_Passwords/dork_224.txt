@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/224
+Category:         Files Containing Passwords
+Published Date:   2004-05-12
+Author:           anonymous
+GoogleDork:       filetype:url +inurl:"ftp://" +inurl:"@"
+Description:      filetype:url +inurl:"ftp://" +inurl:"@"
+
+
+These are FTP Bookmarks, some of which contain plaintext login names and passwords.

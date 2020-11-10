@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/198
+Category:         Files Containing Passwords
+Published Date:   2004-05-03
+Author:           anonymous
+GoogleDork:       inurl:perform filetype:ini
+Description:      inurl:perform filetype:ini
+
+
+Displays the perform.ini file used by the popular irc client mIRC. Often times has channel passwords and/or login passwords for nickserv.

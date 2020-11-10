@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1136
+Category:         Pages Containing Login Portals
+Published Date:   2005-09-25
+Author:           anonymous
+GoogleDork:       intitle:"Admin Login" "admin login" "blogware"
+Description:      intitle:"Admin Login" "admin login" "blogware"
+
+
+Blogware Login Portal: "An exciting and innovative tool for creating or enhancing your web presence. It is your key to easy publishing on the World Wide Web ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“ share pictures, video, links, documents, newsletters, opinions and more, with family, friends and colleagues. Now you can have a website without being a Webmaster. ItÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s simple! There is no HTML to learn and no new software to download and install."

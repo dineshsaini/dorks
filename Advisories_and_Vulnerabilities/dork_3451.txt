@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3451
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by MDForum"
+Description:      "Powered by MDForum"
+
+
+MDForum 2.0.1 (PNSVlang) Remote Code Execution - CVE: 2006-6869: https://www.exploit-db.com/exploits/3057

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/483
+Category:         Pages Containing Login Portals
+Published Date:   2004-09-18
+Author:           anonymous
+GoogleDork:       intitle:"Tomcat Server Administration"
+Description:      intitle:"Tomcat Server Administration"
+
+
+This finds login portals for Apache Tomcat, an open source Java servlet container which can run as a standalone server or with an Apache web server.

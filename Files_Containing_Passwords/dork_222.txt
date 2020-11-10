@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/222
+Category:         Files Containing Passwords
+Published Date:   2004-05-12
+Author:           anonymous
+GoogleDork:       inurl:vtund.conf intext:pass -cvs
+Description:      inurl:vtund.conf intext:pass -cvs
+
+
+Theses are vtund configuration files (http://vtun.sourceforge.net). Vtund is an encrypted tunneling program. The conf file holds plaintext passwords. Many sites use the default password, but some do not. Regardless, attackers can use this information to gather information about a site.

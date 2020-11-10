@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1194
+Category:         Web Server Detection
+Published Date:   2005-11-16
+Author:           anonymous
+GoogleDork:       inurl:nnls_brand.html OR inurl:nnls_nav.html
+Description:      inurl:nnls_brand.html OR inurl:nnls_nav.html
+
+
+Novell Nterprise Linux Services detection dork. Some of the features are:* iFolder* Samba* NetStorage* eDirectory Administration* Linux User Management* NMAS 2.3* NetMail 3.5* GroupWise 6.5* iPrint* Virtual Office

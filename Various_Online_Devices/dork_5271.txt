@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5271
+Category:         Various Online Devices
+Published Date:   2019-07-03
+Author:           baxter21
+GoogleDork:       inurl:/_cat/indices/
+Description:      inurl:/_cat/indices/
+
+
+Dork connected to latest Orvibo database leak.  Regards baxter21 

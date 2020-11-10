@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/194
+Category:         Files Containing Usernames
+Published Date:   2004-04-28
+Author:           anonymous
+GoogleDork:       inurl:php inurl:hlstats intext:"Server Username"
+Description:      inurl:php inurl:hlstats intext:"Server Username"
+
+
+This page shows the halflife stat script and reveals the username to the system. Table structure, database name and recent SQL queries are also shown on most systems.

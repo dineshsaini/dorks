@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6648
+Category:         Sensitive Directories
+Published Date:   2020-11-04
+Author:           Alexandros Pappas
+GoogleDork:       intitle:"index of" "WebServers.xml"
+Description:      intitle:"index of" "WebServers.xml"
+
+
+# Google Dork: intitle:"index of" "WebServers.xml" # Sensitive directories. # Date: 3/11/2020 # Exploit Author: Alexandros Pappas 

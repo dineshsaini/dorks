@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/598
+Category:         Pages Containing Login Portals
+Published Date:   2004-10-19
+Author:           anonymous
+GoogleDork:       "SysCP - login"
+Description:      "SysCP - login"
+
+
+sysCP: Open Source server management tool for Debian LinuxNo vulnerabilities are reported to security focus.

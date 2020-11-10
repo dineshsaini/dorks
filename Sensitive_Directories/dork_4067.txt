@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4067
+Category:         Sensitive Directories
+Published Date:   2015-09-01
+Author:           anonymous
+GoogleDork:       inurl:"/cms/app/webroot"
+Description:      inurl:"/cms/app/webroot"
+
+
+inurl:"/cms/app/webroot" Author:ShockvaWe (mrnoone) özüm

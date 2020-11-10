@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3739
+Category:         Files Containing Juicy Info
+Published Date:   2011-08-25
+Author:           anonymous
+GoogleDork:       filetype:ini "Bootstrap.php" (pass|passwd|password|pwd)
+Description:      filetype:ini "Bootstrap.php" (pass|passwd|password|pwd)
+
+
+Zend application ini, with usernames, passwords and db info love Bastich

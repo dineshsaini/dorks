@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3366
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allinurl:"shop.htm?shopMGID="
+Description:      allinurl:"shop.htm?shopMGID="
+
+
+CMS Ignition SQL Injection: https://www.exploit-db.com/exploits/14471

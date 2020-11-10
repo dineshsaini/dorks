@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4757
+Category:         Files Containing Passwords
+Published Date:   2018-04-12
+Author:           Bruno Schmid
+GoogleDork:       inurl:"config.xml" "password" ext:xml -stackoverflow.com -github.com
+Description:      inurl:"config.xml" "password" ext:xml -stackoverflow.com -github.com
+
+
+Several XML config files containing passwords and other interesting info    Bruno Schmid 

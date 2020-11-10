@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5369
+Category:         Sensitive Directories
+Published Date:   2019-08-19
+Author:           Abhishek Sidharth
+GoogleDork:       intitle:index.of.?.bak
+Description:      intitle:index.of.?.bak
+
+
+Google Dork: intitle:index.of.?.bak  Category: Sensitive Directories  Description: Used to find sensitive .bak files which are backup files, in webapplications.  Author Name: Abhishek Sidharth 

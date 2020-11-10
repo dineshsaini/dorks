@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5224
+Category:         Files Containing Juicy Info
+Published Date:   2019-05-29
+Author:           Dec0y
+GoogleDork:       filetype:inc php -site:github.com -site:sourceforge.net
+Description:      filetype:inc php -site:github.com -site:sourceforge.net
+
+
+Include files containing source code... and sometimes connection strings...  General Search:  filetype:inc php -site:github.com -site:sourceforge.net  Connection Strings:  filetype:inc php AND mysqli|pdo -site:github.com -site:sourceforge.net 

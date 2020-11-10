@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1115
+Category:         Vulnerable Servers
+Published Date:   2005-09-16
+Author:           anonymous
+GoogleDork:       XOOPS Custom Installation
+Description:      XOOPS Custom Installation
+
+
+XOOPS custom installation wizards, allow users to modify installation parameters. May also reveal sql username, password and table installations via pre-filled form data.

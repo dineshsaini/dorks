@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5128
+Category:         Sensitive Directories
+Published Date:   2019-02-18
+Author:           Bruno Schmid
+GoogleDork:       "Last modified" intitle:"index of" "dropbox"
+Description:      "Last modified" intitle:"index of" "dropbox"
+
+
+Dropbox folders   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

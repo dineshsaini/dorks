@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4175
+Category:         Footholds
+Published Date:   2016-01-01
+Author:           anonymous
+GoogleDork:       intext:Developed By Black.Hack3r ext:php
+Description:      intext:Developed By Black.Hack3r ext:php
+
+
+Upload Shell Dorks intext:Developed By Black.Hack3r ext:php intitle:.:: Private Uploder By Black.Hack3r ::. ext:php detail:

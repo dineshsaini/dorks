@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3585
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intitle:"X7 Chat Help Center"|"Powered By X7 Chat"
+Description:      intitle:"X7 Chat Help Center"|"Powered By X7 Chat"
+
+
+X7 Chat 2.0 (help_file) Remote Commands Execution - CVE: 2006-2156: https://www.exploit-db.com/exploits/1738

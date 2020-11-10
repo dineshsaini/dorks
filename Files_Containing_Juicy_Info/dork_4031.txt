@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4031
+Category:         Files Containing Juicy Info
+Published Date:   2015-07-08
+Author:           anonymous
+GoogleDork:       inurl:access.cnf ext:cnf
+Description:      inurl:access.cnf ext:cnf
+
+
+File vulnerability, reveals the path of Password Server. Have fun. This Dork is present By Rootkit.

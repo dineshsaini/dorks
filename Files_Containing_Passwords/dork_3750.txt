@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3750
+Category:         Files Containing Passwords
+Published Date:   2011-11-19
+Author:           anonymous
+GoogleDork:       inurl:"/Application Data/Filezilla/*" OR inurl:"/AppData/Filezilla/*" filetype:xml
+Description:      inurl:"/Application Data/Filezilla/*" OR inurl:"/AppData/Filezilla/*" filetype:xml
+
+
+this dork locates files containing ftp passwords 

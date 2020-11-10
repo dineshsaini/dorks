@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1234
+Category:         Various Online Devices
+Published Date:   2005-12-31
+Author:           anonymous
+GoogleDork:       DCS inurl:"/web/login.asp"
+Description:      DCS inurl:"/web/login.asp"
+
+
+Login pages for the DCS-950 Web Camera. Even comes with a built in microphone.

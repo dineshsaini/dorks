@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2280
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Rash Version: 1.2.1
+Description:      Rash Version: 1.2.1
+
+
+RQMS (Rash) 1.2.2 Multiple SQL Injection Vulnerabilities: https://www.exploit-db.com/exploits/8433

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/932
+Category:         Web Server Detection
+Published Date:   2005-04-16
+Author:           anonymous
+GoogleDork:       intitle:"Welcome to Windows Small Business Server 2003"
+Description:      intitle:"Welcome to Windows Small Business Server 2003"
+
+
+Another way to find Small Business Server 2003, for more results check the dork by JimmyNeutron (id=763).

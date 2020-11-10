@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5587
+Category:         Sensitive Directories
+Published Date:   2019-10-18
+Author:           derezzed
+GoogleDork:       inurl:/wp-content/uploads/ninja-forms/ intitle:"index of"
+Description:      inurl:/wp-content/uploads/ninja-forms/ intitle:"index of"
+
+
+Google Dork Description: WordPress Ninja Forms Plugin, Sensitive file uploads.  Google Search: inurl:/wp-content/uploads/ninja-forms/  Author: derezzed 

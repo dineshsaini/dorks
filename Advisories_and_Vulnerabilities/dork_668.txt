@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/668
+Category:         Advisories and Vulnerabilities
+Published Date:   2004-11-13
+Author:           anonymous
+GoogleDork:       inurl:technote inurl:main.cgi*filename=*
+Description:      inurl:technote inurl:main.cgi*filename=*
+
+
+http://www.securityfocus.com/bid/2156/discussion/ Remote command execution vulnerability in the filename parameter.

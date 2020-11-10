@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5737
+Category:         Sensitive Directories
+Published Date:   2020-02-17
+Author:           Gaurav Solanki
+GoogleDork:       intitle:index.of "backwpup"
+Description:      intitle:index.of "backwpup"
+
+
+Dork : intitle:index.of "backwpup"  Author Gaurav Solanki (@heydarklord) 

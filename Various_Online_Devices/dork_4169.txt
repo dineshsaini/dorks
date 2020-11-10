@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4169
+Category:         Various Online Devices
+Published Date:   2015-12-31
+Author:           anonymous
+GoogleDork:       "IPSentry - Device Statistics Information"
+Description:      "IPSentry - Device Statistics Information"
+
+
+This Dork show Device Statistics Information, about a lot of network infraestructures xD. Enjoy Healthy. Dork Discovered for Rootkit Pentester.

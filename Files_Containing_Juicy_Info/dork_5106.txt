@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5106
+Category:         Files Containing Juicy Info
+Published Date:   2019-02-15
+Author:           Bruno Schmid
+GoogleDork:       inurl:scanned &amp; documents intitle:"index of" IT
+Description:      inurl:scanned &amp; documents intitle:"index of" IT
+
+
+Juicy info, good for OSINT.   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

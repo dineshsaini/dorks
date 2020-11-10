@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5084
+Category:         Sensitive Directories
+Published Date:   2019-01-25
+Author:           FlyingFrog
+GoogleDork:       intitle:"index of /" ssh
+Description:      intitle:"index of /" ssh
+
+
+AUTHOR: FlyingFrog Twitter: @ItsKarl0z   ++ All sorts of Websites (a lot of colleges) ++  intitle:"index of /" ssh  Data you find:     - Webserver Version     - SSH Version     - SSH Keys     - SSH Logins     - SSH .exe files  I found a lot of servers using &lt; SSH 1.4.* These are usually +5 years old and full of security holes A search in Exploit DB for SSH 1. turns up +40.000 exploits for these some may work.  ++ 55 500 results at the time of writing ++   DISCLAIMER: The vulnerabilities are suggestions, none of them have been tested by me, always request permission before testing anything on someone else system.  

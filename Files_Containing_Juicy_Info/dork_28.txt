@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/28
+Category:         Files Containing Juicy Info
+Published Date:   2004-11-18
+Author:           anonymous
+GoogleDork:       phpinfo()
+Description:      phpinfo()
+
+
+this brings up sites with phpinfo(). There is SO much cool stuff in here that you just have to check one out for yourself! I mean full blown system versioning, SSL version, sendmail version and path, ftp, LDAP, SQL info, Apache mods, Apache env vars, *sigh* the list goes on and on! Thanks "joe!" =)

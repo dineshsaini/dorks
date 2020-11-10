@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/730
+Category:         Vulnerable Files
+Published Date:   2004-11-30
+Author:           anonymous
+GoogleDork:       filetype:mdb inurl:"news/news"
+Description:      filetype:mdb inurl:"news/news"
+
+
+Web Wiz Site News unprotected database holds config and admin information in a microsoft access database in news/news.mdb. This information is almost always unprotected.

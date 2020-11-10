@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6095
+Category:         Files Containing Juicy Info
+Published Date:   2020-05-18
+Author:           Abhi Chitkara
+GoogleDork:       intitle:"index of" "userdata.json"
+Description:      intitle:"index of" "userdata.json"
+
+
+Dork: intitle:"index of" "userdata.json" Description: This google dork lists out websites with sensitive user data json files. Author: Abhi Chitkara 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2326
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"/alternate_profiles/"
+Description:      inurl:"/alternate_profiles/"
+
+
+e107 Plugin alternate_profiles (id) SQL Injection Vulnerability - CVE: 2008-4785: https://www.exploit-db.com/exploits/6849

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/364
+Category:         Various Online Devices
+Published Date:   2004-07-22
+Author:           anonymous
+GoogleDork:       Xerox Phaser 8200
+Description:      Xerox Phaser 8200
+
+
+Brochure info: "The Phaser 8200 uses solid ink, an alternative technology to laser printing. Unlike typical laser printers, solid ink doesn't require throwaway cartridges to get ink in the printer." Using the Internet, your printer can send performance information to our computers. PhaserSMART, our diagnostic system, examines the information, diagnoses the issue, and immediately walks you through a proposed solution. Automatic alerts minimize printer management problems. Alerts notify you via email when it's time to replace supplies, or when service is required."Moderator note: you may not be able to connect to the links Google gives if the printers are turned off when not in use.

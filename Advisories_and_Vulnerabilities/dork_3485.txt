@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3485
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by Drake CMS" inurl:index.php?option=guestbook
+Description:      "Powered by Drake CMS" inurl:index.php?option=guestbook
+
+
+Drake CMS 0.4.11 Remote Blind SQL Injection - CVE: 2008-6475: https://www.exploit-db.com/exploits/5391

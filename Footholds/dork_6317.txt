@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6317
+Category:         Footholds
+Published Date:   2020-06-22
+Author:           Tolga Kayaş
+GoogleDork:       inurl:"/arcgis/rest/services"
+Description:      inurl:"/arcgis/rest/services"
+
+
+# Find Esri ArcGIS servers. # Author: Tolga Kayaş # Date: 18/06/2020 # Linkedin: https://www.linkedin.com/in/tolga-k/  

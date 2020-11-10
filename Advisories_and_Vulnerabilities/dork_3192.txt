@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3192
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allinurl:fullview.php?tempid=
+Description:      allinurl:fullview.php?tempid=
+
+
+Template Seller Pro 3.25 (tempid) Remote SQL Injection: https://www.exploit-db.com/exploits/12360

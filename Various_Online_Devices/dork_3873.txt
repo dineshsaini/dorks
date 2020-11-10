@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3873
+Category:         Various Online Devices
+Published Date:   2013-08-08
+Author:           anonymous
+GoogleDork:       intitle:"Transponder/EOL Configuration:" inurl:asp
+Description:      intitle:"Transponder/EOL Configuration:" inurl:asp
+
+
+#Summary: Cheeta Technologies Transponder Configuration Portal (* http://www.cheetahtech.com).* #Author: g00gl3 5c0u7

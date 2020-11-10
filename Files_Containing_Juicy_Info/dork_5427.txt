@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5427
+Category:         Files Containing Juicy Info
+Published Date:   2019-08-21
+Author:           Mohammed*_*
+GoogleDork:       site:docs.google.com inurl:forms | viewanalytics intext:see previous responses
+Description:      site:docs.google.com inurl:forms | viewanalytics intext:see previous responses
+
+
+Forms Containing Juicy Info  # Google Dork: site:docs.google.com inurl:forms | viewanalytics intext:see previous responses # Date: [21-08-2019] # Author: [Mohammed*_*] 

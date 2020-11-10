@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6245
+Category:         Web Server Detection
+Published Date:   2020-06-08
+Author:           Ashish More
+GoogleDork:       "index of /private" -site:net -site:com -site:org
+Description:      "index of /private" -site:net -site:com -site:org
+
+
+# Dork: "index of /private" -site:net -site:com -site:org  This dork is very very important for indexed information.  Thank you Ashish More 

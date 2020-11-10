@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5545
+Category:         Sensitive Directories
+Published Date:   2019-09-18
+Author:           The Dexter
+GoogleDork:       intitle:index.of "admin.db"
+Description:      intitle:index.of "admin.db"
+
+
+Google Dork: intitle:index.of "admin.db" Date: 09/17/2019 Exploit Author: th3d3xt3r 

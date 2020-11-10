@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4307
+Category:         Advisories and Vulnerabilities
+Published Date:   2016-07-04
+Author:           anonymous
+GoogleDork:       "index of" bigdump.php
+Description:      "index of" bigdump.php
+
+
+Search for BigDump: Staggered MySQL Dump Importer file - Arbitrary Upload - Juicy info/passwords - Deleting files - MySQL injection

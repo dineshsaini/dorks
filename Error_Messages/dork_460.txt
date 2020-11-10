@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/460
+Category:         Error Messages
+Published Date:   2004-09-07
+Author:           anonymous
+GoogleDork:       snitz! forums db path error
+Description:      snitz! forums db path error
+
+
+snitz forums uses a microsoft access databases for storage and the default name is "Snitz_forums_2000.mdb". The installation recommends changing both the name and the path. If only one is changed this database error occurs. An attacker may use this information as a hint to the location and the changed name for the database, thus rendering the forum vulnerable to hostile downloads.

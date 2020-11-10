@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2065
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Liberum Help Desk, Copyright (C) 2001 Doug Luxem"
+Description:      "Liberum Help Desk, Copyright (C) 2001 Doug Luxem"
+
+
+Liberum Help Desk 0.97.3 (SQL/DD) Remote Vulnerabilities - CVE: 2008-6057: https://www.exploit-db.com/exploits/7493

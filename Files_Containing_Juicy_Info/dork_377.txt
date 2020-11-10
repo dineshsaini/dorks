@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/377
+Category:         Files Containing Juicy Info
+Published Date:   2004-07-26
+Author:           anonymous
+GoogleDork:       intext:(password | passcode) intext:(username | userid | user) filetype:csv
+Description:      intext:(password | passcode) intext:(username | userid | user) filetype:csv
+
+
+CSV formatted files containing all sorts of user/password combinations. Results may vary, but are still interesting to the casual attacker..

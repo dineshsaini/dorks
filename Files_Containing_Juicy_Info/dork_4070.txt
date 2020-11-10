@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4070
+Category:         Files Containing Juicy Info
+Published Date:   2015-09-02
+Author:           anonymous
+GoogleDork:       inurl:xampp inurl:perlinfo.pl ext:pl
+Description:      inurl:xampp inurl:perlinfo.pl ext:pl
+
+
+Panels with a lot of data for webservers. Dork by Rootkit Pentester.

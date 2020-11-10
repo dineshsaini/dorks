@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2652
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:trr.php?id=
+Description:      inurl:trr.php?id=
+
+
+Ad Board (id) Remote SQL Injection Vulnerability - CVE: 2008-3725: https://www.exploit-db.com/exploits/6271

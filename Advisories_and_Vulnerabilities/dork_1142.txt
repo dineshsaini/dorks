@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1142
+Category:         Advisories and Vulnerabilities
+Published Date:   2005-09-25
+Author:           anonymous
+GoogleDork:       "Powered by Woltlab Burning Board" -"2.3.3" -"v2.3.3" -"v2.3.2" -"2.3.2"
+Description:      "Powered by Woltlab Burning Board" -"2.3.3" -"v2.3.3" -"v2.3.2" -"2.3.2"
+
+
+It's an exact replica of vbulletin but it is free.SQL-Injection Exploit:http://www.governmentsecurity.org/archive/t14850.html

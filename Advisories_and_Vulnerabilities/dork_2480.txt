@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2480
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intext:"RPG Inferno is not available to guests" or intext:"Battle Ground Â· Clans Â· Store Â· Jobs Â· Auction Â· Spells Shop Â· Statistics Â· Member List"
+Description:      intext:"RPG Inferno is not available to guests" or intext:"Battle Ground Â· Clans Â· Store Â· Jobs Â· Auction Â· Spells Shop Â· Statistics Â· Member List"
+
+
+vBulletin Mod RPG Inferno 2.4 (inferno.php) SQL Injection Vulnerability - CVE: 2007-3687: https://www.exploit-db.com/exploits/4166

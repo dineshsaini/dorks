@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6273
+Category:         Footholds
+Published Date:   2020-06-11
+Author:           Rutwik Shah
+GoogleDork:       inurl:/servicedesk/customer/user/login
+Description:      inurl:/servicedesk/customer/user/login
+
+
+Google Dork: inurl:/servicedesk/customer/user/login  Pages containing Login Portals  Author: Rutwik Shah 

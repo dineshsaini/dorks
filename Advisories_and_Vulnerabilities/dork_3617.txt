@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3617
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-25
+Author:           anonymous
+GoogleDork:       inurl:"index.php?option=com_jeajaxeventcalendar"
+Description:      inurl:"index.php?option=com_jeajaxeventcalendar"
+
+
+Joomla JE Ajax Event Calendar Component (com_jeajaxeventcalendar) SQL Injection Vulnerability Author: altbta 

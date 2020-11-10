@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1159
+Category:         Advisories and Vulnerabilities
+Published Date:   2005-10-03
+Author:           anonymous
+GoogleDork:       intitle:Mantis "Welcome to the bugtracker" "0.15 | 0.16 | 0.17 | 0.18"
+Description:      intitle:Mantis "Welcome to the bugtracker" "0.15 | 0.16 | 0.17 | 0.18"
+
+
+cross site scripting and sql injection vunerabilities were discovered in Mantis versions 0.19.2 or less. Mantis is a web-based bugtracking system written in PHP. Vunerability report athttp://search.securityfocus.com/archive/1/411591/30/0/threaded

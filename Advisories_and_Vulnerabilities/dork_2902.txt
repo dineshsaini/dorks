@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2902
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by [ iSupport 1.8 ]"
+Description:      "Powered by [ iSupport 1.8 ]"
+
+
+iSupport 1.8 XSS/LFI - CVE: 2009-4434: https://www.exploit-db.com/exploits/10478

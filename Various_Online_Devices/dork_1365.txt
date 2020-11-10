@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1365
+Category:         Various Online Devices
+Published Date:   2006-05-03
+Author:           anonymous
+GoogleDork:       intitle:"Device Status Summary Page" -demo
+Description:      intitle:"Device Status Summary Page" -demo
+
+
+hxxp://www.netbotz.com/products/index.htmlNetwork/server/room security and enviromental alarm device.O yea, they have cameras on them, fun to watch IT people...... wooIncludes:Temperature (Ãƒâ€šÃ‚Â°F)Humidity (%)Air Flow (ft/min)Audio Alarm:Door Switch:

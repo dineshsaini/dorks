@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5410
+Category:         Files Containing Juicy Info
+Published Date:   2019-08-20
+Author:           Reza Abasi
+GoogleDork:       site:*/phpinfo.php intitle:"phpinfo()"
+Description:      site:*/phpinfo.php intitle:"phpinfo()"
+
+
+Files containing Juicy info:  site:*/phpinfo.php intitle:"phpinfo()" inurl:/info.php intitle:"phpinfo()"  Reza ABasi(Turku) 

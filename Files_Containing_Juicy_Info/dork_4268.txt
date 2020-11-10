@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4268
+Category:         Files Containing Juicy Info
+Published Date:   2016-04-25
+Author:           anonymous
+GoogleDork:       intitle:"Skipfish . scan"
+Description:      intitle:"Skipfish . scan"
+
+
+Google Dork: intitle:"Skipfish . scan" URL: http://www.google.com/search?q=intitle:%22Skipfish+.+scan%22 Description: Skipfish Vulnerability Scan Report Author: Andrea (aka theMiddle) Menin -theMiddle

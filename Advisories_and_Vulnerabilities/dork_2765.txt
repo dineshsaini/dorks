@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2765
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intext:"Powered by Community CMS"
+Description:      intext:"Powered by Community CMS"
+
+
+Community CMS 0.5 Multiple SQL Injection Vulnerabilities - CVE: 2009-4794: https://www.exploit-db.com/exploits/8323

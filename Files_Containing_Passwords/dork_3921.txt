@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3921
+Category:         Files Containing Passwords
+Published Date:   2013-11-25
+Author:           anonymous
+GoogleDork:       filetype:password jmxremote
+Description:      filetype:password jmxremote
+
+
+Passwords for Java Management Extensions (JMX Remote) Used by jconsole, Eclipse's MAT, Java Visual VM, JmxCli http://docs.oracle.com/javase/6/docs/technotes/guides/management/agent.html -- -[Voluntas Vincit Omnia]- website http://www.erisresearch.org/ Google+ https://plus.google.com/u/0/114827336297709201563

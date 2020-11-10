@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1165
+Category:         Advisories and Vulnerabilities
+Published Date:   2005-10-10
+Author:           anonymous
+GoogleDork:       "Welcome to the versatileBulletinBoard" | "Powered by versatileBulletinBoard"
+Description:      "Welcome to the versatileBulletinBoard" | "Powered by versatileBulletinBoard"
+
+
+versatileBulletinBoard V1.0.0 RC2 (possibly prior versions)multiple SQL Injection vulnerabilities / login bypass / cross site scripting / information disclosureadvisory:http://rgod.altervista.org/versatile100RC2.html

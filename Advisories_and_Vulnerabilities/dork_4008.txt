@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4008
+Category:         Advisories and Vulnerabilities
+Published Date:   2015-05-26
+Author:           anonymous
+GoogleDork:       inurl:/wp-admin/admin-ajax.php?action=revslider_ajax_action
+Description:      inurl:/wp-admin/admin-ajax.php?action=revslider_ajax_action
+
+
+This dork finds vulnerabel revslider plugins. In reference to the exploit submitted by Adrián M. F. https://www.exploit-db.com/exploits/37067/ Author:NickiK.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3746
+Category:         Files Containing Passwords
+Published Date:   2011-10-11
+Author:           anonymous
+GoogleDork:       filetype:php~ (pass|passwd|password|dbpass|db_pass|pwd)
+Description:      filetype:php~ (pass|passwd|password|dbpass|db_pass|pwd)
+
+
+Backup or temp versions of php files containing you guessed it passwords or other ripe for the picking info... Author: Bastich

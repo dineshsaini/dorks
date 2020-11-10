@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5852
+Category:         Pages Containing Login Portals
+Published Date:   2020-03-30
+Author:           Reza Abasi
+GoogleDork:       site:*/*/pwdrecovery.php
+Description:      site:*/*/pwdrecovery.php
+
+
+Login PORTAL:  site:*/*/pwdrecovery.php  Reza Abasi(Turku) 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3544
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by Shop-Script FREE"
+Description:      "Powered by Shop-Script FREE"
+
+
+Shop-Script FREE 2.0 Remote Command Execution - CVE: 2007-4932: https://www.exploit-db.com/exploits/4419/

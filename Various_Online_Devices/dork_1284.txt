@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1284
+Category:         Various Online Devices
+Published Date:   2006-03-18
+Author:           anonymous
+GoogleDork:       intitle:"Skystream Networks Edge Media Router" -securitytracker.com
+Description:      intitle:"Skystream Networks Edge Media Router" -securitytracker.com
+
+
+skystream Networks Edge Media Router.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2686
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:wapmain.php?option=
+Description:      inurl:wapmain.php?option=
+
+
+Joomla Component Wap4Joomla (wapmain.php) SQL Injection Vulnerability: https://www.exploit-db.com/exploits/12440

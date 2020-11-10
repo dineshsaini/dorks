@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5236
+Category:         Files Containing Juicy Info
+Published Date:   2019-05-31
+Author:           Dec0y
+GoogleDork:       intext:user.sql intitle:index.of
+Description:      intext:user.sql intitle:index.of
+
+
+Also intext:users.sql intitle:index.of 

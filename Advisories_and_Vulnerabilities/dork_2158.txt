@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2158
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by SocketMail Lite version 2.2.8. Copyright Â© 2002-2006"
+Description:      "Powered by SocketMail Lite version 2.2.8. Copyright Â© 2002-2006"
+
+
+SocketMail 2.2.8 fnc-readmail3.php Remote File Inclusion Vulnerability - CVE: 2007-5627: https://www.exploit-db.com/exploits/4554

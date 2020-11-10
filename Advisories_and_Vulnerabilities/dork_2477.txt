@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2477
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intitle:"DUcalendar 1.0"
+Description:      intitle:"DUcalendar 1.0"
+
+
+DUcalendar 1.0 (detail.asp iEve) Remote SQL Injection Vulnerability - CVE: 2008-2868: https://www.exploit-db.com/exploits/5927

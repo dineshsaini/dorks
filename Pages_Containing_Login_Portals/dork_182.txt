@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/182
+Category:         Pages Containing Login Portals
+Published Date:   2004-04-26
+Author:           anonymous
+GoogleDork:       intitle:"MikroTik RouterOS Managing Webpage"
+Description:      intitle:"MikroTik RouterOS Managing Webpage"
+
+
+This is the front page entry point to a "Mikro Tik" Router.

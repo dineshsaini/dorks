@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5228
+Category:         Sensitive Directories
+Published Date:   2019-05-29
+Author:           Alfie
+GoogleDork:       filetype:git -github.com inurl:"/.git"
+Description:      filetype:git -github.com inurl:"/.git"
+
+
+Google dork description: web servers serving the git repository. This potential flaw can be used to download content from the Web server that might otherwise be private.  Google Search: filetype:git -github.com inurl:"/.git"  Submitted by: Alfie  Website: (https://the-infosec.com) 

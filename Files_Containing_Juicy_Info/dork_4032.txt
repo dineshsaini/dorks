@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4032
+Category:         Files Containing Juicy Info
+Published Date:   2015-07-08
+Author:           anonymous
+GoogleDork:       intext:OLD_FOREIGN_KEY_CHECKS"; = ext:txt
+Description:      intext:OLD_FOREIGN_KEY_CHECKS"; = ext:txt
+
+
+Google dork Description: MySQL dumpGoogle search: intext:OLD_FOREIGN_KEY_CHECKS"; = ext:txt by TN-N3SQU1K :) 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/12
+Category:         Files Containing Juicy Info
+Published Date:   2003-06-24
+Author:           anonymous
+GoogleDork:       mt-db-pass.cgi files
+Description:      mt-db-pass.cgi files
+
+
+These folks had the technical prowess to unpack the movable type files, but couldn't manage to set up their web servers properly. Check the mt.cfg files for interesting stuffs...

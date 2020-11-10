@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1231
+Category:         Advisories and Vulnerabilities
+Published Date:   2005-12-31
+Author:           anonymous
+GoogleDork:       intext:"Powered by CubeCart 3.0.6" intitle:"Powered by CubeCart"
+Description:      intext:"Powered by CubeCart 3.0.6" intitle:"Powered by CubeCart"
+
+
+CubeCart is an eCommerce script written with PHP &amp; MySQL. Search CubeCart 3.0.6 portal vulnerable. The vulnerability is Remote Command Execution. See http://milw0rm.com/id.php?id=1398Moderator note: "Moving milw0rm once again. This time hosted by asylum-networks.com. /str0ke"

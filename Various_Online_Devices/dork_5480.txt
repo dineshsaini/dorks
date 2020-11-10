@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5480
+Category:         Various Online Devices
+Published Date:   2019-09-02
+Author:           MiningOmerta
+GoogleDork:       inurl:"/hp_login.html"
+Description:      inurl:"/hp_login.html"
+
+
+Google Dork Submission for finding publicly facing HP Devices, usually internal switches. Leads to a login screen.  Author: MiningOmerta 

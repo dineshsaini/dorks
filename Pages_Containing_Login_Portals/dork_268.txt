@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/268
+Category:         Pages Containing Login Portals
+Published Date:   2004-06-04
+Author:           anonymous
+GoogleDork:       filetype:r2w r2w
+Description:      filetype:r2w r2w
+
+
+WRQ Reflection gives you a standard desktop that includes web- and Windows-based terminal emulation and X Windows products. Terminal emulation settings are saved to a configuration file, depending on the version called r1w, r2w, or r4w. If an attacker loads these files he can access the main login screen on mainframe systems for example.

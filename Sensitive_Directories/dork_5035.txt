@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5035
+Category:         Sensitive Directories
+Published Date:   2018-11-27
+Author:           Brain Reflow
+GoogleDork:       intitle:'index of' "access_log"
+Description:      intitle:'index of' "access_log"
+
+
+Find various Wordpress directories containing access logs.  intitle:'index of' "access_log"  Author : *.doc-TOR aka Brain Reflow https://twitter.com/The_d0c_T0R 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/83
+Category:         Error Messages
+Published Date:   2004-03-04
+Author:           anonymous
+GoogleDork:       "ORA-00933: SQL command not properly ended"
+Description:      "ORA-00933: SQL command not properly ended"
+
+
+An Oracle error message, this message can display path names, function names, filenames and partial SQL code, all of which are very helpful for hackers...

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/933
+Category:         Various Online Devices
+Published Date:   2005-04-16
+Author:           anonymous
+GoogleDork:       intitle:"OfficeConnect Cable/DSL Gateway" intext:"Checking your browser"
+Description:      intitle:"OfficeConnect Cable/DSL Gateway" intext:"Checking your browser"
+
+
+This query allows you to find OfficeConnect Cable/DSL Gateways, by locating the browser-check page that Google has indexed. The browser-check page leads to a login page, which kindly informs you of the default password.

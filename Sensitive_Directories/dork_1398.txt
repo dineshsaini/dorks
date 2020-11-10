@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1398
+Category:         Sensitive Directories
+Published Date:   2006-07-14
+Author:           anonymous
+GoogleDork:       intitle:index.of.config
+Description:      intitle:index.of.config
+
+
+These directories can give information about a web servers configuration. This should never be viewable to the public as some files may contain cleartext of encrypted passwords, depending on the level of security. It can also contain information on various ports, security permisions..etc.

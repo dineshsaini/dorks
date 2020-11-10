@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2505
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       SPBOARD v4.5
+Description:      SPBOARD v4.5
+
+
+Sepal SPBOARD 4.5 (board.cgi) Remote Command Exec Vulnerability - CVE: 2008-4873: https://www.exploit-db.com/exploits/6864

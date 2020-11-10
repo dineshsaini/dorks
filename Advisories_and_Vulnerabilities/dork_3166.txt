@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3166
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       This site is powered by e107, which is released under the terms of the GNU GPL License.
+Description:      This site is powered by e107, which is released under the terms of the GNU GPL License.
+
+
+e107 0.7.21 full Mullti (RFI/XSS) Vulnerabilities: https://www.exploit-db.com/exploits/12818

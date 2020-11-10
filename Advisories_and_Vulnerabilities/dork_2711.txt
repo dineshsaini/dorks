@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2711
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allinurl:"com_neogallery"
+Description:      allinurl:"com_neogallery"
+
+
+Joomla Component NeoGallery 1.1 SQL Injection Vulnerability - CVE: 2008-0752: https://www.exploit-db.com/exploits/5083

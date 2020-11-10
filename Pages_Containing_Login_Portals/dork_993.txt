@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/993
+Category:         Pages Containing Login Portals
+Published Date:   2005-05-23
+Author:           anonymous
+GoogleDork:       inurl:/SUSAdmin intitle:"Microsoft Software Update Services"
+Description:      inurl:/SUSAdmin intitle:"Microsoft Software Update Services"
+
+
+Microsoft SUS Server is a Patch Management Tool for Windows 2000, XP and 2003 systems.It can be used to gain access to a Patch Deployment server. If you successfully login to that server you can possibly compromise all the other network servers.

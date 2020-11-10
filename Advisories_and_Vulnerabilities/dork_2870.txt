@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2870
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by How2asp"
+Description:      "Powered by How2asp"
+
+
+How2ASP.net Webboard 4.1 Remote SQL Injection Vulnerability - CVE: 2008-2417: https://www.exploit-db.com/exploits/5638

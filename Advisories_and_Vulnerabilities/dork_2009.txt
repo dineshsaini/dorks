@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2009
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"tr1.php?id=" Forced Matrix
+Description:      inurl:"tr1.php?id=" Forced Matrix
+
+
+YourFreeWorld Forced Matrix Script (id) SQL Injection Vulnerability: https://www.exploit-db.com/exploits/6939

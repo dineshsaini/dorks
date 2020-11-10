@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3923
+Category:         Files Containing Juicy Info
+Published Date:   2013-11-27
+Author:           anonymous
+GoogleDork:       intext:phpMyAdmin SQL Dump filetype:sql intext:INSERT INTO `admin` (`id`, `user`, `password`) VALUES -github
+Description:      intext:phpMyAdmin SQL Dump filetype:sql intext:INSERT INTO `admin` (`id`, `user`, `password`) VALUES -github
+
+
+intext:phpMyAdmin SQL Dump filetype:sql intext:INSERT INTO `admin` (`id`, `user`, `password`) VALUES -github How This Work? This dork will searches databases phpMyAdmin. Searches only sql formats and founds admin username and passwords to use this information to login as administrator Sorry for my english. I'm not a native speaker 

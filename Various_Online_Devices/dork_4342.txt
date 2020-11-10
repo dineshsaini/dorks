@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4342
+Category:         Various Online Devices
+Published Date:   2016-10-24
+Author:           anonymous
+GoogleDork:       inurl:/mjpgmain.asp
+Description:      inurl:/mjpgmain.asp
+
+
+Name = Live view of Y-cam Google dork Description: inurl:/mjpgmain.asp Date: 2016-10-19 Author: Devendra Singh Solanki

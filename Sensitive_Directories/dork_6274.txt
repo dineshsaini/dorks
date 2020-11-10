@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6274
+Category:         Sensitive Directories
+Published Date:   2020-06-12
+Author:           Rutwik Shah
+GoogleDork:       intitle:"index of" "admin/sql/"
+Description:      intitle:"index of" "admin/sql/"
+
+
+Google Dork: intitle:"index of" "admin/sql/"  Impact: Sensitive Directories  Author: Rutwik Shah LinkedIn: https://www.linkedin.com/in/rutwikshah/ 

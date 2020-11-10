@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1152
+Category:         Advisories and Vulnerabilities
+Published Date:   2005-09-28
+Author:           anonymous
+GoogleDork:       Powered by PHP-Fusion v6.00.109 Ãƒâ€šÃ‚Â© 2003-2005. -php-fusion.co.uk
+Description:      Powered by PHP-Fusion v6.00.109 Ãƒâ€šÃ‚Â© 2003-2005. -php-fusion.co.uk
+
+
+this is the dork: Powered by PHP-Fusion v6.00.109 Ãƒâ€šÃ‚Â© 2003-2005. -php-fusion.co.ukas it is, without quotes, for the version I tested, prone toSQL Injection / administrative credentials disclosurethis my advisory/poc exploit: http://rgod.altervista.org/phpfusion600109.html

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2487
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allinurl:flashblog.html "flashblog"
+Description:      allinurl:flashblog.html "flashblog"
+
+
+FlashBlog (articulo_id) Remote SQL Injection Vulnerability - CVE: 2008-2572: https://www.exploit-db.com/exploits/5685

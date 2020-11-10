@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/344
+Category:         Files Containing Passwords
+Published Date:   2004-07-19
+Author:           anonymous
+GoogleDork:       "sets mode: +k"
+Description:      "sets mode: +k"
+
+
+This search reveals channel keys (passwords) on IRC as revealed from IRC chat logs.

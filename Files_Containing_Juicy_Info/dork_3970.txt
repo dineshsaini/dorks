@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3970
+Category:         Files Containing Juicy Info
+Published Date:   2014-10-21
+Author:           anonymous
+GoogleDork:       filetype:log intext:org.apache.hadoop.hdfs
+Description:      filetype:log intext:org.apache.hadoop.hdfs
+
+
+Dork : filetype:log intext:org.apache.hadoop.hdfs List of Log files which contain details about internal and External ip in Hadoop Grid .This Log Files generated after every batch process. -- Simmant Yadav

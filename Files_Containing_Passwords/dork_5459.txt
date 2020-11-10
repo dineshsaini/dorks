@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5459
+Category:         Files Containing Passwords
+Published Date:   2019-08-27
+Author:           Reza Abasi
+GoogleDork:       intitle:"index of" "htpasswd.txt"
+Description:      intitle:"index of" "htpasswd.txt"
+
+
+Files containing password:  intitle:"index of" "htpasswd.txt"  Reza Abasi(Turku) 

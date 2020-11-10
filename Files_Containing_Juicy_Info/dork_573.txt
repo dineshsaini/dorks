@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/573
+Category:         Files Containing Juicy Info
+Published Date:   2004-10-16
+Author:           anonymous
+GoogleDork:       "Installed Objects Scanner" inurl:default.asp
+Description:      "Installed Objects Scanner" inurl:default.asp
+
+
+Installed Objects Scanner makes it easy to test your IIS Webserver for installed components. Installed Objects Scanner also has descriptions and links for many components to let you know more on how using those components. Just place the script on your server and view it in your browser to check your server for all currently known components.

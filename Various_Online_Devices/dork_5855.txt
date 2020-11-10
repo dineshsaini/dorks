@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5855
+Category:         Various Online Devices
+Published Date:   2020-03-30
+Author:           Debashis Pal
+GoogleDork:       intitle:("Solr Admin") AND intext:("Dashboard" AND "Corporation")
+Description:      intitle:("Solr Admin") AND intext:("Dashboard" AND "Corporation")
+
+
+# Dork #  intitle:("Solr Admin") AND intext:("Dashboard" AND "Corporation")   This dork possibly allow to view Solr Admin Dashboard.

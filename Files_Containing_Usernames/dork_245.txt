@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/245
+Category:         Files Containing Usernames
+Published Date:   2004-05-20
+Author:           anonymous
+GoogleDork:       filetype:conf inurl:proftpd.conf -sample
+Description:      filetype:conf inurl:proftpd.conf -sample
+
+
+A standard FTP configuration file that provides far too many details about how the server is setup, including installation paths, location of logfiles, generic username and associated group, etc

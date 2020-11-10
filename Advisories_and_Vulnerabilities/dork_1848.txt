@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1848
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"modules.php?name=My_eGallery"
+Description:      inurl:"modules.php?name=My_eGallery"
+
+
+PHP-Nuke My_eGallery 2.7.9 Remote SQL Injection Vulnerability - CVE: 2008-7038: https://www.exploit-db.com/exploits/5203

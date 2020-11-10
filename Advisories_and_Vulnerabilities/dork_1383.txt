@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1383
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-05-30
+Author:           anonymous
+GoogleDork:       inurl:wp-login.php +Register Username Password "remember me" -echo -trac -footwear
+Description:      inurl:wp-login.php +Register Username Password "remember me" -echo -trac -footwear
+
+
+this is a bit different from the previous one in GHDB, it searches for Wordpress 2.x sites where user registration is enabled, a user can inject a carriage return and php code inside cache files to have a shell on target systemadvisory &amp; poc exploit here: http://retrogod.altervista.org/wordpress_202_xpl.html

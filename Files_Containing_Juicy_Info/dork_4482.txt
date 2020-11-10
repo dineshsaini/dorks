@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4482
+Category:         Files Containing Juicy Info
+Published Date:   2017-05-12
+Author:           anonymous
+GoogleDork:       "SECRET//NOFORN" ext:pdf
+Description:      "SECRET//NOFORN" ext:pdf
+
+
+Finds secret government documents Dxtroyer

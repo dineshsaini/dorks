@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1238
+Category:         Files Containing Passwords
+Published Date:   2006-01-02
+Author:           anonymous
+GoogleDork:       inurl:"editor/list.asp" | inurl:"database_editor.asp" | inurl:"login.asa" "are set"
+Description:      inurl:"editor/list.asp" | inurl:"database_editor.asp" | inurl:"login.asa" "are set"
+
+
+This search finds CLEARTEXT usernames/passwords for the Results Database Editor. The log in portal can be found at /editor/login.asp. At time of submitting there are 21 results.Also a search for the logins:inurl:"Results/editor/login.asp""Database Editor Login" "Results Page"

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1763
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by sNews"
+Description:      "Powered by sNews"
+
+
+sNews v1.7 (index.php?category) SQL Injection Vulnerability - CVE: 2010-2926: https://www.exploit-db.com/exploits/14465

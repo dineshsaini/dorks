@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4984
+Category:         Files Containing Passwords
+Published Date:   2018-10-16
+Author:           Kevin Randall
+GoogleDork:       filetype:txt $9$ JunOS
+Description:      filetype:txt $9$ JunOS
+
+
+filetype:txt $9$ JunOS  Discover Juniper Junos OS Hashes  Discovered By: Kevin Randall 

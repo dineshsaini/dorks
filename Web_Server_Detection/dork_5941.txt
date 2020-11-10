@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5941
+Category:         Web Server Detection
+Published Date:   2020-04-22
+Author:           Alexandros Pappas
+GoogleDork:       intitle:"index of" "debug.log" OR "debug-log"
+Description:      intitle:"index of" "debug.log" OR "debug-log"
+
+
+# Google Dork: intitle:"index of" "debug.log" OR "debug-log"  # Sensitive directories.  # Date: 22/04/2020  # Author: Alexandros Pappas 

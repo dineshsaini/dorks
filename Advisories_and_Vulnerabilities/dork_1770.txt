@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1770
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:index.php?option=com_yanc "listid"
+Description:      inurl:index.php?option=com_yanc "listid"
+
+
+Joomla Component com_yanc SQL Injection Vulnerability: https://www.exploit-db.com/exploits/11603

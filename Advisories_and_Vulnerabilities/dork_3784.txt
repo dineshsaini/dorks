@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3784
+Category:         Advisories and Vulnerabilities
+Published Date:   2012-05-15
+Author:           anonymous
+GoogleDork:       inurl:"tiki-index.php" filetype:php "This is TikiWiki 1.9"
+Description:      inurl:"tiki-index.php" filetype:php "This is TikiWiki 1.9"
+
+
+The server vulnerable to =&gt; CVE 2006-4602

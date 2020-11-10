@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/576
+Category:         Vulnerable Files
+Published Date:   2004-10-16
+Author:           anonymous
+GoogleDork:       ezBOO "Administrator Panel" -cvs
+Description:      ezBOO "Administrator Panel" -cvs
+
+
+ezBOO WebStats is a high level statistical tool for web sites monitoring. It allows real time access monitoring on several sites. Based on php and mySQL it is easy to install and customization is made easy. It works on Unix, Linux and Windows

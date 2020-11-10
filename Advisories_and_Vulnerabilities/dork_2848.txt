@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2848
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by Dolphin
+Description:      Powered by Dolphin
+
+
+Dolphin v7.0.3 Multiple Vulnerabilities: https://www.exploit-db.com/exploits/15400

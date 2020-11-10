@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5820
+Category:         Files Containing Passwords
+Published Date:   2020-03-20
+Author:           Alexandros Pappas
+GoogleDork:       intitle:"Index of" dbconnect.inc
+Description:      intitle:"Index of" dbconnect.inc
+
+
+# Google Dork: intitle:"Index of" dbconnect.inc  # By using this dork, the dbconnect.inc file which contains the password for the database administrator in clear text .. can be found.  # Date: 20/03/2020  # Exploit Author: Alexandros Pappas 

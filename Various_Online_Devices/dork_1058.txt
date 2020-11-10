@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1058
+Category:         Various Online Devices
+Published Date:   2005-08-07
+Author:           anonymous
+GoogleDork:       "Summary View of Sensors" | "sensorProbe8 v *" | "cameraProbe 3.0" -filetype:pdf -filetype:html
+Description:      "Summary View of Sensors" | "sensorProbe8 v *" | "cameraProbe 3.0" -filetype:pdf -filetype:html
+
+
+sensorProbe is a SNMP enabled and Web based Environmental Monitoring Device. The sensors attached to this device can monitor temperature, humidity, water leakage and air flow, etc. It does support other sensors which can monitor voltage drop, security, analog and dry contacts. The sensorProbe monitors your equipment's environmental variations, and alerts you through "Email , SMS or SNMP Alerts in your Network Management system" in advance and prevent any disaster.

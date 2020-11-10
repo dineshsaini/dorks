@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/255
+Category:         Files Containing Passwords
+Published Date:   2004-05-25
+Author:           anonymous
+GoogleDork:       inurl:"slapd.conf" intext:"rootpw" -manpage -"Manual Page" -man: -sample
+Description:      inurl:"slapd.conf" intext:"rootpw" -manpage -"Manual Page" -man: -sample
+
+
+slapd.conf is the configuration file for slapd, the opensource LDAP deamon. You can view a cleartext or crypted password for the "rootdn".

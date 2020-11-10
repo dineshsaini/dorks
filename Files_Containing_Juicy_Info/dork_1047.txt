@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1047
+Category:         Files Containing Juicy Info
+Published Date:   2005-07-30
+Author:           anonymous
+GoogleDork:       ext:(doc | pdf | xls | txt | ps | rtf | odt | sxw | psw | ppt | pps | xml) (intext:confidential salary | intext:"budget approved") inurl:confidential
+Description:      ext:(doc | pdf | xls | txt | ps | rtf | odt | sxw | psw | ppt | pps | xml) (intext:confidential salary | intext:"budget approved") inurl:confidential
+
+
+Although this search is a bit broken (the file extensions don't always work), it reveals interesting-looking documents which may contain potentially confidential information.

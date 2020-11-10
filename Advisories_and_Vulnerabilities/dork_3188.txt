@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3188
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "mumbo jumbo media" + inurl:"index.php"
+Description:      "mumbo jumbo media" + inurl:"index.php"
+
+
+Mumbo Jumbo Media OP4 Remote Blind SQL Injection - CVE: 2008-6477: https://www.exploit-db.com/exploits/5440

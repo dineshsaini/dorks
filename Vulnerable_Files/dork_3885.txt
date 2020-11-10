@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3885
+Category:         Vulnerable Files
+Published Date:   2013-09-24
+Author:           anonymous
+GoogleDork:       -site:simplemachines.org "These are the paths and URLs to your SMF installation"
+Description:      -site:simplemachines.org "These are the paths and URLs to your SMF installation"
+
+
+Dork: -site:simplemachines.org "These are the paths and URLs to your SMF installation" Details: This google dork finds sites with the Simple Machines repair_settings.php file uploaded to the root directory. This gives unauthenticated access to the SQL username and password for the forum.

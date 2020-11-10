@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2989
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Copyright @ 2007 Powered By Hot or Not Clone by Jnshosts.com Rate My Pic :: Home :: Advertise :: Contact us::
+Description:      Copyright @ 2007 Powered By Hot or Not Clone by Jnshosts.com Rate My Pic :: Home :: Advertise :: Contact us::
+
+
+Hot or Not Clone by Jnshosts.com Database Backup Dump Vulnerability - CVE: 2007-6603: https://www.exploit-db.com/exploits/4804

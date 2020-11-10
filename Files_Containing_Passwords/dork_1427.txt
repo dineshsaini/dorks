@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1427
+Category:         Files Containing Passwords
+Published Date:   2010-11-10
+Author:           anonymous
+GoogleDork:       inurl:-cfg intext:"enable password"
+Description:      inurl:-cfg intext:"enable password"
+
+
+Google search for Cisco config files (some variants below): inurl:router-confg inurl:-confg intext:enable password inurl:-config intext:"enable password" inurl:-cfg intext:"enable secret" inurl:-confg intext:enable secret inurl:-confg intext:"enable secret" Author: fdisk

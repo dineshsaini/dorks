@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5406
+Category:         Files Containing Juicy Info
+Published Date:   2019-08-19
+Author:           Cristi Vlad
+GoogleDork:       ext:sql intext:clave
+Description:      ext:sql intext:clave
+
+
+# Google Dork: ext:sql intext:clave # Date: 2019-08-18  # Author: Cristi Vlad  This search often returns accessible Spanish database dumps revealing potentially sensitive information. 

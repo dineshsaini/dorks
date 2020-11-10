@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1507
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intext:Â©2003-2008 RC v3.1 Developed by: GA Soft
+Description:      intext:Â©2003-2008 RC v3.1 Developed by: GA Soft
+
+
+Rapid Classified 3.1 (cldb.mdb) Database Disclosure Vulnerability - CVE: 2008-6388: https://www.exploit-db.com/exploits/7324

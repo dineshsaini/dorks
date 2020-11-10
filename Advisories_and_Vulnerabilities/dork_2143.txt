@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2143
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Software PBLang 4.66z" AND "Software PBLang 4.60" OR "Software PBLang"
+Description:      "Software PBLang 4.66z" AND "Software PBLang 4.60" OR "Software PBLang"
+
+
+PBLang 4.66z (temppath) Remote File Include Vulnerability - CVE: 2006-5062: https://www.exploit-db.com/exploits/2428

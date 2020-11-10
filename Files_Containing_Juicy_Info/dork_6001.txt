@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6001
+Category:         Files Containing Juicy Info
+Published Date:   2020-05-04
+Author:           Abhi Chitkara
+GoogleDork:       intitle:"index of" "admin.bak"
+Description:      intitle:"index of" "admin.bak"
+
+
+Dork: intitle:"index of" "admin.bak" Description: This Google dork lists out admin backup files for a website. Author: Abhi Chitkara 

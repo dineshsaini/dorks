@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3587
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       pixelpost "RSS 2.0" "ATOM feed" "Valid xHTML / Valid CSS"
+Description:      pixelpost "RSS 2.0" "ATOM feed" "Valid xHTML / Valid CSS"
+
+
+Pixelpost 1-5rc1-2 Remote Privilege Escalation Exploit - CVE: 2006-2889: https://www.exploit-db.com/exploits/1868

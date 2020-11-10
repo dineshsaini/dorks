@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4173
+Category:         Footholds
+Published Date:   2016-01-01
+Author:           anonymous
+GoogleDork:       ext:aspx intitle:aspxspy
+Description:      ext:aspx intitle:aspxspy
+
+
+Asp shells ext:aspx intitle:aspxspy details: http://atawho.blogspot.com.tr/2015/11/aspx-shell-dorku-ghbd.html sonadam-atawho-hackunity

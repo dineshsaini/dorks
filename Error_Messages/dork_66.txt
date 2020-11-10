@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/66
+Category:         Error Messages
+Published Date:   2004-03-04
+Author:           anonymous
+GoogleDork:       IIS 4.0 error messages
+Description:      IIS 4.0 error messages
+
+
+IIS 4.0 servers. Extrememly old, incredibly easy to hack...

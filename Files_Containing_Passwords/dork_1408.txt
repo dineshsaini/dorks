@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1408
+Category:         Files Containing Passwords
+Published Date:   2006-09-06
+Author:           anonymous
+GoogleDork:       "login: *" "password: *" filetype:xls
+Description:      "login: *" "password: *" filetype:xls
+
+
+This returns xls files containing login names and passwords. it works by showing all the xls files with password:(something)so a downside is that u do get stuff like "password protected", "password services" etc. (and the same for login)But...most of the decent ones have the login and password in the text given to you by google, so its easy to seperate the useful ones from the others.

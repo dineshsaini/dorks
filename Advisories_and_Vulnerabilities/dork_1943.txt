@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1943
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       UPublisher
+Description:      UPublisher
+
+
+UPublisher 1.0 (viewarticle.asp) Remote SQL Injection Vulnerability - CVE: 2006-5888: https://www.exploit-db.com/exploits/2765

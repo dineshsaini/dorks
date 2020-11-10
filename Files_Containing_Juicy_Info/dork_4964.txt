@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4964
+Category:         Files Containing Juicy Info
+Published Date:   2018-09-26
+Author:           Bruno Schmid
+GoogleDork:       intext:"please find attached" "login" | password ext:pdf
+Description:      intext:"please find attached" "login" | password ext:pdf
+
+
+Passwords and information on target's employees/customers. awesome for spear phishing.  Replace pdf extension with any other document extension like doc, docx, txt...   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

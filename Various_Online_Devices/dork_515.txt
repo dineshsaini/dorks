@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/515
+Category:         Various Online Devices
+Published Date:   2004-09-29
+Author:           anonymous
+GoogleDork:       Konica Network Printer Administration
+Description:      Konica Network Printer Administration
+
+
+This finds Konica Network Printer Administration pages. There is one result at the time of writing.

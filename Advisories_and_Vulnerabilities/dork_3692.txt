@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3692
+Category:         Advisories and Vulnerabilities
+Published Date:   2011-03-05
+Author:           anonymous
+GoogleDork:       "POWERED BY ZIPBOX MEDIA" inurl:"album.php"
+Description:      "POWERED BY ZIPBOX MEDIA" inurl:"album.php"
+
+
+Author : AtT4CKxT3rR0r1ST SQL Injection: www.site.com/album.php?id=null[Sql]

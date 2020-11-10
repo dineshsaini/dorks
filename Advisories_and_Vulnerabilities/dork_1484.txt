@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1484
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered By AlstraSoft Video Share Enterprise
+Description:      Powered By AlstraSoft Video Share Enterprise
+
+
+AlstraSoft Video Share Enterprise 4.5.1 (UID) SQL Injection Vulnerability - CVE: 2008-3386: https://www.exploit-db.com/exploits/6092

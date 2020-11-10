@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2653
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"kroax.php?category"
+Description:      inurl:"kroax.php?category"
+
+
+PHP-Fusion Mod Kroax 4.42 (category) SQL Injection Vulnerability - CVE: 2008-5196: https://www.exploit-db.com/exploits/5942

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3006
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:com_jejob
+Description:      inurl:com_jejob
+
+
+Joomla JE Job Component com_jejob LFI Vulnerability: https://www.exploit-db.com/exploits/14063

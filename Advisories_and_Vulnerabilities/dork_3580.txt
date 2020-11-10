@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3580
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:imageview5
+Description:      inurl:imageview5
+
+
+Imageview 5 (Cookie/index.php) Remote Local Include - CVE: 2006-5554: https://www.exploit-db.com/exploits/2647

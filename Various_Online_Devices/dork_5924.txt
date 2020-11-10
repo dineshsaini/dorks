@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5924
+Category:         Various Online Devices
+Published Date:   2020-04-20
+Author:           Nicholas Doropoulos
+GoogleDork:       inurl:/main.html intext:SHARP AND intext:MX-*
+Description:      inurl:/main.html intext:SHARP AND intext:MX-*
+
+
+Category: Various Online Devices  Nicholas Doropoulos

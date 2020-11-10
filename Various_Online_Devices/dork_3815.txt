@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3815
+Category:         Various Online Devices
+Published Date:   2012-11-02
+Author:           anonymous
+GoogleDork:       inurl:"/level/13|14|15/exec/"
+Description:      inurl:"/level/13|14|15/exec/"
+
+
+inurl:"/level/13|14|15/exec/" Cisco IOS HTTP Auth Vulnerability .. Command before exec/ . Example exec/-/? 

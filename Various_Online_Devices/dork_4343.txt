@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4343
+Category:         Various Online Devices
+Published Date:   2016-10-24
+Author:           anonymous
+GoogleDork:       intitle:"open webif" "Linux set-top-box"
+Description:      intitle:"open webif" "Linux set-top-box"
+
+
+Web interface that allows full control of Dreambox TV set-top-boxes. 

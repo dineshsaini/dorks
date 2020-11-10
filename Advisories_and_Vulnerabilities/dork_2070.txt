@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2070
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       mediaHolder.php?id
+Description:      mediaHolder.php?id
+
+
+WordPress Media Holder (mediaHolder.php id) SQL Injection Vuln: https://www.exploit-db.com/exploits/6842

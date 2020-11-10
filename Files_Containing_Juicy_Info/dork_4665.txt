@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4665
+Category:         Files Containing Juicy Info
+Published Date:   2018-02-05
+Author:           Sachin Wagh
+GoogleDork:       intitle:index.of intext:zc_install intitle:zen-cart
+Description:      intitle:index.of intext:zc_install intitle:zen-cart
+
+
+Dork: *intitle:index.of intext:zc_install intitle:zen-c*art  Summary:  A Google dork that gives the information about target database and source code. *Dork discovered by:* Sachin Wagh (@tiger_tigerboy) 

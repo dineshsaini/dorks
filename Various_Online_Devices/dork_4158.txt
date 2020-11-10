@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4158
+Category:         Various Online Devices
+Published Date:   2015-12-18
+Author:           anonymous
+GoogleDork:       inurl:/cgi-bin/luci/freifunk/graph/olsrd/topology/
+Description:      inurl:/cgi-bin/luci/freifunk/graph/olsrd/topology/
+
+
+inurl:/cgi-bin/luci/freifunk/graph/olsrd/topology/ Description : This google dork can access many ( LuCI Trunk based wireless system management)  By Sivabalan( CYBER GENIUS ) ...

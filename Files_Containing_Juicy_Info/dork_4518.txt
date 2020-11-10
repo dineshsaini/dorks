@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4518
+Category:         Files Containing Juicy Info
+Published Date:   2017-06-12
+Author:           anonymous
+GoogleDork:       "-----BEGIN X509 CERTIFICATE-----" ext:pem -git
+Description:      "-----BEGIN X509 CERTIFICATE-----" ext:pem -git
+
+
+Finds X.509 server certificates Dxtroyer

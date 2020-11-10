@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3879
+Category:         Pages Containing Login Portals
+Published Date:   2013-08-08
+Author:           anonymous
+GoogleDork:       inurl:8080 intitle:"login" intext:"UserLogin" "English"
+Description:      inurl:8080 intitle:"login" intext:"UserLogin" "English"
+
+
+#Summary: VoIP login portals #Category: Pages containing login portals #Author: g00gl3 5c0u7

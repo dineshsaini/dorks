@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2030
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       /modules/xhresim/
+Description:      /modules/xhresim/
+
+
+XOOPS Module xhresim (index.php no) Remote SQL Injection Vuln - CVE: 2008-5665: https://www.exploit-db.com/exploits/6748

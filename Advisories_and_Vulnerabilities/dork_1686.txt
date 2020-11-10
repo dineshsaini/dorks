@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1686
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Maintained with the Ocean12 Calendar Manager Gold v2.04
+Description:      Maintained with the Ocean12 Calendar Manager Gold v2.04
+
+
+Ocean12 Calendar Manager Gold Database Disclosure Vulnerability: https://www.exploit-db.com/exploits/7247

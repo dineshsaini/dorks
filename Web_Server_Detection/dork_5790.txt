@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5790
+Category:         Web Server Detection
+Published Date:   2020-03-16
+Author:           Rohit Gautam
+GoogleDork:       intitle:"index of" "powered by apache " "port 80"
+Description:      intitle:"index of" "powered by apache " "port 80"
+
+
+Google Dork Query to find out insecure Apache Servers running on Port 80.  Google Dork Query: *intitle:"index of" "powered by apache " "port 80"* 

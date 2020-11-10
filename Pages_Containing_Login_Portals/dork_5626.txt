@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5626
+Category:         Pages Containing Login Portals
+Published Date:   2019-11-05
+Author:           Mohammed*_*
+GoogleDork:       intitle:Metabase inurl:/dash
+Description:      intitle:Metabase inurl:/dash
+
+
+Metabase Dashboard Queries  # Google Dork: intitle:Metabase inurl:/dash # Date: [4-11-2019] # Author: [Mohammed*_*] 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6126
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-05-26
+Author:           Abhi Chitkara
+GoogleDork:       inurl:"wp-content/plugins/form-maker"
+Description:      inurl:"wp-content/plugins/form-maker"
+
+
+Dork: inurl:"wp-content/plugins/form-maker" Description: This google dork lists out Advisories and Vulnerabilities regarding the form maker wordpress plugin. Ref: https://wpvulndb.com/vulnerabilities/10237 Author: Abhi Chitkara 

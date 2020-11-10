@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1462
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by GL-SH DEAF forum 6.5.5 final.
+Description:      Powered by GL-SH DEAF forum 6.5.5 final.
+
+
+PHP Forum ohne My SQL Remote File Upload Vulnerability: https://www.exploit-db.com/exploits/10757

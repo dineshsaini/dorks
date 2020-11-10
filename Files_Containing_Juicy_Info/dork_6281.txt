@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6281
+Category:         Files Containing Juicy Info
+Published Date:   2020-06-15
+Author:           Prashant Sharma
+GoogleDork:       "index of" "siri"
+Description:      "index of" "siri"
+
+
+Google Dork: "index of" "siri" Category: Files Containing Juicy Info Author: Prashant Sharma LinkedIn: https://www.linkedin.com/in/prashantique/ 

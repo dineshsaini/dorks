@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3937
+Category:         Files Containing Juicy Info
+Published Date:   2014-03-27
+Author:           anonymous
+GoogleDork:       inurl:crossdomain filetype:xml intext:allow-access-from
+Description:      inurl:crossdomain filetype:xml intext:allow-access-from
+
+
+Locates crossdomain.xml files used by flash/flex/silverlight to determine the cross domain policy of that site's flash/flex/silverlight apps. An open setting of will allow a weaponized flash application hosted on an attacker's site to read information from the target site while running in a victim's browser. -- Google+ http://google.com/+EricGragsone Red Team http://www.crimsonagents.com/ Blue Team http://www.erisresearch.org/ Coding http://maetrics.github.io

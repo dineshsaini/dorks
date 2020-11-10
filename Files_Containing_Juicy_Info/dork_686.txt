@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/686
+Category:         Files Containing Juicy Info
+Published Date:   2004-11-18
+Author:           anonymous
+GoogleDork:       filetype:myd myd -CVS
+Description:      filetype:myd myd -CVS
+
+
+MySQL stores its data for each database in individual files with the extension MYD.An attacker can copy these files to his machine and using a tool like 'strings' possibly view the contents of the database.

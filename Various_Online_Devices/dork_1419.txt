@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1419
+Category:         Various Online Devices
+Published Date:   2006-10-02
+Author:           anonymous
+GoogleDork:       intitle:"Your Network Device" Status (LAN | WAN)
+Description:      intitle:"Your Network Device" Status (LAN | WAN)
+
+
+Login page for the Solwise Sar715+ ADSL Router from solwise.co.uk. Thanks to jeffball55 for the identification of this "victim" ;)

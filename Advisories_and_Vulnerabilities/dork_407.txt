@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/407
+Category:         Advisories and Vulnerabilities
+Published Date:   2004-08-05
+Author:           anonymous
+GoogleDork:       "powered by antiboard"
+Description:      "powered by antiboard"
+
+
+"AntiBoard is a small and compact multi-threaded bulletin board/message board system written in PHP. It uses either MySQL or PostgreSQL as the database backend, and has support for different languages. It is not meant as the end all be all of bulletin boards, but rather something to easily integrate into your own page."There is an excellent vulnerability report at:http://www.securiteam.com/unixfocus/5XP010ADPY.htmlVendor Status:The vendor has been informed of the issues on the 28th July 2004, however no fix is planned in the near future.

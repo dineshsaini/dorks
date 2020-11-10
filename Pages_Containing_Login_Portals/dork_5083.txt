@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5083
+Category:         Pages Containing Login Portals
+Published Date:   2019-01-21
+Author:           Sohaib E.B.
+GoogleDork:       inurl:/pwm/public/
+Description:      inurl:/pwm/public/
+
+
+# Exploit Title: PWM Password Manager Directory. # Google Dork: inurl:/pwm/public/ # Description: Find PWM directories with login portals and/or user registration/activation forms. # Date: 08/01/2019. # Exploit Author: Sohaib E.B. # Category: Pages Containing Login Portals 

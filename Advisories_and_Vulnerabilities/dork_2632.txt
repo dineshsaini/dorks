@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2632
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       com_thyme
+Description:      com_thyme
+
+
+Joomla Component Thyme 1.0 (event) SQL Injection Vulnerability - CVE: 2008-6116: https://www.exploit-db.com/exploits/7182

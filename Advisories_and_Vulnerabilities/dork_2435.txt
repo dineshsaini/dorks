@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2435
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:com_redshop
+Description:      inurl:com_redshop
+
+
+Joomla redSHOP Component v1.0 (com_redshop pid) SQL Injection Vulnerability - CVE: 2010-2694: https://www.exploit-db.com/exploits/14312

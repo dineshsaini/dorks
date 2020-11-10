@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1213
+Category:         Advisories and Vulnerabilities
+Published Date:   2005-11-30
+Author:           anonymous
+GoogleDork:       "This website powered by PHPX" -demo
+Description:      "This website powered by PHPX" -demo
+
+
+this is the dork for PhpX

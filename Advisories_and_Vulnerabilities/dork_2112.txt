@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2112
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Maian Gallery v2.0 Copyright Â© 2006-2008 Maian Script World. All Rights Reserved.
+Description:      Maian Gallery v2.0 Copyright Â© 2006-2008 Maian Script World. All Rights Reserved.
+
+
+Maian Gallery 2.0 Insecure Cookie Handling Vulnerability: https://www.exploit-db.com/exploits/6049

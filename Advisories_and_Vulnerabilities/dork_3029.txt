@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3029
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by eLitius Version 1.0
+Description:      Powered by eLitius Version 1.0
+
+
+eLitius 1.0 (manage-admin.php) Add Admin/Change Password: https://www.exploit-db.com/exploits/8459

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5741
+Category:         Sensitive Directories
+Published Date:   2020-02-19
+Author:           Hilary Soita
+GoogleDork:       intitle:index.of "db.zip"
+Description:      intitle:index.of "db.zip"
+
+
+Find database backup files.  --  *Hilary Soita.* 

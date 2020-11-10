@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3735
+Category:         Vulnerable Servers
+Published Date:   2011-07-26
+Author:           anonymous
+GoogleDork:       intitle:m1n1 1.01
+Description:      intitle:m1n1 1.01
+
+
+find the b374k shell.... Submitted by : biLLbud 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1297
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-02-08
+Author:           anonymous
+GoogleDork:       "Powered by Loudblog"
+Description:      "Powered by Loudblog"
+
+
+this dork is for the LoudBlog

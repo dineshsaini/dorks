@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6658
+Category:         Files Containing Passwords
+Published Date:   2020-11-06
+Author:           Alexandros Pappas
+GoogleDork:       jdbc:oracle://localhost: + username + password ext:yml | ext:java -git -gitlab
+Description:      jdbc:oracle://localhost: + username + password ext:yml | ext:java -git -gitlab
+
+
+# Google Dork: jdbc:oracle://localhost: + username + password ext:yml | ext:java -git -gitlab # Exposed usernames and passwords. # Date: 29/10/2020 # Exploit Author: Alexandros Pappas 

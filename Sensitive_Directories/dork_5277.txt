@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5277
+Category:         Sensitive Directories
+Published Date:   2019-07-15
+Author:           Isaiah Puzon
+GoogleDork:       "Index of" inurl:config inurl:production
+Description:      "Index of" inurl:config inurl:production
+
+
+Dork: "Index of" inurl:config inurl:production  Description: Open Directory listing with words "config" and "production" in the URL 

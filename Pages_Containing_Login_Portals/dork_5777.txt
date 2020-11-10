@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5777
+Category:         Pages Containing Login Portals
+Published Date:   2020-03-05
+Author:           Juveria Banu
+GoogleDork:       inurl:manager/login
+Description:      inurl:manager/login
+
+
+Provides manager login pages, which are more or less meant for the admins.  By Juveria Banu. 

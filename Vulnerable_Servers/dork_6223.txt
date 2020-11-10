@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6223
+Category:         Vulnerable Servers
+Published Date:   2020-06-04
+Author:           Alexandros Pappas
+GoogleDork:       intext:"(c) GUnet 2003-2007"
+Description:      intext:"(c) GUnet 2003-2007"
+
+
+# Google Dork: intext:"© GUnet 2003-2007"  # GUnet OpenEclass 1.7.3 E-learning platform - 'month' SQL Injection. This dork is linked to the following existing exploits: https://www.exploit-db.com/exploits/48106 , https://www.exploit-db.com/exploits/48163  # Date: 04/06/2020  # Exploit Author: Alexandros Pappas 

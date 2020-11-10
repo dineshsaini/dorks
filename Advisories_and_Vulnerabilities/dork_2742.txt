@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2742
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "index.php?id_menu=" CMScontrol
+Description:      "index.php?id_menu=" CMScontrol
+
+
+CMScontrol (Content Management Portal Solutions) Sql Injection - CVE: 2009-3326: https://www.exploit-db.com/exploits/9727

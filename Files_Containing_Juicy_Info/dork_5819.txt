@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5819
+Category:         Files Containing Juicy Info
+Published Date:   2020-03-20
+Author:           Alexandros Pappas
+GoogleDork:       inurl:cfg intext:"srb.username.1=" "srb.password.1 = "
+Description:      inurl:cfg intext:"srb.username.1=" "srb.password.1 = "
+
+
+# Google Dork: inurl:cfg intext:"srb.username.1=" "srb.password.1 = "  # By using this dork, usernames and passwords in configuration files can be found.  # Date: 20/03/2020  # Exploit Author: Alexandros Pappas 

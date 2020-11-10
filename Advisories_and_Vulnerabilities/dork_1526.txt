@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1526
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"com_dashboard"
+Description:      inurl:"com_dashboard"
+
+
+Joomla Component com_dashboard Directory Traversal: https://www.exploit-db.com/exploits/11086

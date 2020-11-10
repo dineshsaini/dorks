@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4204
+Category:         Pages Containing Login Portals
+Published Date:   2016-02-23
+Author:           anonymous
+GoogleDork:       inurl:/AT-admin.cgi? intitle:login | private | employee | intranet | admin
+Description:      inurl:/AT-admin.cgi? intitle:login | private | employee | intranet | admin
+
+
+inurl:/AT-admin.cgi? intitle:login | private | employee | intranet | admin Pages containing login portals Bruno Schmid 

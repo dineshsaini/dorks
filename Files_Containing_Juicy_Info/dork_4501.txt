@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4501
+Category:         Files Containing Juicy Info
+Published Date:   2017-05-29
+Author:           anonymous
+GoogleDork:       "MiniToolBox by Farbar" ext:txt
+Description:      "MiniToolBox by Farbar" ext:txt
+
+
+Finds logs with IP configuration, DNS info, application errors, and more! Dxtroyer

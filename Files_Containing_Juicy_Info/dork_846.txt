@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/846
+Category:         Files Containing Juicy Info
+Published Date:   2005-01-27
+Author:           anonymous
+GoogleDork:       inurl:netscape.ini
+Description:      inurl:netscape.ini
+
+
+There's a bunch of interesting info in netscape.ini1. Viewers: which multimedia viewers the firm or people are using2.Cookies3.Address Book4.Mail- If pop3 is used you will see login and password. 5.Java - will tell the attacker if his victim has Java enabled.6.URL History - The last sites visitedURL_1=http://edtech.xxxx.fi/URL_2=C:\Tx\ixxx_t3.htmURL_3=http://www.xxx.com/welcome/URL_4=http://xxx.netscape.com7.User Trusted External Applications

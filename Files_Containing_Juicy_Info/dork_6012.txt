@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6012
+Category:         Files Containing Juicy Info
+Published Date:   2020-05-05
+Author:           Alexandros Pappas
+GoogleDork:       intitle:"index of" "Logins.txt"
+Description:      intitle:"index of" "Logins.txt"
+
+
+# Google Dork: intitle:"index of" "Logins.txt"  # Juicy information and sensitive directories including in many case, user names and passwords.  # Date: 5/05/2020  # Author: Alexandros Pappas 

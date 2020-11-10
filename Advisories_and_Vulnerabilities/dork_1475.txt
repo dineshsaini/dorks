@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1475
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allinurl: "com_rapidrecipe"user_id
+Description:      allinurl: "com_rapidrecipe"user_id
+
+
+Joomla Component rapidrecipe 1.6.5 SQL Injection Vulnerability - CVE: 2008-0754: https://www.exploit-db.com/exploits/5103

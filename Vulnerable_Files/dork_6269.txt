@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6269
+Category:         Vulnerable Files
+Published Date:   2020-06-11
+Author:           Swapnil Talele
+GoogleDork:       Dork: "Index of" "upload_image.php"
+Description:      Dork: "Index of" "upload_image.php"
+
+
+ Hello , Dork Title: Vulnerable Files Google Dork: "Index of" "upload_image.php" Date: [11-06-2020] Dork Author: Swapnil Talele 

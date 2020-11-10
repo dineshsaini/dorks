@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4818
+Category:         Vulnerable Servers
+Published Date:   2018-05-16
+Author:           Ebad uddin Ahmad
+GoogleDork:       inurl:"q=user/password"
+Description:      inurl:"q=user/password"
+
+
+for finding drupal 

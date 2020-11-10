@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/929
+Category:         Various Online Devices
+Published Date:   2005-04-12
+Author:           anonymous
+GoogleDork:       intitle:jdewshlp "Welcome to the Embedded Web Server!"
+Description:      intitle:jdewshlp "Welcome to the Embedded Web Server!"
+
+
+HP Officejet help page. Remove "help.html" for main page.

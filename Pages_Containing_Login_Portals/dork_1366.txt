@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1366
+Category:         Pages Containing Login Portals
+Published Date:   2006-05-03
+Author:           anonymous
+GoogleDork:       (intitle:"WmSC e-Cart Administration")|(intitle:"WebMyStyle e-Cart Administration")
+Description:      (intitle:"WmSC e-Cart Administration")|(intitle:"WebMyStyle e-Cart Administration")
+
+
+Login Pages for WebMyStyle."WebMyStyle offers a full range of web hosting and dedicated server plans, but also gives you the ability to pick and choose the features that you need for your web sites."

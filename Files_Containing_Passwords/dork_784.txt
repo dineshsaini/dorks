@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/784
+Category:         Files Containing Passwords
+Published Date:   2004-12-19
+Author:           anonymous
+GoogleDork:       ext:ini eudora.ini
+Description:      ext:ini eudora.ini
+
+
+Well, this is the configuration file for Eudora...may contain sensitive information like pop servers, logins and encypted passwords sometimes.

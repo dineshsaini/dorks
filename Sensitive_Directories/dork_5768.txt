@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5768
+Category:         Sensitive Directories
+Published Date:   2020-03-04
+Author:           Pranshu Tiwari
+GoogleDork:       intext:"index of /" ".composer-auth.json"
+Description:      intext:"index of /" ".composer-auth.json"
+
+
+intext:"index of /" ".composer-auth.json"  by Pranshu Tiwari 

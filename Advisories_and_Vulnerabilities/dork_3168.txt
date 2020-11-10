@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3168
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allinurl:offers.php?id=
+Description:      allinurl:offers.php?id=
+
+
+B2B Classic Trading Script (offers.php) SQL Injection Vulnerability: https://www.exploit-db.com/exploits/12532

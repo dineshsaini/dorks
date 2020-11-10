@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/990
+Category:         Various Online Devices
+Published Date:   2005-05-20
+Author:           anonymous
+GoogleDork:       ( intitle:"PacketShaper Login")|(intitle:"PacketShaper Customer Login")
+Description:      ( intitle:"PacketShaper Login")|(intitle:"PacketShaper Customer Login")
+
+
+Packeteer's PacketShaper is an application traffic management system that monitors, controls, and accelerates application performance over the WAN Internet.

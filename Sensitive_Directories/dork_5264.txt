@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5264
+Category:         Sensitive Directories
+Published Date:   2019-06-20
+Author:           l0n1s
+GoogleDork:       Inurl : /list/hdd1
+Description:      Inurl : /list/hdd1
+
+
+# Google Dork: Inurl: /list/hdd1 # Date: 2019-06-19 # Author: l0n1s 

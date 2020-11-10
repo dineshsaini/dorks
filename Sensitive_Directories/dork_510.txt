@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/510
+Category:         Sensitive Directories
+Published Date:   2004-09-24
+Author:           anonymous
+GoogleDork:       intitle:"webadmin - /*" filetype:php directory filename permission
+Description:      intitle:"webadmin - /*" filetype:php directory filename permission
+
+
+Webadmin.php is a free simple Web-based file manager. This search finds sites that use this software. If left unprotected an attacker files can be modified or added on the server.More info and screenshot at: http://cker.name/webadmin/

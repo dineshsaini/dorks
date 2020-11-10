@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3157
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:option=com_mv_restaurantmenumanager
+Description:      inurl:option=com_mv_restaurantmenumanager
+
+
+Joomla component mv_restaurantmenumanager SQL injection Vulnerability: https://www.exploit-db.com/exploits/12162

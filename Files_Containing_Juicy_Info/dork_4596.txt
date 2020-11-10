@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4596
+Category:         Files Containing Juicy Info
+Published Date:   2017-10-19
+Author:           anonymous
+GoogleDork:       inurl:/Divi/Changelog.txt /Divi/Changelog.txt
+Description:      inurl:/Divi/Changelog.txt /Divi/Changelog.txt
+
+
+*Category:* files containing juicy info *Summary:* A Google dork that gives the information about wordpress Divi plugin changelog *Dork discovered by:* m0be1

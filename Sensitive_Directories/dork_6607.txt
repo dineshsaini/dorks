@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6607
+Category:         Sensitive Directories
+Published Date:   2020-10-13
+Author:           Alexandros Pappas
+GoogleDork:       intitle:"index of" "server.crt" | "server.csr"
+Description:      intitle:"index of" "server.crt" | "server.csr"
+
+
+# Google Dork: intitle:"index of" "server.crt" | "server.csr"  # Certificates and private keys...  # Date: 13/10/2020  # Exploit Author: Alexandros Pappas 

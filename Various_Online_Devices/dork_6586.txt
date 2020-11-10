@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6586
+Category:         Various Online Devices
+Published Date:   2020-10-01
+Author:           Raghotham Mruthike
+GoogleDork:       inurl:/8080 "windows" "live view"
+Description:      inurl:/8080 "windows" "live view"
+
+
+#Exploit Title :Webcams, various online devices. #Google Dork: inurl:/8080 "windows" "live view" #Date : 30/09/2020 #Exploit Author : Raghotham Mruthike  Warm regards Raghotham Mruthike 

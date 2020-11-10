@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/613
+Category:         Advisories and Vulnerabilities
+Published Date:   2004-10-25
+Author:           anonymous
+GoogleDork:       inurl:"/site/articles.asp?idcategory="
+Description:      inurl:"/site/articles.asp?idcategory="
+
+
+Dwc_Articles is an ASP application designed to add Featured, Recent and Popular News through an easy to use administration area. Other features: Design Packages, Add, Modify, Deactive through HTML/Wysiwyg Editor, Nearly all scripts suffer from possible sql injections. http://www.securityfocus.com/bid/11509

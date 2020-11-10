@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1380
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-05-30
+Author:           anonymous
+GoogleDork:       "powered by pppblog v 0.3.(.)"
+Description:      "powered by pppblog v 0.3.(.)"
+
+
+this is for the pppblog 0.3.x system disclosure vulnerability, advisory/poc exploit: http://retrogod.altervista.org/pppblog_038_xpl.html

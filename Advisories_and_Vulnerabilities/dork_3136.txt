@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3136
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by minb
+Description:      Powered by minb
+
+
+minb 0.1.0 Remote Code Execution - CVE: 2008-7005: https://www.exploit-db.com/exploits/6432

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/428
+Category:         Files Containing Juicy Info
+Published Date:   2004-08-13
+Author:           anonymous
+GoogleDork:       ext:asp inurl:pathto.asp
+Description:      ext:asp inurl:pathto.asp
+
+
+The UBB trial version contains files that are not safe to keep online after going live. The install files clearly state so:CAUTIONS Do not leave pathto.asp or ubb6_test.cgi on your server. Delete them from the server when you are done. Leaving them in place poses a security risk."This searches pathto.asp files and allows an attacker to know the exact installed path of the software.Examples:The path to your Site is -- g:\0E5\goldenstateeng.xxx\webThe path to your Site is -- D:\inetpub\wwwroot\01xx738\mc10s9izz

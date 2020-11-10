@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3323
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       insite: SmarterMail Enterprise 7.1
+Description:      insite: SmarterMail Enterprise 7.1
+
+
+SmarterMail 7.1.3876 Directory Traversal Vulnerability - CVE: 2010-3486: https://www.exploit-db.com/exploits/15048

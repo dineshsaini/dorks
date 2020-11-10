@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6373
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-07-06
+Author:           Abhi Chitkara
+GoogleDork:       inurl:wp-content/plugins/wp-jobsearch
+Description:      inurl:wp-content/plugins/wp-jobsearch
+
+
+Dork: inurl:wp-content/plugins/wp-jobsearch Description: This google dork lists out Advisories and Vulnerabilities regarding the wp-jobsearch wordpress plugin. Ref: https://wpvulndb.com/vulnerabilities/10290 Author: Abhi Chitkara 

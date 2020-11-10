@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/334
+Category:         Error Messages
+Published Date:   2004-07-16
+Author:           anonymous
+GoogleDork:       filetype:php inurl:"logging.php" "Discuz" error
+Description:      filetype:php inurl:"logging.php" "Discuz" error
+
+
+Discuz! Board error messages related to MySQL. The error message may be empty or contain path information or the offending SQL statement. All discuz! board errors seem to be logged by this php file.An attacker can use this to reveal parts of the database and possibly launch a SQL attack (by filtering this search including SELECT or INSERT statements).

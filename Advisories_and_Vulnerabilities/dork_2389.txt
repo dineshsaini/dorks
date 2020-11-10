@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2389
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"/index.php?option=com_rsfiles"
+Description:      inurl:"/index.php?option=com_rsfiles"
+
+
+Joomla Component RSfiles 1.0.2 (path) File Download Vulnerability - CVE: 2007-4504: https://www.exploit-db.com/exploits/4307

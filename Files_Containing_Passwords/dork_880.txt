@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/880
+Category:         Files Containing Passwords
+Published Date:   2005-02-23
+Author:           anonymous
+GoogleDork:       filetype:sql ("values * MD5" | "values * password" | "values * encrypt")
+Description:      filetype:sql ("values * MD5" | "values * password" | "values * encrypt")
+
+
+Locate insert statements making use of some builtin function to encrypt a password. PASSWORD(), ENCRYPT() and MD5() are searched.

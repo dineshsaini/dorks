@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5774
+Category:         Pages Containing Login Portals
+Published Date:   2020-03-05
+Author:           yunaranyancat
+GoogleDork:       inurl:"/jw/web/login"
+Description:      inurl:"/jw/web/login"
+
+
+Joget Workflow Enterprise framework login pages  inurl:"/jw/web/login"  Author: Zulfiqar Wardi (yunaranyancat) 

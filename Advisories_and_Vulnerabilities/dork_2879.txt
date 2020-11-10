@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2879
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "/nuke/iframe.php"
+Description:      "/nuke/iframe.php"
+
+
+iFrame for Phpnuke (iframe.php) Remote File Inclusion Vulnerability - CVE: 2007-1626: https://www.exploit-db.com/exploits/3512

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3584
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "This is a Free &amp; Open Source mailing list manager"
+Description:      "This is a Free &amp; Open Source mailing list manager"
+
+
+Open Newsletter

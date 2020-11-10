@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5879
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-04-16
+Author:           Alexandros Pappas
+GoogleDork:       "Powered by SePortal 2.5"
+Description:      "Powered by SePortal 2.5"
+
+
+# Google Dork: "Powered by SePortal 2.5"  # By using this dork, sites "Powered by SePortal 2.5" can be found. SePortal 2.5 is prone to an Sql Injection Vulnerability. This dork is linked to the following existing exploit: https://www.exploit-db.com/exploits/32359  # Date: 1/04/2020  # Author: Alexandros Pappas 

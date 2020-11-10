@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/274
+Category:         Files Containing Passwords
+Published Date:   2004-06-04
+Author:           anonymous
+GoogleDork:       filetype:sql +"IDENTIFIED BY" -cvs
+Description:      filetype:sql +"IDENTIFIED BY" -cvs
+
+
+Database maintenance is often automated by use of .sql files wich may contain many lines of batched SQL commands. These files are often used to create databases and set or alter permissions. The passwords used can be either encrypted or even plaintext.An attacker can use these files to acquire database permissions that normally would not be given to the masses.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4002
+Category:         Files Containing Juicy Info
+Published Date:   2015-04-28
+Author:           anonymous
+GoogleDork:       intext:JSESSIONID OR intext:PHPSESSID inurl:access.log ext:log
+Description:      intext:JSESSIONID OR intext:PHPSESSID inurl:access.log ext:log
+
+
+Google dork to find session IDs and potentially impersonate users: intext:JSESSIONID OR intext:PHPSESSID inurl:access.log ext:log Regards, Gabor Szathmari 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2351
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"list.php?c="
+Description:      inurl:"list.php?c="
+
+
+Prozilla Top 100 v1.2 Arbitrary Delete Stats Vulnerability - CVE: 2008-1785: https://www.exploit-db.com/exploits/5384

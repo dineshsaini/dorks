@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5256
+Category:         Web Server Detection
+Published Date:   2019-06-17
+Author:           mcandberry
+GoogleDork:       inurl:OrganizationChart.cc
+Description:      inurl:OrganizationChart.cc
+
+
+This dork finds all website using ADSelfService and authorizing guest access to the LDAP directory. Access name, mail, mobile number, function...  # Exploit Title: ADSelfService # Google Dork: inurl:OrganizationChart.cc # Date: June 14, 2019 # Exploit Author: mcandberry # Vendor Homepage: https://www.manageengine.com/  

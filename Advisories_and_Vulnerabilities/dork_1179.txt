@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1179
+Category:         Advisories and Vulnerabilities
+Published Date:   2005-11-12
+Author:           anonymous
+GoogleDork:       "Powered by XOOPS 2.2.3 Final"
+Description:      "Powered by XOOPS 2.2.3 Final"
+
+
+XOOPS 2.2.3 Arbitrary local file inclusionThis a generic dork for the version I tested, advisory &amp; poc exploit:http://rgod.altervista.org/xoops_xpl.html

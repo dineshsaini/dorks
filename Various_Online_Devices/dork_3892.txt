@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3892
+Category:         Various Online Devices
+Published Date:   2013-09-24
+Author:           anonymous
+GoogleDork:       intitle:"Web Client for EDVS"
+Description:      intitle:"Web Client for EDVS"
+
+
+Yet another DVR system. Probably requires Java to display. 4N6 Security

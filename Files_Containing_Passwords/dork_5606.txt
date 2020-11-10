@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5606
+Category:         Files Containing Passwords
+Published Date:   2019-10-29
+Author:           Ismail Tasdelen
+GoogleDork:       intitle:"Index of" password.txt
+Description:      intitle:"Index of" password.txt
+
+
+Dork: intitle:"Index of" password.txt  Author:Ismail Tasdelen  Info: It contains password clear text sensitive information. 

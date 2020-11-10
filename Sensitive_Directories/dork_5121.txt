@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5121
+Category:         Sensitive Directories
+Published Date:   2019-02-15
+Author:           Bruno Schmid
+GoogleDork:       inurl:"/.Trash" intitle:"index of" ~
+Description:      inurl:"/.Trash" intitle:"index of" ~
+
+
+Juicy info in some *nix Trash bins.   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

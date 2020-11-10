@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5733
+Category:         Files Containing Juicy Info
+Published Date:   2020-02-14
+Author:           CANCOM #RedTeam
+GoogleDork:       intitle:index.of "keys.txt"
+Description:      intitle:index.of "keys.txt"
+
+
+AUTHOR: CANCOM #RedTeam   ++ Find juicy files (API Keys, SSH Keys, Fileserver etc.) ++  intitle:index.of "keys.txt"  ca. 400 Results  

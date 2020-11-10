@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1827
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by ForumApp"
+Description:      "Powered by ForumApp"
+
+
+ForumApp 3.3 Remote Database Disclosure Vulnerability - CVE: 2008-6147: https://www.exploit-db.com/exploits/7599

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5125
+Category:         Sensitive Directories
+Published Date:   2019-02-15
+Author:           Bruno Schmid
+GoogleDork:       intitle:"index of" "Application Data/Microsoft/Credentials"
+Description:      intitle:"index of" "Application Data/Microsoft/Credentials"
+
+
+Credentials in Windows folder   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

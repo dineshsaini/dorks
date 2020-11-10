@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/266
+Category:         Files Containing Passwords
+Published Date:   2004-06-02
+Author:           anonymous
+GoogleDork:       filetype:ldb admin
+Description:      filetype:ldb admin
+
+
+According to filext.com, the ldb file is "A lock file is used to keep muti-user databases from being changed in the same place by two people at the same time resulting in data corruption." These Access lock files contain the username of the last user and they ALWAYS have the same filename and location as the database. Attackers can substitute mdb for ldb and dowload the database file.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3174
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by Orbis CMS
+Description:      Powered by Orbis CMS
+
+
+Orbis CMS 1.0 (AFD/ADF/ASU/SQL) Multiple Remote Vulnerabilities: https://www.exploit-db.com/exploits/9309

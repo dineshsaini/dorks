@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5030
+Category:         Sensitive Directories
+Published Date:   2018-11-15
+Author:           ManhNho
+GoogleDork:       index of /ckeditor
+Description:      index of /ckeditor
+
+
+ckeditor directories  ManhNho 

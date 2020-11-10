@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3152
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"com_ijoomla_archive"
+Description:      inurl:"com_ijoomla_archive"
+
+
+Joomla com_ijoomla_archive Blind SQL Injectio: https://www.exploit-db.com/exploits/8164

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2583
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:cal_cat.php?op=
+Description:      inurl:cal_cat.php?op=
+
+
+Calendarix (cal_cat.php) SQL Injection Vulnerability: https://www.exploit-db.com/exploits/14393

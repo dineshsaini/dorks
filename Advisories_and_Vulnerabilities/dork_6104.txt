@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6104
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-05-20
+Author:           Alexandros Pappas
+GoogleDork:       "LMS v3.0 - Xerone IT"
+Description:      "LMS v3.0 - Xerone IT"
+
+
+# Google Dork: "LMS v3.0 - Xerone IT"  # Xeroneit Library Management System 3.0 - 'category' SQL Injection. This dork is linked to the following existing exploit: https://www.exploit-db.com/exploits/48328  # Date: 20/05/2020  # Author: Alexandros Pappas 

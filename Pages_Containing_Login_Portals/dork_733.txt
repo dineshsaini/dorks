@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/733
+Category:         Pages Containing Login Portals
+Published Date:   2004-11-30
+Author:           anonymous
+GoogleDork:       intext:"Storage Management Server for" intitle:"Server Administration"
+Description:      intext:"Storage Management Server for" intitle:"Server Administration"
+
+
+These pages can reveal information about the operating system and patch level, as well as providing a login portal for hackers to attack. "As part of the IBM TotalStorageÃƒâ€šÃ‚Â® Open Software Family, IBM Tivoli Storage (ADSM) Manager protects your organization's data from hardware failures and other errors by storing backup and archive copies of data on offline storage."

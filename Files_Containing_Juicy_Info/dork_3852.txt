@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3852
+Category:         Files Containing Juicy Info
+Published Date:   2013-04-23
+Author:           anonymous
+GoogleDork:       allintext: /iissamples/default/
+Description:      allintext: /iissamples/default/
+
+
+Searching for "allintext: /iissamples/default/" may provide interesting information about a mis-configured .asp server including raw source code for asp, directory structure and the IIS version ( especially useful when IIS is running on NT 4.0) the result provides a way to further explore directory structure for juicy info. Oleg.

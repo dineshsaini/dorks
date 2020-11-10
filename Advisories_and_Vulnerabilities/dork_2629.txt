@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2629
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Script créé par Funewik - Dezign-Box © France
+Description:      Script créé par Funewik - Dezign-Box © France
+
+
+Galerie Dezign-Box France Multi Vulnerability: https://www.exploit-db.com/exploits/11523

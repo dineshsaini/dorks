@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6501
+Category:         Pages Containing Login Portals
+Published Date:   2020-08-28
+Author:           Alexandros Pappas
+GoogleDork:       inurl:login_up.php "Plesk Onyx"
+Description:      inurl:login_up.php "Plesk Onyx"
+
+
+# Google Dork: inurl:login_up.php "Plesk Onyx" # Plesk Onyx login portals. # Date: 26/08/2020 # Exploit Author: Alexandros Pappas 

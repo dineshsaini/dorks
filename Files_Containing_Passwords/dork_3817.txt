@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3817
+Category:         Files Containing Passwords
+Published Date:   2012-11-02
+Author:           ratdance
+GoogleDork:       inurl:"/dbman/default.pass"
+Description:      inurl:"/dbman/default.pass"
+
+
+A path to a DES encrypted password for DBMan (  http://www.gossamer-threads.com/products/archive.html) ranging from Guest  to Admin account, this is often found coupled with cgi-telnet.pl (  http://www.rohitab.com/cgi-telnet) which provides an admin login, by  default and the password provided by DBMan's path /dbman/default.pass      I have already posted this to packetstorm on June 7th 2004, called  cgitelnetdbman (  http://packetstormsecurity.org/files/29530/cgitelnetdbman.pdf.html)    The 'Dork' is *inurl:"/dbman/default.pass" *        Lawrence Lavigne (ratdance)  -suidrewt

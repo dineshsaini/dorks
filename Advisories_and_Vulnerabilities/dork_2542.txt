@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2542
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by NKINFOWEB VSp © 2009
+Description:      Powered by NKINFOWEB VSp © 2009
+
+
+NKINFOWEB SQL Injection - CVE: 2010-1599: https://www.exploit-db.com/exploits/12354

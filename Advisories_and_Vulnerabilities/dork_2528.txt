@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2528
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:inc_classifiedlistingsmanager.asp
+Description:      inurl:inc_classifiedlistingsmanager.asp
+
+
+DMXReady Classified Listings Manager 1.1 SQL Injection Vulnerability - CVE: 2009-0426: https://www.exploit-db.com/exploits/7767

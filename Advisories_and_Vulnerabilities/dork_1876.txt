@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1876
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "© Sabdrimer CMS"
+Description:      "© Sabdrimer CMS"
+
+
+Sabdrimer PRO 2.2.4 (pluginpath) Remote File Include Vulnerability - CVE: 2006-3520: https://www.exploit-db.com/exploits/1996

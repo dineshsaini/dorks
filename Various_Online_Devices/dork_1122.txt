@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1122
+Category:         Various Online Devices
+Published Date:   2005-09-21
+Author:           anonymous
+GoogleDork:       Phaser numrange:100-100000 Name DNS IP "More Printers" index help filetype:html | filetype:shtml
+Description:      Phaser numrange:100-100000 Name DNS IP "More Printers" index help filetype:html | filetype:shtml
+
+
+This is a search for various phaser network printers. With this search you can look for printers to print test/help pages, monitor the printer, and generally mess with people.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/208
+Category:         Files Containing Juicy Info
+Published Date:   2004-05-06
+Author:           anonymous
+GoogleDork:       "HTTP_FROM=googlebot" googlebot.com "Server_Software="
+Description:      "HTTP_FROM=googlebot" googlebot.com "Server_Software="
+
+
+These pages contain trace information that was collected when the googlebot crawled a page. The information can include many different things such as path names, header information, server software versions and much more. Attackers can use information like this to formulate an attack against a site.

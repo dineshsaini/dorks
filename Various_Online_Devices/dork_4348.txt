@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4348
+Category:         Various Online Devices
+Published Date:   2016-10-27
+Author:           anonymous
+GoogleDork:       "Upload" inurl:"https://webfiles"
+Description:      "Upload" inurl:"https://webfiles"
+
+
+This dork finds pages vulnerable to directory traversal, upload and download of files. Dork: "Upload" inurl:"https://webfiles" -Gee

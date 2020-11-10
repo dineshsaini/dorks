@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6646
+Category:         Files Containing Juicy Info
+Published Date:   2020-10-28
+Author:           Prajwal Khante
+GoogleDork:       site:*gov.* intitle:index.of db
+Description:      site:*gov.* intitle:index.of db
+
+
+# Title: Database Disclosure for specific domain # Google Dork: site:*gov.* intitle:index.of db # Date: 1/10/2020 # Author: Prajwal Khante 

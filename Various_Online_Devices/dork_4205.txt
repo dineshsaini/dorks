@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4205
+Category:         Various Online Devices
+Published Date:   2016-02-24
+Author:           anonymous
+GoogleDork:       inurl:login inurl:user inurl:pass -intext:pass -intext:user
+Description:      inurl:login inurl:user inurl:pass -intext:pass -intext:user
+
+
+With this Dork you can Bypass the security of a lot of Cpanel Portal. Have Fun. Dork discovered by Rootkit Pentester.

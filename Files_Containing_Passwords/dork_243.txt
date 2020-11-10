@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/243
+Category:         Files Containing Passwords
+Published Date:   2004-05-17
+Author:           anonymous
+GoogleDork:       filetype:pem intext:private
+Description:      filetype:pem intext:private
+
+
+This search will find private key files... Private key files are supposed to be, well... private.

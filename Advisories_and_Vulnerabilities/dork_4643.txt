@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4643
+Category:         Advisories and Vulnerabilities
+Published Date:   2018-01-01
+Author:           Drok3r
+GoogleDork:       inurl:"mgl-instagram-gallery/single-gallery.php?media"
+Description:      inurl:"mgl-instagram-gallery/single-gallery.php?media"
+
+
+This Dork, helps us find websites, which contain the mgl-instagram-gallery plugin of WordPress Vulnerable to XSS  inurl:"mgl-instagram-gallery/single-gallery.php?media"  Drok3r

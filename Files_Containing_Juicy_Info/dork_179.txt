@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/179
+Category:         Files Containing Juicy Info
+Published Date:   2004-04-26
+Author:           anonymous
+GoogleDork:       inurl:server-status "apache"
+Description:      inurl:server-status "apache"
+
+
+This page shows all sort of information about the Apache web server. It can be used to track process information, directory maps, connection data, etc.

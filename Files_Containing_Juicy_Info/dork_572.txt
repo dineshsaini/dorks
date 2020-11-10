@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/572
+Category:         Files Containing Juicy Info
+Published Date:   2004-10-16
+Author:           anonymous
+GoogleDork:       intitle:"ASP Stats Generator *.*" "ASP Stats Generator" "2003-2004 weppos"
+Description:      intitle:"ASP Stats Generator *.*" "ASP Stats Generator" "2003-2004 weppos"
+
+
+ASP Stats Generator is a powerful ASP script to track web site activity. It combines a server side sniffer with a javascript system to get information about clients who are visiting your site.

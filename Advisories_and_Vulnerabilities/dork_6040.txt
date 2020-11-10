@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6040
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-05-06
+Author:           Abhi Chitkara
+GoogleDork:       inurl:"wp-content/plugins/ninja-forms"
+Description:      inurl:"wp-content/plugins/ninja-forms"
+
+
+Dork: inurl:"wp-content/plugins/ninja-forms" Description: This Google dork lists out Advisories and Vulnerabilities about the ninja forms Plugin. Ref: https://wpvulndb.com/vulnerabilities/10200 Author: Abhi Chitkara 

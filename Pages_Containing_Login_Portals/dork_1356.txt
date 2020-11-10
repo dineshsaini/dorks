@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1356
+Category:         Pages Containing Login Portals
+Published Date:   2006-05-03
+Author:           anonymous
+GoogleDork:       (intitle:"rymo Login")|(intext:"Welcome to rymo") -family
+Description:      (intitle:"rymo Login")|(intext:"Welcome to rymo") -family
+
+
+"rymo is a small but reliable webmail gateway. It contacts a POP3-server for mail reading and uses the PHP-internal mail functions for mail sending."

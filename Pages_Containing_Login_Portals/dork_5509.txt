@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5509
+Category:         Pages Containing Login Portals
+Published Date:   2019-09-10
+Author:           Reza Abasi
+GoogleDork:       inurl:"/phpmyadmin/user_password.php" -inurl:git
+Description:      inurl:"/phpmyadmin/user_password.php" -inurl:git
+
+
+Login Portal:  inurl:"/phpmyadmin/user_password.php" -inurl:git site:*/phpmyadmin/sql.php  Reza Abasi(Turku) 

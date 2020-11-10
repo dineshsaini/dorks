@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2055
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:tr.php?id= Hosting
+Description:      inurl:tr.php?id= Hosting
+
+
+YourFreeWorld Classifieds Hosting (id) SQL Injection Vulnerability - CVE: 2008-4884: https://www.exploit-db.com/exploits/6948

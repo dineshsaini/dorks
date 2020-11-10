@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1220
+Category:         Advisories and Vulnerabilities
+Published Date:   2005-12-14
+Author:           anonymous
+GoogleDork:       "Site powered By Limbo CMS"
+Description:      "Site powered By Limbo CMS"
+
+
+this is the dork for Limbo Cms

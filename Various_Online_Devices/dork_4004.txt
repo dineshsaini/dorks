@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4004
+Category:         Various Online Devices
+Published Date:   2015-05-18
+Author:           anonymous
+GoogleDork:       inurl:upsstats.cgi?host
+Description:      inurl:upsstats.cgi?host
+
+
+UPS Online Devices. Enjoy!!!. By Rootkit.

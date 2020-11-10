@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3951
+Category:         Various Online Devices
+Published Date:   2014-05-19
+Author:           anonymous
+GoogleDork:       inurl:dfshealth.jsp
+Description:      inurl:dfshealth.jsp
+
+
+dork:inurl:dfshealth.jsp direct get the access of hadoop cluster with root user -- Simmant Yadav

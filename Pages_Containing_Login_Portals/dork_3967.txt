@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3967
+Category:         Pages Containing Login Portals
+Published Date:   2014-10-09
+Author:           anonymous
+GoogleDork:       intitle:FRITZ!Box inurl:login.lua
+Description:      intitle:FRITZ!Box inurl:login.lua
+
+
+Show open FritzBox-Router with intitle:FRITZ!Box inurl:login.lua

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1000
+Category:         Sensitive Online Shopping Info
+Published Date:   2005-06-03
+Author:           anonymous
+GoogleDork:       intext:"Powered by X-Cart: shopping cart software" -site:x-cart.com
+Description:      intext:"Powered by X-Cart: shopping cart software" -site:x-cart.com
+
+
+X-Cart (version 4.0.8) has multiple input validation vulnerabilities. There doesn't seem to be any way to search for specific versions of the software with Google. See http://www.securitytracker.com/alerts/2005/May/1014077.html for more information.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1269
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-03-06
+Author:           anonymous
+GoogleDork:       "Powered by Simplog"
+Description:      "Powered by Simplog"
+
+
+searches for simplog which has directory traversal and XSS velnerabilites in version

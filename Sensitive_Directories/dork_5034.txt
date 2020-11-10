@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5034
+Category:         Sensitive Directories
+Published Date:   2018-11-27
+Author:           Brain Reflow
+GoogleDork:       intitle:'index of' "error_log"
+Description:      intitle:'index of' "error_log"
+
+
+Find various Wordpress directories containing error logs.  intitle:'index of' "error_log"  Author : *.doc-TOR aka Brain Reflow https://twitter.com/The_d0c_T0R 

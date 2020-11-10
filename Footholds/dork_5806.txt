@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5806
+Category:         Footholds
+Published Date:   2020-03-18
+Author:           Debashis Pal
+GoogleDork:       intitle:("Mini Shell") AND intext:("Upload File")
+Description:      intitle:("Mini Shell") AND intext:("Upload File")
+
+
+# Dork #  intitle:("Mini Shell") AND intext:("Upload File")   Footholds for Mini Web Shell. 

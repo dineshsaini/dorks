@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3929
+Category:         Pages Containing Login Portals
+Published Date:   2014-02-05
+Author:           anonymous
+GoogleDork:       allinurl:"zimbra/?zinitmode=http" -google -github
+Description:      allinurl:"zimbra/?zinitmode=http" -google -github
+
+
+zimbra webmail login page lookup allinurl:"zimbra/?zinitmode=http" -google -github -- ----------------------------------------------------------------- *|JJohnny *RANDRIAMAMPIONONA | | Phone: (+261) 33 08 003 61 | | NSS Engineer | IS Security Enthusiast | | |----------------------------------------------------------------|

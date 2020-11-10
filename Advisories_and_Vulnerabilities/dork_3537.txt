@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3537
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Basado en Spirate"				
+Description:      "Basado en Spirate"				
+
+
+Small Pirate v-2.1 (XSS/SQL) Multiple Remote Vulnerabilities - CVE: 2009-4936: https://www.exploit-db.com/exploits/8819

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6208
+Category:         Files Containing Juicy Info
+Published Date:   2020-06-04
+Author:           Bhaskar Kumar
+GoogleDork:       "index of" "sshd_config"
+Description:      "index of" "sshd_config"
+
+
+# Google Dork: "index of" "sshd_config" # Title: Configuration files disclosure. # Date: 04/06/2020 # Author: Bhaskar Kumar 

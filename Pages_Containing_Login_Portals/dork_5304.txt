@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5304
+Category:         Pages Containing Login Portals
+Published Date:   2019-07-30
+Author:           Francis Al Victoriano
+GoogleDork:       inurl:/student/login.php
+Description:      inurl:/student/login.php
+
+
+# Exploit Title: Student login  # Google Dork: inurl:/student/login.php  # Author: Francis Al Victoriano 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1017
+Category:         Various Online Devices
+Published Date:   2005-06-08
+Author:           anonymous
+GoogleDork:       intitle:"GCC WebAdmin" -gcc.ru
+Description:      intitle:"GCC WebAdmin" -gcc.ru
+
+
+All sorts of various printer status information

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/260
+Category:         Files Containing Passwords
+Published Date:   2004-05-26
+Author:           anonymous
+GoogleDork:       signin filetype:url
+Description:      signin filetype:url
+
+
+Javascript for user validation is a bad idea as it shows cleartext user/pass combos. There is one googledork who forgot that.

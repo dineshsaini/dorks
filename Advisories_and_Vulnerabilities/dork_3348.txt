@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3348
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Power by:RichStrong CMS"
+Description:      "Power by:RichStrong CMS"
+
+
+RichStrong CMS (showproduct.asp cat) Remote SQL Injection - CVE: 2008-0291: https://www.exploit-db.com/exploits/4910

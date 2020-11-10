@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4425
+Category:         Files Containing Passwords
+Published Date:   2017-04-12
+Author:           Dxtroyer
+GoogleDork:       "INSERT INTO phpbb_users" ext:sql
+Description:      "INSERT INTO phpbb_users" ext:sql
+
+
+Finds files with usernames and hashed passwords!    Dxtroyer

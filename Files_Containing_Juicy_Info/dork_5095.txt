@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5095
+Category:         Files Containing Juicy Info
+Published Date:   2019-02-11
+Author:           Alisson Moretto
+GoogleDork:       intext:"Portador do CPF"
+Description:      intext:"Portador do CPF"
+
+
+Sensitive personal information.  Alisson Moretto undeadsec.com

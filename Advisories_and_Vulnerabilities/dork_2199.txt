@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2199
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:inc_paypalstoremanager.asp
+Description:      inurl:inc_paypalstoremanager.asp
+
+
+DMXReady PayPal Store Manager 1.1 Contents Change Vulnerability: https://www.exploit-db.com/exploits/7782

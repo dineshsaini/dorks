@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3757
+Category:         Vulnerable Servers
+Published Date:   2011-11-25
+Author:           anonymous
+GoogleDork:       filetype:php inurl:tiki-index.php +sirius +1.9.*
+Description:      filetype:php inurl:tiki-index.php +sirius +1.9.*
+
+
+Finds servers vulnerable to the CVE-2007-5423 exploit. Author: Matt Jones

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1908
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"index.php?id_menu="
+Description:      inurl:"index.php?id_menu="
+
+
+CMScontrol 7.x File Upload: https://www.exploit-db.com/exploits/11104

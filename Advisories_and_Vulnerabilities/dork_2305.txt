@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2305
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by GetMyOwnArcade"
+Description:      "Powered by GetMyOwnArcade"
+
+
+GetMyOwnArcade (search.php query) Remote SQL Injection Vulnerability - CVE: 2007-4386: https://www.exploit-db.com/exploits/4291

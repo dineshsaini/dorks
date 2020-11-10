@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/656
+Category:         Various Online Devices
+Published Date:   2004-11-07
+Author:           anonymous
+GoogleDork:       intitle:"Home" "Xerox Corporation" "Refresh Status"
+Description:      intitle:"Home" "Xerox Corporation" "Refresh Status"
+
+
+CentreWare Internet Services is an interactive service that uses Internet technology to extend the capabilities of your DocuPrint printer using Internet technology. An HTTP server application developed by Xerox is resident on your network-enabled DocuPrint printer. This HTTP server provides access to advanced services for the installation, configuration, and management of your DocuPrint printer.

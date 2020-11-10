@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4117
+Category:         Advisories and Vulnerabilities
+Published Date:   2015-11-10
+Author:           anonymous
+GoogleDork:       intitle:"Dashboard [Jenkins]" Credentials
+Description:      intitle:"Dashboard [Jenkins]" Credentials
+
+
+Find Jenkins websites which do not require authentication to possibly retrieve credentials and obtain remote command execution. Vulnerability: http://www.th3r3p0.com/vulns/jenkins/jenkinsVuln.html - Th3R3p0

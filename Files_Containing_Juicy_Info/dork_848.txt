@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/848
+Category:         Files Containing Juicy Info
+Published Date:   2005-01-27
+Author:           anonymous
+GoogleDork:       inurl:"bookmark.htm"
+Description:      inurl:"bookmark.htm"
+
+
+Bookmarks for Netscape and various other browsers.

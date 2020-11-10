@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/134
+Category:         Sensitive Directories
+Published Date:   2004-02-10
+Author:           anonymous
+GoogleDork:       intitle:"Index of c:\Windows"
+Description:      intitle:"Index of c:\Windows"
+
+
+These pages indicate that they are sharing the C:\WINDOWS directory, which is the system folder for many Windows installations.

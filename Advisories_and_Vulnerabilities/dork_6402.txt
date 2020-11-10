@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6402
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-07-14
+Author:           Abhi Chitkara
+GoogleDork:       inurl:wp-content/plugins/kingcomposer
+Description:      inurl:wp-content/plugins/kingcomposer
+
+
+Dork: inurl:wp-content/plugins/kingcomposer Description: This google dork lists out Advisories and Vulnerabilities regarding the kingcomposer wordpress plugin. Ref: https://wpvulndb.com/vulnerabilities/9265 Author: Abhi Chitkara 

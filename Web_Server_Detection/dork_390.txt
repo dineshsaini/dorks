@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/390
+Category:         Web Server Detection
+Published Date:   2004-07-29
+Author:           anonymous
+GoogleDork:       intitle:"Shoutcast Administrator"
+Description:      intitle:"Shoutcast Administrator"
+
+
+shoutcast is software for streaming mp3 and such. This search finds the administrator page. It can be used to detect unlisted Shoutcast servers.

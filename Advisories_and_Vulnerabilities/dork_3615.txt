@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3615
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-24
+Author:           anonymous
+GoogleDork:       inurl:"?act=phpinfo"
+Description:      inurl:"?act=phpinfo"
+
+
+Match some well known phpshells (c99 and ironwarez and the like).

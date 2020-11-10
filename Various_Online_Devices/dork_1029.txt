@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1029
+Category:         Various Online Devices
+Published Date:   2005-07-07
+Author:           anonymous
+GoogleDork:       tilt intitle:"Live View / - AXIS" | inurl:view/view.shtml
+Description:      tilt intitle:"Live View / - AXIS" | inurl:view/view.shtml
+
+
+A small modification to the AXIS camera search - it now returns cameras with pan / tilt, which is much more fun!

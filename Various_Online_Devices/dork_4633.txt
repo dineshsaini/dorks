@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4633
+Category:         Various Online Devices
+Published Date:   2017-12-07
+Author:           Dxtroyer
+GoogleDork:       inurl:"/websys/webArch/mainFrame.cgi" -hatana
+Description:      inurl:"/websys/webArch/mainFrame.cgi" -hatana
+
+
+Finds vulnerable printers  Dxtroyer 

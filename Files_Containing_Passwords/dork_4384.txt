@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4384
+Category:         Files Containing Passwords
+Published Date:   2017-01-19
+Author:           anonymous
+GoogleDork:       intitle:"index of/" CCCam.cfg
+Description:      intitle:"index of/" CCCam.cfg
+
+
+intitle:"index of/" CCCam.cfg Config file contains User and Passwords of CCCam Servers. Guillermo Gazón Innotec System - Security Researchs 

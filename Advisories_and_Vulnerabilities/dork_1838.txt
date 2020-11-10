@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1838
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Copyright Agares Media phpautovideo
+Description:      Copyright Agares Media phpautovideo
+
+
+phpAutoVideo CSRF Vulnerability - OSVDB-ID: 62450: https://www.exploit-db.com/exploits/11502

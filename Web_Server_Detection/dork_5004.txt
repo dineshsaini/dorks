@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5004
+Category:         Web Server Detection
+Published Date:   2018-10-31
+Author:           CrimsonTorso
+GoogleDork:       "This server is operated by OpenX."
+Description:      "This server is operated by OpenX."
+
+
+Find websites using the OpenX web server software. ~ CrimsonTorso 

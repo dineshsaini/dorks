@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2431
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:com_gamesbox
+Description:      inurl:com_gamesbox
+
+
+Joomla Component Gamesbox com_gamesbox 1.0.2 (id) SQL Injection Vulnerability - CVE: 2010-2690: https://www.exploit-db.com/exploits/14126

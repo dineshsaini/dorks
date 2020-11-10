@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5940
+Category:         Various Online Devices
+Published Date:   2020-04-22
+Author:           Alexandros Pappas
+GoogleDork:       inurl:8080/dashboard.php
+Description:      inurl:8080/dashboard.php
+
+
+# Google Dork: inurl:8080/dashboard.php  # Zabbix Dashboards.  # Date: 22/04/2020  # Author: Alexandros Pappas 

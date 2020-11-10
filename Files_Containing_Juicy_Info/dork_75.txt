@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/75
+Category:         Files Containing Juicy Info
+Published Date:   2004-03-04
+Author:           anonymous
+GoogleDork:       ipsec.secrets
+Description:      ipsec.secrets
+
+
+from the manpage for ipsec_secrets: "It is vital that these secrets be protected. The file should be owned by the super-user, and its permissions should be set to block all access by others." So let's make it plain: DO NOT SHOW THIS FILE TO ANYONE! Googledorks rejoice, these files are on the web!

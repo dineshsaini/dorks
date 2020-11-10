@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4304
+Category:         Files Containing Juicy Info
+Published Date:   2016-07-01
+Author:           anonymous
+GoogleDork:       intext:"/LM/W3SVC/" ext:asp
+Description:      intext:"/LM/W3SVC/" ext:asp
+
+
+intext:"/LM/W3SVC/" ext:asp ServerVariables that give information. -Xploit 

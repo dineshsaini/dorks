@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1292
+Category:         Various Online Devices
+Published Date:   2006-03-21
+Author:           anonymous
+GoogleDork:       intitle:"Edr1680 remote viewer"
+Description:      intitle:"Edr1680 remote viewer"
+
+
+This search finds the 1680 series digital video recorder from EverFocus.

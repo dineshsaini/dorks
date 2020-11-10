@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4944
+Category:         Files Containing Juicy Info
+Published Date:   2018-09-11
+Author:           ManhNho
+GoogleDork:       inurl:/wp-json/wp/v2/users/ "id":1,"name":" -wordpress.stackexchange.com -stackoverflow.com
+Description:      inurl:/wp-json/wp/v2/users/ "id":1,"name":" -wordpress.stackexchange.com -stackoverflow.com
+
+
+Category: Vulnerable file Misconfiguration attack to get information of wordpress users ManhNho 

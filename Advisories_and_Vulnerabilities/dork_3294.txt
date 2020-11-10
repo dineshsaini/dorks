@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3294
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Copyright 1999-2010 Rocksalt International Pty Ltd. All rights reserved
+Description:      Copyright 1999-2010 Rocksalt International Pty Ltd. All rights reserved
+
+
+VP-ASP Shopping Cart 7.0 DB Download Vulnerability: https://www.exploit-db.com/exploits/11018

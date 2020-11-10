@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5836
+Category:         Various Online Devices
+Published Date:   2020-03-27
+Author:           Nicholas Doropoulos
+GoogleDork:       intext:"EWS Data Collection and Use"
+Description:      intext:"EWS Data Collection and Use"
+
+
+Category: Various Online Devices  Nicholas Doropoulos 

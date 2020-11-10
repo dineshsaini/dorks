@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1426
+Category:         Files Containing Juicy Info
+Published Date:   2010-11-10
+Author:           anonymous
+GoogleDork:       filetype:reg reg HKEY_CURRENT_USER SSHHOSTKEYS
+Description:      filetype:reg reg HKEY_CURRENT_USER SSHHOSTKEYS
+
+
+This search locates private SSHHostkeys. Author: loganWHD

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3893
+Category:         Files Containing Juicy Info
+Published Date:   2013-09-24
+Author:           anonymous
+GoogleDork:       intitle:index.of intext:.ssh
+Description:      intitle:index.of intext:.ssh
+
+
+Find peoples ssh public and private keys - tmc / #havok

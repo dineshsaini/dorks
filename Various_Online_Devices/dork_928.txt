@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/928
+Category:         Various Online Devices
+Published Date:   2005-04-12
+Author:           anonymous
+GoogleDork:       inurl:/en/help.cgi "ID=*"
+Description:      inurl:/en/help.cgi "ID=*"
+
+
+Aficio printers (this search locates the help pages)

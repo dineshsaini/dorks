@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6344
+Category:         Various Online Devices
+Published Date:   2020-06-30
+Author:           Prasad Lingamaiah
+GoogleDork:       inurl:/sws/index.html
+Description:      inurl:/sws/index.html
+
+
+Dorks: inurl:/sws/index.html Category: Sensitive Information Summary: A Google dork that gives information about Samsung Printer. 

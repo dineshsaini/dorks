@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1187
+Category:         Pages Containing Login Portals
+Published Date:   2005-11-13
+Author:           anonymous
+GoogleDork:       "Powered by Merak Mail Server Software" -.gov -.mil -.edu -site:merakmailserver.com -johnny.ihackstuff
+Description:      "Powered by Merak Mail Server Software" -.gov -.mil -.edu -site:merakmailserver.com -johnny.ihackstuff
+
+
+Webmail login portals for Merak Email ServerMerak Email Server Suite consists of multiple awards winner Merak Email Server core and optional components:* Email Server for Windows or Linux* Anti-Spam Protection* Anti-Virus Protection* Integrated WebMail Access* Instant Messaging* GroupWare

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3631
+Category:         Files Containing Juicy Info
+Published Date:   2010-12-07
+Author:           anonymous
+GoogleDork:       inurl:configuration.php-dist
+Description:      inurl:configuration.php-dist
+
+
+locates the default configuration file of JOOMLA Author: ScOrPiOn

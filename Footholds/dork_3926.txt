@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3926
+Category:         Footholds
+Published Date:   2014-01-03
+Author:           anonymous
+GoogleDork:       intitle:"=[ 1n73ct10n privat shell ]="
+Description:      intitle:"=[ 1n73ct10n privat shell ]="
+
+
+the dork is used to find uploaded 1n73ct10n Shell on website. found by Anon?M ID

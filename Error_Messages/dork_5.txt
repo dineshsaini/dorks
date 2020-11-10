@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5
+Category:         Error Messages
+Published Date:   2003-06-24
+Author:           anonymous
+GoogleDork:       Coldfusion Error Pages
+Description:      Coldfusion Error Pages
+
+
+These aren't too horribly bad, but there are SO MANY of them. These sites got googlebotted while the site was having "technical difficulties." The resulting cached error message gives lots of juicy tidbits about the target site.

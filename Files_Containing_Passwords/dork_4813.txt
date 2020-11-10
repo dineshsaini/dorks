@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4813
+Category:         Files Containing Passwords
+Published Date:   2018-05-10
+Author:           Dec0y
+GoogleDork:       site:trello.com intext:mysql AND intext:password -site:developers.trello.com -site:help.trello.com
+Description:      site:trello.com intext:mysql AND intext:password -site:developers.trello.com -site:help.trello.com
+
+
+Public Trello Boards with Juicy Stuff  site:trello.com intext:mysql AND intext:password -site:developers.trello.com -site:help.trello.com  Dec0y 

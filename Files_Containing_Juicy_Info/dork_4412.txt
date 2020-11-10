@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4412
+Category:         Files Containing Juicy Info
+Published Date:   2017-03-27
+Author:           anonymous
+GoogleDork:       inurl:"/attachment/" ext:log
+Description:      inurl:"/attachment/" ext:log
+
+
+Finds web application logs that have LOTS of info ;) Dxtroyer

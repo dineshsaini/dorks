@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2182
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:inc_newsmanager.asp
+Description:      inurl:inc_newsmanager.asp
+
+
+DMXReady News Manager 1.1 Arbitrary Category Change Vuln: https://www.exploit-db.com/exploits/7752

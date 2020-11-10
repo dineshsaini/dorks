@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6598
+Category:         Sensitive Directories
+Published Date:   2020-10-07
+Author:           Virendra Tiwari
+GoogleDork:       "index of" "mysql.sh"
+Description:      "index of" "mysql.sh"
+
+
+# Title: Sensitive Data Exposure # Google Dork: "index of" "mysql.sh" # Date: 2020-09-14  # Author: Virendra Tiwari # LinkedIn: https://www.linkedin.com/in/virendratiwari/ 

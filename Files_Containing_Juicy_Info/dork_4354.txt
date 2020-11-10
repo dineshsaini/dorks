@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4354
+Category:         Files Containing Juicy Info
+Published Date:   2016-11-18
+Author:           anonymous
+GoogleDork:       inurl:ManageFilters.jspa?filterView=popular
+Description:      inurl:ManageFilters.jspa?filterView=popular
+
+
+*Summary:* A Google dork that gives popular JIRA issue topics, related JIRA usernames and JIRA queries. *Dork discovered by:* Cenk Kalpakoglu Goktug Serez https://endpoint-labs.com

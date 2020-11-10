@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3645
+Category:         Files Containing Juicy Info
+Published Date:   2010-12-13
+Author:           anonymous
+GoogleDork:       allinurl:/xampp/security.php
+Description:      allinurl:/xampp/security.php
+
+
+XAMPP Security Setting Page Information Disclosure. Author: modpr0be

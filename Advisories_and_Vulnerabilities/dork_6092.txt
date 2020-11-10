@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6092
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-05-18
+Author:           Abhi Chitkara
+GoogleDork:       inurl:wp-content/plugins/wp-product-review
+Description:      inurl:wp-content/plugins/wp-product-review
+
+
+Dork: inurl:wp-content/plugins/wp-product-review Description: This google dork lists out Advisories and Vulnerabilities regarding the wp product review wordpress plugin. Ref: https://wpvulndb.com/vulnerabilities/10226 Author: Abhi Chitkara 

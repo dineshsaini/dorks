@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2282
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:/webCal3_detail.asp?event_id=
+Description:      inurl:/webCal3_detail.asp?event_id=
+
+
+WebCal (webCal3_detail.asp event_id) SQL Injection Vulnerability - CVE: 2009-1945: https://www.exploit-db.com/exploits/8857

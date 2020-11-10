@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4245
+Category:         Advisories and Vulnerabilities
+Published Date:   2016-03-28
+Author:           anonymous
+GoogleDork:       inurl:".asp?strParents="
+Description:      inurl:".asp?strParents="
+
+
+Author: Charley Celice (@charleycelice) 99% of sites I found using this dork are vulnerable to XSS attacks. The "strParents" parameter seems to always be injectable. Example: https://example/whatever.asp?strParents= "/&gt;&amp;CAT_ID=1337&amp;whatever=1337&amp;etc... -stmerry

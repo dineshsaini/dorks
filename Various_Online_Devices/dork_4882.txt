@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4882
+Category:         Various Online Devices
+Published Date:   2018-07-03
+Author:           Gerard Fuguet
+GoogleDork:       (intitle:"plexpy - home" OR "intitle:tautulli - home") AND intext:"libraries"
+Description:      (intitle:"plexpy - home" OR "intitle:tautulli - home") AND intext:"libraries"
+
+
+Helps to locate unprotected (no user/password needed) Tautulli servers. Tautulli (Formerly PlexPy) is a 3rd party application for monitoring the activity and tracks various statistics of a Plex Media Server. More info: (https://tautulli.com)  Gerard Fuguet (gerard@fuguet.cat)

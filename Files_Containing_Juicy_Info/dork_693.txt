@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/693
+Category:         Files Containing Juicy Info
+Published Date:   2004-11-18
+Author:           anonymous
+GoogleDork:       intitle:"PhpMyExplorer" inurl:"index.php" -cvs
+Description:      intitle:"PhpMyExplorer" inurl:"index.php" -cvs
+
+
+PhpMyExplorer is a PHP application that allows you to easily update your site online without any FTP access. A security vulnerability in the product allows attackers to view and read files that reside outside the normal bound directory.

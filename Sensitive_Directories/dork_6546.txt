@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6546
+Category:         Sensitive Directories
+Published Date:   2020-09-17
+Author:           Sahil Saxena
+GoogleDork:       "index of" "performance_schema"
+Description:      "index of" "performance_schema"
+
+
+# Google Dork: "index of" "performance_schema" # Description :- Disclosure of sensitive files. # Date: 17/09/2020 # Author: Sahil Saxena # LinkedIn: https://www.linkedin.com/in/sahil-saxena-1333b9174  Thanks, Sahil Saxena 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3463
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Help * Contact * Imprint * Sitemap" | "powered by papoo" | "powered by cms papoo"
+Description:      "Help * Contact * Imprint * Sitemap" | "powered by papoo" | "powered by cms papoo"
+
+
+Papoo 3.02 (kontakt menuid) Remote SQL Injection - CVE: 2007-2320: https://www.exploit-db.com/exploits/3739

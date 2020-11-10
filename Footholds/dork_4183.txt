@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4183
+Category:         Footholds
+Published Date:   2016-01-14
+Author:           anonymous
+GoogleDork:       inurl:revslider inurl:temp inurl:update_extract inurl:sym1
+Description:      inurl:revslider inurl:temp inurl:update_extract inurl:sym1
+
+
+Symlinks to files using the revslider vulnerability. -- Stephen Haywood Owner: ASG Consulting averagesecurityguy.info

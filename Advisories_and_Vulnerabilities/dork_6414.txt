@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6414
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-07-16
+Author:           Abhi Chitkara
+GoogleDork:       inurl:wp-content/plugins/sendpress
+Description:      inurl:wp-content/plugins/sendpress
+
+
+Dork: inurl:wp-content/plugins/sendpress Description: This google dork lists out Advisories and Vulnerabilities regarding the sendpress wordpress plugin. Ref: https://wpvulndb.com/vulnerabilities/10317 Author: Abhi Chitkara 

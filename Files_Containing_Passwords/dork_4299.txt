@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4299
+Category:         Files Containing Passwords
+Published Date:   2016-06-10
+Author:           anonymous
+GoogleDork:       site:github.com ext:csv userid | username | user -example password
+Description:      site:github.com ext:csv userid | username | user -example password
+
+
+Whoops. site:github.com ext:csv userid | username | user -example password Decoy

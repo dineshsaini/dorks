@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6624
+Category:         Pages Containing Login Portals
+Published Date:   2020-10-20
+Author:           idealphase
+GoogleDork:       intitle:"SiteOmat Loader"
+Description:      intitle:"SiteOmat Loader"
+
+
+# Exploit Title: Orpak SiteOmat login portals  # Google Dork: intitle:"SiteOmat Loader" # Author: Kitchaphan Singchai (idealphase) 

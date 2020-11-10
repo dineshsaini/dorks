@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5948
+Category:         Various Online Devices
+Published Date:   2020-04-27
+Author:           Nicholas Doropoulos
+GoogleDork:       intitle:"Internet Services" inurl:default.htm intext:"FUJI XEROX"
+Description:      intitle:"Internet Services" inurl:default.htm intext:"FUJI XEROX"
+
+
+Category: Various Online Devices Nicholas Doropoulos

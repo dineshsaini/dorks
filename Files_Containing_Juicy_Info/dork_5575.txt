@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5575
+Category:         Files Containing Juicy Info
+Published Date:   2019-10-18
+Author:           Maxime Westhoven
+GoogleDork:       inurl:"/.vscode/sftp.json"
+Description:      inurl:"/.vscode/sftp.json"
+
+
+inurl:"/.vscode/sftp.json"  --  Maxime Westhoven 

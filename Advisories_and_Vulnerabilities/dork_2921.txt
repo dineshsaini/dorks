@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2921
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by: deonixscripts.com
+Description:      Powered by: deonixscripts.com
+
+
+Web Template Management System 1.3 Remote SQL Injection - CVE: 2007-5233: https://www.exploit-db.com/exploits/4482

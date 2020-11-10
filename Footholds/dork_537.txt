@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/537
+Category:         Footholds
+Published Date:   2004-10-09
+Author:           anonymous
+GoogleDork:       intitle:"Web Data Administrator - Login"
+Description:      intitle:"Web Data Administrator - Login"
+
+
+The Web Data Administrator is a utility program implemented in ASP.NET that enables you to easily manage your SQL Server data wherever you are. Using its built-in features, you can do the following from Internet Explorer or your favorite Web browser. Create and edit databases in Microsoft SQL Server 2000 or Microsoft SQL Server 2000 Desktop Engine (MSDE) Perform ad-hoc queries against databases and save them to your file system Export and import database schema and data.

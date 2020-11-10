@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4531
+Category:         Sensitive Directories
+Published Date:   2017-06-19
+Author:           anonymous
+GoogleDork:       -inurl:htm -inurl:html intitle:"index of" 100CANON
+Description:      -inurl:htm -inurl:html intitle:"index of" 100CANON
+
+
+Explore the Images and photos uploaded and saved in Directories from Canon DSLRs and Camera @Reveal2Maviya #Reveal2Maviya "-inurl:htm -inurl:html intitle:"index of" 100CANON" 

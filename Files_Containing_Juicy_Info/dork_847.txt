@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/847
+Category:         Files Containing Juicy Info
+Published Date:   2005-01-27
+Author:           anonymous
+GoogleDork:       inurl:netscape.hst
+Description:      inurl:netscape.hst
+
+
+Netscape Bookmark List/History: So an attacker would be able to locate the bookmark and history list

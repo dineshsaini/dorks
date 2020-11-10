@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4574
+Category:         Various Online Devices
+Published Date:   2017-08-14
+Author:           anonymous
+GoogleDork:       inurl:"img/main.cgi?next_file"
+Description:      inurl:"img/main.cgi?next_file"
+
+
+Dork that allows us to find online cameras, be it security, webcams, etc. inurl:"img/main.cgi?next_file" Drok3r [ RedTheam - NATASteam ]

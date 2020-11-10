@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1117
+Category:         Advisories and Vulnerabilities
+Published Date:   2005-09-17
+Author:           anonymous
+GoogleDork:       "Powered by PHP Advanced Transfer Manager"
+Description:      "Powered by PHP Advanced Transfer Manager"
+
+
+PHP Advanced Transfer Manager v1.30 underlying system disclosure / remote command execution / cross site scriptingrgodsite: http://rgod.altervista.orgmail: retrogod at aliceposta it

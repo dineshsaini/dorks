@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5233
+Category:         Files Containing Juicy Info
+Published Date:   2019-05-31
+Author:           acc3ssp0int
+GoogleDork:       s3 site:amazonaws.com filetype:xls login
+Description:      s3 site:amazonaws.com filetype:xls login
+
+
+Excel files containing sensitive personal information stored on AWS S3 buckets  *Google Dork*  s3 site:amazonaws.com filetype:xls login  *Dates: 30*-05-2019  *Dork Author:* acc3ssp0int  *Tested on:* any OS with a functioning browser running Google.com

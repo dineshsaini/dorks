@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4240
+Category:         Pages Containing Login Portals
+Published Date:   2016-03-23
+Author:           anonymous
+GoogleDork:       intitle:"VOOD - Welcome to Vood Residential Gateway &gt;Login"
+Description:      intitle:"VOOD - Welcome to Vood Residential Gateway &gt;Login"
+
+
+Multiple VOOD Online Gateways! Author: Augusto Pereira http://www.augustopereira.com.br 

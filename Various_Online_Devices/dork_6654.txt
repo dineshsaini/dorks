@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6654
+Category:         Various Online Devices
+Published Date:   2020-11-06
+Author:           Sanu Jose M
+GoogleDork:       inurl:/homej.html?
+Description:      inurl:/homej.html?
+
+
+#Exploit Title : Various online devices #Google Dork : inurl:/homej.html? #Date : 06/11/2020 #Exploit Author : Sanu Jose M  Thanks &amp; Regards, Sanu Jose M 

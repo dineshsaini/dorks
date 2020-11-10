@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2757
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Multi-Page Comment System"
+Description:      "Multi-Page Comment System"
+
+
+Multi-Page Comment System 1.1.0 Insecure Cookie Handling Vulnerability - CVE: 2008-2293: https://www.exploit-db.com/exploits/5630

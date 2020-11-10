@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5358
+Category:         Various Online Devices
+Published Date:   2019-08-15
+Author:           Reza Abasi
+GoogleDork:       inurl:ftp://ftp
+Description:      inurl:ftp://ftp
+
+
+Detecting ftp sites:  inurl:ftp://ftp  Reza Abasi(Turku) 

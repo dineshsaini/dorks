@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1986
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allinurl: "modules MyAnnonces index php pa view"
+Description:      allinurl: "modules MyAnnonces index php pa view"
+
+
+RunCMS Module MyAnnonces (cid) SQL Injection Vulnerability - CVE: 2008-0878: https://www.exploit-db.com/exploits/5156

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5562
+Category:         Pages Containing Login Portals
+Published Date:   2019-10-01
+Author:           Reza Abasi
+GoogleDork:       site:*/request-password-reset
+Description:      site:*/request-password-reset
+
+
+Login Portals:  site:*/request-password-reset  Reza Abasi(Turku) 

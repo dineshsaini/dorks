@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1154
+Category:         Various Online Devices
+Published Date:   2005-09-29
+Author:           anonymous
+GoogleDork:       intitle:"Biromsoft WebCam" -4.0 -serial -ask -crack -software -a -the -build -download -v4 -3.01 -numrange:1-10000
+Description:      intitle:"Biromsoft WebCam" -4.0 -serial -ask -crack -software -a -the -build -download -v4 -3.01 -numrange:1-10000
+
+
+Brimsoft webcam software enables anyone with a webcam to easily create a webcam http server. This googledork looks for these webcam servers.

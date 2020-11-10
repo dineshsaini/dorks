@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4483
+Category:         Files Containing Passwords
+Published Date:   2017-05-12
+Author:           anonymous
+GoogleDork:       "FileZilla" inurl:"recentservers.xml" -git
+Description:      "FileZilla" inurl:"recentservers.xml" -git
+
+
+Finds FileZilla recent server files with plain text usernames/passwords Dxtroyer

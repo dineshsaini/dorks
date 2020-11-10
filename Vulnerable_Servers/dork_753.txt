@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/753
+Category:         Vulnerable Servers
+Published Date:   2004-12-04
+Author:           anonymous
+GoogleDork:       intitle:"Mail Server CMailServer Webmail" "5.2"
+Description:      intitle:"Mail Server CMailServer Webmail" "5.2"
+
+
+CMailServer is a small mail webmail server. Multiple vulnerabilities were found, including buffer overflow, SQL Injection and XXS.http://www.securiteam.com/windowsntfocus/6E00M2KBPS.html

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3633
+Category:         Vulnerable Servers
+Published Date:   2010-12-07
+Author:           anonymous
+GoogleDork:       "[ phpinfo ] [ php.ini ] [ cpu ] [ mem ] [ users ] [ tmp ] [ delete ]"
+Description:      "[ phpinfo ] [ php.ini ] [ cpu ] [ mem ] [ users ] [ tmp ] [ delete ]"
+
+
+Locates r57 web shells Author: ScOrPiOn

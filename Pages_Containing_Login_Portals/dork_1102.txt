@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1102
+Category:         Pages Containing Login Portals
+Published Date:   2005-09-13
+Author:           anonymous
+GoogleDork:       intitle:"Content Management System" "user name"|"password"|"admin" "Microsoft IE 5.5" -mambo -johnny.ihackstuff
+Description:      intitle:"Content Management System" "user name"|"password"|"admin" "Microsoft IE 5.5" -mambo -johnny.ihackstuff
+
+
+iCMS - Content Management System...Create dynamic interactive websites in minutes without knowing HTML or web programming. iCMS is a perfect balance of ease of use, flexibility, and power. If you are a Web Developer, you can dramatically decrease your Website development time, decrease your costs and deliver a product that will yield higher profits with less maintenance required!Dont think there are any vulns attached to this

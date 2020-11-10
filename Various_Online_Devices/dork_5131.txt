@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5131
+Category:         Various Online Devices
+Published Date:   2019-02-20
+Author:           Kevin Randall
+GoogleDork:       allinurl:asdm.jnlp
+Description:      allinurl:asdm.jnlp
+
+
+Find Cisco ASDM Appliance:   allinurl:asdm.jnlp   Discovered By: Kevin Randall 

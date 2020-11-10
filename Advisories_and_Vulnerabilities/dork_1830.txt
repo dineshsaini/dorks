@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1830
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by beamospetition 1.0.12"
+Description:      "Powered by beamospetition 1.0.12"
+
+
+Joomla Component beamospetition 1.0.12 SQL Injection / XSS - CVE: 2009-0378: https://www.exploit-db.com/exploits/7847

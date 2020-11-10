@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3133
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by GGCMS"
+Description:      "Powered by GGCMS"
+
+
+GGCMS 1.1.0 RC1 Remote Code Execution - CVE: 2007-0804: https://www.exploit-db.com/exploits/3271

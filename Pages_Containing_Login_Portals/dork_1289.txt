@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1289
+Category:         Pages Containing Login Portals
+Published Date:   2006-03-21
+Author:           anonymous
+GoogleDork:       "Web-Based Management" "Please input password to login" -inurl:johnny.ihackstuff.com
+Description:      "Web-Based Management" "Please input password to login" -inurl:johnny.ihackstuff.com
+
+
+This dork finds firewall/vpn products from fiber logic. They only require a one-factor authentication.

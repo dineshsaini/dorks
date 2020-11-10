@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5772
+Category:         Files Containing Juicy Info
+Published Date:   2020-03-05
+Author:           Reza Abasi
+GoogleDork:       intitle:"index of" "php.ini"
+Description:      intitle:"index of" "php.ini"
+
+
+Files Containing Juicy info:  intitle:"index of" "php.ini"  Reza Abasi(Turku) 

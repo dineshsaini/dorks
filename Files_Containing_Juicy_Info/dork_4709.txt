@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4709
+Category:         Files Containing Juicy Info
+Published Date:   2018-03-26
+Author:           vocuzi
+GoogleDork:       intitle:"index of" intext:"pip-selfcheck.json"
+Description:      intitle:"index of" intext:"pip-selfcheck.json"
+
+
+Description : Python virtual environment indexes.  Dork : intitle:"index of" intext:"pip-selfcheck.json"  Author: Vipin Joshi ( @vocuzi ) 

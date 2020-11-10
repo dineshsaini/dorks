@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1734
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:flashblog.html OR inurl:/flashblog/
+Description:      inurl:flashblog.html OR inurl:/flashblog/
+
+
+FlashBlog 0.31b Remote Arbitrary File Upload Vulnerability - CVE: 2008-2574: https://www.exploit-db.com/exploits/5728

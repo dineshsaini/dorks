@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1315
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-03-28
+Author:           anonymous
+GoogleDork:       intext:"powered by gcards" -ihackstuff -exploit
+Description:      intext:"powered by gcards" -ihackstuff -exploit
+
+
+this is for gcards

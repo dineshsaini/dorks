@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/943
+Category:         Error Messages
+Published Date:   2005-04-26
+Author:           anonymous
+GoogleDork:       "Parse error: parse error, unexpected T_VARIABLE" "on line" filetype:php
+Description:      "Parse error: parse error, unexpected T_VARIABLE" "on line" filetype:php
+
+
+PHP error with a full web root path disclosure

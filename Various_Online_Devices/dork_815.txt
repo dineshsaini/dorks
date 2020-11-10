@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/815
+Category:         Various Online Devices
+Published Date:   2005-01-12
+Author:           anonymous
+GoogleDork:       intitle:"Network Print Server" filetype:shtm ( inurl:u_printjobs | inurl:u_server | inurl:a_server | inurl:u_generalhelp | u_printjobs )
+Description:      intitle:"Network Print Server" filetype:shtm ( inurl:u_printjobs | inurl:u_server | inurl:a_server | inurl:u_generalhelp | u_printjobs )
+
+
+Axis Network Print Server devices. This search has all the possible urls (more than strictly needed), but those are added in case Google decides to index them in the future.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4767
+Category:         Files Containing Juicy Info
+Published Date:   2018-04-12
+Author:           Bruno Schmid
+GoogleDork:       intitle:"index.of.virtualbox" -mirror -mirrors -public -ubuntu.com -edu -pub
+Description:      intitle:"index.of.virtualbox" -mirror -mirrors -public -ubuntu.com -edu -pub
+
+
+Dorks containing full working Virtual machines images.  Also try: intitle:"index.of.vmware" -mirror -mirrors -public -ubuntu.com -edu -keygen -bitdowload for some VMWare Virtual machines.   Bruno Schmid  

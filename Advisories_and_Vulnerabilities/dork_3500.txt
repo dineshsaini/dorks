@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3500
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "is proudly powered by WordPress"
+Description:      "is proudly powered by WordPress"
+
+
+Wordpress 2.0.6 wp-trackback.php Remote SQL Injection - CVE: 2007-0233: https://www.exploit-db.com/exploits/3109

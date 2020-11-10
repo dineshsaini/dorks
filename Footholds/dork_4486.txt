@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4486
+Category:         Footholds
+Published Date:   2017-05-15
+Author:           anonymous
+GoogleDork:       intitle:index of intext:wncry
+Description:      intitle:index of intext:wncry
+
+
+Dork to find servers affected by Wannacry Ransomware. Author https://twitter.com/SadFud75

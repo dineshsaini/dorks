@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6067
+Category:         Files Containing Juicy Info
+Published Date:   2020-05-08
+Author:           Abhi Chitkara
+GoogleDork:       intitle:"index of" "cassandra-yaml"
+Description:      intitle:"index of" "cassandra-yaml"
+
+
+Dork: intitle:"index of" "cassandra-yaml" Description: This Google dork lists out sensitive data for the cassandra dbms on a web server Author: Abhi Chitkara 

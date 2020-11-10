@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5419
+Category:         Sensitive Directories
+Published Date:   2019-08-21
+Author:           Nanda Krishna
+GoogleDork:       intitle:index.of.?.mysql
+Description:      intitle:index.of.?.mysql
+
+
+Google Dork: intitle:index.of.?.mysql  Category: Sensitive Directories  Description: Used to find sensitive .mysql files  

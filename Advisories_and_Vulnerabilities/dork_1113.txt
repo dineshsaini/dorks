@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1113
+Category:         Advisories and Vulnerabilities
+Published Date:   2005-09-15
+Author:           anonymous
+GoogleDork:       "Copyright 2004 Ãƒâ€šÃ‚Â© Digital Scribe v.1.4"
+Description:      "Copyright 2004 Ãƒâ€šÃ‚Â© Digital Scribe v.1.4"
+
+
+Digital Scribe v1.4 Login Bypass / SQL injection / remote code executionsoftware site: http://www.digital-scribe.org/description: "Teachers have full control through a web-based interface. Designedfor easy installation and even easier use, the Digital Scribe has been used in thousands of schools. No teacher or IT Personnel needs to know any computer languages in order to install and use this intuitive system.rgodsite: http://rgod.altervista.orgemail: retrogod at aliceposta it

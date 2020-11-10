@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4440
+Category:         Files Containing Juicy Info
+Published Date:   2017-04-17
+Author:           anonymous
+GoogleDork:       inurl:"mail" ext:mai
+Description:      inurl:"mail" ext:mai
+
+
+Finds private (so to speak) emails sent from servers Dxtroyer

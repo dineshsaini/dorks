@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1424
+Category:         Various Online Devices
+Published Date:   2010-11-10
+Author:           anonymous
+GoogleDork:       intitle:"EvoCam" inurl:"webcam.html"
+Description:      intitle:"EvoCam" inurl:"webcam.html"
+
+
+This search identifies EvoCam cameras accessible over the Internet. There are also public exploits that target these cameras: https://www.exploit-db.com/search/?action=search&amp;filter_page=1&amp;filter_description=evocam&amp;filter_exploit_text=&amp;filter_author=&amp;filter_platform=0&amp;filter_type=0&amp;filter_lang_id=0&amp;filter_port=&amp;filter_osvdb=&amp;filter_cve=    Author: Airloom

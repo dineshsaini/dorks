@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4212
+Category:         Pages Containing Login Portals
+Published Date:   2016-03-10
+Author:           anonymous
+GoogleDork:       inurl:"8000" inurl:"login"
+Description:      inurl:"8000" inurl:"login"
+
+
+Login forms. Mostly ftp. Google dork: inurl:"8000" inurl:"login" D0bby

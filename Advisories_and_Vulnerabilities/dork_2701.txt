@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2701
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "DeeEmm CMS"
+Description:      "DeeEmm CMS"
+
+
+DeeEmm CMS (DMCMS) 0.7.4 Multiple Remote Vulnerabilities - CVE: 2008-3721: https://www.exploit-db.com/exploits/6250

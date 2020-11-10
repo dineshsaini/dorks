@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1089
+Category:         Pages Containing Login Portals
+Published Date:   2005-08-30
+Author:           anonymous
+GoogleDork:       "Please authenticate yourself to get access to the management interface"
+Description:      "Please authenticate yourself to get access to the management interface"
+
+
+Photo gallery managment system login

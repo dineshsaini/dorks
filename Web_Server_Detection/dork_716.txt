@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/716
+Category:         Web Server Detection
+Published Date:   2004-11-28
+Author:           anonymous
+GoogleDork:       intitle:"Welcome To Xitami" -site:xitami.com
+Description:      intitle:"Welcome To Xitami" -site:xitami.com
+
+
+Default Xitami installationAdditionally every default installation of Xitami webserver has a testscript which provides a lot of information about the server.It can be run by entering the following urlhttp://server/cgialias/testcgi.exe(cgialias = is usually /cgi-bin/)

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/547
+Category:         Advisories and Vulnerabilities
+Published Date:   2004-10-10
+Author:           anonymous
+GoogleDork:       "Online Store - Powered by ProductCart"
+Description:      "Online Store - Powered by ProductCart"
+
+
+ProductCart is "an ASP shopping cart that combines sophisticated ecommerce features with time-saving store management tools and remarkable ease of use. It is widely used by many e-commerce sites". Multiple SQL injection vulnerabilities have been found in the product, they allow anything from gaining administrative privileges (bypassing the authentication mechanism), to executing arbitrary code. http://www.securityfocus.com/bid/8105 (search SF for more)

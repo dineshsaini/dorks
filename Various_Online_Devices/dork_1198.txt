@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1198
+Category:         Various Online Devices
+Published Date:   2005-11-16
+Author:           anonymous
+GoogleDork:       intitle:"Iomega NAS Manager" -ihackstuff.com
+Description:      intitle:"Iomega NAS Manager" -ihackstuff.com
+
+
+Login page dork for Iomega NAS Manager.. There's only 1 result for it now, but this could change in the future.

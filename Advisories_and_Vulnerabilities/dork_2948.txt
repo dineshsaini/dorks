@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2948
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intext:"© Tainos Webdesign"
+Description:      intext:"© Tainos Webdesign"
+
+
+Tainos Webdesign (All Scripts) SQL/XSS/HTML Injection Vulnerability: https://www.exploit-db.com/exploits/12631

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4281
+Category:         Vulnerable Files
+Published Date:   2016-05-12
+Author:           anonymous
+GoogleDork:       inurl:demo.browse.php intitle:getid3
+Description:      inurl:demo.browse.php intitle:getid3
+
+
+The getID3 demo can allow directory traversal, deleting files, etc. https://github.com/JamesHeinrich/getID3/blob/master/demos/demo.browse.php Sean Murphy / Senior Developer / Wordfence 4948 DD81 CF99 3510 DFF0 44A6 A6D8 401E D683 98F5 

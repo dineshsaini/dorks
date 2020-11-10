@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3182
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by TeamCal Pro
+Description:      Powered by TeamCal Pro
+
+
+TeamCalPro 3.1.000 Multiple Remote/Local File Inclusion Vulnerabilities - CVE: 2007-6553: https://www.exploit-db.com/exploits/4785

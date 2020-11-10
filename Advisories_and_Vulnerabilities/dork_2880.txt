@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2880
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Sad Raven's Click Counter v1.0
+Description:      Sad Raven's Click Counter v1.0
+
+
+Sad Raven's Click Counter 1.0 passwd.dat Disclosure: https://www.exploit-db.com/exploits/7844

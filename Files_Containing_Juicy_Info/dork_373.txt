@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/373
+Category:         Files Containing Juicy Info
+Published Date:   2004-07-26
+Author:           anonymous
+GoogleDork:       data filetype:mdb -site:gov -site:mil
+Description:      data filetype:mdb -site:gov -site:mil
+
+
+Microsoft Access databases containing all kinds of 'data'.

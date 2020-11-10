@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/450
+Category:         Files Containing Juicy Info
+Published Date:   2004-08-25
+Author:           anonymous
+GoogleDork:       Quicken data files
+Description:      Quicken data files
+
+
+The QDATA.QDF file (found sometimes in zipped "QDATA" archives online, sometimes not) contains financial data, including banking accounts, credit card numbers, etc. This search has only a couple hits so far, but this should be popular in the coming year as Quicken 2005 makes it very easy and suggests to backup your data online.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3170
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:we_objectID=
+Description:      inurl:we_objectID=
+
+
+webEdition CMS (we_objectID) Blind SQL Injection - CVE: 2008-4154: https://www.exploit-db.com/exploits/6281

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4346
+Category:         Files Containing Juicy Info
+Published Date:   2016-10-25
+Author:           anonymous
+GoogleDork:       "[HKEY_CURRENT_USER\Software\sota\FFFTP]" filetype:reg
+Description:      "[HKEY_CURRENT_USER\Software\sota\FFFTP]" filetype:reg
+
+
+This finds some files with juicy information about Windows servers. Dork: "[HKEY_CURRENT_USER\Software\sota\FFFTP]" filetype:reg -Gee

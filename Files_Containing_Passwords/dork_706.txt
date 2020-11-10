@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/706
+Category:         Files Containing Passwords
+Published Date:   2004-11-23
+Author:           anonymous
+GoogleDork:       intitle:dupics inurl:(add.asp | default.asp | view.asp | voting.asp) -site:duware.com
+Description:      intitle:dupics inurl:(add.asp | default.asp | view.asp | voting.asp) -site:duware.com
+
+
+Most duware products use Microsoft Access databases in default locations without instructing the users to change them. The plain text admin passwords are just a click away for any attacker who knows how to type an URL. For Dupics rename location to ../_private/dupics.mdb

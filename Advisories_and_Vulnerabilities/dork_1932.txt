@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1932
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by GameSiteScript"
+Description:      "Powered by GameSiteScript"
+
+
+GameSiteScript 3.1 (profile id) Remote SQL Injection Vulnerability - CVE: 2007-3631: https://www.exploit-db.com/exploits/4159

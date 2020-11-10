@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5671
+Category:         Pages Containing Login Portals
+Published Date:   2019-12-20
+Author:           berat isler
+GoogleDork:       intitle:"Pfsense - Login"
+Description:      intitle:"Pfsense - Login"
+
+
+Google Dork : intitle:"Pfsense - Login"  This dork found pfsense login panel.  Berat İşler (root1x) 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5336
+Category:         Pages Containing Login Portals
+Published Date:   2019-08-12
+Author:           Francis Al Victoriano
+GoogleDork:       site:admin.*.com/signin/
+Description:      site:admin.*.com/signin/
+
+
+# Exploit Title: Signin of Admin Subdomain  # Google Dork: site:admin.*.com/signin/  # Author: Francis Al Victoriano 

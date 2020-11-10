@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2078
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Copyright (c) 2004-2006 by Simple PHP Guestbook"
+Description:      "Copyright (c) 2004-2006 by Simple PHP Guestbook"
+
+
+Simple PHP Guestbook Remote Admin Access: https://www.exploit-db.com/exploits/10666

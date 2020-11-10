@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2014
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       ADP Forum 2.0.3 is powered by VzScripts
+Description:      ADP Forum 2.0.3 is powered by VzScripts
+
+
+Vz (Adp) Forum 2.0.3 Remote Password Disclosure Vulnerablity - CVE: 2006-6891: https://www.exploit-db.com/exploits/3053

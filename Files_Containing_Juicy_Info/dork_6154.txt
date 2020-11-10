@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6154
+Category:         Files Containing Juicy Info
+Published Date:   2020-05-28
+Author:           Abhi Chitkara
+GoogleDork:       intitle:"index of" "properties.ini"
+Description:      intitle:"index of" "properties.ini"
+
+
+Dork: intitle:"index of" "properties.ini" Description: This google dork lists out sensitive properties of a web server Author: Abhi Chitkara 

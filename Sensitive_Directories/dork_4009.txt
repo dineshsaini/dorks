@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4009
+Category:         Sensitive Directories
+Published Date:   2015-05-27
+Author:           anonymous
+GoogleDork:       inurl:wp-admin/ intext:css/
+Description:      inurl:wp-admin/ intext:css/
+
+
+The dork finds misconfigured WordPress sites. Author:NickiK.

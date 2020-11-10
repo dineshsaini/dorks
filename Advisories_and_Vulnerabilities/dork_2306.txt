@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2306
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered By : PersianBB.com
+Description:      Powered By : PersianBB.com
+
+
+PersianBB (iranian_music.php id) Remote SQL Injection Vulnerability: https://www.exploit-db.com/exploits/6858

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1790
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by ephpscripts
+Description:      Powered by ephpscripts
+
+
+E-Shop Shopping Cart Script (search_results.php) SQL Injection Vuln - CVE: 2008-5838: https://www.exploit-db.com/exploits/6398

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4143
+Category:         Files Containing Juicy Info
+Published Date:   2015-12-01
+Author:           anonymous
+GoogleDork:       inurl:"trace" ext:axd intext:"password"
+Description:      inurl:"trace" ext:axd intext:"password"
+
+
+the dork keyword is: inurl:"trace" ext:axd intext:"password" purpose of dork: search for tracing files in the ASP.NET websites which might contain a sensitive information such as the username and password entered to the application. discovered by: Asem Al Husaini (SFDA)

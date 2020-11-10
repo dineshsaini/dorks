@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/560
+Category:         Advisories and Vulnerabilities
+Published Date:   2004-10-12
+Author:           anonymous
+GoogleDork:       intitle:"EMUMAIL - Login" "Powered by EMU Webmail"
+Description:      intitle:"EMUMAIL - Login" "Powered by EMU Webmail"
+
+
+The failure to strip script tags in emumail.cgi allows for XSS type of attack. Vulnerable systems: Advisories_and_Vulnerabilities Error_Messages Files_Containing_Juicy_Info Files_Containing_Passwords Files_Containing_Usernames Footholds ghdb_dorks.sh logs.txt Network_or_Vulnerability_Data Pages_Containing_Login_Portals Sensitive_Directories Sensitive_Online_Shopping_Info Various_Online_Devices Vulnerable_Files Vulnerable_Servers Web_Server_Detection EMU Webmail version 5.0 Advisories_and_Vulnerabilities Error_Messages Files_Containing_Juicy_Info Files_Containing_Passwords Files_Containing_Usernames Footholds ghdb_dorks.sh logs.txt Network_or_Vulnerability_Data Pages_Containing_Login_Portals Sensitive_Directories Sensitive_Online_Shopping_Info Various_Online_Devices Vulnerable_Files Vulnerable_Servers Web_Server_Detection EMU Webmail version 5.1.0 Depending on what functions you throw in there, you get certain contents of the emumail.cgi file. The vulnerability was discovered in an obsolete script named userstat.pl shipped with Open Webmail. The script doesn't properly filter out shell characters from the loginname parameter. http://www.securityfocus.com/bid/9861

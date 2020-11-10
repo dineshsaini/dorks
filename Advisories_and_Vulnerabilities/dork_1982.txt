@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1982
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allinurl: cid"modules/classifieds/index.php?pa=Adsview"
+Description:      allinurl: cid"modules/classifieds/index.php?pa=Adsview"
+
+
+XOOPS Module classifieds (cid) Remote SQL Injection Vulnerability - CVE: 2008-0873: https://www.exploit-db.com/exploits/5158

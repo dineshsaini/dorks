@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3181
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allinurl:clientsignup.php "classifieds"
+Description:      allinurl:clientsignup.php "classifieds"
+
+
+Living Local 1.1 (XSS-RFU) Multiple Remote Vulnerabilities - CVE: 2008-6530: https://www.exploit-db.com/exploits/7408

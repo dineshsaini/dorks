@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3666
+Category:         Advisories and Vulnerabilities
+Published Date:   2011-01-06
+Author:           anonymous
+GoogleDork:       "Powered by phpMySport"
+Description:      "Powered by phpMySport"
+
+
+intext:"Powered by phpMySport" Multiple Vulnerabilities: https://www.exploit-db.com/exploits/15921/

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1789
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intext:"Powered By Azaronline.com"
+Description:      intext:"Powered By Azaronline.com"
+
+
+Azaronline Design SQL Injection Vulnerability: https://www.exploit-db.com/exploits/15391

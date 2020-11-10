@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4930
+Category:         Footholds
+Published Date:   2018-08-21
+Author:           Gionathan Reale
+GoogleDork:       "index of" /wp-content/uploads/shell.php
+Description:      "index of" /wp-content/uploads/shell.php
+
+
+"index of" /wp-content/uploads/shell.php  This Google Dork discovers servers running Wordpress that are infected  with web shells.   - Gionathan "John" Reale (https://www.exploit-db.com/author/?a=9609) 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3830
+Category:         Various Online Devices
+Published Date:   2013-02-05
+Author:           anonymous
+GoogleDork:       inurl:/control/userimage.html
+Description:      inurl:/control/userimage.html
+
+
+Mobotix webcam search. yet another newer search

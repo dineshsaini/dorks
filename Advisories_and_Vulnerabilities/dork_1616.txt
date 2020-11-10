@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1616
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Instant Free File Uploader"
+Description:      "Instant Free File Uploader"
+
+
+Uploaderr 1.0 - File Hosting Script Shell Upload Vulnerability: https://www.exploit-db.com/exploits/10241

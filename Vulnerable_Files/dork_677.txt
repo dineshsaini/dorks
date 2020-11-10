@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/677
+Category:         Vulnerable Files
+Published Date:   2004-11-16
+Author:           anonymous
+GoogleDork:       ext:asp "powered by DUForum" inurl:(messages|details|login|default|register) -site:duware.com
+Description:      ext:asp "powered by DUForum" inurl:(messages|details|login|default|register) -site:duware.com
+
+
+DUForum is one of those free forum software packages. The database location is determined by the config file "connDUforumAdmin.asp", but the installation instructions don't recommend changing it. Ouch..Database location is: http://server/duforum/_private/DUforum.mdb

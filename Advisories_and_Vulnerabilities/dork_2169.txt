@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2169
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allinurl: "pollBooth.php?op=results"pollID
+Description:      allinurl: "pollBooth.php?op=results"pollID
+
+
+Pollbooth 2.0 (pollID) Remote SQL Injection Vulnerability: https://www.exploit-db.com/exploits/5436

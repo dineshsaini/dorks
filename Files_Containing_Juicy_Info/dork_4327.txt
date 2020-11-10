@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4327
+Category:         Files Containing Juicy Info
+Published Date:   2016-09-06
+Author:           anonymous
+GoogleDork:       inurl:log -intext:log ext:log inurl:wp-
+Description:      inurl:log -intext:log ext:log inurl:wp-
+
+
+All kinds of juicy log information that can be picked up on wordpress sites ranging from php_errors.log to WS_FTP.log and more. Use inurl:edu or inurl:gov etc. at the end to specify by which domains you want to filter down and view information about. Ayushman Dutta University of Houston

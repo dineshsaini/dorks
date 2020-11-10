@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6445
+Category:         Pages Containing Login Portals
+Published Date:   2020-07-26
+Author:           Dharmveer Singh
+GoogleDork:       inurl:/webconsole/webpages/login.jsp
+Description:      inurl:/webconsole/webpages/login.jsp
+
+
+# Google Dork: inurl:/webconsole/webpages/login.jsp # Various Sophos Login page. Attacker may use https://www.exploit-db.com/exploits/48683 to exploit those pages # Date: 23/07/2020 # Exploit Author: *Dharmveer Singh*  [image: image.png]     [image: image.png] 

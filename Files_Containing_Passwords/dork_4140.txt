@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4140
+Category:         Files Containing Passwords
+Published Date:   2015-11-30
+Author:           anonymous
+GoogleDork:       intext:"GET http://" ext:txt intext:"password" inurl:log
+Description:      intext:"GET http://" ext:txt intext:"password" inurl:log
+
+
+this dork will return password sent in GET request from proxies logs. submitted by: Mohammad Al-Nasser

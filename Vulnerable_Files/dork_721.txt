@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/721
+Category:         Vulnerable Files
+Published Date:   2004-11-28
+Author:           anonymous
+GoogleDork:       inurl:php.exe filetype:exe -example.com
+Description:      inurl:php.exe filetype:exe -example.com
+
+
+It is possible to read any file remotely on the server with PHP.EXE (assuming a script alias for it is enabled), even across drives. (Note: The GHDB has another search for this file based on directorly listings, try them both)

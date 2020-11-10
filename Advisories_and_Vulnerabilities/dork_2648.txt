@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2648
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:browsecats.php?cid=
+Description:      inurl:browsecats.php?cid=
+
+
+PozScripts Classified Ads Script (cid) SQL Injection Vulnerability - CVE: 2008-3672: https://www.exploit-db.com/exploits/6169

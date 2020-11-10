@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/603
+Category:         Various Online Devices
+Published Date:   2004-10-20
+Author:           anonymous
+GoogleDork:       inurl:"level/15/exec/-/show"
+Description:      inurl:"level/15/exec/-/show"
+
+
+This search finds Cisco devices which have level 15 access open via webinterface. If an attacker wants to search for another level he can replace the "15" with this level. Levels below 10 need a leading zero (e.g. 04).Currently only the cached pages can be viewed.

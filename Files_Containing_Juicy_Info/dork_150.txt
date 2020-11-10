@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/150
+Category:         Files Containing Juicy Info
+Published Date:   2004-04-05
+Author:           anonymous
+GoogleDork:       intitle:index.of cleanup.log
+Description:      intitle:index.of cleanup.log
+
+
+This search reveals potential location for mailbox files by keying on the Outlook Express cleanup.log file. In some cases, the data in this directory or file may be of a very personal nature and may include sent and received emails and archives of email data.

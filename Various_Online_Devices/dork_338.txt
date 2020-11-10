@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/338
+Category:         Various Online Devices
+Published Date:   2004-07-16
+Author:           anonymous
+GoogleDork:       "powered by webcamXP" "Pro|Broadcast"
+Description:      "powered by webcamXP" "Pro|Broadcast"
+
+
+webcamXP PRO:http://www.webcamxp.com/productsadv.htmlThis is the most advanced version of the software. It has all the features of the other versions (including advanced users management, motion detector, and alerts manager) plus remote administration and external server notification when going offline/online.

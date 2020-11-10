@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2101
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:/modules/Partenaires/clic.php?id=
+Description:      inurl:/modules/Partenaires/clic.php?id=
+
+
+Nuked-Klan Module Partenaires NK 1.5 Blind Sql Injection: https://www.exploit-db.com/exploits/14556

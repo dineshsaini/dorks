@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3825
+Category:         Pages Containing Login Portals
+Published Date:   2012-12-31
+Author:           anonymous
+GoogleDork:       you really should fix this security hole by setting a password for user '.root'. inurl:/phpmyadmin intitle:localhost
+Description:      you really should fix this security hole by setting a password for user '.root'. inurl:/phpmyadmin intitle:localhost
+
+
+Gives sites with default username root and no password -- nitish mehta

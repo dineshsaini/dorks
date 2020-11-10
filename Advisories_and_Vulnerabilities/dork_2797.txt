@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2797
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by iScripts EasyBiller
+Description:      Powered by iScripts EasyBiller
+
+
+iScripts easybiller v1.1 sqli vulnerability: https://www.exploit-db.com/exploits/13741

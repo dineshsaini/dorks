@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4408
+Category:         Files Containing Juicy Info
+Published Date:   2017-03-21
+Author:           anonymous
+GoogleDork:       filetype:pcmcfg
+Description:      filetype:pcmcfg
+
+
+Google Dork: filetype:pcmcfg Author: Tarkan Catal X This dork allows you to search for installation template file used by pulseway application (.pcmcfg). This file contains usernames, passwords (encrypted) and server information. Pulseway is an remote monitoring and management software www.pulseway.com

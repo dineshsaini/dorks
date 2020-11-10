@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/765
+Category:         Various Online Devices
+Published Date:   2004-12-13
+Author:           anonymous
+GoogleDork:       inurl:":631/printers" -php -demo
+Description:      inurl:":631/printers" -php -demo
+
+
+CUPS provides a portable printing layer for UNIXÃƒâ€šÃ‚Â®-based operating systems. It has been developed by Easy Software Products to promote a standard printing solution for all UNIX vendors and users. CUPS provides the System V and Berkeley command-line interfaces. CUPS uses the Internet Printing Protocol ("IPP") as the basis for managing print jobs and queues. The Line Printer Daemon ("LPD") Server Message Block ("SMB"), and AppSocket (a.k.a. JetDirect).

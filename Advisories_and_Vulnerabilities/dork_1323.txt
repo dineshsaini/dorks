@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1323
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-04-05
+Author:           anonymous
+GoogleDork:       intext:"2000-2001 The phpHeaven Team" -sourceforge
+Description:      intext:"2000-2001 The phpHeaven Team" -sourceforge
+
+
+this is the dork for PHPMyChat

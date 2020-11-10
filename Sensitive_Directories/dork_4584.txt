@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4584
+Category:         Sensitive Directories
+Published Date:   2017-10-02
+Author:           anonymous
+GoogleDork:       intitle:index.of intext:viewvc
+Description:      intitle:index.of intext:viewvc
+
+
+ViewVC is a browser interface for CVS and Subversion version control repositories. This dork allows you to list those that are indexed and open for viewing. Some contain source code, private SSH keys, configuration files, and more. -- paragonsec

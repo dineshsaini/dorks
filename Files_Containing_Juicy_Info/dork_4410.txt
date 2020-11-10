@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4410
+Category:         Files Containing Juicy Info
+Published Date:   2017-03-27
+Author:           anonymous
+GoogleDork:       inurl:"/irclogs/" ext:log
+Description:      inurl:"/irclogs/" ext:log
+
+
+Finds people's IRC logs Dxtroyer

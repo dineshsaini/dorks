@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/887
+Category:         Advisories and Vulnerabilities
+Published Date:   2005-02-16
+Author:           anonymous
+GoogleDork:       "powered by CubeCart 2.0"
+Description:      "powered by CubeCart 2.0"
+
+
+This search reveals an alarming number of servers running versions of Brooky CubeCart that are reported to be prone to multiple vulnerabilities due to insufficient sanitization of user-supplied data....susceptible to a remote directory traversal vulnerability...cross-site scripting vulnerability may allow for theft of cookie-based authentication credentials or other attacks.An exploit is not required.The following proof of concept examples are available:http://www.example.com/index.php?&amp;language=../../../../../../../../etc/passwdhttp://www.example.com/index.php?&amp;language=var%20test_variable=31337;alert(test_variable); Vulnerability was published 2-14-2005http://www.securityfocus.com/bid/12549/

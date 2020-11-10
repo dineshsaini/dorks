@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1258
+Category:         Footholds
+Published Date:   2006-02-08
+Author:           anonymous
+GoogleDork:       "Please re-enter your password It must match exactly"
+Description:      "Please re-enter your password It must match exactly"
+
+
+Invision Powerboard registration pages. Plain and simple.

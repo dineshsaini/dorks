@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/284
+Category:         Vulnerable Files
+Published Date:   2004-06-10
+Author:           anonymous
+GoogleDork:       intitle:"Index of /" modified php.exe
+Description:      intitle:"Index of /" modified php.exe
+
+
+PHP installed as a cgi-bin on a Windows Apache server will allow an attacker to view arbitrary files on the hard disk, for example by requesting "/php/php.exe?c:\boot.ini."

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4924
+Category:         Files Containing Passwords
+Published Date:   2018-08-17
+Author:           Gionathan Reale
+GoogleDork:       inurl:wp-config.bak
+Description:      inurl:wp-config.bak
+
+
+inurl:wp-config.bak  This Google Dork discovers badly configured servers exposing sensitive  Wordpress setup information.    - Gionathan "John" Reale (https://www.exploit-db.com/author/?a=9609) 

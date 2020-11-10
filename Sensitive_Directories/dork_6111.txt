@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6111
+Category:         Sensitive Directories
+Published Date:   2020-05-21
+Author:           Abhi Chitkara
+GoogleDork:       intitle:"index of" "api/admin"
+Description:      intitle:"index of" "api/admin"
+
+
+Dork: intitle:"index of" "api/admin" Description: This google dork lists out admin files for apis used on web servers. Author: Abhi Chitkara 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3814
+Category:         Various Online Devices
+Published Date:   2012-11-02
+Author:           anonymous
+GoogleDork:       intitle:"dd-wrt info" intext:"Firmware: DD-WRT"
+Description:      intitle:"dd-wrt info" intext:"Firmware: DD-WRT"
+
+
+This dork finds web interfaces of various routers using custom firmware DD-WRT. Default login: root Default password: admin greetings, uA

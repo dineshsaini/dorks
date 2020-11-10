@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4645
+Category:         Sensitive Directories
+Published Date:   2018-01-01
+Author:           Rootkit_Pentester
+GoogleDork:       "lv_poweredBy"
+Description:      "lv_poweredBy"
+
+
+Folders with a lot of shared files!!!. Enjoy!.  Dork by Rootkit_Pentester. 

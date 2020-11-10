@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3835
+Category:         Pages Containing Login Portals
+Published Date:   2013-04-09
+Author:           anonymous
+GoogleDork:       allintext: "Please login to continue..." "ZTE Corporation. All rights reserved."
+Description:      allintext: "Please login to continue..." "ZTE Corporation. All rights reserved."
+
+
+Reported by: Jasper Briels

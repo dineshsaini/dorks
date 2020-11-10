@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4545
+Category:         Various Online Devices
+Published Date:   2017-07-14
+Author:           anonymous
+GoogleDork:       inurl:"/ADVANCED/COMMON/TOP"
+Description:      inurl:"/ADVANCED/COMMON/TOP"
+
+
+Finds unpassworded Epson printers Dxtroyer

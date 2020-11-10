@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1694
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by BosClassifieds Classified Ads System"
+Description:      "Powered by BosClassifieds Classified Ads System"
+
+
+BosClassifieds 3.0 (index.php cat) SQL Injection Vulnerability - CVE: 2008-1838: https://www.exploit-db.com/exploits/5444

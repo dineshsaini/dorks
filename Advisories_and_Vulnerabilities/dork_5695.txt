@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5695
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-01-21
+Author:           Nathan Potter
+GoogleDork:       inurl:/cmsinstall/install ext:aspx
+Description:      inurl:/cmsinstall/install ext:aspx
+
+
+# Exploit Title: Google Dork for Kentico CVE-2017–17736 # Google Dork: inurl:/cmsinstall/install ext:aspx # Date: January 21, 2020 # Exploit Author: Nathan Potter # Version: Kentico 8.X, 

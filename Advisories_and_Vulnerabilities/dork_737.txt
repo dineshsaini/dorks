@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/737
+Category:         Advisories and Vulnerabilities
+Published Date:   2004-12-01
+Author:           anonymous
+GoogleDork:       +"Powered by Invision Power Board v2.0.0..2"
+Description:      +"Powered by Invision Power Board v2.0.0..2"
+
+
+A remote SQL injection vulnerability affects Inivision Power Board. This issue is due to a failure of the application to properly validate user-supplied input prior to using it in an SQL query.http://www.securityfocus.com/bid/11719

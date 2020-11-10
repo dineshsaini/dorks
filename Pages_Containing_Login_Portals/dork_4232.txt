@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4232
+Category:         Pages Containing Login Portals
+Published Date:   2016-03-14
+Author:           anonymous
+GoogleDork:       intitle:"mikrotik routeros &gt; administration" intext:"mikrotik routeros" intext:"configuration page" -demo intext:"Mikrotik, RouterOS and the Mikrotik logo are registered trademarks of Mikrotikls SIA"
+Description:      intitle:"mikrotik routeros &gt; administration" intext:"mikrotik routeros" intext:"configuration page" -demo intext:"Mikrotik, RouterOS and the Mikrotik logo are registered trademarks of Mikrotikls SIA"
+
+
+Description: MikroTik RouterOS configuration &amp; login page Google search: intitle:"mikrotik routeros &gt; administration" intext:"mikrotik routeros" intext:"configuration page" -demo intext:"Mikrotik, RouterOS and the Mikrotik logo are registered trademarks of Mikrotikls SIA" Author: nebo_oben

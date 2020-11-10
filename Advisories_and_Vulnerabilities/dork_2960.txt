@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2960
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Site designed and built by Powder Blue." inurl:index.php?id_page=
+Description:      "Site designed and built by Powder Blue." inurl:index.php?id_page=
+
+
+Powder Blue Design SQL Injection Vulnerability: https://www.exploit-db.com/exploits/12671

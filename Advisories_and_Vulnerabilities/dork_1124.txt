@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1124
+Category:         Advisories and Vulnerabilities
+Published Date:   2005-09-23
+Author:           anonymous
+GoogleDork:       "Powered by GTChat 0.95"+"User Login"+"Remember my login information"
+Description:      "Powered by GTChat 0.95"+"User Login"+"Remember my login information"
+
+
+There is a (adduser) remote denial of service vulnerabilty on version 0.95

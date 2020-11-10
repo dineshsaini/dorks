@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2552
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Online Booking Manager2.2
+Description:      Online Booking Manager2.2
+
+
+Online Booking Manager 2.2 (id) SQL Injection Vulnerability - CVE: 2008-5194: https://www.exploit-db.com/exploits/5964

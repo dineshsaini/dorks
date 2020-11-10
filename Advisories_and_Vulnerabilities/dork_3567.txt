@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3567
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Betrieben mit Serendipity 1.0.3"
+Description:      "Betrieben mit Serendipity 1.0.3"
+
+
+Serendipity 1.0.3 (comment.php) Local File Include - CVE: 2006-6242: https://www.exploit-db.com/exploits/2869

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2566
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intext:Powered by SaphpLesson 4.0
+Description:      intext:Powered by SaphpLesson 4.0
+
+
+SaphpLesson v4.0 (Auth Bypass) SQL Injection Vulnerability - CVE: 2009-2883: https://www.exploit-db.com/exploits/9248

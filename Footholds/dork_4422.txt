@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4422
+Category:         Footholds
+Published Date:   2017-04-10
+Author:           anonymous
+GoogleDork:       intitle:"Priv8 Mailer Inbox 2015" ext:php
+Description:      intitle:"Priv8 Mailer Inbox 2015" ext:php
+
+
+Just another mailer :P Please DO NOT use for spam! Dxtroyer

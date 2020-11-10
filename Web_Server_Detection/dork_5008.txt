@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5008
+Category:         Web Server Detection
+Published Date:   2018-11-02
+Author:           maiki
+GoogleDork:       intitle:livezilla "Server Time"
+Description:      intitle:livezilla "Server Time"
+
+
+intitle:livezilla "Server Time"  Dork to locate LiveZilla consoles and version, as well as additional information about the server such as PHP version.

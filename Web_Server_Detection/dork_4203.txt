@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4203
+Category:         Web Server Detection
+Published Date:   2016-02-17
+Author:           anonymous
+GoogleDork:       intext:Apache/2.2.29 (Unix) mod_ssl/2.2.29 | intitle:"Index of /"
+Description:      intext:Apache/2.2.29 (Unix) mod_ssl/2.2.29 | intitle:"Index of /"
+
+
+Server Name and Port. -Xploit 

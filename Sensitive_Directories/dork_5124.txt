@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5124
+Category:         Sensitive Directories
+Published Date:   2019-02-15
+Author:           Bruno Schmid
+GoogleDork:       intitle:"index of" "Windows\Cookies"
+Description:      intitle:"index of" "Windows\Cookies"
+
+
+Cookies from Windows users.  Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

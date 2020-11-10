@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4312
+Category:         Advisories and Vulnerabilities
+Published Date:   2016-07-25
+Author:           anonymous
+GoogleDork:       inurl:sgms/auth
+Description:      inurl:sgms/auth
+
+
+inurl:sgms/auth This will allow you to find Sonicwall GMS servers. This article mentions 6 vulnerabilities recently found. https://www.digitaldefense.com/vrt-discoveries/

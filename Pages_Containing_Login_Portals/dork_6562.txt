@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6562
+Category:         Pages Containing Login Portals
+Published Date:   2020-09-23
+Author:           Alexandros Pappas
+GoogleDork:       inurl:VirtualEms/Login.aspx
+Description:      inurl:VirtualEms/Login.aspx
+
+
+# Google Dork: inurl:VirtualEms/Login.aspx # Pages containing login portals. # Date: 23/09/2020 # Exploit Author: Alexandros Pappas 

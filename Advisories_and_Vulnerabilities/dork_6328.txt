@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6328
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-06-24
+Author:           Pankaj Verma
+GoogleDork:       inurl:wp-content/plugins/wpDiscuz
+Description:      inurl:wp-content/plugins/wpDiscuz
+
+
+# Google Dork: inurl:wp-content/plugins/wpDiscuz # This google dork lists out Advisories and Vulnerabilities regarding # the wpDiscuz plugin. Ref: https://wpvulndb.com/vulnerabilities/10273  [*] wpDiscuz &lt; 5.3.6 - Unauthenticated SQL Injection [*] Author: Pankaj Verma (_p4nk4j) [*] LinkedIn: https://www.linkedin.com/in/p4nk4jv/ 

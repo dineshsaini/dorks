@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/575
+Category:         Files Containing Juicy Info
+Published Date:   2004-10-16
+Author:           anonymous
+GoogleDork:       ext:ini intext:env.ini
+Description:      ext:ini intext:env.ini
+
+
+This one shows configuration files for various applications. based on the application an attacker may find information like passwords, ipaddresses and more.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5925
+Category:         Files Containing Juicy Info
+Published Date:   2020-04-20
+Author:           Alexandros Pappas
+GoogleDork:       "-----BEGIN OpenVPN Static key V1-----" ext:key
+Description:      "-----BEGIN OpenVPN Static key V1-----" ext:key
+
+
+# Google Dork: "-----BEGIN OpenVPN Static key V1-----" ext:key  # OpenVPN static keys.  # Date: 20/04/2020  # Author: Alexandros Pappas 

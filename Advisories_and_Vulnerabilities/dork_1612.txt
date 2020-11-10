@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1612
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allintitle: "MCgallery 0.5b"
+Description:      allintitle: "MCgallery 0.5b"
+
+
+McGallery 0.5b (download.php) Arbitrary File Download Vulnerability - CVE: 2007-1478: https://www.exploit-db.com/exploits/3494

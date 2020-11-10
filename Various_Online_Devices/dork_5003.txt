@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5003
+Category:         Various Online Devices
+Published Date:   2018-10-31
+Author:           ManhNho
+GoogleDork:       intitle:"SQLiteManager" + intext:"Welcome to SQLiteManager version "
+Description:      intitle:"SQLiteManager" + intext:"Welcome to SQLiteManager version "
+
+
+intitle:"SQLiteManager" + intext:"Welcome to SQLiteManager version "  SQLite Manager panel  ManhNho 

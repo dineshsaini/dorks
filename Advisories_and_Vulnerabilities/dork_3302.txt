@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3302
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allinurl:"article.download.php"
+Description:      allinurl:"article.download.php"
+
+
+Star Articles 6.0 Remote File Upload Vulnerability - CVE: 2008-7076: https://www.exploit-db.com/exploits/7251

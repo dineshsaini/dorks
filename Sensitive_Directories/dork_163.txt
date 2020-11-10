@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/163
+Category:         Sensitive Directories
+Published Date:   2004-04-19
+Author:           anonymous
+GoogleDork:       intitle:"Index of" cfide
+Description:      intitle:"Index of" cfide
+
+
+This is the top level directory of ColdFusion, a powerful web development environment. This directory most likely contains sensitive information about a ColdFusion developed site.

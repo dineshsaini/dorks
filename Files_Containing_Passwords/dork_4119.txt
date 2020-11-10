@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4119
+Category:         Files Containing Passwords
+Published Date:   2015-11-11
+Author:           anonymous
+GoogleDork:       ext:sql intext:username intext:password
+Description:      ext:sql intext:username intext:password
+
+
+search turns up database files with cleartext and encryption, often leading to open directory structures and configuration files.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3678
+Category:         Advisories and Vulnerabilities
+Published Date:   2011-01-22
+Author:           anonymous
+GoogleDork:       inurl:"/plugins/ImageManager/manager.php"
+Description:      inurl:"/plugins/ImageManager/manager.php"
+
+
+Author: PenetraDz Shell Upload Vuln: manager/media/editor/plugins/ImageManager/manager.php

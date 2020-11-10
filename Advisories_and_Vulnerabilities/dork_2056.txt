@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2056
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allinur:com_extended_registration
+Description:      allinur:com_extended_registration
+
+
+Mambo com_registration_detailed 4.1 Remote File Include - CVE: 2006-5254: https://www.exploit-db.com/exploits/2379

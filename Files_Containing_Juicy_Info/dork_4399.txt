@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4399
+Category:         Files Containing Juicy Info
+Published Date:   2017-02-23
+Author:           anonymous
+GoogleDork:       httrack inurl:hts-log.txt ext:txt -github.com
+Description:      httrack inurl:hts-log.txt ext:txt -github.com
+
+
+Dork for data of httrack web site copy logs. Enjoy. Dork by Rootkit Pentester.

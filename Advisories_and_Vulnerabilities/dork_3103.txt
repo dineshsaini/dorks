@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3103
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Tanyakan Pada Rumput Yang Bergoyang" 		
+Description:      "Tanyakan Pada Rumput Yang Bergoyang" 		
+
+
+Autonomous LAN party 0.98.3 Remote File Inclusion Vulnerability: https://www.exploit-db.com/exploits/9460

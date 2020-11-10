@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/247
+Category:         Error Messages
+Published Date:   2004-07-29
+Author:           anonymous
+GoogleDork:       "error found handling the request" cocoon filetype:xml
+Description:      "error found handling the request" cocoon filetype:xml
+
+
+Cocoon is an XML publishing framework. It allows you to define XML documents and transformations to be applied on it, to eventually generate a presentation format of your choice (HTML, PDF, SVG). For more information read http://cocoon.apache.org/2.1/overview.htmlThis Cocoon error displays library functions, cocoon version number, and full and/or relative path names.

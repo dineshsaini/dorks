@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4626
+Category:         Sensitive Directories
+Published Date:   2017-11-29
+Author:           Tahani Al-Otaibi
+GoogleDork:       inurl:"nfs://www." "index of /"
+Description:      inurl:"nfs://www." "index of /"
+
+
+This dork return files shared in Network File System (NFS)  Tahani Al-Otaibi 

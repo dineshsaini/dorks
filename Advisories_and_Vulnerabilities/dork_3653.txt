@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3653
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-12-19
+Author:           anonymous
+GoogleDork:       inurl:com_jeauto
+Description:      inurl:com_jeauto
+
+
+LFI: https://www.exploit-db.com/exploits/15779

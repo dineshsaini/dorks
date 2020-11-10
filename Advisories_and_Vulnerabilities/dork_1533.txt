@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1533
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intext:"Powered by phpFastNews"
+Description:      intext:"Powered by phpFastNews"
+
+
+phpFastNews 1.0.0 Insecure Cookie Handling Vulnerability - CVE: 2008-4622: https://www.exploit-db.com/exploits/6779

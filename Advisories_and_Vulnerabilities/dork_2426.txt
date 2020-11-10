@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2426
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       cat_sell.php?cid= or selloffers.php?cid=
+Description:      cat_sell.php?cid= or selloffers.php?cid=
+
+
+B2B Trading Marketplace SQL Injection Vulnerability - CVE: 2005-3937: https://www.exploit-db.com/exploits/10656

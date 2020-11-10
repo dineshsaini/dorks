@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1195
+Category:         Files Containing Juicy Info
+Published Date:   2005-11-16
+Author:           anonymous
+GoogleDork:       intitle:"Welcome to F-Secure Policy Manager Server Welcome Page"
+Description:      intitle:"Welcome to F-Secure Policy Manager Server Welcome Page"
+
+
+An attacker may want to know about the antivirus software running. The description says he can check the status of the F-Secure Policy Manager Server's Host Module. He can also check the status of the Console Module, but only if he's reading the page from the local host.

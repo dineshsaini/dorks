@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1112
+Category:         Files Containing Passwords
+Published Date:   2005-09-13
+Author:           anonymous
+GoogleDork:       intext:"enable password 7"
+Description:      intext:"enable password 7"
+
+
+some people are that stupid to keep their Cisco routers config files on site. You can easly find out configs and password alog with IP addresses of this devices. Above string let you find weak passwords, which are encrypted but can be decrypted by free tool called GetPass and provided by boson.com

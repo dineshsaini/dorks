@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2184
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:inc_documentlibrarymanager.asp
+Description:      inurl:inc_documentlibrarymanager.asp
+
+
+DMXReady Document Library Manager 1.1 Contents Change Vuln: https://www.exploit-db.com/exploits/7769

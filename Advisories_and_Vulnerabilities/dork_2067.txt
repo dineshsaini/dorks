@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2067
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allinurl: galid "index.php?p=gallerypic"
+Description:      allinurl: galid "index.php?p=gallerypic"
+
+
+Koobi Pro 6.25 gallery Remote SQL Injection Vulnerability: https://www.exploit-db.com/exploits/5413

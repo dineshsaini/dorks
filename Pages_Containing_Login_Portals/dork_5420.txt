@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5420
+Category:         Pages Containing Login Portals
+Published Date:   2019-08-21
+Author:           Reza Abasi
+GoogleDork:       intitle:"Login page" intext:"about SurgeMail"
+Description:      intitle:"Login page" intext:"about SurgeMail"
+
+
+Login Page:  intitle:"Login page" intext:"about SurgeMail"  Reza Abasi(Turku) 

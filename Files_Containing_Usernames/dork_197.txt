@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/197
+Category:         Files Containing Usernames
+Published Date:   2004-05-03
+Author:           anonymous
+GoogleDork:       +intext:"webalizer" +intext:"Total Usernames" +intext:"Usage Statistics for"
+Description:      +intext:"webalizer" +intext:"Total Usernames" +intext:"Usage Statistics for"
+
+
+The webalizer program displays various information but this query displays usernames that have logged into the site. Attckers can use this information to mount an attack.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/27
+Category:         Files Containing Passwords
+Published Date:   2003-06-24
+Author:           anonymous
+GoogleDork:       config.php
+Description:      config.php
+
+
+This search brings up sites with "config.php" files. To skip the technical discussion, this configuration file contains both a username and a password for an SQL database. Most sites with forums run a PHP message base. This file gives you the keys to that forum, including FULL ADMIN access to the database. Way to go, googleDorks!!

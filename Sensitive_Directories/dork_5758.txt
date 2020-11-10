@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5758
+Category:         Sensitive Directories
+Published Date:   2020-03-02
+Author:           Sagar Banwa
+GoogleDork:       inurl:"/includes/api/" intext:"index of /"
+Description:      inurl:"/includes/api/" intext:"index of /"
+
+
+Dork to Find interesting folder related to API  inurl:"/includes/api/" intext:"index of /"  Sagar Banwa 

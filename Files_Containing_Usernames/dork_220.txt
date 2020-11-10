@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/220
+Category:         Files Containing Usernames
+Published Date:   2004-05-12
+Author:           anonymous
+GoogleDork:       filetype:reg reg +intext:"internet account manager"
+Description:      filetype:reg reg +intext:"internet account manager"
+
+
+This google search reveals users names, pop3 passwords, email addresses, servers connected to and more. The IP addresses of the users can also be revealed in some cases.

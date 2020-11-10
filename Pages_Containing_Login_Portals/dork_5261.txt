@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5261
+Category:         Pages Containing Login Portals
+Published Date:   2019-06-19
+Author:           Reza Abasi
+GoogleDork:       inurl:/admin/index.php?module=config
+Description:      inurl:/admin/index.php?module=config
+
+
+Finding the Mybb admin login page: inurl:/admin/index.php?module=config  Reza Abasi 

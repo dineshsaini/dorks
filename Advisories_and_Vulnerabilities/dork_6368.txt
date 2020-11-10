@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6368
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-07-06
+Author:           Abhi Chitkara
+GoogleDork:       inurl:wp-content/themes/nexos
+Description:      inurl:wp-content/themes/nexos
+
+
+Dork: inurl:wp-content/themes/nexos Description: This google dork lists out Advisories and Vulnerabilities regarding the nexos wordpress theme. Ref: https://wpvulndb.com/vulnerabilities/10285 Author: Abhi Chitkara 

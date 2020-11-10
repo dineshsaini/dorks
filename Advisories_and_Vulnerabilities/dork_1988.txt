@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1988
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by ArticlesOne.com oR Website Powered by ArticlesOne.com
+Description:      Powered by ArticlesOne.com oR Website Powered by ArticlesOne.com
+
+
+ArticlesOne 07232006 (page) Remote Include Vulnerability: https://www.exploit-db.com/exploits/2063

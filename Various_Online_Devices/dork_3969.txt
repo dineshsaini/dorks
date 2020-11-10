@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3969
+Category:         Various Online Devices
+Published Date:   2014-10-15
+Author:           anonymous
+GoogleDork:       inurl:cgi-bin/mailgraph.cgi
+Description:      inurl:cgi-bin/mailgraph.cgi
+
+
+Mail statistics Ariel Anonis - @ariel_anonis

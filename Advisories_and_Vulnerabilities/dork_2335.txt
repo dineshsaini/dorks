@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2335
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:tr.php?id= Banner
+Description:      inurl:tr.php?id= Banner
+
+
+Banner Management Script (tr.php id) Remote SQL Injection Vulnerability - CVE: 2008-3749: https://www.exploit-db.com/exploits/6276

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/426
+Category:         Pages Containing Login Portals
+Published Date:   2004-08-13
+Author:           anonymous
+GoogleDork:       inurl:cgi-bin/ultimatebb.cgi?ubb=login
+Description:      inurl:cgi-bin/ultimatebb.cgi?ubb=login
+
+
+These are login pages for Infopop's message board UBB.classic. For the UBB.threads you can use this search This next search finds all UBB pages with the infopop image and a link to the developers.http://www.google.com/search?num=100&amp;&amp;safe=off&amp;q=link%3Ahttp%3A%2F%2Fwww.infopop.com%2Flanding%2Fgoto.php%3Fa%3Dubb.classic&amp;filter=1

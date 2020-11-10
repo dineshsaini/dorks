@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6451
+Category:         Pages Containing Login Portals
+Published Date:   2020-07-26
+Author:           Alexandros Pappas
+GoogleDork:       site:admin.*.*/ intext:"login" intitle:"login"
+Description:      site:admin.*.*/ intext:"login" intitle:"login"
+
+
+# Google Dork: site:admin.*.*/ intext:"login" intitle:"login" # Various admin login pages. # Date: 2/07/2020 # Exploit Author: Alexandros Pappas 

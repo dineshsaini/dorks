@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3788
+Category:         Pages Containing Login Portals
+Published Date:   2012-08-21
+Author:           anonymous
+GoogleDork:       inurl:"cgi-bin/webcgi/main"
+Description:      inurl:"cgi-bin/webcgi/main"
+
+
+inurl:"cgi-bin/webcgi/main" This dork finds indexed public facing Dell Remote Access Card. -n17r0u6

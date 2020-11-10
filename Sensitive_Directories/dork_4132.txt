@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4132
+Category:         Sensitive Directories
+Published Date:   2015-11-13
+Author:           anonymous
+GoogleDork:       intitle:index.of.mail
+Description:      intitle:index.of.mail
+
+
+Dork with juicy info. Enjoy xD. Dork by Rootkit Pentester.

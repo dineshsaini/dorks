@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2465
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "ShopMaker v1.0"
+Description:      "ShopMaker v1.0"
+
+
+ShopMaker 1.0 (product.php id) Remote SQL Injection Vulnerability: https://www.exploit-db.com/exploits/6799

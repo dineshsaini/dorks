@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/497
+Category:         Files Containing Juicy Info
+Published Date:   2004-09-11
+Author:           anonymous
+GoogleDork:       filetype:pst inurl:"outlook.pst"
+Description:      filetype:pst inurl:"outlook.pst"
+
+
+All versions of the popular business groupware client called Outlook have the possibility to store email, calenders and more in a file for backup or migration purposes.An attacker may learn a great deal about the owner or the company by downloading these files and importing them in his own client for his viewing pleasure.

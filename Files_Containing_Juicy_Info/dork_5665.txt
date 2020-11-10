@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5665
+Category:         Files Containing Juicy Info
+Published Date:   2019-12-12
+Author:           Aamir Rehman
+GoogleDork:       inurl:"web.config" &amp; intext:"Data Source" &amp; "User ID" &amp; "Password" &amp; "connectionString" &amp; ext:config -git
+Description:      inurl:"web.config" &amp; intext:"Data Source" &amp; "User ID" &amp; "Password" &amp; "connectionString" &amp; ext:config -git
+
+
+##Google Dork: inurl:"web.config" &amp; intext:"Data Source" &amp; "User ID" &amp; "Password" &amp; "connectionString" &amp; ext:config -git ##Description:   The above dork will show all the readable web.config files, which includes connection strings of database like server ip, database username, database password etc. ## Submission date: 12/12/2019. ## Author : Aamir Rehman. ## Social : fb.com/yousafzian2 

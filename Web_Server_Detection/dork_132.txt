@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/132
+Category:         Web Server Detection
+Published Date:   2004-03-18
+Author:           anonymous
+GoogleDork:       allintitle:Netscape FastTrack Server Home Page
+Description:      allintitle:Netscape FastTrack Server Home Page
+
+
+This finds default installations of Netscape Fasttrack Server. In many cases, default installations can be insecure especially considering that the administrator hasn't gotten past the first few installation steps.

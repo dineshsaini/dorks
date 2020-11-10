@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2853
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:index.php?option=com_lowcosthotels
+Description:      inurl:index.php?option=com_lowcosthotels
+
+
+Joomla Component com_lowcosthotels (id) Blind SQL Injection Vuln - CVE: 2008-5864: https://www.exploit-db.com/exploits/7567

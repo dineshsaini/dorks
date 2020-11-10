@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1107
+Category:         Sensitive Directories
+Published Date:   2005-09-13
+Author:           anonymous
+GoogleDork:       intitle:"Backup-Management (phpMyBackup v.0.4 beta * )" -johnny.ihackstuff
+Description:      intitle:"Backup-Management (phpMyBackup v.0.4 beta * )" -johnny.ihackstuff
+
+
+phpMyBackup is an mySQL backup tool, with features like copying backups to a different server using FTP.

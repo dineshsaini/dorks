@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5162
+Category:         Sensitive Directories
+Published Date:   2019-03-25
+Author:           Jayson Zabate
+GoogleDork:       intitle:"index of" "db"
+Description:      intitle:"index of" "db"
+
+
+Exploit : Access the sensitive directories using "db" file.  Google Dork : intitle:"index of" "db"  Exploit Author:- Jayson Zabate URL :- https://invalidwebsecurity.info/ 

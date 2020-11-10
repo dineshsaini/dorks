@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3869
+Category:         Pages Containing Login Portals
+Published Date:   2013-08-08
+Author:           anonymous
+GoogleDork:       intext:"I'm using a public or shared computer" &amp; intext:"Remote Web Workplace"
+Description:      intext:"I'm using a public or shared computer" &amp; intext:"Remote Web Workplace"
+
+
+#Summary: Windows Business Server 2003 Login portal #Category: Pages containing login portals #Author: g00gl3 5c0u7

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1068
+Category:         Pages Containing Login Portals
+Published Date:   2005-08-15
+Author:           anonymous
+GoogleDork:       "inspanel" intitle:"login" -"cannot" "Login ID" -site:inspediumsoft.com
+Description:      "inspanel" intitle:"login" -"cannot" "Login ID" -site:inspediumsoft.com
+
+
+This finds all versions of the inspanel login page.

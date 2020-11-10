@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/754
+Category:         Sensitive Directories
+Published Date:   2004-12-05
+Author:           anonymous
+GoogleDork:       intitle:"index of" "parent directory" "desktop.ini" site:dyndns.org
+Description:      intitle:"index of" "parent directory" "desktop.ini" site:dyndns.org
+
+
+This search uses desktop.ini to track users with a webserver running on their desktop computers. It can easily be extended to find specific documents.

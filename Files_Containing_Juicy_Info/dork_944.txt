@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/944
+Category:         Files Containing Juicy Info
+Published Date:   2005-04-26
+Author:           anonymous
+GoogleDork:       "MacHTTP" filetype:log inurl:machttp.log
+Description:      "MacHTTP" filetype:log inurl:machttp.log
+
+
+MacHTTP is an webserver for Macs running OS 6-9.x. It's pretty good for older Macs but the default install leaves the MacHTTP.log file open to access.

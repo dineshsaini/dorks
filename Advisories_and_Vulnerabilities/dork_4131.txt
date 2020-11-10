@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4131
+Category:         Advisories and Vulnerabilities
+Published Date:   2015-11-13
+Author:           anonymous
+GoogleDork:       " Proudly Served by LiteSpeed Web Server" intitle:index.of./
+Description:      " Proudly Served by LiteSpeed Web Server" intitle:index.of./
+
+
+Servers with vulnerability who exploit in this link: https://www.exploit-db.com/exploits/13850/ Dork by Rootkit Pentester.

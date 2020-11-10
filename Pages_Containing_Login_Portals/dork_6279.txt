@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6279
+Category:         Pages Containing Login Portals
+Published Date:   2020-06-15
+Author:           Nikhil Kumar
+GoogleDork:       index of "jira" inurl:login
+Description:      index of "jira" inurl:login
+
+
+Dork: index of "jira" inurl:login Date: 2020-06-14 Regards, Nikhil Kumar 

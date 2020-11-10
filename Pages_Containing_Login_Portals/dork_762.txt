@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/762
+Category:         Pages Containing Login Portals
+Published Date:   2004-12-13
+Author:           anonymous
+GoogleDork:       intitle:"vhost" intext:"vHost . 2000-2004"
+Description:      intitle:"vhost" intext:"vHost . 2000-2004"
+
+
+vHost is a one-step solution for all virtual hosting needs. It enables a Linux/BSD server with single or multiple IP addresses to function as unlimited virtual hosts with HTTP, FTP, SMTP, POP3, IMAP, and other virtual services extentable via modules. It comes with both command-line and web-based graphical user interfaces, which give maximum control to a domain's owner, while relieving the system administrator of most routine administration tasks.

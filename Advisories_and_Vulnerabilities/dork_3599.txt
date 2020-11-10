@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3599
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by Shadowed Portal"
+Description:      "Powered by Shadowed Portal"
+
+
+Shadowed Portal 5.7d3 Remote Command Execution Exploit: https://www.exploit-db.com/exploits/4768

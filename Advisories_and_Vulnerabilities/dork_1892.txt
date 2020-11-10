@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1892
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intitle:"ITech Bids"
+Description:      intitle:"ITech Bids"
+
+
+ITechBids 5.0 (bidhistory.php item_id) Remote SQL Injection Vulnerability - CVE: 2008-0692: https://www.exploit-db.com/exploits/5056

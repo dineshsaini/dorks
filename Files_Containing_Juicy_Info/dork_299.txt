@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/299
+Category:         Files Containing Juicy Info
+Published Date:   2004-07-06
+Author:           anonymous
+GoogleDork:       Unreal IRCd
+Description:      Unreal IRCd
+
+
+Development of UnrealIRCd began in 1999. Unreal was created from the Dreamforge IRCd that was formerly used by the DALnet IRC Network and is designed to be an advanced IRCd. Unreal can run on several operating systems. Unreal works on most *nix OSes including Linux, BSD, MacOS X, Solaris, and HP-UX. Unreal also works on Windows (95/98/ME NT4/2K/XP/2003).This search finds configuration files to Unreal IRCd. An attacker can use these to possibly determine the oper passwd. Be warned that there are samples in the results.

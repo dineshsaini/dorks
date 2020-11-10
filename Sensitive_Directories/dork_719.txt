@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/719
+Category:         Sensitive Directories
+Published Date:   2004-11-28
+Author:           anonymous
+GoogleDork:       intext:"Powered By: TotalIndex" intitle:"TotalIndex"
+Description:      intext:"Powered By: TotalIndex" intitle:"TotalIndex"
+
+
+TotalIndex v2.0 is an open source script that is designed to replace the simple, and boring default index page of a site which lists the files in an indexed folder. It's not PW protected so an attacker can browse the files and take what they want.

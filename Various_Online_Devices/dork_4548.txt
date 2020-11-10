@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4548
+Category:         Various Online Devices
+Published Date:   2017-07-14
+Author:           anonymous
+GoogleDork:       inurl:login.cgi intitle:NETGEAR
+Description:      inurl:login.cgi intitle:NETGEAR
+
+
+inurl:login.cgi intitle:NETGEAR To find GSS108E ProSAFE PoE+ Click Switches online. Often the default password is "password" :) http://www.fr.netgear.ch/images/datasheet/switches/ClickSwitches/GSS108E_GSS108EPP_GSS116E_DS.pdf - cyberdefense

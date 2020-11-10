@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5782
+Category:         Sensitive Directories
+Published Date:   2020-03-11
+Author:           Juveria Banu
+GoogleDork:       intitle:"index of" "config.py"
+Description:      intitle:"index of" "config.py"
+
+
+The python configuration files can be found using the dork: intitle:"index of" "config.py"  -Juveria Banu 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2796
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by Absolute Podcast"
+Description:      "Powered by Absolute Podcast"
+
+
+Absolute Podcast 1.0 Remote Insecure Cookie Handling Vulnerability - CVE: 2008-6857: https://www.exploit-db.com/exploits/6882

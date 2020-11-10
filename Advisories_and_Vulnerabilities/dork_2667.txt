@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2667
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by Article Directory
+Description:      Powered by Article Directory
+
+
+Authenication Bypass Vulnerability in Articles Directory: https://www.exploit-db.com/exploits/12445

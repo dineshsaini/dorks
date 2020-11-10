@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2234
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"module=helpcenter"
+Description:      inurl:"module=helpcenter"
+
+
+Help Center Live 2.0.6(module=helpcenter&amp;file=) Local File Inclusion - CVE: 2010-1652: https://www.exploit-db.com/exploits/12421

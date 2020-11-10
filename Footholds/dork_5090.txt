@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5090
+Category:         Footholds
+Published Date:   2019-02-05
+Author:           Brain Reflow
+GoogleDork:       intitle:"InfluxDB - Admin Interface" -github
+Description:      intitle:"InfluxDB - Admin Interface" -github
+
+
+Dork about InfluxDB without password InfluxDB - Open Source Time Series DB Platform for Metrics &amp; Events (Time Series Data)   intitle:"InfluxDB - Admin Interface" -github   Author : *.doc-TOR aka Brain Reflow https://twitter.com/The_d0c_T0R 

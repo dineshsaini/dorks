@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4465
+Category:         Files Containing Juicy Info
+Published Date:   2017-05-05
+Author:           anonymous
+GoogleDork:       "HTTP" inurl:"access.log" ext:log
+Description:      "HTTP" inurl:"access.log" ext:log
+
+
+Finds logs which contain info about website activity Dxtroyer

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/97
+Category:         Error Messages
+Published Date:   2004-08-25
+Author:           anonymous
+GoogleDork:       "Warning: pg_connect(): Unable to connect to PostgreSQL server: FATAL"
+Description:      "Warning: pg_connect(): Unable to connect to PostgreSQL server: FATAL"
+
+
+This search reveals Postgresql servers in yet another way then we had seen before. Path information appears in the error message and sometimes database names.

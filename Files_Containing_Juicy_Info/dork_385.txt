@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/385
+Category:         Files Containing Juicy Info
+Published Date:   2004-07-28
+Author:           anonymous
+GoogleDork:       intitle:"Index Of" -inurl:maillog maillog size
+Description:      intitle:"Index Of" -inurl:maillog maillog size
+
+
+This google search reveals all maillog files within various directories on a webserver. This search brings back 872 results to-date, all of which contain various chunks of information (ie. Usernames, email adresses, Login/Logout times of users, IPAdresses, directories on the server ect. ect.)Someone, with this information could dig up info on the server before trying to penetrate it by finding usernames, and email adresses of accounts on the server.

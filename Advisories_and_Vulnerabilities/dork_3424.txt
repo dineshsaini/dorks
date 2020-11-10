@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3424
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by Burning Board" -exploit -johnny
+Description:      "Powered by Burning Board" -exploit -johnny
+
+
+Woltlab Burning Board Lite 1.0.2pl3e (pms.php) SQL Injection - CVE: 2007-0812: https://www.exploit-db.com/exploits/3262

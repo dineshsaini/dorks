@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6557
+Category:         Files Containing Passwords
+Published Date:   2020-09-22
+Author:           Alexandros Pappas
+GoogleDork:       intitle:"database.php" inurl:"database.php" intext:"db_password" -git -gitlab
+Description:      intitle:"database.php" inurl:"database.php" intext:"db_password" -git -gitlab
+
+
+# Google Dork: intitle:"database.php" inurl:"database.php" intext:"db_password" -git -gitlab # Exposed database usernames and passwords. # Date: 22/09/2020 # Exploit Author: Alexandros Pappas 

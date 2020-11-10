@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4359
+Category:         Various Online Devices
+Published Date:   2016-11-28
+Author:           anonymous
+GoogleDork:       intitle:"Login" inurl:"/doc/page/login.asp"
+Description:      intitle:"Login" inurl:"/doc/page/login.asp"
+
+
+Interface for HikVision web cam Google Dork: intitle:"Login" inurl:"/doc/page/login.asp" Date: 2016-11-28 Author: Devendra Singh Solanki

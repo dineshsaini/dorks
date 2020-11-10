@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5890
+Category:         Pages Containing Login Portals
+Published Date:   2020-04-16
+Author:           Reza Abasi
+GoogleDork:       inurl:"/auth.php?forgot_password=yes"
+Description:      inurl:"/auth.php?forgot_password=yes"
+
+
+Login Portal:  inurl:"/auth.php?forgot_password=yes"  Reza Abasi(Turku) 

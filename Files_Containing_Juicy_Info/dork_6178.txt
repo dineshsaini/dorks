@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6178
+Category:         Files Containing Juicy Info
+Published Date:   2020-06-04
+Author:           Abhinav Porwal
+GoogleDork:       intitle:"index of" "security.php"
+Description:      intitle:"index of" "security.php"
+
+
+Dork: intitle:"index of" "security.php"  Description: This google dork lists out sensitive security logs in web servers.  Author: Abhinav Porwal 

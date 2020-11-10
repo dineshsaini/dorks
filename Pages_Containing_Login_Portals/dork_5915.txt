@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5915
+Category:         Pages Containing Login Portals
+Published Date:   2020-04-20
+Author:           Alexandros Pappas
+GoogleDork:       site:*/test/login
+Description:      site:*/test/login
+
+
+# Google Dork: site:*/test/login  # By using this dork, pages containing various login portals can be found.  # Date: 17/04/2020  # Author: Alexandros Pappas 

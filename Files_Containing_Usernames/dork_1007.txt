@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1007
+Category:         Files Containing Usernames
+Published Date:   2005-06-05
+Author:           anonymous
+GoogleDork:       intext:"SteamUserPassphrase=" intext:"SteamAppUser=" -"username" -"user"
+Description:      intext:"SteamUserPassphrase=" intext:"SteamAppUser=" -"username" -"user"
+
+
+This will search for usernames and passwords for steam (www.steampowered.com) taken from the SteamApp.cfg file.

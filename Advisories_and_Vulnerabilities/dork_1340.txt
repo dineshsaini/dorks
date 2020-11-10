@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1340
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-04-25
+Author:           anonymous
+GoogleDork:       inurl:resetcore.php ext:php
+Description:      inurl:resetcore.php ext:php
+
+
+e107 is a content management system written in php and using the popular open source mySQL database system for content storage. It's completely free and totally customisable, and in constant development.rgods exploit:http://retrogod.altervista.org/e107remote.html

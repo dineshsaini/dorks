@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/189
+Category:         Files Containing Juicy Info
+Published Date:   2004-04-28
+Author:           anonymous
+GoogleDork:       inurl:server-info "Apache Server Information"
+Description:      inurl:server-info "Apache Server Information"
+
+
+This is the Apache server-info program. There is so much sensitive stuff listed on this page that it's hard to list it all here. Some informatino listed here includes server version and build, software versions, hostnames, ports, path info, modules installed, module info, configuration data and so much more....

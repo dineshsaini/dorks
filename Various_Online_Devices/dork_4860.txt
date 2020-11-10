@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4860
+Category:         Various Online Devices
+Published Date:   2018-06-18
+Author:           Brain Reflow
+GoogleDork:       inurl:'/SSI/Auth/ip_configuration.htm'
+Description:      inurl:'/SSI/Auth/ip_configuration.htm'
+
+
+Dork about internal IP exposures and configuration from HP Printer  inurl:'/SSI/Auth/ip_configuration.htm'  Author : *.doc-TOR aka Brain Reflow https://twitter.com/The_d0c_T0R 

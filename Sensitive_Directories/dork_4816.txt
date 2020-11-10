@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4816
+Category:         Sensitive Directories
+Published Date:   2018-05-11
+Author:           Sang Bui
+GoogleDork:       "Powered by Apache Subversion version"
+Description:      "Powered by Apache Subversion version"
+
+
+ Looking for the SVN source code folder.  Sang Bui 

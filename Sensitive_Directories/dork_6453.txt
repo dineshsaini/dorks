@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6453
+Category:         Sensitive Directories
+Published Date:   2020-07-27
+Author:           Alexandros Pappas
+GoogleDork:       "Share Link" inurl:/share.cgi?ssid=
+Description:      "Share Link" inurl:/share.cgi?ssid=
+
+
+# Google Dork: "Share Link" inurl:/share.cgi?ssid=  # myQnap cloud servers files and folder shared.  # Date: 27/07/2020  # Exploit Author: Alexandros Pappas 

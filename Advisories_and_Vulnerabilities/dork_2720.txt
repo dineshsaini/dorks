@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2720
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:com_ezautos
+Description:      inurl:com_ezautos
+
+
+Joomla Component (com_ezautos) SQL Injection Vulnerability: https://www.exploit-db.com/exploits/15085

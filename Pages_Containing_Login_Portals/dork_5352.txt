@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5352
+Category:         Pages Containing Login Portals
+Published Date:   2019-08-15
+Author:           M. Cory Billington
+GoogleDork:       intitle:"EdgeOS" intext:"Please login"
+Description:      intitle:"EdgeOS" intext:"Please login"
+
+
+Dork: intitle:"EdgeOS" intext:"Please login" Author: M. Cory Billington Info: Contains login portals for Ubiquiti devices running EdgeOS 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1859
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by SH-News 3.0
+Description:      Powered by SH-News 3.0
+
+
+SH-News 3.0 (comments.php id) Remote SQL Injection Vulnerability - CVE: 2007-6391: https://www.exploit-db.com/exploits/4709

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4058
+Category:         Files Containing Juicy Info
+Published Date:   2015-08-21
+Author:           anonymous
+GoogleDork:       inurl: mil|/issue.php filetype:xls
+Description:      inurl: mil|/issue.php filetype:xls
+
+
+Files containing juicy info of the involved current issuers Author : aye_robot

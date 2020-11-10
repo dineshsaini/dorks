@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6630
+Category:         Sensitive Directories
+Published Date:   2020-10-21
+Author:           Tuhin Bose
+GoogleDork:       inurl: /.git
+Description:      inurl: /.git
+
+
+# DorK: inurl: /.git # Author Name: Tuhin Bose  Description: Contains sensitive info about github repos. 

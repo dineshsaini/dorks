@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2759
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"com_wmtpic"
+Description:      inurl:"com_wmtpic"
+
+
+Joomla Component com_wmtpic 1.0 SQL Injection Vulnerability: https://www.exploit-db.com/exploits/14128

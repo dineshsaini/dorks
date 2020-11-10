@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6571
+Category:         Files Containing Passwords
+Published Date:   2020-09-24
+Author:           Sahil Saxena
+GoogleDork:       "index of" "password.ini"
+Description:      "index of" "password.ini"
+
+
+# Google Dork: "index of" "password.ini" # Description :- Dork shows configuration files for password. # Date: 23/09/2020 # Author: Sahil Saxena # LinkedIn: https://www.linkedin.com/in/sahil-saxena-1333b9174  Thanks, Sahil Saxena 

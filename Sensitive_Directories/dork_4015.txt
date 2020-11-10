@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4015
+Category:         Sensitive Directories
+Published Date:   2015-06-04
+Author:           anonymous
+GoogleDork:       intitle:"index of" "onetoc2" "one"
+Description:      intitle:"index of" "onetoc2" "one"
+
+
+# Exploit Title: intitle:"index of" "onetoc2" "one" # Google Dork: intitle:"index of" "onetoc2" "one" # Date: 04/06/2015 # Exploit Author: Sphearis # Vendor Homepage: NA # Software Link: NA # Version: NA # Tested on: ALL # CVE : NA This dork allows you to see Onenote files stored in the open(*.one). These files can be read easily with Onenote or a compatible viewer, no password, no encryption. The onetoc2 is added, it's a worthless file but is always inside a folder containing one or several onenote files(and it obviously helps narrowing the search to what we're looking for).

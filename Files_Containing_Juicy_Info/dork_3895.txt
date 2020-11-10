@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3895
+Category:         Files Containing Juicy Info
+Published Date:   2013-09-24
+Author:           anonymous
+GoogleDork:       inurl:*/webalizer/* intitle:"Usage Statistics"
+Description:      inurl:*/webalizer/* intitle:"Usage Statistics"
+
+
+*Obrigado,*

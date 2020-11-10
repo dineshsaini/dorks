@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4605
+Category:         Files Containing Passwords
+Published Date:   2017-10-30
+Author:           adam oczos
+GoogleDork:       site:trello.com password
+Description:      site:trello.com password
+
+
+This will bring public Trello boards often containing user names and passwords. You can guess the context from the other cards published or fine-tune the query to probe boards you're interested in.  

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1362
+Category:         Pages Containing Login Portals
+Published Date:   2006-05-03
+Author:           anonymous
+GoogleDork:       intitle:"SHOUTcast Administrator" inurl:admin.cgi
+Description:      intitle:"SHOUTcast Administrator" inurl:admin.cgi
+
+
+Login pages for SHOUTcast"SHOUTcast is a free-of-charge audio homesteading solution. It permits anyone on the internet to broadcast audio from their PC to listeners across the Internet or any other IP-based network (Office LANs, college campuses, etc.).SHOUTcast's underlying technology for audio delivery is MPEG Layer 3, also known as MP3 technology. The SHOUTcast system can deliver audio in a live situation, or can deliver audio on-demand for archived broadcasts. "

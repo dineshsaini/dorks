@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/931
+Category:         Various Online Devices
+Published Date:   2005-04-12
+Author:           anonymous
+GoogleDork:       inurl:JPGLogin.htm
+Description:      inurl:JPGLogin.htm
+
+
+webserver detection for GeoHttpServer, the page is the login page or guest cam. Don't ask why these are mostly doggy cams, weirdness.

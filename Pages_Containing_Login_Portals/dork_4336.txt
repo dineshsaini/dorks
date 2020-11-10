@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4336
+Category:         Pages Containing Login Portals
+Published Date:   2016-10-03
+Author:           anonymous
+GoogleDork:       inurl:/?skipANDROID=true intext:"Pydio Community"
+Description:      inurl:/?skipANDROID=true intext:"Pydio Community"
+
+
+Pydio Community, Cloud and Secure FTP server logins. -Xploit

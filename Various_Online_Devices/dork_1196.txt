@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1196
+Category:         Various Online Devices
+Published Date:   2005-11-16
+Author:           anonymous
+GoogleDork:       intitle:"Summit Management Interface" -georgewbush.org.uk
+Description:      intitle:"Summit Management Interface" -georgewbush.org.uk
+
+
+Extreme Networks Summit Switches Web admin pages. Server: Allegro-Software-RomPager/2.10

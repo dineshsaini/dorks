@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5678
+Category:         Sensitive Directories
+Published Date:   2019-12-30
+Author:           Osman Arif
+GoogleDork:       index of /storage/logs/
+Description:      index of /storage/logs/
+
+
+[*] Description: This dork will give you informational Logs of Laravel framework.  [*] Google Dork: index of /storage/logs/  [*] Author: Osman Arif 

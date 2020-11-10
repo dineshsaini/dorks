@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5409
+Category:         Files Containing Juicy Info
+Published Date:   2019-08-20
+Author:           Nicolas Varona Sosa
+GoogleDork:       ext:sql intext:contrasena
+Description:      ext:sql intext:contrasena
+
+
+Files Containing Juicy Info Spanish word for password. Regularly used in coding, projects or templates.  Nicolas Varona Sosa 

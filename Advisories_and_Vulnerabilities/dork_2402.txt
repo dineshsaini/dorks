@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2402
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by NovaBoard v1.1.2"
+Description:      "Powered by NovaBoard v1.1.2"
+
+
+NovaBoard v1.1.2 SQL Injection Vulnerability - CVE: 2010-0608: https://www.exploit-db.com/exploits/11278

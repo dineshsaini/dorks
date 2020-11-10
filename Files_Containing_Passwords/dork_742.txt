@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/742
+Category:         Files Containing Passwords
+Published Date:   2004-12-02
+Author:           anonymous
+GoogleDork:       inurl:filezilla.xml -cvs
+Description:      inurl:filezilla.xml -cvs
+
+
+filezilla.xml contains Sites,Logins and crypted Passwords of ftp connections made with the open source programm filezilla.

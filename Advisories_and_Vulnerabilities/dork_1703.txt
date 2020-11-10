@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1703
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "com_joomlaflashfun"
+Description:      "com_joomlaflashfun"
+
+
+Joomla Component Flash Fun! 1.0 Remote File Inclusion Vulnerability - CVE: 2007-4955: https://www.exploit-db.com/exploits/4415

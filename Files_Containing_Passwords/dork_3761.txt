@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3761
+Category:         Files Containing Passwords
+Published Date:   2011-12-14
+Author:           anonymous
+GoogleDork:       filetype:sql inurl:wp-content/backup-*
+Description:      filetype:sql inurl:wp-content/backup-*
+
+
+Search for WordPress MySQL database backup. Author: AngelParrot

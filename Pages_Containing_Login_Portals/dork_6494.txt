@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6494
+Category:         Pages Containing Login Portals
+Published Date:   2020-08-24
+Author:           Alexandros Pappas
+GoogleDork:       inurl:/login.asp "Configuration and Management"
+Description:      inurl:/login.asp "Configuration and Management"
+
+
+# Google Dork: inurl:/login.asp "Configuration and Management" # Configuration and Management login portals. # Date: 20/08/2020 # Exploit Author: Alexandros Pappas 

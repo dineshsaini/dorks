@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4276
+Category:         Various Online Devices
+Published Date:   2016-05-02
+Author:           anonymous
+GoogleDork:       inurl:"/owncloud/public.php" -github -forum
+Description:      inurl:"/owncloud/public.php" -github -forum
+
+
+Dork for shared files Owncloud. Have Fun. Regards. Rootkit Pentester.

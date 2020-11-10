@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6301
+Category:         Vulnerable Servers
+Published Date:   2020-06-17
+Author:           Alexandros Pappas
+GoogleDork:       intext:"Powered By Gila CMS"
+Description:      intext:"Powered By Gila CMS"
+
+
+# Google Dork: intext:"Powered By Gila CMS" # Gila CMS 1.9.1 - Cross-Site Scripting. This dork is linked to the # following existing exploit: https://www.exploit-db.com/exploits/46557  # Date: 17/06/2020  # Exploit Author: Alexandros Pappas 

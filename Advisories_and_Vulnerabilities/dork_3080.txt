@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3080
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:index.php?option=com_paxgallery
+Description:      inurl:index.php?option=com_paxgallery
+
+
+Joomla Component com_paxgallery Blind Injection Vulnerability: https://www.exploit-db.com/exploits/11595

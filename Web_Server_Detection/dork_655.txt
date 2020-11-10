@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/655
+Category:         Web Server Detection
+Published Date:   2004-11-07
+Author:           anonymous
+GoogleDork:       "Switch to table format" inurl:table|plain
+Description:      "Switch to table format" inurl:table|plain
+
+
+This is an index page of OReilly WebSite Professional.WebsitePro was developed by O'reily and disconinued on August 2001. The product was then continued by Deerfield.com

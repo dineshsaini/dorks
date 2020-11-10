@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6093
+Category:         Pages Containing Login Portals
+Published Date:   2020-05-18
+Author:           MiningOmerta
+GoogleDork:       inurl:/emptyView4.html
+Description:      inurl:/emptyView4.html
+
+
+#Author: MiningOmerta #Finds outdated and publicly exposed Sonicwall Firewalls. If one erases emptyView4.html once at the website and instead uses # the less indexed http://site/auth1.html, it will typically show the Perimeter Firewall login page # from the link on that page you can navigate to https://site/sslvpnLogin.html which will usually to domain VPN login with domain(s) name listed in the dropdown.  Dork:  inurl:/emptyView4.html 

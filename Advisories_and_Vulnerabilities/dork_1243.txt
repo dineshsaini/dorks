@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1243
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-01-02
+Author:           anonymous
+GoogleDork:       intext:"Powered by DEV web management system" -dev-wms.sourceforge.net -demo
+Description:      intext:"Powered by DEV web management system" -dev-wms.sourceforge.net -demo
+
+
+DEV cms

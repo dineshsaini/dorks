@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6141
+Category:         Sensitive Directories
+Published Date:   2020-05-28
+Author:           Manish Kumar
+GoogleDork:       intitle:"index of" "admin/config"
+Description:      intitle:"index of" "admin/config"
+
+
+Dork:- intitle:"index of" "admin/config"  Description:- This google dorks will find some Juicy Information about the admin-config file.  Author:- Manish Kumar  

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4077
+Category:         Sensitive Directories
+Published Date:   2015-09-10
+Author:           anonymous
+GoogleDork:       intitle:"Index.of" "attachments"
+Description:      intitle:"Index.of" "attachments"
+
+
+Directories with interesting info. Have Fun Responsible. Dork by Rootkit Pentester.

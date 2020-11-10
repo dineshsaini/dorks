@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1345
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-04-25
+Author:           anonymous
+GoogleDork:       "This script was created by Php-ZeroNet" "Script . Php-ZeroNet"
+Description:      "This script was created by Php-ZeroNet" "Script . Php-ZeroNet"
+
+
+Php-ZeroNet is a script comprised of php allowing webmasters to start a online community. Php-ZeroNet features Content Management, News posting, User CP, interactive sytem, etc. Php-ZeroNet uses a wide range of different cases in its script, it can adaptmy exploit:http://fr0zen.no-ip.org/phpnetzero-1.2.1_xpl.phps

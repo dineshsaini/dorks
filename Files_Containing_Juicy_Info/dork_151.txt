@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/151
+Category:         Files Containing Juicy Info
+Published Date:   2004-04-05
+Author:           anonymous
+GoogleDork:       "#mysql dump" filetype:sql
+Description:      "#mysql dump" filetype:sql
+
+
+This reveals mySQL database dumps. These database dumps list the structure and content of databases, which can reveal many different types of sensitive information.

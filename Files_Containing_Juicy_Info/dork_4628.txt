@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4628
+Category:         Files Containing Juicy Info
+Published Date:   2017-12-07
+Author:           Aamir Rehman
+GoogleDork:       intext:Server.MapPath(".mdb") ext:asp
+Description:      intext:Server.MapPath(".mdb") ext:asp
+
+
+Dork: intext:Server.MapPath(".mdb") ext:asp Above Dork will show source code of asp file which contain path to local database. Most of these databases contain Admin/User credentials.   Thanks Aamir Rehman 

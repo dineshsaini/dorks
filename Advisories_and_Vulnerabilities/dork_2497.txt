@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2497
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:com_brightweblinks
+Description:      inurl:com_brightweblinks
+
+
+Joomla Component com_brightweblinks (catid) SQL Injection Vulnerability - CVE: 2008-3083: https://www.exploit-db.com/exploits/5993

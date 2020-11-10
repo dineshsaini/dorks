@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5257
+Category:         Pages Containing Login Portals
+Published Date:   2019-06-17
+Author:           Zerconil
+GoogleDork:       intext:"evetsites" "Login"
+Description:      intext:"evetsites" "Login"
+
+
+Login portals for all sites hosted by popular veterinary hosting platform eVetSites  Zerconil 

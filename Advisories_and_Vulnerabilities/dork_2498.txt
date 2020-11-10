@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2498
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by: PhotoPost PHP 4.6" or "Powered by: PhotoPost PHP 4.5"
+Description:      "Powered by: PhotoPost PHP 4.6" or "Powered by: PhotoPost PHP 4.5"
+
+
+PhotoPost 4.6 (PP_PATH) Remote File Include Vulnerability - CVE: 2006-4828: https://www.exploit-db.com/exploits/2369

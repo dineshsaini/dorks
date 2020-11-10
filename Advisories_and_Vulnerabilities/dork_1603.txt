@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1603
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:classified.php phpbazar
+Description:      inurl:classified.php phpbazar
+
+
+phpBazar 2.1.0 Remote (Include/Auth Bypass) Vulnerabilities - CVE: 2006-2527: https://www.exploit-db.com/exploits/1804

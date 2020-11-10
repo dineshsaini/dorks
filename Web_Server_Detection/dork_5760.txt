@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5760
+Category:         Web Server Detection
+Published Date:   2020-03-02
+Author:           Harshit Shukla
+GoogleDork:       site:ftp.*.com "Web File Manager"
+Description:      site:ftp.*.com "Web File Manager"
+
+
+This google dork searches for "Rumpus FTP Web File Manager".  Dork: site:ftp.*.com "Web File Manager"  Harshit Shukla 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/306
+Category:         Advisories and Vulnerabilities
+Published Date:   2004-07-02
+Author:           anonymous
+GoogleDork:       vBulletin version 3.0.1 newreply.php XSS
+Description:      vBulletin version 3.0.1 newreply.php XSS
+
+
+vBulletin is a customizable forums package for web sites. It has been written in PHP and is complimented with MySQL. While a user is previewing the post, both newreply.php and newthread.php correctly sanitize the input in 'Preview', but not Edit-panel. Malicious code can be injected by an attacker through this flaw. More information at http://www.securityfocus.com/bid/10612/.

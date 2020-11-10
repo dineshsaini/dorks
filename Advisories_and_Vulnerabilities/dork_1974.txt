@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1974
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by: Maian Links v3.1
+Description:      Powered by: Maian Links v3.1
+
+
+Maian Links 3.1 Insecure Cookie Handling Vulnerability - CVE: 2008-3319: https://www.exploit-db.com/exploits/6062

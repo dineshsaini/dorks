@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/567
+Category:         Pages Containing Login Portals
+Published Date:   2004-10-14
+Author:           anonymous
+GoogleDork:       intitle:"Philex 0.2*" -script -site:freelists.org
+Description:      intitle:"Philex 0.2*" -script -site:freelists.org
+
+
+Philex (phile 'file' explorer) is a web content manager based php what philex can do ? - easy navigation with tree structure - create, delete, rename, copy and move folders/files. - download files (normal or compressed :zip, gz, bz ). - download many files as one compressed file. - send files by email. - upload local files to server

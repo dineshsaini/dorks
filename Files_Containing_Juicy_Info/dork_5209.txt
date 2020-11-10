@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5209
+Category:         Files Containing Juicy Info
+Published Date:   2019-05-13
+Author:           edm0nd
+GoogleDork:       "keyed alike" site:gov filetype:pdf
+Description:      "keyed alike" site:gov filetype:pdf
+
+
+Description: Find what city governments in the US are using keyed alike police cruisers and miscellaneous types of locks.  Author: edm0nd https://twitter.com/edmond_major 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1410
+Category:         Various Online Devices
+Published Date:   2006-09-11
+Author:           anonymous
+GoogleDork:       inurl:wrcontrollite
+Description:      inurl:wrcontrollite
+
+
+Browse up to 16 security cameras at one time :)

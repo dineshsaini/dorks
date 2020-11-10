@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4611
+Category:         Sensitive Directories
+Published Date:   2017-11-09
+Author:           felmoltor
+GoogleDork:       inurl:/sym/root/ intitle:index.of
+Description:      inurl:/sym/root/ intitle:index.of
+
+
+Author: Felipe Molina (@felmoltor)  Description:  Probable symbolic links to the root file system of the web server that can be browsable. This can be produced by a missconfiguration of the server or because the server has been already compromised by a third party that wanted to explore the file system of the server easily.  Dork: inurl:/sym/root/ intitle:index.of 

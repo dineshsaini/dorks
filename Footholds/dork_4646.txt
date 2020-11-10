@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4646
+Category:         Footholds
+Published Date:   2018-01-02
+Author:           Huijun Chen
+GoogleDork:       ext:jsp  intext:"jspspy" intitle:"Jspspy web~shell V1.0"
+Description:      ext:jsp  intext:"jspspy" intitle:"Jspspy web~shell V1.0"
+
+
+Find login portals of jspspy webshell. Huijun Chen  

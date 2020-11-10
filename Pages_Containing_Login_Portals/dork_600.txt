@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/600
+Category:         Pages Containing Login Portals
+Published Date:   2004-10-19
+Author:           anonymous
+GoogleDork:       "Login - Sun Cobalt RaQ"
+Description:      "Login - Sun Cobalt RaQ"
+
+
+The famous Sun linux appliance. Nice clean portal search.Various vulnerabilities are reported to security focus.

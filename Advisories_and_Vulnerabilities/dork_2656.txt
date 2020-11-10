@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2656
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allintext:"Latest Pictures" Name Gender Profile Rating
+Description:      allintext:"Latest Pictures" Name Gender Profile Rating
+
+
+Pictures Rating (index.php msgid) Remote SQL Injection Vulnerbility - CVE: 2007-3881: https://www.exploit-db.com/exploits/4191

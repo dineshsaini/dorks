@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2834
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allinurl:buyer/index.php?ProductID=
+Description:      allinurl:buyer/index.php?ProductID=
+
+
+Alibaba Clone Platinum (buyer/index.php) SQL Injection Vulnerability: https://www.exploit-db.com/exploits/12609

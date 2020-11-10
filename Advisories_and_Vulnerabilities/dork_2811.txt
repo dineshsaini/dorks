@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2811
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"member.php?page=comments"
+Description:      inurl:"member.php?page=comments"
+
+
+6ALBlog (newsid) Remote SQL Injection Vulnerability - CVE: 2007-3451: https://www.exploit-db.com/exploits/4104

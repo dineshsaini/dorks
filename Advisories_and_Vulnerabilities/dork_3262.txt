@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3262
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by Gbook MX v4.1.0 ©2003 Magtrb Soft
+Description:      Powered by Gbook MX v4.1.0 ©2003 Magtrb Soft
+
+
+Gbook MX v4.1.0 Arabic Version File Inclusion Vulnerability: https://www.exploit-db.com/exploits/10986

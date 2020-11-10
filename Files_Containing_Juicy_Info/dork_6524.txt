@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6524
+Category:         Files Containing Juicy Info
+Published Date:   2020-09-07
+Author:           Prasad Lingamaiah
+GoogleDork:       Database:phpmyadmin intext:mysql ext:sql inurl:phpmyadmin
+Description:      Database:phpmyadmin intext:mysql ext:sql inurl:phpmyadmin
+
+
+Dorks: Database:phpmyadmin intext:mysql ext:sql inurl:phpmyadmin  Summary: A Google dork that gives the PHPMyAdmin creates table information configutation.  --  Thanks &amp; Regards, Prasad Lingamaiah  

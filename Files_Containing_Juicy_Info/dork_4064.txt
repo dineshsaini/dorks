@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4064
+Category:         Files Containing Juicy Info
+Published Date:   2015-08-27
+Author:           anonymous
+GoogleDork:       inurl:src/viewcvs.cgi/log/.c?=
+Description:      inurl:src/viewcvs.cgi/log/.c?=
+
+
+Vulnerable CVS logs

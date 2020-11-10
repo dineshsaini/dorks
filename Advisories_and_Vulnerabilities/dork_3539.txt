@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3539
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Barbecued by sNews"
+Description:      "Barbecued by sNews"
+
+
+sNews 1.5.30 Remote Reset Admin Pass / Command Exec Exploit - CVE: 2007-0261: https://www.exploit-db.com/exploits/3116

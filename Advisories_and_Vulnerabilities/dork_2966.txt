@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2966
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allintext:"Home Member Search Chat Room Forum Help/Support privacy policy"
+Description:      allintext:"Home Member Search Chat Room Forum Help/Support privacy policy"
+
+
+eMeeting Online Dating Software 5.2 SQL Injection Vulnerabilities: CVE: 2007-3609: https://www.exploit-db.com/exploits/4154

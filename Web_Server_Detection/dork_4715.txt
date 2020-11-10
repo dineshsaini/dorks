@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4715
+Category:         Web Server Detection
+Published Date:   2018-03-27
+Author:           Alwin Warringa
+GoogleDork:       intitle:"Axis Happiness Page" "Examining webapp configuration"
+Description:      intitle:"Axis Happiness Page" "Examining webapp configuration"
+
+
+Reveals sensitive information including a full path disclosure in Apache Axis   Alwin Warringa

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1395
+Category:         Various Online Devices
+Published Date:   2006-06-29
+Author:           anonymous
+GoogleDork:       intitle:"stingray fts login" | ( login.jsp intitle:StingRay )
+Description:      intitle:"stingray fts login" | ( login.jsp intitle:StingRay )
+
+
+The Stingray File Transfer Server: Open communication regardless of platform, protocol or location. Independant of operating system architecture and the type of communication line, StingRay enables fast and simple file transfer.Login= user:(no password) or admin:stingrayPS: only 1 result now.

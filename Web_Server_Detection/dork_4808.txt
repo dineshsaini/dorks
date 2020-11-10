@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4808
+Category:         Web Server Detection
+Published Date:   2018-05-07
+Author:           ManhNho
+GoogleDork:       "RDServer Product information" | inurl:"/rdagent.jsp"
+Description:      "RDServer Product information" | inurl:"/rdagent.jsp"
+
+
+"RDServer Product information" | inurl:"/rdagent.jsp"  This dork show RDServer Product information  ManhNho 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/564
+Category:         Advisories and Vulnerabilities
+Published Date:   2004-10-13
+Author:           anonymous
+GoogleDork:       inurl:"messageboard/Forum.asp?"
+Description:      inurl:"messageboard/Forum.asp?"
+
+
+Multiple vulnerabilities have been found in GoSmart Message Board. A remote user can conduct SQL injection attack and Cross site scripting attack. http://www.securityfocus.com/bid/11361

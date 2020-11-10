@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5617
+Category:         Sensitive Directories
+Published Date:   2019-11-04
+Author:           Ismail Tasdelen
+GoogleDork:       intitle:index.of "system.db"
+Description:      intitle:index.of "system.db"
+
+
+Sensitive Directories:  intitle:index.of "system.db" intitle:index.of "hash.db" intitle:index.of "sql.db"  Author: Ismail Tasdelen 

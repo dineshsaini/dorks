@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2006
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:index.php?mod=sondages
+Description:      inurl:index.php?mod=sondages
+
+
+KwsPHP 1.0 sondages Module Remote SQL Injection Vulnerability - CVE: 2007-4979: https://www.exploit-db.com/exploits/4422

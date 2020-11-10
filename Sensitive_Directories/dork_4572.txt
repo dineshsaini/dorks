@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4572
+Category:         Sensitive Directories
+Published Date:   2017-08-07
+Author:           anonymous
+GoogleDork:       "m.zippyshare.com/"
+Description:      "m.zippyshare.com/"
+
+
+maybe directory trick listener i dont know but useful :) type on google this this form.: "m.zippyshare.com/" - zoltan

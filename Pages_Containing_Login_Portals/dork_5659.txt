@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5659
+Category:         Pages Containing Login Portals
+Published Date:   2019-12-02
+Author:           sh4d0w
+GoogleDork:       intitle:"TMSoft MyAuth Gateway 3" -DOWNLOAD
+Description:      intitle:"TMSoft MyAuth Gateway 3" -DOWNLOAD
+
+
+Dork for search any pages of MyAuth software 

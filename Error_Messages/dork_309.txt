@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/309
+Category:         Error Messages
+Published Date:   2004-07-09
+Author:           anonymous
+GoogleDork:       intext:"Warning: Failed opening" "on line" "include_path"
+Description:      intext:"Warning: Failed opening" "on line" "include_path"
+
+
+These error messages reveal information about the application that created them as well as revealing path names, php file names, line numbers and include paths.

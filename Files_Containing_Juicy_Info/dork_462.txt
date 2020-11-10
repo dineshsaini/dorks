@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/462
+Category:         Files Containing Juicy Info
+Published Date:   2004-09-07
+Author:           anonymous
+GoogleDork:       inurl:snitz_forums_2000.mdb
+Description:      inurl:snitz_forums_2000.mdb
+
+
+The SnitzTM Forums 2000 Version 3.4.04 Installation Guide and Readme says: "it is strongly recommended that you change the default database name from snitz_forums_2000.mdb to a cryptic or not easy to guess name."Of course, we know readme's are for lamers.. right admins ?[murfie@forofo googledorks]$ mdb-export snitz_forums_2000.mdb FORUM_MEMBERSMEMBER_ID,M_STATUS,M_NAME,M_USERNAME,M_PASSWORD,M_EMAIL, [etc]1,1,"adminadmin","58180bb12beb55a4bffbxxde75cxxc53dcc8061c3cdee52e0ebdcd74049d374e","yourmail@server.com"," "," ","","",1,1,1,3," "," "," ","20030918120147",2,"20030918120207","20030918120224","Forum Admin","10.xx.xx.72",0,0,1,"000.000.000.000","","","","","","","","","","",""," "," ","",""," ","","","","",1(data xx'd at some points) The password hash value is a SHA256 encoded string (with no salting). Every attacker knows they can be broken with a dictionary attack using a very simpel perl or C program.http://murfnet.xs4all.nl/public/scripts/perl/desnitz.txt

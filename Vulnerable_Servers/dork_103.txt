@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/103
+Category:         Vulnerable Servers
+Published Date:   2004-03-04
+Author:           anonymous
+GoogleDork:       intitle:osCommerce inurl:admin intext:"redistributable under the GNU"intext:"Online Catalog" -demo -site:oscommerce.com
+Description:      intitle:osCommerce inurl:admin intext:"redistributable under the GNU"intext:"Online Catalog" -demo -site:oscommerce.com
+
+
+This is a decent way to explore the admin interface of osCommerce e-commerce sites. Depending on how bad the setup of the web store is, web surfers can even Google their way into customer details and order status, all from the Google cache.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6034
+Category:         Pages Containing Login Portals
+Published Date:   2020-05-06
+Author:           Malkit Singh
+GoogleDork:       inurl:userportal/webpages/myaccount/login.jsp
+Description:      inurl:userportal/webpages/myaccount/login.jsp
+
+
+Juicy information (Firewall Login)  Malkit Singh 

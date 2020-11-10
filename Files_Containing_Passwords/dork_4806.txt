@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4806
+Category:         Files Containing Passwords
+Published Date:   2018-05-07
+Author:           ManhNho
+GoogleDork:       inurl:"/App.Config" + ext:config + "password=" -github -git
+Description:      inurl:"/App.Config" + ext:config + "password=" -github -git
+
+
+inurl:"/App.Config" + ext:config + "password=" -github -git  File containing passwords  ManhNho 

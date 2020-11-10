@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/957
+Category:         Files Containing Juicy Info
+Published Date:   2005-04-27
+Author:           anonymous
+GoogleDork:       ext:ccm ccm -catacomb
+Description:      ext:ccm ccm -catacomb
+
+
+Lotus cc:Mail Mailbox file

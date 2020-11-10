@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1387
+Category:         Various Online Devices
+Published Date:   2006-06-25
+Author:           anonymous
+GoogleDork:       allintitle:Edr1680 remote viewer
+Description:      allintitle:Edr1680 remote viewer
+
+
+Everfocus EDR1680. Only returns 2 or 3 results, but submitted for completeness sake.

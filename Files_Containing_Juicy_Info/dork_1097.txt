@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1097
+Category:         Files Containing Juicy Info
+Published Date:   2005-09-08
+Author:           anonymous
+GoogleDork:       rdbqds -site:.edu -site:.mil -site:.gov
+Description:      rdbqds -site:.edu -site:.mil -site:.gov
+
+
+Ceasar encryption is a rather simple encryption. You simply shift letters up or down across the entire length of the message... In the url I did this with the word "secret" which equals rdbqds.. (1 char shift).It appears that protected PDF documents use this very encryption to protect its documents. At least one version of adobe acrobat did. A big thank you to Golfo for the links he provided in the forum to assist.http://www.math.cankaya.edu.tr/~a.kabarcik/decrypt.html http://www.math.cankaya.edu.tr/~a.kabarcik/encrypt.html

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2272
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "CMS Webmanager-pro"
+Description:      "CMS Webmanager-pro"
+
+
+CMS WebManager-Pro Multiple Remote SQL Injection Vulnerabilities - CVE: 2008-2351: https://www.exploit-db.com/exploits/5641

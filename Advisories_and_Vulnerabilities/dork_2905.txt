@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2905
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       infusions/manuals/manuals.php?manual=
+Description:      infusions/manuals/manuals.php?manual=
+
+
+PHP-Fusion Mod manuals (manual) Remote SQL Injection Vulnerability: https://www.exploit-db.com/exploits/6681

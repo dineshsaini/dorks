@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/17
+Category:         Files Containing Passwords
+Published Date:   2003-06-24
+Author:           anonymous
+GoogleDork:       intitle:index.of intext:"secring.skr"|"secring.pgp"|"secring.bak"
+Description:      intitle:index.of intext:"secring.skr"|"secring.pgp"|"secring.bak"
+
+
+PGP is a great encryption technology. It keeps secrets safe. Everyone from drug lords to the head of the DEA can download PGP to encrypt their sensitive documents. Everyone, that is except googleDorks. GoogleDorks, it seems, don't understand that anyone in possession of your private keyring (secring) can get to your secret stuff. It should noever be given out, and should certainly not be posted on the Internet. The highest ranking is awarded for this surprising level of ineptitude.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5930
+Category:         Sensitive Directories
+Published Date:   2020-04-20
+Author:           Alexandros Pappas
+GoogleDork:       intitle:"index of" "global.asa"
+Description:      intitle:"index of" "global.asa"
+
+
+# Google Dork: intitle:"index of" "global.asa"  # The global.asa configuration file is used by ASP.net applications to store information and objects used by the application. Sometimes usernames, passwords, and database credentials can be revealed.  # Date: 20/04/2020  # Author: Alexandros Pappas 

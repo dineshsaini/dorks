@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5734
+Category:         Files Containing Juicy Info
+Published Date:   2020-02-14
+Author:           CANCOM #RedTeam
+GoogleDork:       intitle:"index.of" intext:"access.txt"
+Description:      intitle:"index.of" intext:"access.txt"
+
+
+AUTHOR: CANCOM #RedTeam   ++ find server logs and possible password/access files ++  intitle:"index.of" intext:"access.txt"  ca. 500 Results 

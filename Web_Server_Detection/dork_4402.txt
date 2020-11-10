@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4402
+Category:         Web Server Detection
+Published Date:   2017-03-01
+Author:           anonymous
+GoogleDork:       ext:svc inurl:wsdl
+Description:      ext:svc inurl:wsdl
+
+
+this dork will return Web Services Description Language which will expose webservices submitted by: Mohammad Al-Nasser

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/767
+Category:         Various Online Devices
+Published Date:   2004-12-13
+Author:           anonymous
+GoogleDork:       intitle:"iVISTA.Main.Page"
+Description:      intitle:"iVISTA.Main.Page"
+
+
+And again another webcam search. MOst of these cams seem to be security cams

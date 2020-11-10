@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4397
+Category:         Sensitive Directories
+Published Date:   2017-02-14
+Author:           anonymous
+GoogleDork:       site:onedrive.live.com shared by
+Description:      site:onedrive.live.com shared by
+
+
+site:onedrive.live.com shared by This dork identified shared archives in oneDrive. It is important to be logged in to view the documents. - Thiago Barros

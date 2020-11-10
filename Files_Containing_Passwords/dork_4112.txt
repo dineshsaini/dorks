@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4112
+Category:         Files Containing Passwords
+Published Date:   2015-11-06
+Author:           anonymous
+GoogleDork:       ext:xls intext:NAME intext:TEL intext:EMAIL intext:PASSWORD
+Description:      ext:xls intext:NAME intext:TEL intext:EMAIL intext:PASSWORD
+
+
+Dork who collects a lot of data in excel file. By Rootkit Pentester.

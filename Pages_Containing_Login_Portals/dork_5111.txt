@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5111
+Category:         Pages Containing Login Portals
+Published Date:   2019-02-15
+Author:           Bruno Schmid
+GoogleDork:       inurl:/za/login.do
+Description:      inurl:/za/login.do
+
+
+Zscaler admin login   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

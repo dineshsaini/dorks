@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6329
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-06-25
+Author:           Ambadi MP
+GoogleDork:       intext:"Centreon 2005-2019"
+Description:      intext:"Centreon 2005-2019"
+
+
+# Dork :intext:"Centreon 2005-2019" # Vulnerable Service # CVE-2019-13024 # Author : Ambadi MP 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1278
+Category:         Files Containing Juicy Info
+Published Date:   2006-03-18
+Author:           anonymous
+GoogleDork:       (intitle:"PRTG Traffic Grapher" inurl:"allsensors")|(intitle:"PRTG Traffic Grapher - Monitoring Results")
+Description:      (intitle:"PRTG Traffic Grapher" inurl:"allsensors")|(intitle:"PRTG Traffic Grapher - Monitoring Results")
+
+
+PRTG Traffic Grapher is Windows software for monitoring and classifying bandwidth usage. It provides system administrators with live readings and long-term usage trends for their network devices. The most common usage is bandwidth usage monitoring, but you can also monitor many other aspects of your network like memory and CPU utilizations.

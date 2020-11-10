@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/286
+Category:         Files Containing Passwords
+Published Date:   2004-06-16
+Author:           anonymous
+GoogleDork:       filetype:mdb inurl:users.mdb
+Description:      filetype:mdb inurl:users.mdb
+
+
+Everyone has this problem, we need to remember many passwords to access the resources we use. Some believe it is a good solution to use Microsoft Access as a password database..An attacker can find and download those mdb files easily with Google. This search tries to find such "user" databases. Some are password protected, many are not. Weee!

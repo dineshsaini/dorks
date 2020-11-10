@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3819
+Category:         Pages Containing Login Portals
+Published Date:   2012-11-02
+Author:           anonymous
+GoogleDork:       inurl:phpliteadmin.php
+Description:      inurl:phpliteadmin.php
+
+
+The default password is 'admin'

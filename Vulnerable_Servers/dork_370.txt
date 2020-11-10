@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/370
+Category:         Vulnerable Servers
+Published Date:   2004-07-26
+Author:           anonymous
+GoogleDork:       ("Indexed.By"|"Monitored.By") hAcxFtpScan
+Description:      ("Indexed.By"|"Monitored.By") hAcxFtpScan
+
+
+hAcxFtpScan - software that use 'l33t h@x0rz' to monitor their file stroz on ftp. On the ftp server usualy it is a directory like:/Monitored.By.hAcxFtpScan//Indexed.By.hAcxFtpScan/These are tagged, hacked, rooted and filled servers, in wich pplz from forums or irc channels (in most cases, usuasly private) share filez (yes yes p2p suxz)And again thnxz goo 4 help us to find it.

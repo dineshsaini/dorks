@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/580
+Category:         Various Online Devices
+Published Date:   2004-10-18
+Author:           anonymous
+GoogleDork:       inurl:TiVoConnect?Command=QueryServer
+Description:      inurl:TiVoConnect?Command=QueryServer
+
+
+Tivo is a the digital replacement for your analog videorecorder. It's a digital media system that amongst other things allows recording tv shows to a hard disk. More information is available at http://www.tivo.com.This search was found in one of those cgi scanning tools out there. Currently there are only two results and only the first responds with information like this:1.0Sat Oct 16 15:26:46 EDT 2004JavaHMO1.0Leon Nicholls-This is an official build. Identifier: 2003.03.25-1612 Last Change: 112792In the future vulnerabilities may be found in this software. For now an attacker can enjoy the mp3 stream it provides (copy the server:port in winamp or xmms).

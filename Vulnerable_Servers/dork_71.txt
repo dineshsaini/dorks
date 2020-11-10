@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/71
+Category:         Vulnerable Servers
+Published Date:   2004-03-04
+Author:           anonymous
+GoogleDork:       Gallery in configuration mode
+Description:      Gallery in configuration mode
+
+
+Gallery is a nice little php program that allows users to post personal pictures on their website. So handy, in fact, that I use it on my site! However, the Gallery configuration mode allows outsiders to make changes to your gallery. This is why you shouldn't leave your gallery in configuration mode. These people, unfortunately, have done just that!

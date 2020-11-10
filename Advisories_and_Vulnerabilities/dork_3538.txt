@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3538
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"lists/?p=subscribe" | inurl:"lists/index.php?p=subscribe"
+Description:      inurl:"lists/?p=subscribe" | inurl:"lists/index.php?p=subscribe"
+
+
+PHPList 2.10.2 GLOBALS[] Remote Code Execution: https://www.exploit-db.com/exploits/1659

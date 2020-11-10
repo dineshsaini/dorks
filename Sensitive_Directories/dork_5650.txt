@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5650
+Category:         Sensitive Directories
+Published Date:   2019-11-20
+Author:           Rohitreddy
+GoogleDork:       intitle:index of "uploads"
+Description:      intitle:index of "uploads"
+
+
+# Google Dork : intitle:index of "uploads"  # Category : File contains Juicy items  # Date : 14-11-2019  # Author : Rohitreddy 

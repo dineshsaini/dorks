@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5785
+Category:         Various Online Devices
+Published Date:   2020-03-12
+Author:           Alexandros Pappas
+GoogleDork:       inurl:"MultiCameraFrame?Mode=Motion"
+Description:      inurl:"MultiCameraFrame?Mode=Motion"
+
+
+# Google Dork: inurl:"MultiCameraFrame?Mode=Motion"  # By using this dork, various web cameras can be revealed.  # Date: 12/03/2020  # Author: Alexandros Pappas 

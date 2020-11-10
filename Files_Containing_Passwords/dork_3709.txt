@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3709
+Category:         Files Containing Passwords
+Published Date:   2011-04-18
+Author:           anonymous
+GoogleDork:       filetype:ini "pdo_mysql" (pass|passwd|password|pwd)
+Description:      filetype:ini "pdo_mysql" (pass|passwd|password|pwd)
+
+
+full details dbname dbuser dbpass all plain text Author:Bastich

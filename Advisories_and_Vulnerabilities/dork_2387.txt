@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2387
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Site créé avec GuppY v4.5.18 ©
+Description:      Site créé avec GuppY v4.5.18 ©
+
+
+GuppY v4.5.18 Blind SQL/XPath injection Vulnerability - CVE: 2010-1740: https://www.exploit-db.com/exploits/12484

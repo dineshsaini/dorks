@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/446
+Category:         Files Containing Juicy Info
+Published Date:   2004-08-19
+Author:           anonymous
+GoogleDork:       "phone * * *" "address *" "e-mail" intitle:"curriculum vitae"
+Description:      "phone * * *" "address *" "e-mail" intitle:"curriculum vitae"
+
+
+This search gives hounderd of existing curriculum vitae with names and adress. An attacker could steal identity if there is an SSN in the document.

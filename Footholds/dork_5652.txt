@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5652
+Category:         Footholds
+Published Date:   2019-11-20
+Author:           Jakob Denlinger
+GoogleDork:       intitle:"freedom is real - 1945"
+Description:      intitle:"freedom is real - 1945"
+
+
+Dork: intitle:"freedom is real - 1945" Category: Vulnerable servers Author: Jakob Denlinger  Info: Common webshell that sets the HTML title tag to '.[ freedom is real - 1945 ].' 

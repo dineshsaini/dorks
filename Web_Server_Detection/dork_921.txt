@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/921
+Category:         Web Server Detection
+Published Date:   2005-03-31
+Author:           anonymous
+GoogleDork:       yaws.*.server.at
+Description:      yaws.*.server.at
+
+
+YAWS (http://yaws.hyber.org), Yet Another Web Server, is a HTTP high perfomance 1.1 webserver. Yaws is entirely written in Erlang, furthermore it is a multithreaded webserver where one Erlang light weight process is used to handle each client.

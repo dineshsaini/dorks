@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4431
+Category:         Files Containing Juicy Info
+Published Date:   2017-04-12
+Author:           anonymous
+GoogleDork:       inurl:"/fb_ca_chain_bundle.crt" ext:crt
+Description:      inurl:"/fb_ca_chain_bundle.crt" ext:crt
+
+
+Finds security certificates left behind by Facebook, potentially having some useful info. Dxtroyer

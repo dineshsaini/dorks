@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4
+Category:         Web Server Detection
+Published Date:   2003-06-24
+Author:           anonymous
+GoogleDork:       Apache online documentation
+Description:      Apache online documentation
+
+
+When you install the Apache web server, you get a nice set of online documentation. When you learn how to use Apache, your supposed to delete these online Apache manuals. These sites didn't. If they're in such a hurry with Apache installs, I wonder what else they rushed through?

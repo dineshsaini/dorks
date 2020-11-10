@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6139
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-05-27
+Author:           Abhi Chitkara
+GoogleDork:       inurl:"wp-content/plugins/siteorigin-panels"
+Description:      inurl:"wp-content/plugins/siteorigin-panels"
+
+
+Dork: inurl:"wp-content/plugins/siteorigin-panels" Description: This google dork lists out Advisories and Vulnerabilities regarding the siteorigin panels wordpress plugin. Ref: https://wpvulndb.com/vulnerabilities/10219 Author: Abhi Chitkara 

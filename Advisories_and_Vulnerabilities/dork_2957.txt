@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2957
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"article.download.php"
+Description:      inurl:"article.download.php"
+
+
+Star Articles 6.0 Remote Blind SQL Injection - CVE: 2008-7075: https://www.exploit-db.com/exploits/7243

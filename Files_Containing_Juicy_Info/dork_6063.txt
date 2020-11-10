@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6063
+Category:         Files Containing Juicy Info
+Published Date:   2020-05-07
+Author:           Alexandros Pappas
+GoogleDork:       intitle:"index of" "users.txt"
+Description:      intitle:"index of" "users.txt"
+
+
+# Google Dork: intitle:"index of" "users.txt"  # Juicy and sensitive information.  # Date: 7/05/2020  # Author: Alexandros Pappas 

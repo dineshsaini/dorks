@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4624
+Category:         Various Online Devices
+Published Date:   2017-11-28
+Author:           Ankit Anubhav
+GoogleDork:       inurl:"ews/setting/setews.htm"
+Description:      inurl:"ews/setting/setews.htm"
+
+
+The google dork leads to various Dell/DocuPrint printers whose authentication is not set. An attacker can set a new password and restart printer to apply new settings. Once a new password is created, the attacker can disrupt the printer or take control of it remotely for data theft.  Ankit Anubhav,NewSky Security 

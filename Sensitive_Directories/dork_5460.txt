@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5460
+Category:         Sensitive Directories
+Published Date:   2019-08-27
+Author:           Reza Abasi
+GoogleDork:       inurl:/wp/wp-admin/
+Description:      inurl:/wp/wp-admin/
+
+
+sensitive directories:  inurl:/wp/wp-admin/  Reza Abasi(Turku) 

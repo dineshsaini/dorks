@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4181
+Category:         Files Containing Passwords
+Published Date:   2016-01-11
+Author:           anonymous
+GoogleDork:       inurl:wp-config -intext:wp-config "'DB_PASSWORD'"
+Description:      inurl:wp-config -intext:wp-config "'DB_PASSWORD'"
+
+
+I give this Dork for Wordpress Passwords. I hope you enjoy with this!. Dork: inurl:wp-config -intext:wp-config "'DB_PASSWORD'" Best Regards Rookit Pentester.

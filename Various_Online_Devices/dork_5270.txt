@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5270
+Category:         Various Online Devices
+Published Date:   2019-07-01
+Author:           Hack Tube
+GoogleDork:       intext:" Welcome to DSL-2730B Web Management"
+Description:      intext:" Welcome to DSL-2730B Web Management"
+
+
+Google Dork: intext:" Welcome to DSL-2730B Web Management"  Dlink DSL-2730B Web Management 

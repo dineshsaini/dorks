@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2419
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allinurl:"com_n-gallery"
+Description:      allinurl:"com_n-gallery"
+
+
+Mambo Component n-gallery Multiple SQL Injection Vulnerabilities: https://www.exploit-db.com/exploits/5980

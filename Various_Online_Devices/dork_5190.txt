@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5190
+Category:         Various Online Devices
+Published Date:   2019-04-23
+Author:           EJUPI Békim
+GoogleDork:       intext:"series Network Configuration" AND intext:"canon"
+Description:      intext:"series Network Configuration" AND intext:"canon"
+
+
+intext:"series Network Configuration" AND intext:"canon"  Found CANON device  Author : EJUPI Békim

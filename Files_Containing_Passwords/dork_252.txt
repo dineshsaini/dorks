@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/252
+Category:         Files Containing Passwords
+Published Date:   2004-05-24
+Author:           anonymous
+GoogleDork:       inurl:"wvdial.conf" intext:"password"
+Description:      inurl:"wvdial.conf" intext:"password"
+
+
+The wvdial.conf is used for dialup connections.it contains phone numbers, usernames and passwords in cleartext.

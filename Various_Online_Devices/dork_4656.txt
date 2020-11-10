@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4656
+Category:         Various Online Devices
+Published Date:   2018-01-11
+Author:           ak1t4
+GoogleDork:       intitle:Armstrong Hot Water System Monitoring
+Description:      intitle:Armstrong Hot Water System Monitoring
+
+
+Armstrong Hot water System Monitoring  default credentials:  user: armstrong pass: brainscan  --  @ak1t4 WhiteHat Hacker - Security Analyst - Bug Bounty Hunter  hackerone.com/ak1t4 twitter.com/knowledge_2014 

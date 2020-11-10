@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6560
+Category:         Various Online Devices
+Published Date:   2020-09-23
+Author:           Sanu Jose M
+GoogleDork:       inurl:"live/cam.html"
+Description:      inurl:"live/cam.html"
+
+
+#Exploit Title : Webcams, various online devices. #Google Dork: inurl:"live/cam.html" #Date : 23/09/2020 #Exploit Author : Sanu Jose M  Thanks &amp; Regards, Sanu Jose M 

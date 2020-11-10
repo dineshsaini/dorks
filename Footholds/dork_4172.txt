@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4172
+Category:         Footholds
+Published Date:   2016-01-01
+Author:           anonymous
+GoogleDork:       intitle:"WSO " ext:php intext:"server ip" 2015 intext:" [ home ]"
+Description:      intitle:"WSO " ext:php intext:"server ip" 2015 intext:" [ home ]"
+
+
+intitle:"WSO " ext:php intext:"server ip" 2015 intext:" [ home ]" atawho-sonadam-hackunity

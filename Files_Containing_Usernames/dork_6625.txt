@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6625
+Category:         Files Containing Usernames
+Published Date:   2020-10-20
+Author:           Alexandros Pappas
+GoogleDork:       jdbc:mysql://localhost:3306/ + username + password ext:yml | ext:java -git -gitlab
+Description:      jdbc:mysql://localhost:3306/ + username + password ext:yml | ext:java -git -gitlab
+
+
+# Google Dork: jdbc:mysql://localhost:3306/ + username + password ext:yml | ext:java -git -gitlab # Exposed usernames and passwords. # Date: 20/10/2020 # Exploit Author: Alexandros Pappas 

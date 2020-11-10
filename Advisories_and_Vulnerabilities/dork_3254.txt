@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3254
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:com_iproperty
+Description:      inurl:com_iproperty
+
+
+Joomla Component com_iproperty 1.5.3 (id) SQL Injection Vulnerability - CVE: 2010-1721: https://www.exploit-db.com/exploits/12246

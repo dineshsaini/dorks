@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1596
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by Knowledge Base"
+Description:      "Powered by Knowledge Base"
+
+
+Knowledge Base Mod 2.0.2 (phpBB) Remote Inclusion Vulnerability - CVE: 2006-2134: https://www.exploit-db.com/exploits/1728

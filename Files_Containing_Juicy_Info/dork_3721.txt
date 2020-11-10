@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3721
+Category:         Files Containing Juicy Info
+Published Date:   2011-05-26
+Author:           anonymous
+GoogleDork:       inurl:sarg inurl:siteuser.html
+Description:      inurl:sarg inurl:siteuser.html
+
+
+Submitter: pipefish Squid User Access Reports that show users' browsing history through the proxy. Shows internal IP space sometimes, usernames as well, and can be helpful when planning a pen test (spear phishing\social engineering campaign etc.) It also helps to ID an organization's proxy server.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3340
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered By PHPFanBase
+Description:      Powered By PHPFanBase
+
+
+PHPFanBase 2.x (protection.php) Remote File Include Vulnerability: https://www.exploit-db.com/exploits/2957

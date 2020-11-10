@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1422
+Category:         Files Containing Juicy Info
+Published Date:   2006-10-02
+Author:           anonymous
+GoogleDork:       intitle:"AppServ Open Project *" "AppServ is a merging open source software installer package" -phpbb
+Description:      intitle:"AppServ Open Project *" "AppServ is a merging open source software installer package" -phpbb
+
+
+Often includes phpinfo and unsecured links to phpmyadmin.

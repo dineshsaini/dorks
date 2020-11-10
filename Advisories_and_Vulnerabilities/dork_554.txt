@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/554
+Category:         Advisories and Vulnerabilities
+Published Date:   2004-10-11
+Author:           anonymous
+GoogleDork:       "Powered by FUDforum"
+Description:      "Powered by FUDforum"
+
+
+FUDforum is a forums package. It uses a combination of PHP &amp; MySQL to create a portable solution that can run on virtually any operating system. FUDforum has two security holes that allow people to download or manipulate files and directories outside of FUDforum's directories. One of the holes can be exploited by everyone, while the other requires administrator access. The program also has some SQL Injection problems. http://www.securityfocus.com/bid/5501

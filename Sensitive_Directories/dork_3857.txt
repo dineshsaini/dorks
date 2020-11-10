@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3857
+Category:         Sensitive Directories
+Published Date:   2013-08-08
+Author:           anonymous
+GoogleDork:       intext:xampp-dav-unsecure:$apr1$6O9scpDQ$JGw2Tjz0jkrqfKh5hhiqD1
+Description:      intext:xampp-dav-unsecure:$apr1$6O9scpDQ$JGw2Tjz0jkrqfKh5hhiqD1
+
+
+# Exploit Title: google dork for apache directory listing by url edit # Google Dork: intext:xampp-dav-unsecure:$apr1$6O9scpDQ$JGw2Tjz0jkrqfKh5hhiqD1 in this query you see that text file but by url we can travel in paren directory # Date: 11/7/2013 # Exploit Author: james love india # Tested on: windows xp sp2

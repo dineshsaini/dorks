@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6115
+Category:         Error Messages
+Published Date:   2020-05-22
+Author:           Alexandros Pappas
+GoogleDork:       intext:"Error Occurred While Processing Request"
+Description:      intext:"Error Occurred While Processing Request"
+
+
+# Google Dork: intext:"Error Occurred While Processing Request"  # Error messages.  # Date: 22/05/2020  # Author: Alexandros Pappas 

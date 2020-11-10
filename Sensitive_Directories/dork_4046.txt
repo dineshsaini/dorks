@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4046
+Category:         Sensitive Directories
+Published Date:   2015-08-10
+Author:           anonymous
+GoogleDork:       intext:index of sym
+Description:      intext:index of sym
+
+
+Dork: intext:index of sym Most of hacker use auto server symlink script and grab all the config file of the server. Most of the script create a folder that name is sym. All config file stored in this folder. Thank You Atik Rahman

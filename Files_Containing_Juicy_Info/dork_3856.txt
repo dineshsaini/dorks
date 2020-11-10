@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3856
+Category:         Files Containing Juicy Info
+Published Date:   2013-08-08
+Author:           anonymous
+GoogleDork:       "information_schema" filetype:sql
+Description:      "information_schema" filetype:sql
+
+
+Dork: "information_schema" filetype:sql By: Cr4t3r 

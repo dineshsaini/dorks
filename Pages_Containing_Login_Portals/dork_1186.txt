@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1186
+Category:         Pages Containing Login Portals
+Published Date:   2005-11-12
+Author:           anonymous
+GoogleDork:       "iCONECT 4.1 :: Login"
+Description:      "iCONECT 4.1 :: Login"
+
+
+This search finds the login page for iCONECTnxt, it enables firms to search, organize, and review electronic and document discovery information ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â including email, native files, and images ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â from anywhere in the world for easy collaboration with outside counsel, branch offices, and consultants. LAN and Web solutions available.

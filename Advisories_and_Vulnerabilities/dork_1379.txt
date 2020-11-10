@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1379
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-05-30
+Author:           anonymous
+GoogleDork:       Copyright . Nucleus CMS v3.22 . Valid XHTML 1.0 Strict . Valid CSS . Back to top -demo -"deadly eyes"
+Description:      Copyright . Nucleus CMS v3.22 . Valid XHTML 1.0 Strict . Valid CSS . Back to top -demo -"deadly eyes"
+
+
+this is for Nucleus 3.22 CMS arbitrary remote inclusion advisory/poc exploit: http://retrogod.altervista.org/nucleus_322_incl_xpl.html

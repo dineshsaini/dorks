@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5565
+Category:         Error Messages
+Published Date:   2019-10-07
+Author:           Reza Abasi
+GoogleDork:       site:*/wp-admin/maint/repair.php intext:"define(WP_ALLOW_REPAIR,true);"
+Description:      site:*/wp-admin/maint/repair.php intext:"define(WP_ALLOW_REPAIR,true);"
+
+
+Error Pages:  site:*/wp-admin/maint/repair.php intext:"define(WP_ALLOW_REPAIR,true);"  Reza Abasi(Turku) 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/718
+Category:         Files Containing Juicy Info
+Published Date:   2004-11-28
+Author:           anonymous
+GoogleDork:       intitle:"DocuShare" inurl:"docushare/dsweb/" -faq -gov -edu
+Description:      intitle:"DocuShare" inurl:"docushare/dsweb/" -faq -gov -edu
+
+
+some companies use a Xerox Product called DocuShare. The problem with this is by default guest access is enabled and it appears a lot of companies either don't care or don't know.

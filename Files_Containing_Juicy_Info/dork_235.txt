@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/235
+Category:         Files Containing Juicy Info
+Published Date:   2004-05-14
+Author:           anonymous
+GoogleDork:       filetype:log cron.log
+Description:      filetype:log cron.log
+
+
+Displays logs from cron, the *nix automation daemon. Can be used to determine backups, full and realtive paths, usernames, IP addresses and port numbers of trusted network hosts, or just about anything the admin of the box decides to automate. An attacker could use this information to possibly determine what extra vulnerable services are running on the machine, to find the location of backups, and, if the sysadmin uses cron to backup their logfiles, this cron log will give that away too.

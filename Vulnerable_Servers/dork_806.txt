@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/806
+Category:         Vulnerable Servers
+Published Date:   2004-12-27
+Author:           anonymous
+GoogleDork:       "There are no Administrators Accounts" inurl:admin.php -mysql_fetch_row
+Description:      "There are no Administrators Accounts" inurl:admin.php -mysql_fetch_row
+
+
+This is a more specific search for the vulnerable PhpNuke index already seen on this website.PhpNuke asks you to set up an admin account when it is first installed. This search is a list of people who never set up that account! It will take you directly to the administrator registration of a vulnerable server. The -mysql_fetch_row will remove listings where SQL is simply broken.

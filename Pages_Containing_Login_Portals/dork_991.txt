@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/991
+Category:         Pages Containing Login Portals
+Published Date:   2005-05-15
+Author:           anonymous
+GoogleDork:       inurl:Citrix/MetaFrame/default/default.aspx
+Description:      inurl:Citrix/MetaFrame/default/default.aspx
+
+
+MetaFrame Presentation Server

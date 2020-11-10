@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5045
+Category:         Various Online Devices
+Published Date:   2018-12-04
+Author:           Rootkit_Pentester
+GoogleDork:       inurl:public.php inurl:service ext:php
+Description:      inurl:public.php inurl:service ext:php
+
+
+Files and Folders in the cloud.  Dork by Rootkit Pentester.  

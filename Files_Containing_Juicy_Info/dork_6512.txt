@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6512
+Category:         Files Containing Juicy Info
+Published Date:   2020-09-01
+Author:           Prashant Sharma
+GoogleDork:       "index of" "callback.php"
+Description:      "index of" "callback.php"
+
+
+ Google Dork: "index of" "callback.php" Category: Files Containing Juicy Info Author: Prashant Sharma (@Prashantique) LinkedIn: https://www.linkedin.com/in/prashantique 

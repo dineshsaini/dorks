@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5865
+Category:         Files Containing Juicy Info
+Published Date:   2020-03-31
+Author:           Alexandros Pappas
+GoogleDork:       filetype:reg reg HKEY_USERS -git
+Description:      filetype:reg reg HKEY_USERS -git
+
+
+# Google Dork: filetype:reg reg HKEY_USERS -git  # By using this dork, the HKEY_USERS contains user-specific configuration information for all currently active users on a computer can be found.  # Date: 31/03/2020  # Author: Alexandros Pappas 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5182
+Category:         Various Online Devices
+Published Date:   2019-04-12
+Author:           Miguel Santareno
+GoogleDork:       inurl:/pages/default.aspx | inurl:/páginas/default.aspx
+Description:      inurl:/pages/default.aspx | inurl:/páginas/default.aspx
+
+
+# Google Dork: inurl:/pages/default.aspx | inurl:/páginas/default.aspx # Description: Google Dork to find default sharepoint applications # Date: 2019-09-12 # Author: Miguel Santareno # Contact: https://www.linkedin.com/in/miguelsantareno/  

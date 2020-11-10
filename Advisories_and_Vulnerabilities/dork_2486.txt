@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2486
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allintext:"Browse our directory of our members top sites or create your own for free!"
+Description:      allintext:"Browse our directory of our members top sites or create your own for free!"
+
+
+PHP123 Top Sites (category.php cat) Remote SQL Injection Vuln - CVE: 2007-4054: https://www.exploit-db.com/exploits/4241

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1764
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by Gravy Media"
+Description:      "Powered by Gravy Media"
+
+
+Gravy Media Photo Host 1.0.8 Local File Disclosure Vulnerability - CVE: 2009-2184: https://www.exploit-db.com/exploits/8996

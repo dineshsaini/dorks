@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6536
+Category:         Footholds
+Published Date:   2020-09-14
+Author:           Javier Bernardo
+GoogleDork:       inurl:wsnavigator/jsps
+Description:      inurl:wsnavigator/jsps
+
+
+# Google Dork: inurl:wsnavigator/jsps  # Date: 9/11/2020 # Exploit Author: Javier Bernardo # Homepage: [www.hack.com.ar](http://www.hack.com.ar/)  Javier Bernardo Information Security Analyst – Ethical Hacker Mobile: +54 9 11 6219 0141 |[Email:javierbernardo001@gmail.com](mailto:Email%3Ajavierbernardo001@gmail.com) | Buenos Aires - Argentina  Sent with [ProtonMail](https://protonmail.com) Secure Email.

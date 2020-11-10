@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3082
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Site designed and built by ProWeb Associates."
+Description:      "Site designed and built by ProWeb Associates."
+
+
+ProWeb Design SQL Injection Vulnerability: https://www.exploit-db.com/exploits/12730

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4754
+Category:         Files Containing Juicy Info
+Published Date:   2018-04-09
+Author:           ManhNho
+GoogleDork:       "Declassified and Approved for Release by" filetype: pdf
+Description:      "Declassified and Approved for Release by" filetype: pdf
+
+
+"Declassified and Approved for Release by" filetype: pdf  This dork show some interested docs of NSA,CIA,...  ManhNho 

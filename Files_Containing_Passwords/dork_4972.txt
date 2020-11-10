@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4972
+Category:         Files Containing Passwords
+Published Date:   2018-10-16
+Author:           Bruno Schmid
+GoogleDork:       filetype:reg reg HKEY_CURRENT_USER intext:password
+Description:      filetype:reg reg HKEY_CURRENT_USER intext:password
+
+
+Get passwords from registry.  You can also use  filetype:reg reg HKEY_CURRENT_USER   This would be a good way to find out details about the target software in the target machine.   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4694
+Category:         Various Online Devices
+Published Date:   2018-03-12
+Author:           Rootkit_Pentester
+GoogleDork:       inurl:control/camerainfo
+Description:      inurl:control/camerainfo
+
+
+Dashboard with info of a lot of webcams!!!   Dork by Rootkit Pentester. 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4904
+Category:         Files Containing Juicy Info
+Published Date:   2018-08-07
+Author:           Mufeed VH
+GoogleDork:       inurl:nginx.conf nginx site:github.com
+Description:      inurl:nginx.conf nginx site:github.com
+
+
+This dork can be used to detect codes hosted by different companies that uses NGINX Web Server.  Mufeed VH 

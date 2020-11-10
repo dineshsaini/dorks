@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6059
+Category:         Files Containing Passwords
+Published Date:   2020-05-07
+Author:           Alexandros Pappas
+GoogleDork:       intitle:"index of" "config.neon" OR "config.local.neon"
+Description:      intitle:"index of" "config.neon" OR "config.local.neon"
+
+
+# Google Dork: intitle:"index of" "config.neon" OR "config.local.neon"  # Juicy information, sensitive directories including db usernames and passwords.  # Date: 7/05/2020  # Author: Alexandros Pappas 

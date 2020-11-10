@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4758
+Category:         Pages Containing Login Portals
+Published Date:   2018-04-12
+Author:           Bruno Schmid
+GoogleDork:       inurl:"/forgotpwd.jspx"
+Description:      inurl:"/forgotpwd.jspx"
+
+
+Oracle Identity Manager password Reset pages. Sometimes it will auto login as anonymous user by default.     Bruno Schmid 

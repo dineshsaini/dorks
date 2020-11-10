@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1050
+Category:         Various Online Devices
+Published Date:   2005-08-07
+Author:           anonymous
+GoogleDork:       intitle:"HP ProCurve Switch *" "This product requires a frame capable browser."
+Description:      intitle:"HP ProCurve Switch *" "This product requires a frame capable browser."
+
+
+HP ProCurve Switch web management pages, found by their [noscript] html tags. Please note: this search only gives results from certain source IP addresses and I can't tell you why (check forum topic number 2609 for details).

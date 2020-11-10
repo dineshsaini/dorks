@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6473
+Category:         Pages Containing Login Portals
+Published Date:   2020-08-11
+Author:           Alexandros Pappas
+GoogleDork:       intitle:"NETGEAR" inurl:"/base/main_login.html"
+Description:      intitle:"NETGEAR" inurl:"/base/main_login.html"
+
+
+# Google Dork: intitle:"NETGEAR" inurl:"/base/main_login.html" # NETGEAR router login portals. # Date: 11/08/2020 # Exploit Author: Alexandros Pappas 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6294
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-06-16
+Author:           Alexandros Pappas
+GoogleDork:       intext:powered by JoomSport - sport WordPress plugin
+Description:      intext:powered by JoomSport - sport WordPress plugin
+
+
+# Google Dork: intext:powered by JoomSport - sport WordPress plugin # JoomSport 3.3 – for Sports - SQL injection. This dork is linked to the # following existing exploit (CVE : 2019-14348) : # https://www.exploit-db.com/exploits/47210 # Date: 2020-06-10 # Exploit Author: Alexandros Pappas 

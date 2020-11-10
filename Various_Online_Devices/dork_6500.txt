@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6500
+Category:         Various Online Devices
+Published Date:   2020-08-28
+Author:           Alexandros Pappas
+GoogleDork:       intitle:"Miniweb Start Page"
+Description:      intitle:"Miniweb Start Page"
+
+
+# Google Dork: intitle:"Miniweb Start Page" # Siemens SIMATIC HMI panels. # Date: 27/08/2020 # Exploit Author: Alexandros Pappas 

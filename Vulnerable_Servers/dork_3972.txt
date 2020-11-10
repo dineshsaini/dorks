@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3972
+Category:         Vulnerable Servers
+Published Date:   2014-11-03
+Author:           anonymous
+GoogleDork:       inurl:robots.txt intext:CHANGELOG.txt intext:disallow ext:txt -site:github.com
+Description:      inurl:robots.txt intext:CHANGELOG.txt intext:disallow ext:txt -site:github.com
+
+
+inurl:robots.txt intext:CHANGELOG.txt intext:disallow ext:txt -site:github.com sites that have robots.txt file (potentially blocking a GD for seeing) CHANGELOG.txt Can then check the CHANGELOG.txt file manually for version (not 7.32?). 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4085
+Category:         Pages Containing Login Portals
+Published Date:   2015-09-28
+Author:           anonymous
+GoogleDork:       intitle:Oracle PeopleSoft Sign-in "Oracle" Sign-in "error"
+Description:      intitle:Oracle PeopleSoft Sign-in "Oracle" Sign-in "error"
+
+
+Oracle PeopleSoft Sign-in Logins -Xploit

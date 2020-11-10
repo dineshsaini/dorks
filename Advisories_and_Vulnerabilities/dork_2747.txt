@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2747
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered By SalSa Creations
+Description:      Powered By SalSa Creations
+
+
+ClipShare Pro 2006-2007 (chid) SQL Injection Vulnerability - CVE: 2008-5489: https://www.exploit-db.com/exploits/7128

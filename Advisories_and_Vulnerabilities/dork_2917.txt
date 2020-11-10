@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2917
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"com_artlinks"
+Description:      inurl:"com_artlinks"
+
+
+Joomla Artlinks Component 1.0b4 Remote Include Vulnerability - CVE: 2006-3949: https://www.exploit-db.com/exploits/2209

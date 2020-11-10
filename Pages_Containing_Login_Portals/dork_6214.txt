@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6214
+Category:         Pages Containing Login Portals
+Published Date:   2020-06-04
+Author:           Anjali Prakash
+GoogleDork:       inurl:"forgotpassword.php"
+Description:      inurl:"forgotpassword.php"
+
+
+Dorks : inurl:"forgotpassword.php" Description: various pages containing forgot passwords portals. Author : Anjali Prakash 

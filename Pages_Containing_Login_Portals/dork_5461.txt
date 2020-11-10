@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5461
+Category:         Pages Containing Login Portals
+Published Date:   2019-08-28
+Author:           Reza Abasi
+GoogleDork:       site:*/admincp/ intitle:"Admin Cp"
+Description:      site:*/admincp/ intitle:"Admin Cp"
+
+
+Login Portal:  site:*/admincp/ intitle:"Admin Cp" site:*/admincp/login.php site:*/UserCP intitle:"login"  Reza Abasi(Turku) 

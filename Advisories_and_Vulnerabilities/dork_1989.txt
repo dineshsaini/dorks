@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1989
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Coded By WebLOADER
+Description:      Coded By WebLOADER
+
+
+Webloader v7 - v8 ( vid ) SQL Injection Vulnerability: https://www.exploit-db.com/exploits/12647

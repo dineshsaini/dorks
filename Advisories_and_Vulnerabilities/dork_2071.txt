@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2071
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "ActualAnalyzer Lite (free) 2.78"+"Copyright Â© 2006 ActualScripts"
+Description:      "ActualAnalyzer Lite (free) 2.78"+"Copyright Â© 2006 ActualScripts"
+
+
+ActualAnalyzer Lite (free) 2.78 Local File Inclusion Vulnerability - CVE: 2008-2076: https://www.exploit-db.com/exploits/5528

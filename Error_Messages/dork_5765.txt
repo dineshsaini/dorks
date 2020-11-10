@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5765
+Category:         Error Messages
+Published Date:   2020-03-04
+Author:           ex16x41
+GoogleDork:       intext:"sf_app" + "frontend sf_app_base_cache_dir:"
+Description:      intext:"sf_app" + "frontend sf_app_base_cache_dir:"
+
+
+symfony exposed environemnt settings and credentials navigate to settings or config  ex16x41 

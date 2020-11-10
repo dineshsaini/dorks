@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3984
+Category:         Advisories and Vulnerabilities
+Published Date:   2015-01-12
+Author:           anonymous
+GoogleDork:       inurl:fckeditor -intext:"ConfigIsEnabled = False" intext:ConfigIsEnabled
+Description:      inurl:fckeditor -intext:"ConfigIsEnabled = False" intext:ConfigIsEnabled
+
+
+inurl:fckeditor -intext:"ConfigIsEnabled = False" intext:ConfigIsEnabled Searches for fckeditor default url and which has a config.asp file where configisenabled = true. Unable to search for true value directly because file contains 'example' which could lead to false positive. If found, traversing two directories up to /connectors/ should present an uploadtest.html file. This may be old, though the existing DORKS didn't call it out specifically, and google still gives a lot of hits. 

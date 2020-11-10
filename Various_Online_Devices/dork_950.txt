@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/950
+Category:         Various Online Devices
+Published Date:   2005-04-27
+Author:           anonymous
+GoogleDork:       "Please use Netscape 2.0 or enhance !!" -site:dlink.com -site:ovislink.com.tw
+Description:      "Please use Netscape 2.0 or enhance !!" -site:dlink.com -site:ovislink.com.tw
+
+
+A search for some HTML code used in a variety of D-link network devices (webcams and such).

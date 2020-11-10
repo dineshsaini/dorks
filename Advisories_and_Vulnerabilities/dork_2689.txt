@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2689
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"com_jcalpro"
+Description:      inurl:"com_jcalpro"
+
+
+Joomla Component com_jcalpro 1.5.3.6 Remote File Inclusion - CVE: 2009-4431: https://www.exploit-db.com/exploits/10587

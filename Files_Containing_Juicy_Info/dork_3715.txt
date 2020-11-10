@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3715
+Category:         Files Containing Juicy Info
+Published Date:   2011-05-03
+Author:           anonymous
+GoogleDork:       allinurl:http://www.google.co.in/latitude/apps/badge/api?user=
+Description:      allinurl:http://www.google.co.in/latitude/apps/badge/api?user=
+
+
+Site: google.com/latitude - This is a free application where you can track your PC, laptop and mobile, just login there and you will be tracked freely(used to track yourself live and you can put this in blogs to show where you are) I made a dork simply that shows some couple of people, after some years when this application will grow stronger and you can get tons of victims. *allinurl:http://www.google.co.in/latitude/apps/badge/api?user=* By *The ALLSTAR*

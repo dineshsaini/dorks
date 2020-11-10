@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5654
+Category:         Various Online Devices
+Published Date:   2019-11-21
+Author:           Miguel Santareno
+GoogleDork:       inurl:CGI/Java/Serviceability?adapter=device.statistics.device
+Description:      inurl:CGI/Java/Serviceability?adapter=device.statistics.device
+
+
+# Google Dork: inurl:CGI/Java/Serviceability?adapter=device.statistics.device # Description: Google Dork to find Cisco Unified IP Phones # Date: 2019-11-21 # Author: Miguel Santareno # Contact: https://www.linkedin.com/in/miguelsantareno/    

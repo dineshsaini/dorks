@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6617
+Category:         Sensitive Directories
+Published Date:   2020-10-15
+Author:           Rahul Parmar
+GoogleDork:       inurl:node_modules/mqtt/test/helpers/
+Description:      inurl:node_modules/mqtt/test/helpers/
+
+
+Author: Rahul Parmar Google Dork : inurl:node_modules/mqtt/test/helpers/ Date: 15-Oct-2020 Expose Private key 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6105
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-05-20
+Author:           Alexandros Pappas
+GoogleDork:       inurl:"index.php?option=com_jssupportticket"
+Description:      inurl:"index.php?option=com_jssupportticket"
+
+
+# Google Dork: inurl:"index.php?option=com_jssupportticket"  # Joomla! Component JS Support Ticket (component com_jssupportticket) 1.1.5 - Arbitrary File Download. This dork is linked to the following existing exploit: https://www.exploit-db.com/exploits/47216  # Date: 20/05/2020  # Author: Alexandros Pappas 

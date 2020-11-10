@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5361
+Category:         Sensitive Directories
+Published Date:   2019-08-16
+Author:           Sourajeet Majumder
+GoogleDork:       intitle:index.of./.sql
+Description:      intitle:index.of./.sql
+
+
+I found a dork using which .SQL files can be downloaded from websites.  Here is the dork : intitle:index.of./.sql  Sourajeet Majumder 

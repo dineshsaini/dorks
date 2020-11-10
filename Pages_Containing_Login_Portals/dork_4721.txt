@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4721
+Category:         Pages Containing Login Portals
+Published Date:   2018-03-30
+Author:           Bruno Schmid
+GoogleDork:       intitle:your access id is" login -youtube
+Description:      intitle:your access id is" login -youtube
+
+
+Login portals and sometimes instructions how to get or reset user access IDs   Bruno Schmid 

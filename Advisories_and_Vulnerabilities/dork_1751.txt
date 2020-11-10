@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1751
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"com_joomlaradiov5"
+Description:      inurl:"com_joomlaradiov5"
+
+
+Joomla Component joomlaradio v5 Remote File Inclusion Vulnerability - CVE: 2007-4923: https://www.exploit-db.com/exploits/4401

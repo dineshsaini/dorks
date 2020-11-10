@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2033
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by FubarForum v1.5"
+Description:      "Powered by FubarForum v1.5"
+
+
+FubarForum 1.5 (index.php page) Local File Inclusion Vulnerability - CVE: 2008-2887: https://www.exploit-db.com/exploits/5872

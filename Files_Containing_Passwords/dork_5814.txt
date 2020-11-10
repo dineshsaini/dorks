@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5814
+Category:         Files Containing Passwords
+Published Date:   2020-03-20
+Author:           Alexandros Pappas
+GoogleDork:       password console-password ext:cfg -git
+Description:      password console-password ext:cfg -git
+
+
+# Google Dork: password console-password ext:cfg -git  # By using this dork, passwords in configuration files can be found.  # Date: 20/03/2020  # Exploit Author: Alexandros Pappas 

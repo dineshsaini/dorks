@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5816
+Category:         Files Containing Juicy Info
+Published Date:   2020-03-20
+Author:           Alexandros Pappas
+GoogleDork:       inurl:-cfg intext:"password cipher"
+Description:      inurl:-cfg intext:"password cipher"
+
+
+# Google Dork: inurl:-cfg intext:"password cipher"  # By using this dork, passwords ciphers in configuration files can be found.  # Date: 20/03/2020  # Exploit Author: Alexandros Pappas 

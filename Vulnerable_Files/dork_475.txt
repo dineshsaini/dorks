@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/475
+Category:         Vulnerable Files
+Published Date:   2004-09-13
+Author:           anonymous
+GoogleDork:       PHP-Nuke - create super user right now !
+Description:      PHP-Nuke - create super user right now !
+
+
+PHP-Nuke is a popular web portal thingie. It has popped up in the Google dorks before. I think we let this one describe itself, quoting from a vulnerable page:"Welcome to PHP-Nuke!Congratulations! You have now a web portal installed!. You can edit or change this message from the Administration page. For security reasons the best idea is to create the Super User right NOW by clicking HERE."

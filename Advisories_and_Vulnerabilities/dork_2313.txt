@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2313
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"list.php?lcat_id="
+Description:      inurl:"list.php?lcat_id="
+
+
+D-Tendencia Bt 2008 SQL Injection Vulnerability: https://www.exploit-db.com/exploits/10494

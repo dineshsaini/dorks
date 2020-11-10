@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4485
+Category:         Various Online Devices
+Published Date:   2017-05-12
+Author:           anonymous
+GoogleDork:       inurl:"/view/view.shtml?id="
+Description:      inurl:"/view/view.shtml?id="
+
+
+Finds Axis IP cameras Dxtroyer

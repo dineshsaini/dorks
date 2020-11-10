@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/906
+Category:         Advisories and Vulnerabilities
+Published Date:   2005-03-20
+Author:           anonymous
+GoogleDork:       Powered.by:.vBulletin.Version ...3.0.6
+Description:      Powered.by:.vBulletin.Version ...3.0.6
+
+
+vBulletin is reported prone to an arbitrary PHP script code execution vulnerability. The issue is reported to exist due to a lack of sufficient input sanitization performed on user-supplied data before this data is included in a dynamically generated scripthttp://www.securityfocus.com/bid/12622/info/

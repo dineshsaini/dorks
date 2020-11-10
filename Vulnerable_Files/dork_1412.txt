@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1412
+Category:         Vulnerable Files
+Published Date:   2006-09-13
+Author:           anonymous
+GoogleDork:       inurl:"simplenews/admin"
+Description:      inurl:"simplenews/admin"
+
+
+hxxp://evuln.com/vulns/94/summary.html

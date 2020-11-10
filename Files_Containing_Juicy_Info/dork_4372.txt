@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4372
+Category:         Files Containing Juicy Info
+Published Date:   2016-12-12
+Author:           anonymous
+GoogleDork:       allinurl: drive.google.com/open?id=
+Description:      allinurl: drive.google.com/open?id=
+
+
+Hi!, i discovered this exploit that gets some juicy documents and data from users shared google drive. Don't know if it's already uploaded but of course, the exploit is still working of course, Cheers. Niko Onek

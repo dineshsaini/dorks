@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5508
+Category:         Pages Containing Login Portals
+Published Date:   2019-09-10
+Author:           Reza Abasi
+GoogleDork:       site:*/nms/login intitle:"UNMS"
+Description:      site:*/nms/login intitle:"UNMS"
+
+
+Login Portal:  site:*/nms/login intitle:"UNMS"  Reza Abasi(Turku) 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3589
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "This web site was made with MD-Pro"
+Description:      "This web site was made with MD-Pro"
+
+
+CVE: 2006-7112 EDB-ID: 2712 This search can potentially identify vulnerable installations of MD-Pro, a web portal system written in PHP.

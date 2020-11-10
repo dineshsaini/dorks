@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3219
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Lebi soft Ziyaretci Defteri_v7.5
+Description:      Lebi soft Ziyaretci Defteri_v7.5
+
+
+Lebi soft Ziyaretci Defteri_v7.5 DB Download Vulnerabilit - CVE: 2010-1065: https://www.exploit-db.com/exploits/11015

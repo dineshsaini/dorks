@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/201
+Category:         Files Containing Juicy Info
+Published Date:   2004-05-04
+Author:           anonymous
+GoogleDork:       inurl:"smb.conf" intext:"workgroup" filetype:conf conf
+Description:      inurl:"smb.conf" intext:"workgroup" filetype:conf conf
+
+
+These are samba configuration files. They include information about the network, trust relationships, user accounts and much more. Attackers can use this information to recon a network.

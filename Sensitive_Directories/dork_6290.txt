@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6290
+Category:         Sensitive Directories
+Published Date:   2020-06-16
+Author:           Alexandros Pappas
+GoogleDork:       intext:"INTERNAL USE ONLY" ext:doc OR ext:pdf OR ext:xls OR ext:xlsx
+Description:      intext:"INTERNAL USE ONLY" ext:doc OR ext:pdf OR ext:xls OR ext:xlsx
+
+
+# Google Dork: intext:"INTERNAL USE ONLY" ext:doc OR ext:pdf OR ext:xls OR ext:xlsx # Sensitive stuff. # Date: 2020-06-16 # Exploit Author: Alexandros Pappas 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4196
+Category:         Various Online Devices
+Published Date:   2016-02-09
+Author:           anonymous
+GoogleDork:       "Web page sent by InterMapper"
+Description:      "Web page sent by InterMapper"
+
+
+Dork with funny maps of networks. Dork by Rootkit Pentester. Regards.

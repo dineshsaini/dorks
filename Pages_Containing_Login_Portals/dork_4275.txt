@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4275
+Category:         Pages Containing Login Portals
+Published Date:   2016-04-29
+Author:           anonymous
+GoogleDork:       inurl:"/eyeos/index.php" -github -forum
+Description:      inurl:"/eyeos/index.php" -github -forum
+
+
+Google dork Description: inurl:"/eyeos/index.php" -github -forum Google search: inurl:"/eyeos/index.php" -github -forum Date: 2016-29-04 Author: khajj16 Summary: WebOS login portal for EyeOS.

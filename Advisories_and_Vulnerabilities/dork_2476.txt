@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2476
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Copyright © 2010 ASP SiteWare. All rights reserved.
+Description:      Copyright © 2010 ASP SiteWare. All rights reserved.
+
+
+MSSQLi Vulnerability in AutoDealer Ver.1 and Ver.2 - CVE: 2007-0053: https://www.exploit-db.com/exploits/12462

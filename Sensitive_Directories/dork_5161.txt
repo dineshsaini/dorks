@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5161
+Category:         Sensitive Directories
+Published Date:   2019-03-25
+Author:           R3VANBASTARD
+GoogleDork:       inurl:/uploads/wc-logs/
+Description:      inurl:/uploads/wc-logs/
+
+
+WooCommerce Classes Paypal Payment Information  inurl:/uploads/wc-logs/  Discovered By: R3VANBASTARD 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6149
+Category:         Pages Containing Login Portals
+Published Date:   2020-05-28
+Author:           Abhinav Porwal
+GoogleDork:       inurl:"passwordreset.php"
+Description:      inurl:"passwordreset.php"
+
+
+Dork: inurl:"passwordreset.php"  Description: This google dork lists out the various pages containing reset passwords portals.  Author: Abhinav Porwal 

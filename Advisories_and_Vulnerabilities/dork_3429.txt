@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3429
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered.by.RaidenHTTPD +intitle:index.of | inurl:raidenhttpd-admin
+Description:      Powered.by.RaidenHTTPD +intitle:index.of | inurl:raidenhttpd-admin
+
+
+RaidenHTTPD 1.1.49 (SoftParserFileXml) Remote Code Execution - CVE: 2006-4723: https://www.exploit-db.com/exploits/2328

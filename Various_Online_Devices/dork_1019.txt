@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1019
+Category:         Various Online Devices
+Published Date:   2005-06-10
+Author:           anonymous
+GoogleDork:       intitle:"AXIS 240 Camera Server" intext:"server push" -help
+Description:      intitle:"AXIS 240 Camera Server" intext:"server push" -help
+
+
+This search finds AXIS 240 Camera Servers (as opposed to just the cameras) which can host many cameras, that may not be found in other searches, since they are not necessarily IP based.

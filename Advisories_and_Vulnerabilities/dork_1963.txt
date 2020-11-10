@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1963
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Igloo (interest group glue)
+Description:      Igloo (interest group glue)
+
+
+Igloo 0.1.9 (Wiki.php) Remote File Include Vulnerability - CVE: 2006-2819: https://www.exploit-db.com/exploits/1863

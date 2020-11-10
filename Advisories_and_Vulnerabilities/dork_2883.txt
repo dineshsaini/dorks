@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2883
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by XT-Commerce
+Description:      Powered by XT-Commerce
+
+
+XT-Commerce v1 Beta 1 by Pass / Creat and Download Backup Vulnerability: https://www.exploit-db.com/exploits/12447

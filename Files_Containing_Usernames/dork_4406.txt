@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4406
+Category:         Files Containing Usernames
+Published Date:   2017-03-03
+Author:           anonymous
+GoogleDork:       inurl:/profile.php?lookup=1
+Description:      inurl:/profile.php?lookup=1
+
+
+inurl:/profile.php?lookup=1 This google dork will help find administrator name in most websites and forums..Very helpful in brute forcing ... Created SIVABALAN ( De King OF CYber )

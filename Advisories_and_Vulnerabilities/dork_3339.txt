@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3339
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intitle:"Directory Listing For /" + inurl:webdav tomcat
+Description:      intitle:"Directory Listing For /" + inurl:webdav tomcat
+
+
+Apache Tomcat (webdav) Remote File Disclosure: https://www.exploit-db.com/exploits/4552

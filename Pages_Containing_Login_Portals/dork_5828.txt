@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5828
+Category:         Pages Containing Login Portals
+Published Date:   2020-03-26
+Author:           Alexandros Pappas
+GoogleDork:       intext:"Welcome Admin"
+Description:      intext:"Welcome Admin"
+
+
+# Google Dork: intext:"Welcome Admin"  # By using this dork, pages containing various login portals can be found.  # Date: 26/03/2020  # Exploit Author: Alexandros Pappas 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6069
+Category:         Files Containing Juicy Info
+Published Date:   2020-05-08
+Author:           Abhi Chitkara
+GoogleDork:       intitle:"index of" "user data.txt"
+Description:      intitle:"index of" "user data.txt"
+
+
+Dork: intitle:"index of" "user data.txt" Description: This Google dork lists out sensitive user data for a web server Author: Abhi Chitkara 

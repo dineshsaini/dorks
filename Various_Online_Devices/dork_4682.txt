@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4682
+Category:         Various Online Devices
+Published Date:   2018-02-26
+Author:           Rootkit_Pentester
+GoogleDork:       inurl:public "Powered by SecureW2"
+Description:      inurl:public "Powered by SecureW2"
+
+
+Software for wifi access points. Dork by Rootkit Pentester 

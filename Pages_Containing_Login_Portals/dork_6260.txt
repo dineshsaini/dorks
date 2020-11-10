@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6260
+Category:         Pages Containing Login Portals
+Published Date:   2020-06-10
+Author:           Anjali Prakash
+GoogleDork:       inurl:".Admin;-aspx }" "~Login"
+Description:      inurl:".Admin;-aspx }" "~Login"
+
+
+Google Dork : inurl:".Admin;-aspx }" "~Login"   Author : ANJALI PRAKASH 

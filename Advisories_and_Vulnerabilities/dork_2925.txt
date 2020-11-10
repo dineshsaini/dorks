@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2925
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "advanced_search_results.php?gender="
+Description:      "advanced_search_results.php?gender="
+
+
+Vastal I-Tech Dating Zone (fage) SQL Injection Vulnerability - CVE: 2008-4461: https://www.exploit-db.com/exploits/6388

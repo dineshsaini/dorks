@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2935
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       site:scartserver.com
+Description:      site:scartserver.com
+
+
+SCart 2.0 (page) Remote Code Execution - CVE: 2006-7012: https://www.exploit-db.com/exploits/1876

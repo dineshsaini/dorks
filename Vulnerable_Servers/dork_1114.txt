@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1114
+Category:         Vulnerable Servers
+Published Date:   2005-09-15
+Author:           anonymous
+GoogleDork:       "you can now password" | "this is a special page only seen by you. your profile visitors" inurl:imchaos
+Description:      "you can now password" | "this is a special page only seen by you. your profile visitors" inurl:imchaos
+
+
+IMchaos link tracker admin pages. Reveals AIM screennames, IP ADDRESSES AND OTHER INFO via details link. Logs can also be viewed and deleted from this page.

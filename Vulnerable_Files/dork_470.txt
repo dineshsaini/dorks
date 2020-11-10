@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/470
+Category:         Vulnerable Files
+Published Date:   2004-09-10
+Author:           anonymous
+GoogleDork:       Gallery configuration setup files
+Description:      Gallery configuration setup files
+
+
+Gallery is a popular images package for websites. Unfortunately, with so many users, more bugs will be found and Google will find more installations. This search finds Gallery sites that seem to have left more or less dangerous files on their servers, like resetadmin.php and others.We call it Gallery in Setup mode :)

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6483
+Category:         Files Containing Juicy Info
+Published Date:   2020-08-17
+Author:           Sahil Saxena
+GoogleDork:       "index of" "user.MYD"
+Description:      "index of" "user.MYD"
+
+
+# Google Dork: "index of" "user.MYD" # Title: Disclosure of sensitive files. # Date: 15/08/2020 # Author: Sahil Saxena # LinkedIn: https://www.linkedin.com/in/sahil-saxena-1333b9174 # Twitter: https://twitter.com/Sahil_delinitor # GitHub: https://github.com/Sahil-69 # Bugcrowd: https://bugcrowd.com/Prickn  Thanks, Sahil Saxena 

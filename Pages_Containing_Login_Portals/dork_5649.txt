@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5649
+Category:         Pages Containing Login Portals
+Published Date:   2019-11-20
+Author:           Dan Kritzinger
+GoogleDork:       intitle:odoo inurl:login "powered by odoo" "manage databases"
+Description:      intitle:odoo inurl:login "powered by odoo" "manage databases"
+
+
+intitle:odoo inurl:login "powered by odoo" "manage databases"  Dan Kritzinger

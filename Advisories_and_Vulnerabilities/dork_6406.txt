@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6406
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-07-14
+Author:           Tanmay Bhattacharjee
+GoogleDork:       inurl:wp-content/plugins/angwp
+Description:      inurl:wp-content/plugins/angwp
+
+
+Description: inurl:wp-content/plugins/angwp This google dorks give us the advisories and vulnerabilities on wordpress plugins.  Ref: https://wpvulndb.com/vulnerabilities/10293   Thanks, Tanmay Bhattacharjee 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/994
+Category:         Various Online Devices
+Published Date:   2005-06-03
+Author:           anonymous
+GoogleDork:       intitle:"Netopia Router (*.)""to view this site"
+Description:      intitle:"Netopia Router (*.)""to view this site"
+
+
+Web admin for netopia routersThis Web tool provides access to information about the current status of your router and connections.

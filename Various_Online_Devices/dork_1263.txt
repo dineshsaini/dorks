@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1263
+Category:         Various Online Devices
+Published Date:   2006-02-08
+Author:           anonymous
+GoogleDork:       inurl:setdo.cgi intext:"Set DO OK"
+Description:      inurl:setdo.cgi intext:"Set DO OK"
+
+
+Dcs-2100 camerasBy removing "intext:Set DO OK" you will get more hits but they will require a login. Set DO OK is almost always admin access, you will need to go to the root of the URL to use the camera.

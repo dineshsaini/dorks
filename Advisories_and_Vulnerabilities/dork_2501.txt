@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2501
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by odlican.net cms v.1.5
+Description:      Powered by odlican.net cms v.1.5
+
+
+odlican.net cms v.1.5 Remote File Upload Vulnerability: https://www.exploit-db.com/exploits/11340

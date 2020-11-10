@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3372
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "powered by JAMM"
+Description:      "powered by JAMM"
+
+
+JAMM CMS (id) Remote Blind SQL Injection - CVE: 2008-2755: https://www.exploit-db.com/exploits/5789

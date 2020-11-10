@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6446
+Category:         Various Online Devices
+Published Date:   2020-07-26
+Author:           Sachin Kattimani
+GoogleDork:       inurl:axis-cgi/mjpg/video swf
+Description:      inurl:axis-cgi/mjpg/video swf
+
+
+inurl:axis-cgi/mjpg/video swf  This google dorks give us various videos &amp; clips of secured webcam. linkedin profile: https://www.linkedin.com/in/sachin-k-92b521151/  Thanks, Sachin 

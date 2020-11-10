@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2277
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allinurl: "index php p shop"categ
+Description:      allinurl: "index php p shop"categ
+
+
+Koobi Pro 6.25 shop Remote SQL Injection Vulnerability: https://www.exploit-db.com/exploits/5412

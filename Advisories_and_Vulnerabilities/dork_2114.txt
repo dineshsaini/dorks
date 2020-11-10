@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2114
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by Ovidentia"
+Description:      "Powered by Ovidentia"
+
+
+Ovidentia 6.6.5 (item) Remote SQL Injection Vulnerability - CVE: 2008-3918: https://www.exploit-db.com/exploits/6232

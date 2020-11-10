@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4007
+Category:         Sensitive Directories
+Published Date:   2015-05-26
+Author:           anonymous
+GoogleDork:       intitle:"Index of ftp"
+Description:      intitle:"Index of ftp"
+
+
+This dork finds open ftps. This is a base dork, where you can add intext:"ssh/" for folder search and intext:"-2015" for dates and years. Author:NickiK.

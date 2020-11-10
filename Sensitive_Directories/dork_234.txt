@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/234
+Category:         Sensitive Directories
+Published Date:   2004-05-13
+Author:           anonymous
+GoogleDork:       intitle:intranet inurl:intranet +intext:"human resources"
+Description:      intitle:intranet inurl:intranet +intext:"human resources"
+
+
+According to whatis.com: "An intranet is a private network that is contained within an enterprise. [...] The main purpose of an intranet is to share company information and computing resources among employees [...] and in general looks like a private version of the Internet."This search allows you to not only access a companies private network, but also provides employee listings and other sensitive information that can be incredibly useful for any social engineering endeavour

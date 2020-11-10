@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5719
+Category:         Files Containing Juicy Info
+Published Date:   2020-01-29
+Author:           Bruno Schmid
+GoogleDork:       -pub -pool intitle:"index of" db.key OR server.key OR ftp.key OR exchange.key OR host.key OR mail.key
+Description:      -pub -pool intitle:"index of" db.key OR server.key OR ftp.key OR exchange.key OR host.key OR mail.key
+
+
+This dork will give you a lot of private keys are also known as a secret keys.   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1185
+Category:         Pages Containing Login Portals
+Published Date:   2005-11-12
+Author:           anonymous
+GoogleDork:       intitle:"Novell Web Services" "GroupWise" -inurl:"doc/11924" -.mil -.edu -.gov -filetype:pdf
+Description:      intitle:"Novell Web Services" "GroupWise" -inurl:"doc/11924" -.mil -.edu -.gov -filetype:pdf
+
+
+Novell GroupWise is a complete collaboration software solution that provides information workers with e-mail, calendaring, instant messaging, task management, and contact and document management functions. The leading alternative to Microsoft Exchange, GroupWise has long been praised by customers and industry watchers for its security and reliability.

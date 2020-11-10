@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4166
+Category:         Various Online Devices
+Published Date:   2015-12-29
+Author:           anonymous
+GoogleDork:       inurl:/tcpipv4.htm
+Description:      inurl:/tcpipv4.htm
+
+
+TCP/IP Settings HP LaserJet Logins -Xploit 

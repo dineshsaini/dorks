@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1738
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "TROforum 0.1"
+Description:      "TROforum 0.1"
+
+
+TROforum 0.1 (admin.php site_url) Remote File Inclusion Vulnerability - CVE: 2007-2937: https://www.exploit-db.com/exploits/3995

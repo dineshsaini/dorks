@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/369
+Category:         Vulnerable Files
+Published Date:   2004-07-21
+Author:           anonymous
+GoogleDork:       filetype:cnf my.cnf -cvs -example
+Description:      filetype:cnf my.cnf -cvs -example
+
+
+The MySQL database system uses my.cnf files for configuration. It can include a lot of information, ranging from pathes, databasenames up to passwords and usernames.Beware this search still gives false positives (examples, templates).

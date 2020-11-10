@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4523
+Category:         Various Online Devices
+Published Date:   2017-06-13
+Author:           anonymous
+GoogleDork:       inurl:"ftp://www." "Index of /"
+Description:      inurl:"ftp://www." "Index of /"
+
+
+Finds various online FTP servers. Dxtroyer

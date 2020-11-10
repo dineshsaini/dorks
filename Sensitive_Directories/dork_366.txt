@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/366
+Category:         Sensitive Directories
+Published Date:   2004-07-20
+Author:           anonymous
+GoogleDork:       "index of" / picasa.ini
+Description:      "index of" / picasa.ini
+
+
+Picasa is an 'Automated Digital Photo Organizer' recently aquired by Google. This search allows the voyer to browse directories of photos uploaded using the picasa software.

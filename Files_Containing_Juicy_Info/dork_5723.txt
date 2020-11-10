@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5723
+Category:         Files Containing Juicy Info
+Published Date:   2020-02-03
+Author:           Bruno Schmid
+GoogleDork:       krb.conf OR krb.realms intitle:"index of" -public -archive -packages -pub
+Description:      krb.conf OR krb.realms intitle:"index of" -public -archive -packages -pub
+
+
+Kerberos information like usernames and kerbero realms.   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

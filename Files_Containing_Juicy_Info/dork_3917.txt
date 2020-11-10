@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3917
+Category:         Files Containing Juicy Info
+Published Date:   2013-11-25
+Author:           anonymous
+GoogleDork:       inurl:"jmx-console/HtmlAdaptor" intitle:Mbean
+Description:      inurl:"jmx-console/HtmlAdaptor" intitle:Mbean
+
+
+JBoss http://docs.jboss.org/jbossas/docs/Server_Configuration_Guide/4/html/Connecting_to_the_JMX_Server-Inspecting_the_Server___the_JMX_Console_Web_Application.html -- -[Voluntas Vincit Omnia]- website http://www.erisresearch.org/ Google+ https://plus.google.com/u/0/114827336297709201563

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4512
+Category:         Files Containing Juicy Info
+Published Date:   2017-06-07
+Author:           anonymous
+GoogleDork:       "KVP_ENCDATA:Version=1.0" ext:log
+Description:      "KVP_ENCDATA:Version=1.0" ext:log
+
+
+Finds transaction logs with bank account info and (drumroll please) credit card numbers! Dxtroyer

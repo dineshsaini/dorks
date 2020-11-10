@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4791
+Category:         Files Containing Passwords
+Published Date:   2018-04-25
+Author:           Bruno Schmid
+GoogleDork:       inurl:"servlet/ViewFormServlet?" "pwd"
+Description:      inurl:"servlet/ViewFormServlet?" "pwd"
+
+
+ BMC Remedy Mid Tier gives username and password in the url. Some commands are also possible, like password reset and so on.    Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

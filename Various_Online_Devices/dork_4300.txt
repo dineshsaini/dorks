@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4300
+Category:         Various Online Devices
+Published Date:   2016-06-22
+Author:           anonymous
+GoogleDork:       inurl:/awcuser/cgi-bin/
+Description:      inurl:/awcuser/cgi-bin/
+
+
+Google Dork for Mitel systems: inurl:/awcuser/cgi-bin/ @_aliardic_

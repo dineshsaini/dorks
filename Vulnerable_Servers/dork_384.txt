@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/384
+Category:         Vulnerable Servers
+Published Date:   2004-07-26
+Author:           anonymous
+GoogleDork:       filetype:cgi inurl:"fileman.cgi"
+Description:      filetype:cgi inurl:"fileman.cgi"
+
+
+This brings up alot of insecure as well as secure filemanagers. These software solutions are often used by companies offering a "simple" but "cost effective" way to their users who don't know unix or html. There is a problem sometimes with this specific filemanager due to insecure use of the session ID that can be found in the unprotected "fileman.log" logfile. It has been reported that an attacker can abuse the last document-edit-url of the logfile. By copy pasting that line in a new window it gives the attacker valid user credentials on the server, at least for a while.. (think hours not seconds).

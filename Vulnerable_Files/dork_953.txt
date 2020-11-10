@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/953
+Category:         Vulnerable Files
+Published Date:   2005-04-27
+Author:           anonymous
+GoogleDork:       inurl:cgi-bin inurl:bigate.cgi
+Description:      inurl:cgi-bin inurl:bigate.cgi
+
+
+Anonymous surfing with bigate.cgi. Remove http:// when you copy paste or it won't work.

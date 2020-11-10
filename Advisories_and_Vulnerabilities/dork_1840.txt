@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1840
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by DVHome.cn"
+Description:      "Powered by DVHome.cn"
+
+
+PHP TopTree BBS 2.0.1a (right_file) Remote File Inclusion Vulnerability - CVE: 2007-2544: https://www.exploit-db.com/exploits/3854

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/395
+Category:         Vulnerable Files
+Published Date:   2004-08-01
+Author:           anonymous
+GoogleDork:       filetype:wsdl wsdl
+Description:      filetype:wsdl wsdl
+
+
+The XML headers are called *.wsdl files.they can include data, functions or objects. An attacker with knowledge of XML coding can sometimes do evil things with this stuff.

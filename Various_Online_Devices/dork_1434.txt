@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1434
+Category:         Various Online Devices
+Published Date:   2010-11-11
+Author:           anonymous
+GoogleDork:       allintitle:"SyncThru Web Service"
+Description:      allintitle:"SyncThru Web Service"
+
+
+This search finds Internet-connected Samsung printer control panels.

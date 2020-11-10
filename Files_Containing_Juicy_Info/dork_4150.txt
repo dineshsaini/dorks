@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4150
+Category:         Files Containing Juicy Info
+Published Date:   2015-12-14
+Author:           anonymous
+GoogleDork:       inurl:http | -inurl:https inurl:ftp ext:pdf taxreturn
+Description:      inurl:http | -inurl:https inurl:ftp ext:pdf taxreturn
+
+
+Amazing what you find with this.. -Chopin

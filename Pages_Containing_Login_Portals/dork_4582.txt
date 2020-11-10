@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4582
+Category:         Pages Containing Login Portals
+Published Date:   2017-10-02
+Author:           anonymous
+GoogleDork:       inurl:":8006" and intext:"Proxmox VE Login"
+Description:      inurl:":8006" and intext:"Proxmox VE Login"
+
+
+Login portal to Proxmox Virtual Environment. --- @verovan

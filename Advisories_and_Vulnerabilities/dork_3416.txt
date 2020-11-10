@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3416
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by Leap"							
+Description:      "Powered by Leap"							
+
+
+Leap CMS 0.1.4 (SQL/XSS/SU) Multiple Remote Vulnerabilities - CVE: 2009-1615: https://www.exploit-db.com/exploits/8577

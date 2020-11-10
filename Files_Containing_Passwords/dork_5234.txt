@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5234
+Category:         Files Containing Passwords
+Published Date:   2019-05-31
+Author:           acc3ssp0int
+GoogleDork:       s3 site:amazonaws.com filetype:xls password
+Description:      s3 site:amazonaws.com filetype:xls password
+
+
+excel files containing user id and password information stored on AWS S3 buckets  *Google Dork*  s3 site:amazonaws.com filetype:xls password  *Dates: *22-05-2019  *Dork Author:* acc3ssp0int  *Tested on:* any OS with a functioning browser running Google.com

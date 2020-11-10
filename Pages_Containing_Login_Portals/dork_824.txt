@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/824
+Category:         Pages Containing Login Portals
+Published Date:   2005-01-13
+Author:           anonymous
+GoogleDork:       PHPhotoalbum Statistics
+Description:      PHPhotoalbum Statistics
+
+
+PHPhotoalbum is a picturegallery script. You can upload pictures directly from your webbrowser. The script generates thumbnails on the fly. Users can comment each picture. View statistics about the pictures. TopXX list. Admin user can delete pictures, comments and albums.

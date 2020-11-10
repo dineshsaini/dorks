@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2097
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:tr.php?id= Downline
+Description:      inurl:tr.php?id= Downline
+
+
+YourFreeWorld Downline Builder (id) Remote SQL Injection Vulnerability - CVE: 2008-4895: https://www.exploit-db.com/exploits/6935

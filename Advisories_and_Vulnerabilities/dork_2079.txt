@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2079
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:inc_linksmanager.asp
+Description:      inurl:inc_linksmanager.asp
+
+
+DMXReady Links Manager 1.1 Remote Contents Change Vulnerability: https://www.exploit-db.com/exploits/7772

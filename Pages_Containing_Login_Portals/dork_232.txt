@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/232
+Category:         Pages Containing Login Portals
+Published Date:   2004-05-17
+Author:           anonymous
+GoogleDork:       intitle:"Dell Remote Access Controller"
+Description:      intitle:"Dell Remote Access Controller"
+
+
+This is the Dell Remote Access Controller that allows remote administration of a Dell server.

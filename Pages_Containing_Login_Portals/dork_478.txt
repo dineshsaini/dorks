@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/478
+Category:         Pages Containing Login Portals
+Published Date:   2004-09-18
+Author:           anonymous
+GoogleDork:       "Login to Usermin" inurl:20000
+Description:      "Login to Usermin" inurl:20000
+
+
+Usermin is a web interface that can be used by any user on a Unix system to easily perform tasks like reading mail, setting up SSH or configuring mail forwarding. It can be thought of as a simplified version of Webmin designed for use by normal users rather than system administrators.

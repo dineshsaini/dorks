@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1447
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allinurl: com_clasifier
+Description:      allinurl: com_clasifier
+
+
+Joomla Component com_clasifier (cat_id) SQL Injection Vulnerability - CVE: 2008-0842: https://www.exploit-db.com/exploits/5146

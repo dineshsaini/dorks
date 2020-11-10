@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6609
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-10-13
+Author:           Kathan Patel
+GoogleDork:       inurl:/wp-content/plugins/wp-file-manager/readme.txt
+Description:      inurl:/wp-content/plugins/wp-file-manager/readme.txt
+
+
+Dork to find CVE-2020–25213  " inurl:/wp-content/plugins/wp-file-manager/readme.txt "  Best Regards, Kathan 

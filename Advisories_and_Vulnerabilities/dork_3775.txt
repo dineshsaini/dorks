@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3775
+Category:         Advisories and Vulnerabilities
+Published Date:   2012-01-10
+Author:           anonymous
+GoogleDork:       inurl:wp-content/plugins/age-verification/age-verification.php
+Description:      inurl:wp-content/plugins/age-verification/age-verification.php
+
+
+Wordpress Age Verification Plugin https://www.exploit-db.com/exploits/18350

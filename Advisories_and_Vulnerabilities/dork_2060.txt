@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2060
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by PowerPortal v1.3a
+Description:      Powered by PowerPortal v1.3a
+
+
+PowerPortal 1.3a (index.php) Remote File Include Vulnerability - CVE: 2006-5126: https://www.exploit-db.com/exploits/2454

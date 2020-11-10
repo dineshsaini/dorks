@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6106
+Category:         Pages Containing Login Portals
+Published Date:   2020-05-20
+Author:           berat isler
+GoogleDork:       intext:"Launch FortiClient" and "Please Login"
+Description:      intext:"Launch FortiClient" and "Please Login"
+
+
+This dork found FortiClient Login Portals.  Google Dork: intext:"Launch FortiClient" and "Please Login"  Author: Berat ISLER (root1x) 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4585
+Category:         Web Server Detection
+Published Date:   2017-10-02
+Author:           anonymous
+GoogleDork:       inurl:readme.rst intext:"CodeIgniter"
+Description:      inurl:readme.rst intext:"CodeIgniter"
+
+
+Google Search:inurl:readme.rst intext:"CodeIgniter" Explanation: CodeIgniter comes with a default offline readme.rst which most of the installed applications don't remove and gets indexed. Its can able to identify the framework and exploit it. *Vishnu Prasad P G*

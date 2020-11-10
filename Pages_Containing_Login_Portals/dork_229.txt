@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/229
+Category:         Pages Containing Login Portals
+Published Date:   2004-05-13
+Author:           anonymous
+GoogleDork:       "please log in"
+Description:      "please log in"
+
+
+This is a simple search for a login page. Attackers view login pages as the "front door" to a site, but the information about where this page is stored and how it is presented can provide clues about breaking into a site.

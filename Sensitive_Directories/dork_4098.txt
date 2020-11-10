@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4098
+Category:         Sensitive Directories
+Published Date:   2015-10-19
+Author:           anonymous
+GoogleDork:       inurl:.DS_Store intitle:index.of
+Description:      inurl:.DS_Store intitle:index.of
+
+
+Directories with DS_Store files. By Rootkit Pentester.

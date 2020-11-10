@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3160
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by: AIH v2.3
+Description:      Powered by: AIH v2.3
+
+
+Advanced Image Hosting (AIH) 2.3 (gal) Blind SQL Injection Vuln - CVE: 2009-1032: https://www.exploit-db.com/exploits/8238

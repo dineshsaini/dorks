@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6545
+Category:         Various Online Devices
+Published Date:   2020-09-17
+Author:           Frank Rizzuto
+GoogleDork:       inurl:"/viewer/live/index.html"
+Description:      inurl:"/viewer/live/index.html"
+
+
+# Explanation: Webcams, mostly controllable without authentication. # Google Dork: inurl:"/viewer/live/index.html" # Date: 17SEP2020 # Exploit Author: Frank Rizzuto 

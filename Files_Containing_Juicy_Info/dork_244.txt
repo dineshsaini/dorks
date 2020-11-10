@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/244
+Category:         Files Containing Juicy Info
+Published Date:   2004-05-18
+Author:           anonymous
+GoogleDork:       "Mecury Version" "Infastructure Group"
+Description:      "Mecury Version" "Infastructure Group"
+
+
+Mecury is a centralized ground control program for research satellites. This query simply locates servers running this software. As it seems to run primarily on PHP and MySQL, there are many possible vulnerabilities associated with it.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6655
+Category:         Files Containing Juicy Info
+Published Date:   2020-11-06
+Author:           Alexandros Pappas
+GoogleDork:       intitle:"index of" "service-Account-Credentials.json" | "creds.json"
+Description:      intitle:"index of" "service-Account-Credentials.json" | "creds.json"
+
+
+# Google Dork: intitle:"index of" "service-Account-Credentials.json" | "creds.json" # Sensitive directories containing private keys, private key IDs, etc.. # Date: 5/11/2020 # Exploit Author: Alexandros Pappas 

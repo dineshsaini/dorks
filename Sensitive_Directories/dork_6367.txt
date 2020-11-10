@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6367
+Category:         Sensitive Directories
+Published Date:   2020-07-06
+Author:           Prasad Lingamaiah
+GoogleDork:       intitle:"Index of c:\xampp"
+Description:      intitle:"Index of c:\xampp"
+
+
+intitle:"Index of c:\xampp" Category: Sensitive Directory Summary: A Google dork that gives information about the Sensitive Directory. 

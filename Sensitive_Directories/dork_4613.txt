@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4613
+Category:         Sensitive Directories
+Published Date:   2017-11-15
+Author:           Fu2x2000
+GoogleDork:       intext:/wp-content/plugins/woocommerce/templates/emails/plain/
+Description:      intext:/wp-content/plugins/woocommerce/templates/emails/plain/
+
+
+When you dork with this,it will generate juciy information in parent directory , for best practice filter according to the country .   Fu2x2000 

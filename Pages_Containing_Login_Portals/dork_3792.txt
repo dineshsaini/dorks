@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3792
+Category:         Pages Containing Login Portals
+Published Date:   2012-08-21
+Author:           anonymous
+GoogleDork:       inurl:/app_dev.php/login "Environment"
+Description:      inurl:/app_dev.php/login "Environment"
+
+
+Search for login screen in web aplications developed with Symfony2 in a development environment Daniel Maldonado http://caceriadespammers.com.ar

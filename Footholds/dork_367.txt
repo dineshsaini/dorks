@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/367
+Category:         Footholds
+Published Date:   2004-07-20
+Author:           anonymous
+GoogleDork:       "adding new user" inurl:addnewuser -"there are no domains"
+Description:      "adding new user" inurl:addnewuser -"there are no domains"
+
+
+Allows an attacker to create an account on a server running Argosoft mail server pro for windows with unlimited disk quota (but a 5mb per message limit should you use your account to send mail).

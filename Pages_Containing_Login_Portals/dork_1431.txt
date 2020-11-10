@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1431
+Category:         Pages Containing Login Portals
+Published Date:   2010-11-10
+Author:           anonymous
+GoogleDork:       "Remote Supervisor Adapter II" inurl:userlogin_logo.ssi
+Description:      "Remote Supervisor Adapter II" inurl:userlogin_logo.ssi
+
+
+IBM e-server's login pages. Author: DigiP

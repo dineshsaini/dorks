@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4311
+Category:         Files Containing Passwords
+Published Date:   2016-07-20
+Author:           anonymous
+GoogleDork:       site:static.ow.ly/docs/ intext:@gmail.com | Password
+Description:      site:static.ow.ly/docs/ intext:@gmail.com | Password
+
+
+This dork results in documents containing passwords that are stuck in ow.ly cache. Majority are from 2016 and are still working. Discovered by @BLM_KRS (Twitter)

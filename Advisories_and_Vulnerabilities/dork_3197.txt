@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3197
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       [ Powered by: RadLance v7.5 ]
+Description:      [ Powered by: RadLance v7.5 ]
+
+
+RadLance Gold 7.5 Multiple Remote Vulnerabilities - CVE: 2009-4692: https://www.exploit-db.com/exploits/9195

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3882
+Category:         Files Containing Juicy Info
+Published Date:   2013-08-08
+Author:           anonymous
+GoogleDork:       inurl:~~joomla3.txt filetype:txt
+Description:      inurl:~~joomla3.txt filetype:txt
+
+
+By this dork you can find juicy information joomla configuration files Author: Un0wn_X

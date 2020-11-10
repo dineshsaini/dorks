@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/804
+Category:         Sensitive Directories
+Published Date:   2005-01-05
+Author:           anonymous
+GoogleDork:       intitle:"HFS /" +"HttpFileServer"
+Description:      intitle:"HFS /" +"HttpFileServer"
+
+
+"The HttpFileServer is a Java based mechanism for providing web access to a set of files on a server. This is very similar to Apache Directory Indexing but provides the ability to upload files as well." http://johnny.ihackstuff.com/index.php?name=PNphpBB2&amp;file=viewtopic&amp;t=1516

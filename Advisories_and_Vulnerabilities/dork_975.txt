@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/975
+Category:         Advisories and Vulnerabilities
+Published Date:   2005-05-07
+Author:           anonymous
+GoogleDork:       intitle:"myBloggie 2.1.1..2 - by myWebland"
+Description:      intitle:"myBloggie 2.1.1..2 - by myWebland"
+
+
+myBloggie is affected by multiple vulnerabilities. http://www.securityfocus.com/bid/13507

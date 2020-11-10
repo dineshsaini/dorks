@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/8
+Category:         Files Containing Juicy Info
+Published Date:   2003-06-24
+Author:           anonymous
+GoogleDork:       sQL data dumps
+Description:      sQL data dumps
+
+
+SQL database dumps. LOTS of data in these. So much data, infact, I'm pressed to think of what else an ev1l hax0r would like to know about a target database.. What's that? Usernames and passwords you say? Patience, grasshopper.....

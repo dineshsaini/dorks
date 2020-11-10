@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/174
+Category:         Files Containing Juicy Info
+Published Date:   2004-04-21
+Author:           anonymous
+GoogleDork:       "Running in Child mode"
+Description:      "Running in Child mode"
+
+
+This is a gnutella client that was picked up by google. There is a lot of data present including transfer statistics, port numbers, operating system, memory, processor speed, ip addresses, and gnutella client versions.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1865
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by PNphpBB2 / Powered por PNphpBB2
+Description:      Powered by PNphpBB2 / Powered por PNphpBB2
+
+
+PNphpBB2 1.2g (phpbb_root_path) Remote File Include Vulnerability - CVE: 2006-4968: https://www.exploit-db.com/exploits/2390

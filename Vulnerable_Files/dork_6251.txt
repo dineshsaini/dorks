@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6251
+Category:         Vulnerable Files
+Published Date:   2020-06-09
+Author:           Anurag Muley
+GoogleDork:       intitle:"index of" "nrpe.cfg"
+Description:      intitle:"index of" "nrpe.cfg"
+
+
+*intitle:"index of" "nrpe.cfg"*  This dork helps to view sensitive information by pulling NRPE config file which is used for Nagios monitoring. This file can contain password for customized plugins and can also reveal internal IPs.  Please find the attached txt file containing details.  Thanks and Regards Anurag Muley  

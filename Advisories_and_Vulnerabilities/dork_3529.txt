@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3529
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:/modules/xfsection/
+Description:      inurl:/modules/xfsection/
+
+
+XOOPS Module XFsection 1.07 (articleid) BLIND SQL Injection - CVE: 2005-0725: https://www.exploit-db.com/exploits/3645

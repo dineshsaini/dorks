@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3493
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "This site is powered by CMS Made Simple"
+Description:      "This site is powered by CMS Made Simple"
+
+
+CMS Made Simple 1.2.4 (FileManager module) File Upload - CVE: 2008-2267: https://www.exploit-db.com/exploits/5600

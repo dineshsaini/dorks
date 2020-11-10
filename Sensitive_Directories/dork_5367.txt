@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5367
+Category:         Sensitive Directories
+Published Date:   2019-08-16
+Author:           Sathishshan
+GoogleDork:       intitle:"Index of" wp-config.php
+Description:      intitle:"Index of" wp-config.php
+
+
+Dork: intitle:"Index of" wp-config.php Author: Sathishshan Info: Contains sensitive information &amp; sensitive files 

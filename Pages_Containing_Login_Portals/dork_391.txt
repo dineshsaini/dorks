@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/391
+Category:         Pages Containing Login Portals
+Published Date:   2004-07-29
+Author:           anonymous
+GoogleDork:       inurl:"utilities/TreeView.asp"
+Description:      inurl:"utilities/TreeView.asp"
+
+
+From the marketing brochure: "UltiPro Workforce Management offers you the most comprehensive and cost-effective HR and payroll solution on the market today."The default passwords are easy to guess if an employee has not logged into this system. An attacker would only need to find the loginname.

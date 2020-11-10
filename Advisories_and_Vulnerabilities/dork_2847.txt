@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2847
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:inc_securedocumentlibrary.asp
+Description:      inurl:inc_securedocumentlibrary.asp
+
+
+DMXReady Secure Document Library 1.1 Remote SQL Injection Vuln - CVE: 2009-0428: https://www.exploit-db.com/exploits/7787

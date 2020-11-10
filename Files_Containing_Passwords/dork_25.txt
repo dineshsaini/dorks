@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/25
+Category:         Files Containing Passwords
+Published Date:   2003-06-24
+Author:           anonymous
+GoogleDork:       passwd / etc (reliable)
+Description:      passwd / etc (reliable)
+
+
+There's nothing that defines a googleDork more than getting your PASSWORDS grabbed by Google for the world to see. Truly the epitome of a googleDork. And what if the passwords are hashed? A password cracker can eat cheesy password hashes faster than Elvis eatin' jelly doughnuts. Bravo googleDorks! Good show!

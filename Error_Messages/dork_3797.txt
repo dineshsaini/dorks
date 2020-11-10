@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3797
+Category:         Error Messages
+Published Date:   2012-08-21
+Author:           anonymous
+GoogleDork:       "CHARACTER_SETS" "COLLATION_CHARACTER_SET_APPLICABILITY"
+Description:      "CHARACTER_SETS" "COLLATION_CHARACTER_SET_APPLICABILITY"
+
+
+"CHARACTER_SETS"+"COLLATION_CHARACTER_SET_APPLICABILITY" find sql injectable site discoverd by shinrisama

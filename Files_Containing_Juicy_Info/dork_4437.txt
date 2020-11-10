@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4437
+Category:         Files Containing Juicy Info
+Published Date:   2017-04-17
+Author:           anonymous
+GoogleDork:       "SERVER_ADDR" "SERVER_PORT" "SERVER_NAME" ext:log
+Description:      "SERVER_ADDR" "SERVER_PORT" "SERVER_NAME" ext:log
+
+
+Finds logs with server information! Dxtroyer

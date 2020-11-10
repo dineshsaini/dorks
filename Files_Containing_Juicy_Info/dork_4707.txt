@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4707
+Category:         Files Containing Juicy Info
+Published Date:   2018-03-22
+Author:           ManhNho
+GoogleDork:       inurl:/?=PHPB8B5F2A0-3C92-11d3-A3A9-4C7B08C10000 | inurl:/?=PHPE9568F35-D428-11d2-A769-00AA001ACF42
+Description:      inurl:/?=PHPB8B5F2A0-3C92-11d3-A3A9-4C7B08C10000 | inurl:/?=PHPE9568F35-D428-11d2-A769-00AA001ACF42
+
+
+inurl:/?=PHPB8B5F2A0-3C92-11d3-A3A9-4C7B08C10000 | inurl:/?=PHPE9568F35-D428-11d2-A769-00AA001ACF42  PHP reveals potentially sensitive information via certain HTTP requests that contain specific QUERY strings  ManhNho 

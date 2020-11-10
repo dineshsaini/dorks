@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/517
+Category:         Various Online Devices
+Published Date:   2004-09-29
+Author:           anonymous
+GoogleDork:       intitle:RICOH intitle:"Network Administration"
+Description:      intitle:RICOH intitle:"Network Administration"
+
+
+Network Administration pages for several Ricoh Afficio printer models, for example the Aficio 1018D and RICOH LASER AP1600.

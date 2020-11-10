@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2647
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by Real Estate Portal"
+Description:      "Powered by Real Estate Portal"
+
+
+NetArtMedia Real Estate Portal 1.2 (ad_id) SQL Injection Vuln - CVE: 2008-5309: https://www.exploit-db.com/exploits/7208

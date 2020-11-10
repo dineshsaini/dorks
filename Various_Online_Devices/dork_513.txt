@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/513
+Category:         Various Online Devices
+Published Date:   2004-09-29
+Author:           anonymous
+GoogleDork:       intitle:"The AXIS 200 Home Page"
+Description:      intitle:"The AXIS 200 Home Page"
+
+
+The Axis 200 HOME pages reside within the AXIS 200 device and hold information about the current software version, technical documentation, some howto's and the device settings.

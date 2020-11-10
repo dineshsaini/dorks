@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2438
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by Shout!"
+Description:      "Powered by Shout!"
+
+
+ShoutCMS (content.php) Blind Sql Injection Vulnerability: https://www.exploit-db.com/exploits/11305

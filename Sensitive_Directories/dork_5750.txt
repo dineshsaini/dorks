@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5750
+Category:         Sensitive Directories
+Published Date:   2020-02-21
+Author:           Hilary Soita
+GoogleDork:       intitle:"index of" "htdocs.zip"
+Description:      intitle:"index of" "htdocs.zip"
+
+
+Find htdocs/website compressed backup.  --  *Hilary Soita.* 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2623
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Ladder Scripts by"
+Description:      "Ladder Scripts by"
+
+
+My Gaming Ladder 7.5 (ladderid) SQL Injection Vulnerability - CVE: 2008-1791: https://www.exploit-db.com/exploits/5401

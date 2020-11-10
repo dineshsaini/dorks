@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/952
+Category:         Web Server Detection
+Published Date:   2005-04-27
+Author:           anonymous
+GoogleDork:       intitle:"Welcome to the Advanced Extranet Server, ADVX!"
+Description:      intitle:"Welcome to the Advanced Extranet Server, ADVX!"
+
+
+Webserver detection: The Advanced Extranet Server project aims to create an extensible open source web server based on Apache.

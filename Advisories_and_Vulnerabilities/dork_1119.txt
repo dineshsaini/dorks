@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1119
+Category:         Advisories and Vulnerabilities
+Published Date:   2005-09-17
+Author:           anonymous
+GoogleDork:       "Powered by CuteNews"
+Description:      "Powered by CuteNews"
+
+
+CuteNews 1.4.0 (possibly prior versions) remote code executionsoftware site: http://cutephp.com/description: "Cute news is a powerful and easy for using news management system that use flat files to store its database. It supports comments, archives, search function, image uploading, backup function, IP banning, flood protection ..."rgodsite: http://rgod.altervista.orgmail: retrogod [at] aliceposta it

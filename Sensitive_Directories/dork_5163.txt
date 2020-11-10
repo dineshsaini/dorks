@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5163
+Category:         Sensitive Directories
+Published Date:   2019-03-26
+Author:           Jayson Zabate
+GoogleDork:       intitle: "index of" "includes"
+Description:      intitle: "index of" "includes"
+
+
+Exploit : Dorks allow you to access the sensitive directories (includes, wp-includes) using "includes" file. Google Dork : intitle: "index of" "includes" Exploit Author:- Jayson Zabate URL :- https://invalidwebsecurity.info/ 

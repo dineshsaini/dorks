@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4209
+Category:         Pages Containing Login Portals
+Published Date:   2016-03-09
+Author:           anonymous
+GoogleDork:       intitle:"FirstSpirit - login"
+Description:      intitle:"FirstSpirit - login"
+
+
+Description: FirstSpirit Content Management System login page Google search: intitle:"FirstSpirit - login" Author: nebo_oben

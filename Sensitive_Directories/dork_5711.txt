@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5711
+Category:         Sensitive Directories
+Published Date:   2020-01-27
+Author:           Bruno Schmid
+GoogleDork:       -pub -pool intitle:"index of" vagrantfile -"How to"
+Description:      -pub -pool intitle:"index of" vagrantfile -"How to"
+
+
+The primary function of the Vagrantfile is to describe the type of machine required for a project, and how to configure and provision these machines. It can contain DB passwords, private keys, usernames etc...   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

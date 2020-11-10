@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/780
+Category:         Advisories and Vulnerabilities
+Published Date:   2004-12-19
+Author:           anonymous
+GoogleDork:       ext:php intext:"Powered by phpNewMan Version"
+Description:      ext:php intext:"Powered by phpNewMan Version"
+
+
+PHP News Manager is a multi-platform compatible solution for managing websites and multi-user access. Features weekly poll management, gallery management, partners list management, public news support, and a lot more. PHP News Manager is vulnerable to a directory traversal problem. path/to/news/browse.php?clang=../../../../../../file/i/want

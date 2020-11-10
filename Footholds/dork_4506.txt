@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4506
+Category:         Footholds
+Published Date:   2017-05-31
+Author:           anonymous
+GoogleDork:       intitle:"Authorization" "TF" inurl:"admin.php"
+Description:      intitle:"Authorization" "TF" inurl:"admin.php"
+
+
+Finds a bunch of unprotected botnet control panels Dxtroyer

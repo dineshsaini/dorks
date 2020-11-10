@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1204
+Category:         Advisories and Vulnerabilities
+Published Date:   2005-11-23
+Author:           anonymous
+GoogleDork:       "Copyright 2000 - 2005 Miro International Pty Ltd. All rights reserved" "Mambo is Free Software released"
+Description:      "Copyright 2000 - 2005 Miro International Pty Ltd. All rights reserved" "Mambo is Free Software released"
+
+
+this dork is for Mambo 4.5.2x Globals overwrite / remote command execution exploit:http://rgod.altervista.org/mambo452_xpl.html

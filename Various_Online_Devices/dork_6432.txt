@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6432
+Category:         Various Online Devices
+Published Date:   2020-07-21
+Author:           Tanmay Bhattacharjee
+GoogleDork:       inurl:axis-cgi/jpg
+Description:      inurl:axis-cgi/jpg
+
+
+Description: inurl:axis-cgi/jpg  This google dorks give us various screenshot of secured webcam.   Thanks, Tanmay Bhattacharjee 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3781
+Category:         Vulnerable Servers
+Published Date:   2012-05-15
+Author:           anonymous
+GoogleDork:       intitle:awen+intitle:asp.net
+Description:      intitle:awen+intitle:asp.net
+
+
+Hi, This google dork exposes any already uploaded asp.net shells which are available in BackTrack. http://www.google.com/search?q=intitle:awen+intitle:asp.net Thanks, Sagar Belure

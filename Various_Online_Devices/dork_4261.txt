@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4261
+Category:         Various Online Devices
+Published Date:   2016-04-11
+Author:           anonymous
+GoogleDork:       inurl:userRpm inurl:LoginRpm.htm
+Description:      inurl:userRpm inurl:LoginRpm.htm
+
+
+The below dork can list all the TPLink routers available.inurl:userRpm inurl:LoginRpm.htm Regards, Srini

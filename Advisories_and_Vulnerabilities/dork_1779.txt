@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1779
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by Jewelry Cart Software
+Description:      Powered by Jewelry Cart Software
+
+
+Jewelry Cart Software (product.php) SQL Injection Vulnerability: https://www.exploit-db.com/exploits/11826

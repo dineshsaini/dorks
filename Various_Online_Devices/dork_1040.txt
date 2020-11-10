@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1040
+Category:         Various Online Devices
+Published Date:   2005-07-22
+Author:           anonymous
+GoogleDork:       intitle:"Java Applet Page" inurl:ml
+Description:      intitle:"Java Applet Page" inurl:ml
+
+
+Another Standalone Network Camera.Default Login: remove wg_jwebeye.ml to get a nice clue ..Server: wg_httpd/1.0(based Boa/0.92q)

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3806
+Category:         Sensitive Directories
+Published Date:   2012-11-02
+Author:           anonymous
+GoogleDork:       inurl:ckfinder intext:"ckfinder.html" intitle:"Index of /ckfinder"
+Description:      inurl:ckfinder intext:"ckfinder.html" intitle:"Index of /ckfinder"
+
+
+Dork: inurl:ckfinder intext:"ckfinder.html" intitle:"Index of /ckfinder" Use this dork to find root directory of CKFinder (all versions) with ckfinder.html file (used to upload, modify and delete files on the server) Submitted by: CodiObert

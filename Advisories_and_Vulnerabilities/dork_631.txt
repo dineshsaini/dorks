@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/631
+Category:         Advisories and Vulnerabilities
+Published Date:   2004-10-27
+Author:           anonymous
+GoogleDork:       "BlackBoard 1.5.1-f | Ãƒâ€šÃ‚Â© 2003-4 by Yves Goergen"
+Description:      "BlackBoard 1.5.1-f | Ãƒâ€šÃ‚Â© 2003-4 by Yves Goergen"
+
+
+bugtraq id 11336objectclass Input Validation Errorcve CVE-MAP-NOMATCHremote Yeslocal Nopublished Oct 06, 2004updated Oct 06, 2004vulnerable BlackBoard Internet Newsboard System BlackBoard Internet Newsboard System 1.5.1BlackBoard Internet Newsboard System is reported prone to a remote file include vulnerability. This issue presents itself because the application fails to sanitize user-supplied data properly. This issue may allow an attacker to include malicious files containing arbitrary script code to be executed on a vulnerable computer.BlackBoard Internet Newsboard System version 1.5.1 is reported prone to this vulnerability. It is possible that prior versions are affected as well.

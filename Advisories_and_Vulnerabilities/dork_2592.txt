@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2592
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       Powered by WebspotBlogging
+Description:      Powered by WebspotBlogging
+
+
+bspotBlogging 3.0.1 (path) Remote File Include Vulnerability - CVE: 2006-2860: https://www.exploit-db.com/exploits/1871

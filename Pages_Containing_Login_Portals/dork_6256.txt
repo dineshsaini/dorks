@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6256
+Category:         Pages Containing Login Portals
+Published Date:   2020-06-09
+Author:           Hemant Patidar
+GoogleDork:       intitle:"index of" pass.php
+Description:      intitle:"index of" pass.php
+
+
+Dork: intitle:"index of" pass.php Author: Hemant Patidar (HemantSolo) Linkedin: https://www.linkedin.com/in/hemantsolo/ --   Ethical Hacker | Founder and CEO at Solo Securities,  Cyber Security Analyst at Ismile Technologies  Pursuing B.Tech Civil Engineering from SRM University  

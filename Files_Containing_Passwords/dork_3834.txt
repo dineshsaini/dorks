@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3834
+Category:         Files Containing Passwords
+Published Date:   2013-04-09
+Author:           anonymous
+GoogleDork:       filetype:config inurl:web.config inurl:ftp
+Description:      filetype:config inurl:web.config inurl:ftp
+
+
+This google dork to find sensitive information of MySqlServer , "uid, and password" in web.config through ftp.. filetype:config inurl:web.config inurl:ftp -Altamimi

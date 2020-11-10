@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5432
+Category:         Files Containing Juicy Info
+Published Date:   2019-08-22
+Author:           Reza Abasi
+GoogleDork:       ext:sql intext:"-- phpMyAdmin SQL Dump" -site:github.*
+Description:      ext:sql intext:"-- phpMyAdmin SQL Dump" -site:github.*
+
+
+Sensitive Directory,Files containing Passwords and Juicy info:  ext:sql intext:"-- phpMyAdmin SQL Dump" -site:github.*  Reza Abasi(Turku) 

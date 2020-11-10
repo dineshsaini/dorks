@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1256
+Category:         Vulnerable Servers
+Published Date:   2006-02-03
+Author:           anonymous
+GoogleDork:       intitle:"Horde :: My Portal" -"[Tickets"
+Description:      intitle:"Horde :: My Portal" -"[Tickets"
+
+
+Hi It will give you administrative ownership over Horde webmail system plus all users in Horde webmail system.. also php shell :) and much more ...Edited by CP

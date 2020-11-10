@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4535
+Category:         Files Containing Passwords
+Published Date:   2017-06-22
+Author:           anonymous
+GoogleDork:       intext:DB_PASSWORD || intext:"MySQL hostname" ext:txt
+Description:      intext:DB_PASSWORD || intext:"MySQL hostname" ext:txt
+
+
+Google Dork: intext:DB_PASSWORD || intext:"MySQL hostname" ext:txt Author: Tarkan Catal X This dork allows you to search for WordPress configuration file. This file contains Username, Password, Secret Keys and other juicy information.

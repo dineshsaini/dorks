@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1082
+Category:         Advisories and Vulnerabilities
+Published Date:   2005-08-29
+Author:           anonymous
+GoogleDork:       phpLDAPadmin intitle:phpLDAPadmin filetype:php inurl:tree.php | inurl:login.php | inurl:donate.php (0.9.6 | 0.9.7)
+Description:      phpLDAPadmin intitle:phpLDAPadmin filetype:php inurl:tree.php | inurl:login.php | inurl:donate.php (0.9.6 | 0.9.7)
+
+
+phpLDAPadmin 0.9.6 - 0.9.7/alpha5 (possibly prior versions) system disclosure,remote code execution, cross site scriptingsoftware:author site: http://phpldapadmin.sourceforge.net/description: phpLDAPadmin is a web-based LDAP client. It provides easy,anywhere-accessible, multi-language administration for your LDAP serverIf unpatched and vulnerable, a user can see any file on target system. A user can also execute arbitrary php code and system commands or craft a malicious url to include malicious client side code that will be executed in the security contest of the victim browser.

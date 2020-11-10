@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5624
+Category:         Files Containing Juicy Info
+Published Date:   2019-11-05
+Author:           Pankaj Kumar Thakur
+GoogleDork:       intitle:index.of "private-key.pem"
+Description:      intitle:index.of "private-key.pem"
+
+
+Dork: intitle:index.of "private-key.pem"  Author: Pankaj Kumar Thakur (Nepal)  Info: It contains Private RSA Keys.

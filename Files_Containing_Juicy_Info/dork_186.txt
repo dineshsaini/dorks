@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/186
+Category:         Files Containing Juicy Info
+Published Date:   2004-04-28
+Author:           anonymous
+GoogleDork:       inurl:perl/printenv
+Description:      inurl:perl/printenv
+
+
+This is the print environemnts script which lists sensitive information such as path names, server names, port numbers, server software and version numbers, administrator email addresses and more.

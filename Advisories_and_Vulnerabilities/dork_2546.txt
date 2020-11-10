@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2546
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"search_form.php?sb_showresult="
+Description:      inurl:"search_form.php?sb_showresult="
+
+
+Getacoder clone (sb_protype) Remote SQL Injection Vulnerability - CVE: 2008-3372: https://www.exploit-db.com/exploits/6143

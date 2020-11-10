@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3248
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Ladder Scripts by http://www.mygamingladder.com"
+Description:      "Ladder Scripts by http://www.mygamingladder.com"
+
+
+My Gaming Ladder Combo System 7.0 Remote Code Execution - CVE: 2006-2002: https://www.exploit-db.com/exploits/1707

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2519
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"index.php?serverid="
+Description:      inurl:"index.php?serverid="
+
+
+Ultrastats 0.2.144/0.3.11 (index.php serverid) SQL Injection Vulnerability - CVE: 2008-6260: https://www.exploit-db.com/exploits/7148

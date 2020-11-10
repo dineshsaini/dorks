@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/329
+Category:         Web Server Detection
+Published Date:   2004-07-12
+Author:           anonymous
+GoogleDork:       Red Hat Unix Administration
+Description:      Red Hat Unix Administration
+
+
+Red Hat UNIX Administration Pages. This search detects the fixed title for the admin pages on certain Red Hat servers. A login is required to access them, but an attacker could use this search to determine the operating system used by the server.

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1968
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intext:"Design by BB Media.Org"
+Description:      intext:"Design by BB Media.Org"
+
+
+BBMedia Design's SQL Injection Vulnerability: https://www.exploit-db.com/exploits/12711

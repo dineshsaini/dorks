@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2424
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:com_pinboard
+Description:      inurl:com_pinboard
+
+
+Joomla Component com_pinboard Remote File Upload Vulnerability: https://www.exploit-db.com/exploits/9011

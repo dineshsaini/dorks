@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3758
+Category:         Various Online Devices
+Published Date:   2011-12-10
+Author:           anonymous
+GoogleDork:       allintitle:"UniMep Station Controller"
+Description:      allintitle:"UniMep Station Controller"
+
+
+UniMep is a device for managing fuel station. You can see process of fueling cars and you can make some changes in the setting. The default username/password is admin/setup. Author: WBR rigan

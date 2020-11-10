@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6004
+Category:         Files Containing Juicy Info
+Published Date:   2020-05-04
+Author:           Abhi Chitkara
+GoogleDork:       intitle:"index of" "api.yaml"
+Description:      intitle:"index of" "api.yaml"
+
+
+Dork: intitle:"index of" "api.yaml" Description: This Google dork lists out sensitive api configuration data stored in the "api.yaml" file for a website. Author: Abhi Chitkara 

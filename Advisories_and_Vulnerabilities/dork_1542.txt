@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1542
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by Scripteen Free Image Hosting Script V 2.3"
+Description:      "Powered by Scripteen Free Image Hosting Script V 2.3"
+
+
+Scripteen Free Image Hosting Script 2.3 Insecure Cookie Handling Vuln - CVE: 2009-4987: https://www.exploit-db.com/exploits/9256

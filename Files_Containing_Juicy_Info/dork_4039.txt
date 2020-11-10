@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4039
+Category:         Files Containing Juicy Info
+Published Date:   2015-07-27
+Author:           anonymous
+GoogleDork:       inurl:wp-admin/admin-ajax.php inurl:wp-config.php
+Description:      inurl:wp-admin/admin-ajax.php inurl:wp-config.php
+
+
+The dork 'inurl:wp-admin/admin-ajax.php inurl:wp-config.php' finds the 'wp-config.php' file. It contains information about the database, including the name, host (typically localhost), username, and password. This information allows WordPress to communicate with the database to store and retrieve data (e.g. Posts, Users, Settings, etc). Name: Suyog Pawar. 

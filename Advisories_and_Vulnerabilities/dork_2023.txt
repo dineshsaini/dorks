@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2023
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allinurl:/myspeach/
+Description:      allinurl:/myspeach/
+
+
+MySpeach 3.0.2 (my_ms[root]) Remote File Include Vulnerability - CVE: 2006-4630: https://www.exploit-db.com/exploits/2301

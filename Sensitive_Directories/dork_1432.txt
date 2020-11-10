@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1432
+Category:         Sensitive Directories
+Published Date:   2010-11-10
+Author:           anonymous
+GoogleDork:       allintext:"WebServerX Server at"
+Description:      allintext:"WebServerX Server at"
+
+
+Quick and dirty WebserverX HTTP server google dork

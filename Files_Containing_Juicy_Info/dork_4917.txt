@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4917
+Category:         Files Containing Juicy Info
+Published Date:   2018-08-14
+Author:           Bruno Schmid
+GoogleDork:       intitle:"index of" ".travis.yml" | ".travis.xml"
+Description:      intitle:"index of" ".travis.yml" | ".travis.xml"
+
+
+Juicy info  Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

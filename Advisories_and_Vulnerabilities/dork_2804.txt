@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2804
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"cameralife/index.php"
+Description:      inurl:"cameralife/index.php"
+
+
+Camera Life 2.6.2b4 (SQL/XSS) Multiple Remote Vulnerabilities - CVE: 2008-6087: https://www.exploit-db.com/exploits/6710

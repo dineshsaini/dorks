@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1672
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intext:"Powered by eStore v1.0.2"
+Description:      intext:"Powered by eStore v1.0.2"
+
+
+eStore v1.0.2 SQL Injection Vulnerability: https://www.exploit-db.com/exploits/10784

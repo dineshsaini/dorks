@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/978
+Category:         Advisories and Vulnerabilities
+Published Date:   2005-05-14
+Author:           anonymous
+GoogleDork:       intitle:"osTicket :: Support Ticket System"
+Description:      intitle:"osTicket :: Support Ticket System"
+
+
+osTicket is a widely-used open source support ticket system. It is a lightweight support ticket tool written mainly using PHP scripting language. There are several vulnerabilities in the osTicket software that may allow for an attacker to take control of the affected web server, disclose sensitive data from the database, or read arbitrary files. These issues have been reported to the developers and a new updated version of osTicket is available for download. All affected users should upgrade their osTicket installations immediately.http://www.addict3d.org/index.php?page=viewarticle&amp;type=security&amp;ID=3882

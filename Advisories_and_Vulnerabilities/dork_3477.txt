@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3477
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       WEBalbum 2004-2006 duda
+Description:      WEBalbum 2004-2006 duda
+
+
+WebAlbum 2.02pl COOKIE[skin2] Remote Code Execution - CVE: 2006-1480: https://www.exploit-db.com/exploits/1608

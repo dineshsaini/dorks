@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5142
+Category:         Sensitive Directories
+Published Date:   2019-03-04
+Author:           PsycoR
+GoogleDork:       inurl:typo3conf/l10n/
+Description:      inurl:typo3conf/l10n/
+
+
+Interesting directories from typo3 cms exploiting directory listing.  By Rayen Messaoudi (PsycoR) 

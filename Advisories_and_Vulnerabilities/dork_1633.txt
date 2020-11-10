@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1633
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by Download 3000"
+Description:      "Powered by Download 3000"
+
+
+Joomla Component d3000 1.0.0 Remote SQL Injection Vulnerability: https://www.exploit-db.com/exploits/5299

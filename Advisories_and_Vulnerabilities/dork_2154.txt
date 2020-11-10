@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2154
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:inc_registrationmanager.asp
+Description:      inurl:inc_registrationmanager.asp
+
+
+DMXReady Registration Manager 1.1 Contents Change Vulnerability: https://www.exploit-db.com/exploits/7784

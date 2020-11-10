@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2891
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by myUPB"
+Description:      "Powered by myUPB"
+
+
+myUPB v2.2.6 Multiple Vulnerabilities: https://www.exploit-db.com/exploits/13957

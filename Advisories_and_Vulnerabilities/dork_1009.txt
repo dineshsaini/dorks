@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1009
+Category:         Advisories and Vulnerabilities
+Published Date:   2005-06-10
+Author:           anonymous
+GoogleDork:       intext:"Powered by flatnuke-2.5.3" +"Get RSS News" -demo
+Description:      intext:"Powered by flatnuke-2.5.3" +"Get RSS News" -demo
+
+
+Description of VulnerabilitiesMultiple vulnerabilities in FlatNuke have been reported, which can be exploited by remote users to trigger denial of service conditions, execute arbitrary PHP code, conduct Cross-Site Scripting attacks and disclose arbitrary images and system information.If the "/flatnuke/foot_news.php" script is accessed directly a while() call is made that enters an infinite loop, leading to full CPU utilisation.[..]User-supplied input passed to the "image" parameter in the "thumb.php" script is not correctly validated. This can be exploited to disclose arbitrary images from external and local resources via directory traversal attacks, or to disclose the installation path.It is also possible to disclose the system path by accessing certain scripts directly or specially formed parameters.

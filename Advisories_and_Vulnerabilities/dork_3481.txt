@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3481
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intext:"Powered by simplog"
+Description:      intext:"Powered by simplog"
+
+
+Simplog 0.9.2 (s) Remote Commands Execution - CVE: 2006-0146: https://www.exploit-db.com/exploits/1663

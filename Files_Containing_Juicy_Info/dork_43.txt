@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/43
+Category:         Files Containing Juicy Info
+Published Date:   2003-06-30
+Author:           anonymous
+GoogleDork:       haccess.ctl (one way)
+Description:      haccess.ctl (one way)
+
+
+this is the frontpage(?) equivalent of htaccess, I believe. Anyhow, this file describes who can access the directory of the web server and where the other authorization files are. nice find.

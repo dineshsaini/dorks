@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6589
+Category:         Advisories and Vulnerabilities
+Published Date:   2020-10-02
+Author:           Alexandros Pappas
+GoogleDork:       intext:"Powered by Typesetter"
+Description:      intext:"Powered by Typesetter"
+
+
+# Google Dork: intext:"Powered by Typesetter"  # Typesetter CMS 5.1 - 'Site Title' Persistent Cross-Site Scripting. https://www.exploit-db.com/exploits/48852  # Date: 2/10/2020  # Exploit Author: Alexandros Pappas 

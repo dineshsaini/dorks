@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2588
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by myBusinessAdmin and Red Cow Technologies, Inc."
+Description:      "Powered by myBusinessAdmin and Red Cow Technologies, Inc."
+
+
+myBusinessAdmin (content.php) Blind Sql Injection Vulnerability: https://www.exploit-db.com/exploits/11327

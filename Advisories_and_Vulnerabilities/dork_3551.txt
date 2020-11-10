@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3551
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by MercuryBoard"
+Description:      "Powered by MercuryBoard"
+
+
+MercuryBoard 1.1.5 (login.php) Remote Blind SQL Injection - CVE: 2008-6632: https://www.exploit-db.com/exploits/5653

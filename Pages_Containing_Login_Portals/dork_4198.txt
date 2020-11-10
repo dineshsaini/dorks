@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4198
+Category:         Pages Containing Login Portals
+Published Date:   2016-02-09
+Author:           anonymous
+GoogleDork:       inurl:intranet site:www.*.gov
+Description:      inurl:intranet site:www.*.gov
+
+
+# Exploit Title: inurl:intranet site:www.*.gov # Google Dork: inurl:intranet site:www.*.gov # Description : Dork to find login portal access to intranet systems on government websites. # Date: 09/02/2016 # Exploit Author: XDarkCoder

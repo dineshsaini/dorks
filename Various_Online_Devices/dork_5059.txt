@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5059
+Category:         Various Online Devices
+Published Date:   2018-12-17
+Author:           Alfie
+GoogleDork:       intitle: "Nexus Repository Manager"
+Description:      intitle: "Nexus Repository Manager"
+
+
+*Google dork description: *Sites running the Nexus Repository Manager  *Google Search:* intitle: "Nexus Repository Manager"  *Submitted by:* Alfie  Website: (https://the-infosec.com) 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6568
+Category:         Files Containing Passwords
+Published Date:   2020-09-24
+Author:           Anurodh Acharya
+GoogleDork:       filetype:log intext:password after:2015 intext:@gmail.com | @yahoo.com | @hotmail.com
+Description:      filetype:log intext:password after:2015 intext:@gmail.com | @yahoo.com | @hotmail.com
+
+
+Category: Log Files Containing Latest Passwords  Yours Sincerely, Anurodh Acharya 

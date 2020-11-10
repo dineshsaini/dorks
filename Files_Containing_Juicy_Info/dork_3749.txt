@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3749
+Category:         Files Containing Juicy Info
+Published Date:   2011-11-19
+Author:           anonymous
+GoogleDork:       intitle:index.of? configuration.php.zip
+Description:      intitle:index.of? configuration.php.zip
+
+
+this dork finds mostly backed up configuration.php files. Its possible to change the *.zip to dork_1240.txt dork_1241.txt dork_1242.txt dork_1243.txt dork_1244.txt dork_1245.txt dork_1246.txt dork_1247.txt dork_1248.txt dork_1249.txt dork_1250.txt dork_1251.txt dork_1252.txt dork_1253.txt dork_1254.txt failed_dorks.txt logs.txt or other file types. Author: Lord.TMR

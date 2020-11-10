@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6593
+Category:         Sensitive Directories
+Published Date:   2020-10-05
+Author:           Alexandros Pappas
+GoogleDork:       intitle:"index of" "slapd.conf"
+Description:      intitle:"index of" "slapd.conf"
+
+
+# Google Dork: intitle:"index of" "slapd.conf"  # Sensitive directories containing passwords and more...  # Date: 5/10/2020  # Exploit Author: Alexandros Pappas 

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3966
+Category:         Files Containing Juicy Info
+Published Date:   2014-10-09
+Author:           anonymous
+GoogleDork:       intext:5baa61e4c9b93f3f0682250b6cf8331b7ee68fd8 AND (ext:txt OR ext:csv OR ext:xls OR ext:lst)
+Description:      intext:5baa61e4c9b93f3f0682250b6cf8331b7ee68fd8 AND (ext:txt OR ext:csv OR ext:xls OR ext:lst)
+
+
+Looks for text files with SHA1 of "password". These could be tips (not very useful), config files, other peoples wordlist dumps, etc 

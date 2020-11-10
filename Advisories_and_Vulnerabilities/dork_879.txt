@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/879
+Category:         Advisories and Vulnerabilities
+Published Date:   2005-02-18
+Author:           anonymous
+GoogleDork:       allintitle:aspjar.com guestbook
+Description:      allintitle:aspjar.com guestbook
+
+
+"An input validation vulnerability was reported in the ASPJar guestbook. A remote user can gain administrative access and can delete guestbook messages.The '/admin/login.asp' script does not properly validate user-supplied input in the password field. A remote user can supply the following characters in password field to inject SQL commands and be authenticated as the administrator:"' or ''='I also found another vulnerability that hasn't been documented anywhere. Using the above search to find aspjar guestbooks, appending the guestbook directory with /data/guest.mdb will give you a database containing the plaintext username and password for the guestbook admin and all entries in the guestbook, including IP addresses of users.(This company is no longer in business and the software is no longer being updated so versions shouldn't matter)

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1188
+Category:         Pages Containing Login Portals
+Published Date:   2005-11-16
+Author:           anonymous
+GoogleDork:       intitle:"Merak Mail Server Web Administration" -ihackstuff.com
+Description:      intitle:"Merak Mail Server Web Administration" -ihackstuff.com
+
+
+User login pages for Merak Email Server Suite which consists of Merak Email Server core and optional components:* Email Server for Windows or Linux* Anti-Spam Protection* Anti-Virus Protection* Integrated WebMail Access* Instant Messaging* GroupWaremore info: h**p://www.icewarp.com

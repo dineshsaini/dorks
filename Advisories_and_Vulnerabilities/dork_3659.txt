@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3659
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-12-29
+Author:           anonymous
+GoogleDork:       "Powered by UNO.com.my"
+Description:      "Powered by UNO.com.my"
+
+
+Submitter: SiKodoQ http://127.0.0.1/[path]/page.php?pid=[SQLi]

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4310
+Category:         Files Containing Juicy Info
+Published Date:   2016-07-15
+Author:           anonymous
+GoogleDork:       inurl:DiGIR.php
+Description:      inurl:DiGIR.php
+
+
+# Exploit Title: (Google Dork) inurl:DiGIR.php # Google Dork: inurl:DiGIR.php # Date: 7-7-2016 # Exploit Author: fnkym0nky Description: Finds files that contain diagnostic issues for SQL databases, PHP code, among other things. Able to be used in tandem with Error Based SQLi, and vulnerability enumeration

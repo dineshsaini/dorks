@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1500
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allinurl:"com_garyscookbook"
+Description:      allinurl:"com_garyscookbook"
+
+
+Mambo Component garyscookbook 1.1.1 SQL Injection Vulnerability - CVE: 2008-1137: https://www.exploit-db.com/exploits/5178

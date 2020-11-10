@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5550
+Category:         Files Containing Usernames
+Published Date:   2019-09-24
+Author:           Mayur Parmar
+GoogleDork:       intitle:index.of "users.db"
+Description:      intitle:index.of "users.db"
+
+
+dork: intitle:index.of "users.db"  Author:Mayur Parmar(th3cyb3rc0p) 

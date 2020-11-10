@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2867
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       allinurl:"com_accombo"
+Description:      allinurl:"com_accombo"
+
+
+Mambo Component accombo 1.x (id) SQL Injection Vulnerability: https://www.exploit-db.com/exploits/5279

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3654
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-12-22
+Author:           anonymous
+GoogleDork:       "Powered by: IRIran.net"
+Description:      "Powered by: IRIran.net"
+
+
+IRIran eShop Builder SQL Injection: http://server/patch/pages/index.php?id=0[SQL] Submitter: Ahoora

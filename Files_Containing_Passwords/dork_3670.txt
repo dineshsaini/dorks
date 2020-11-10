@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3670
+Category:         Files Containing Passwords
+Published Date:   2011-01-09
+Author:           anonymous
+GoogleDork:       inurl:web/frontend_dev.php -trunk
+Description:      inurl:web/frontend_dev.php -trunk
+
+
+Google search for web site build with symfony framework and in development environment. In most case, you have a bar development on top of the web page. If you go in config -&gt; Settings, you can find login and password. if you replace web/frontend_dev.php by config/databases.yml in url, you can find login / password for the databases Author: Simon Leblanc

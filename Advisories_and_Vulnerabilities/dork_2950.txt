@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/2950
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Powered by RW::Download v2.0.3 lite"
+Description:      "Powered by RW::Download v2.0.3 lite"
+
+
+RW::Download 2.0.3 lite (index.php dlid) Remote SQL Injection Vuln - CVE: 2007-4845: https://www.exploit-db.com/exploits/4371

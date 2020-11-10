@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1217
+Category:         Various Online Devices
+Published Date:   2005-12-08
+Author:           anonymous
+GoogleDork:       inurl:Printers/ipp_0001.asp
+Description:      inurl:Printers/ipp_0001.asp
+
+
+Thanks to Windows 2003 Remote Printing

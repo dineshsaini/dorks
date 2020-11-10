@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/482
+Category:         Pages Containing Login Portals
+Published Date:   2004-09-18
+Author:           anonymous
+GoogleDork:       intitle:"Login - powered by Easy File Sharing Web Server"
+Description:      intitle:"Login - powered by Easy File Sharing Web Server"
+
+
+Easy File Sharing Web Server is a file sharing software that allows visitors to upload/download files easily through a Web Browser (IE,Netscape,Opera etc.)". More information at: http://www.securityfocus.com/bid/11034/discussion/An attacker can reportedly bypass the authentication by entering the the name of the virtual folder directly.

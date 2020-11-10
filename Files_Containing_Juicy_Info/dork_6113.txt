@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6113
+Category:         Files Containing Juicy Info
+Published Date:   2020-05-21
+Author:           Abhi Chitkara
+GoogleDork:       intitle:"index of" "db.log"
+Description:      intitle:"index of" "db.log"
+
+
+Dork: intitle:"index of" "db.log" Description: This google dork lists out sensitive database logs for web servers. Author: Abhi Chitkara 

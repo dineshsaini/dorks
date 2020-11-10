@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1552
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       anyInventory, the most flexible and powerful web-based inventory system
+Description:      anyInventory, the most flexible and powerful web-based inventory system
+
+
+AnyInventory 2.0 (environment.php) Remote File Inclusion Vuln - CVE: 2007-4744: https://www.exploit-db.com/exploits/4365

@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5763
+Category:         Pages Containing Login Portals
+Published Date:   2020-03-03
+Author:           Sagar Banwa
+GoogleDork:       intext:"Welcome to JIRA" "Powered by a free Atlassian Jira community"
+Description:      intext:"Welcome to JIRA" "Powered by a free Atlassian Jira community"
+
+
+intext:"Welcome to JIRA" "Powered by a free Atlassian Jira community"  By  Sagar Banwa 

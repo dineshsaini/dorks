@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1023
+Category:         Files Containing Passwords
+Published Date:   2005-06-24
+Author:           anonymous
+GoogleDork:       inurl:cgi-bin inurl:calendar.cfg
+Description:      inurl:cgi-bin inurl:calendar.cfg
+
+
+CGI Calendar (Perl) configuration file reveals information including passwords for the program.

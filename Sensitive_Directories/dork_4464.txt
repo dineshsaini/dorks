@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4464
+Category:         Sensitive Directories
+Published Date:   2017-05-05
+Author:           anonymous
+GoogleDork:       inurl:"folderview?id=" site:drive.google.com
+Description:      inurl:"folderview?id=" site:drive.google.com
+
+
+Finds people's private folders on Google Drive Dxtroyer

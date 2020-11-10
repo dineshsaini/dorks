@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5715
+Category:         Web Server Detection
+Published Date:   2020-01-28
+Author:           Bruno Schmid
+GoogleDork:       intitle:"index of" "Served by Sun-ONE"
+Description:      intitle:"index of" "Served by Sun-ONE"
+
+
+Sun-ONE web servers   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 

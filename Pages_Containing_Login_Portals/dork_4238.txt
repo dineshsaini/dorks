@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4238
+Category:         Pages Containing Login Portals
+Published Date:   2016-03-16
+Author:           anonymous
+GoogleDork:       inurl:/sap/bc/webdynpro/sap/ | "sap-system-login-oninputprocessing"
+Description:      inurl:/sap/bc/webdynpro/sap/ | "sap-system-login-oninputprocessing"
+
+
+Logon - SAP Web Application Server and Job Search: inurl:/sap/bc/webdynpro/sap/ | "sap-system-login-oninputprocessing" SAP Web Application Server Password Reset: inurl:/sap/bc/webdynpro/sap/ | "ysccwa_password_reset?sap-client" -Xploit 

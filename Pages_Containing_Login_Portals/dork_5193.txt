@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/5193
+Category:         Pages Containing Login Portals
+Published Date:   2019-04-24
+Author:           Pancaker
+GoogleDork:       qBittorrent - Web UI
+Description:      qBittorrent - Web UI
+
+
+intitle:"qBittorrent Web UI" inurl:8080  default: admin // adminadmin

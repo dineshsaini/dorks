@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1931
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       inurl:"option=com_org"
+Description:      inurl:"option=com_org"
+
+
+Joomla Component com_org SQL Injection Vulnerability: https://www.exploit-db.com/exploits/11725

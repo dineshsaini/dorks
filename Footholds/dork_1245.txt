@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1245
+Category:         Footholds
+Published Date:   2006-01-04
+Author:           anonymous
+GoogleDork:       inurl:"tmtrack.dll?"
+Description:      inurl:"tmtrack.dll?"
+
+
+This query shows installations of Serena Teamtrack. (www.serena.com).You may be able to adjust the application entry point, by providing a command after the "tmtrack.dll?" like thistmtrack.dll?LoginPagetmtrack.dll?View&amp;Template=viewand more.

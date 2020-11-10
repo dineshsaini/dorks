@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/633
+Category:         Vulnerable Files
+Published Date:   2004-10-31
+Author:           anonymous
+GoogleDork:       "powered by YellDL"
+Description:      "powered by YellDL"
+
+
+Finds websites using YellDL (or also known as YellDownLoad), a download tracker written in PHP. Unfortunately this downloader downloads everything you want to, like its own files too:http://xxxxxxxxxx/download.php?f=../download&amp;e=phpBy guessing some could download information which shoudln't get out of the server (think of ../phpMyAdmin/config.php or other stuff - no need to say that lazy people use same passwords for their DB- and FTP-login.Another search to find this software is:"You are downloading *" "you are downloader number Advisories_and_Vulnerabilities Error_Messages Files_Containing_Juicy_Info Files_Containing_Passwords Files_Containing_Usernames Footholds ghdb_dorks.sh logs.txt Network_or_Vulnerability_Data Pages_Containing_Login_Portals Sensitive_Directories Sensitive_Online_Shopping_Info Various_Online_Devices Vulnerable_Files Vulnerable_Servers Web_Server_Detection of this file"

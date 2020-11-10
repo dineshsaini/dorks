@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/3717
+Category:         Files Containing Juicy Info
+Published Date:   2011-05-03
+Author:           anonymous
+GoogleDork:       filetype:xls + password + inurl:.com
+Description:      filetype:xls + password + inurl:.com
+
+
+The filetype:xls never changes What is inbtween then + sings can be what ever you are looking for taxid ssn password Student ID etc The inurl: can be changed to what you want .gov .edu .com etc. Take care, RedShift

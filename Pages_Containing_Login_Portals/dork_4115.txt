@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4115
+Category:         Pages Containing Login Portals
+Published Date:   2015-11-09
+Author:           anonymous
+GoogleDork:       inurl:"http://cms" | inurl:"https://cms" ("login" | "logon" | "admin") -school
+Description:      inurl:"http://cms" | inurl:"https://cms" ("login" | "logon" | "admin") -school
+
+
+Content Manager Login Pages. Decoy

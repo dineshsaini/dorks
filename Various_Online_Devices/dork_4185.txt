@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4185
+Category:         Various Online Devices
+Published Date:   2016-01-25
+Author:           anonymous
+GoogleDork:       inurl:autodiscover/autodiscover ext:xml
+Description:      inurl:autodiscover/autodiscover ext:xml
+
+
+Locate Outlook Web Apps that have auto-discover feature enabled -Oni49

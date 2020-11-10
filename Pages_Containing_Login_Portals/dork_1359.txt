@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1359
+Category:         Pages Containing Login Portals
+Published Date:   2006-05-03
+Author:           anonymous
+GoogleDork:       intitle:"TWIG Login"
+Description:      intitle:"TWIG Login"
+
+
+"TWIG is a Web-based groupware suite written in PHP, compatible with both PHP3 and PHP4. Its features include IMAP and POP3 email, Usenet newsgroups, contact management, scheduling, shared notes and bookmarks, a todo list, and meeting announcements."

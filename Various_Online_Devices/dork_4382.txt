@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/4382
+Category:         Various Online Devices
+Published Date:   2017-01-09
+Author:           anonymous
+GoogleDork:       inurl:"/viewlsts.aspx?BaseType="
+Description:      inurl:"/viewlsts.aspx?BaseType="
+
+
+SharePoint Files  Also, inurl:"/mWord.aspx?doc=" inurl:"/mXL.aspx?doc=%2" inurl:"/mPPT.aspx?doc=" -Xploit

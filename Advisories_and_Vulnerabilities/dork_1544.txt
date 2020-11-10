@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1544
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       "Siteman Version 1.1.9"
+Description:      "Siteman Version 1.1.9"
+
+
+Siteman 1.1.9 (cat) Remote File Disclosure Vulnerability - CVE: 2008-0452: https://www.exploit-db.com/exploits/4973

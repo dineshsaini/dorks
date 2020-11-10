@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1741
+Category:         Advisories and Vulnerabilities
+Published Date:   2010-11-15
+Author:           anonymous
+GoogleDork:       intitle:Mp3 ToolBox 1.0
+Description:      intitle:Mp3 ToolBox 1.0
+
+
+Mp3 ToolBox 1.0 beta 5 (skin_file) Remote File Inclusion Vulnerability - CVE: 2007-6139: https://www.exploit-db.com/exploits/4650

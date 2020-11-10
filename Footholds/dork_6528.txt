@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/6528
+Category:         Footholds
+Published Date:   2020-09-10
+Author:           Pratik Khalane
+GoogleDork:       inurl:"/plugins/servlet/Wallboard/"
+Description:      inurl:"/plugins/servlet/Wallboard/"
+
+
+Google Dork : inurl:"/plugins/servlet/Wallboard/"  This will give all the Jira dashboard which might be vulnerable to XSS. (Sensitive Data Exposure)  Author : Pratik Khalane  Date : 10/09/2020 

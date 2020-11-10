@@ -1,0 +1,9 @@
+GHDB URL:         https://www.exploit-db.com/ghdb/1049
+Category:         Various Online Devices
+Published Date:   2005-08-07
+Author:           anonymous
+GoogleDork:       intitle:"V1" "welcome to phone settings" password
+Description:      intitle:"V1" "welcome to phone settings" password
+
+
+This is a small search for the Italk BB899 Phone Adaptor login page. iTalkBB is a local and long distance calling service provided by iTalk Broadband Corporation. It combines voice and internet networks to provide inbound and outbound long distance and local calling solutions.Depending on the version of firmware preinstalled on your IP Box, the password to get into the setting pages may be either 12345678 or 87654321.
