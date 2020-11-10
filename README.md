@@ -4,4 +4,4 @@
 
 ## credits
 
-* All credit goes to respective owners and ghdb
+* All credit and copyrights goes to respective dork owners and ghdb
