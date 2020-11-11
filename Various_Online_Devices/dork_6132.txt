@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6132
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2020-05-27
 Author:           BillyV4
@@ -6,4 +7,10 @@ GoogleDork:       intitle:"HP ALM" "Application Lifecycle Management" inurl:/qcb
 Description:      intitle:"HP ALM" "Application Lifecycle Management" inurl:/qcbin/ -ext:PDF
 
 
-# Google Dork: intitle:"HP ALM" "Application Lifecycle Management" inurl:/qcbin/ -ext:PDF  # Description: Find Hewlett Packard - Application Lifecycle Management.  # Author: Carlos Ramírez L. (BillyV4) 
+# Google Dork: intitle:"HP ALM" "Application Lifecycle Management"
+ inurl:/qcbin/ -ext:PDF
+ 
+ # Description: Find Hewlett Packard - Application Lifecycle Management.
+ 
+ # Author: Carlos Ramírez L. (BillyV4)
+ 

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4520
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2017-06-12
 Author:           Dxtroyer
@@ -6,4 +7,8 @@ GoogleDork:       inurl:"pubdlcnt.php?file=" ext:php
 Description:      inurl:"pubdlcnt.php?file=" ext:php
 
 
-Finds EVEN MORE redirection vulnerabilities... Go crazy.    Dxtroyer
+Finds EVEN MORE redirection vulnerabilities... Go crazy.
+ 
+ 
+ 
+ Dxtroyer

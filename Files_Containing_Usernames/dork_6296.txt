@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6296
+Severity: 5 
 Category:         Files Containing Usernames
 Published Date:   2020-06-16
 Author:           Ambadi MP
@@ -6,4 +7,7 @@ GoogleDork:       intitle:"index of" "users.sql"
 Description:      intitle:"index of" "users.sql"
 
 
-# Dork :intitle:"index of" "users.sql" # Sensitive informations : User Names and Password # Author : Ambadi MP 
+# Dork :intitle:"index of" "users.sql"
+ # Sensitive informations : User Names and Password
+ # Author : Ambadi MP
+ 

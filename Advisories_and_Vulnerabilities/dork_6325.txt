@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6325
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2020-06-23
 Author:           Abhi Chitkara
@@ -6,4 +7,9 @@ GoogleDork:       inurl:wp-content/plugins/YITH-WooCommerce-Ajax-Product-Filter
 Description:      inurl:wp-content/plugins/YITH-WooCommerce-Ajax-Product-Filter
 
 
-Dork: inurl:wp-content/plugins/YITH-WooCommerce-Ajax-Product-Filter Description: This google dork lists out Advisories and Vulnerabilities regarding the YITH-WooCommerce-Ajax-Product-Filter wordpress plugin. Ref: https://wpvulndb.com/vulnerabilities/10281 Author: Abhi Chitkara 
+Dork: inurl:wp-content/plugins/YITH-WooCommerce-Ajax-Product-Filter
+ Description: This google dork lists out Advisories and Vulnerabilities
+ regarding the YITH-WooCommerce-Ajax-Product-Filter wordpress plugin. Ref:
+ https://wpvulndb.com/vulnerabilities/10281
+ Author: Abhi Chitkara
+ 

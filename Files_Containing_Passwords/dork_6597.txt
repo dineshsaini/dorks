@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6597
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2020-10-07
 Author:           Alexandros Pappas
@@ -6,4 +7,11 @@ GoogleDork:       "server.cfg" ext:cfg intext:"rcon_password" -git -gitlab
 Description:      "server.cfg" ext:cfg intext:"rcon_password" -git -gitlab
 
 
-# Google Dork: "server.cfg" ext:cfg intext:"rcon_password" -git -gitlab  # Exposed passwords found in server.cfg files.  # Date: 7/10/2020  # Exploit Author: Alexandros Pappas 
+# Google Dork: "server.cfg" ext:cfg intext:"rcon_password" -git -gitlab
+ 
+ # Exposed passwords found in server.cfg files.
+ 
+ # Date: 7/10/2020
+ 
+ # Exploit Author: Alexandros Pappas
+ 

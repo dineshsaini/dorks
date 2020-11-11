@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5985
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-05-01
 Author:           Abhi Chitkara
@@ -6,4 +7,8 @@ GoogleDork:       intitle:"index of" admin.txt
 Description:      intitle:"index of" admin.txt
 
 
-Dork: intitle:"index of" admin.txt Description: This Google dork lists out admin login credentials stored in a file named "admin.txt" for a website. Author: Abhi Chitkara 
+Dork: intitle:"index of" admin.txt
+ Description: This Google dork lists out admin login credentials stored in a
+ file named "admin.txt" for a website.
+ Author: Abhi Chitkara
+ 

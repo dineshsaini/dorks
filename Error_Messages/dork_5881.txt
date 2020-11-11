@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5881
+Severity: 5 
 Category:         Error Messages
 Published Date:   2020-04-16
 Author:           Alperen Ergel
@@ -6,4 +7,7 @@ GoogleDork:       inurl:"index.php?id=" intext:"Warning: mysql_num_rows()"
 Description:      inurl:"index.php?id=" intext:"Warning: mysql_num_rows()"
 
 
-Author:Alperen Ergel Date: 01/04/2020 Dork:inurl:"index.php?id=" intext:"Warning: mysql_num_rows()" Description: potential SQL errors and injection
+Author:Alperen Ergel
+ Date: 01/04/2020
+ Dork:inurl:"index.php?id=" intext:"Warning: mysql_num_rows()"
+ Description: potential SQL errors and injection

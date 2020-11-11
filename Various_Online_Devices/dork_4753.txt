@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4753
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2018-04-09
 Author:           Carlos E. Vieira
@@ -6,4 +7,18 @@ GoogleDork:       intext:"https://chat.whatsapp.com/invite/" intitle:"Your Searc
 Description:      intext:"https://chat.whatsapp.com/invite/" intitle:"Your Search For Company/Subject/Whatever"
 
 
-# Exploit Title: WhatsApp Group / Easy Point to information gathering and Social Engineering # Google Dork: intext:"https://chat.whatsapp.com/invite/" intitle:"Your Search For Company/Subject/Whatever"  # Dork Sample: intext:"https://chat.whatsapp.com/invite/" intitle:"hacking" # Dork Sample: intext:"https://chat.whatsapp.com/invite/" intitle:"target company"  # Date: 07/04/2018  # Contains sensitive information: Link for Public And Private Groups of WhatsApp  # Dork Author: Carlos E. Vieira   
+# Exploit Title: WhatsApp Group / Easy Point to information gathering and Social Engineering
+ # Google Dork: intext:"https://chat.whatsapp.com/invite/" intitle:"Your Search For Company/Subject/Whatever"
+ 
+ # Dork Sample: intext:"https://chat.whatsapp.com/invite/" intitle:"hacking"
+ # Dork Sample: intext:"https://chat.whatsapp.com/invite/" intitle:"target company"
+ 
+ # Date: 07/04/2018
+ 
+ # Contains sensitive information:
+ Link for Public And Private Groups of WhatsApp
+ 
+ # Dork Author: Carlos E. Vieira
+ 
+ 
+ 

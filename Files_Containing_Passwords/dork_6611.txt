@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6611
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2020-10-14
 Author:           Paramjot Singh
@@ -6,4 +7,9 @@ GoogleDork:       site:pastebin.com intext:admin.password
 Description:      site:pastebin.com intext:admin.password
 
 
-Name: Paramjot Singh Category: Files Containing Passwords Description: This dork helps in finding dumped admin:password combos.  Attached Images can be found below: 
+Name: Paramjot Singh
+ Category: Files Containing Passwords
+ Description: This dork helps in finding dumped admin:password combos.
+ 
+ Attached Images can be found below:
+ 

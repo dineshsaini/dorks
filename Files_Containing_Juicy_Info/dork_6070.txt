@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6070
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-05-08
 Author:           Abhi Chitkara
@@ -6,4 +7,8 @@ GoogleDork:       intitle:"index of" "jsapi_ticket.json"
 Description:      intitle:"index of" "jsapi_ticket.json"
 
 
-Dork: intitle:"index of" "jsapi_ticket.json" Description: This Google dork lists out sensitive jsapi data for a web server Author: Abhi Chitkara 
+Dork: intitle:"index of" "jsapi_ticket.json"
+ Description: This Google dork lists out sensitive jsapi data for a web
+ server
+ Author: Abhi Chitkara
+ 

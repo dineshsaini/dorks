@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5771
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2020-03-05
 Author:           Lupin
@@ -6,4 +7,14 @@ GoogleDork:       intitle:"IP CAMERA Viewer" intext:"setting | Client setting"
 Description:      intitle:"IP CAMERA Viewer" intext:"setting | Client setting"
 
 
-####################Intro##################### This dork shows TP-LINK, Zavio and Intellinet cameras stream.  ################Default Creds################## Zavio and TP-LINK | admin:admin Intellinet | admin:1234  ###############About me###################### Discovered by Roni Carta alias Lupin Twitter : https://twitter.com/0xLupin 
+####################Intro#####################
+ This dork shows TP-LINK, Zavio and Intellinet cameras stream.
+ 
+ ################Default Creds##################
+ Zavio and TP-LINK | admin:admin
+ Intellinet | admin:1234
+ 
+ ###############About me######################
+ Discovered by Roni Carta alias Lupin
+ Twitter : https://twitter.com/0xLupin
+ 

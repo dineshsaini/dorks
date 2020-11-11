@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4556
+Severity: 5 
 Category:         Vulnerable Servers
 Published Date:   2017-07-24
 Author:           DigiP
@@ -6,4 +7,20 @@ GoogleDork:       inurl:/proc/self/cwd
 Description:      inurl:/proc/self/cwd
 
 
-# Google Dork: inurl:/proc/self/cwd    Vulnerable web servers that have either been misconfigured or compromised in   some manner already, allow appending "/proc/self/cwd/" with the path of   local server files. This could be from an LFI on an insecure PHP script like   file=/proc/self/cwd/some/path/to/file, or directly in the URL path of the   site like somesite.com/proc/self/cwd/some/exposed/stuff/here    - digip
+# Google Dork: inurl:/proc/self/cwd
+ 
+ 
+ 
+ Vulnerable web servers that have either been misconfigured or compromised in 
+ 
+ some manner already, allow appending "/proc/self/cwd/" with the path of 
+ 
+ local server files. This could be from an LFI on an insecure PHP script like 
+ 
+ file=/proc/self/cwd/some/path/to/file, or directly in the URL path of the 
+ 
+ site like somesite.com/proc/self/cwd/some/exposed/stuff/here
+ 
+ 
+ 
+ - digip

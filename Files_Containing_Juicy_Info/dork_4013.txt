@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4013
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2015-05-29
 Author:           anonymous

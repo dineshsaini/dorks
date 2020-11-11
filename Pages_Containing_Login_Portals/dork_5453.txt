@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5453
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-08-26
 Author:           Reza Abasi
@@ -6,4 +7,19 @@ GoogleDork:       site:admin.*.*/forgot?username=
 Description:      site:admin.*.*/forgot?username=
 
 
-Login for password reset:  site:admin.*.*/forgot?username= site:*/admin/password/reset site:*/admin/login/forgot site:*/admin/pass site:*/admin/password/ inurl:"/index.php/lostpassword/" inurl:"index.php?login/forgot_password" site:*/auth/v2/login/password_reset site:*/seller/forgot/ site:*/recoverpassword   Reza Abasi(Turku) 
+Login for password reset:
+ 
+ site:admin.*.*/forgot?username=
+ site:*/admin/password/reset
+ site:*/admin/login/forgot
+ site:*/admin/pass
+ site:*/admin/password/
+ inurl:"/index.php/lostpassword/"
+ inurl:"index.php?login/forgot_password"
+ site:*/auth/v2/login/password_reset
+ site:*/seller/forgot/
+ site:*/recoverpassword
+ 
+ 
+ Reza Abasi(Turku)
+ 

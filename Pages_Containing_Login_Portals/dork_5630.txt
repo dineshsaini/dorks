@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5630
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-11-08
 Author:           Reza Abasi
@@ -6,4 +7,9 @@ GoogleDork:       site:*/cgi-bin/luci intext:"Authorization Required"
 Description:      site:*/cgi-bin/luci intext:"Authorization Required"
 
 
-Login Portal:  site:*/cgi-bin/luci intext:"Authorization Required"  Reza Abasi(Turku) 
+Login Portal:
+ 
+ site:*/cgi-bin/luci intext:"Authorization Required"
+ 
+ Reza Abasi(Turku)
+ 

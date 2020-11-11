@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6645
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-10-28
 Author:           Alexandros Pappas
@@ -6,4 +7,12 @@ GoogleDork:       "-- Server version" "-- MySQL Administrator dump 1.4" ext:sql
 Description:      "-- Server version" "-- MySQL Administrator dump 1.4" ext:sql
 
 
-# Google Dork: "-- Server version" "-- MySQL Administrator dump 1.4" ext:sql  # Files Containing Juicy Info. MySQL dumps, sometimes containing usernames, passwords and other stuff  # Date: 27/10/2020  # Exploit Author: Alexandros Pappas 
+# Google Dork: "-- Server version" "-- MySQL Administrator dump 1.4" ext:sql
+ 
+ # Files Containing Juicy Info. MySQL dumps, sometimes containing usernames,
+ passwords and other stuff
+ 
+ # Date: 27/10/2020
+ 
+ # Exploit Author: Alexandros Pappas
+ 

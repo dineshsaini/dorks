@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6535
+Severity: 5 
 Category:         Files Containing Usernames
 Published Date:   2020-09-14
 Author:           Sahil Saxena
@@ -6,4 +7,15 @@ GoogleDork:       "index of" "users.frm"
 Description:      "index of" "users.frm"
 
 
-# Google Dork: "index of" "users.frm" # Description :- Disclosure of database file tables and sensitive files. # Date: 13/09/2020 # Author: Sahil Saxena # LinkedIn: https://www.linkedin.com/in/sahil-saxena-1333b9174 # Twitter: https://twitter.com/Sahil_delinitor # GitHub: https://github.com/Sahil-69 # Bugcrowd: https://bugcrowd.com/Prickn  Thanks, Sahil Saxena 
+# Google Dork: "index of" "users.frm"
+ # Description :- Disclosure of database file tables and sensitive files.
+ # Date: 13/09/2020
+ # Author: Sahil Saxena
+ # LinkedIn: https://www.linkedin.com/in/sahil-saxena-1333b9174
+ # Twitter: https://twitter.com/Sahil_delinitor
+ # GitHub: https://github.com/Sahil-69
+ # Bugcrowd: https://bugcrowd.com/Prickn
+ 
+ Thanks,
+ Sahil Saxena
+ 

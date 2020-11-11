@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5368
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-08-19
 Author:           Reza Abasi
@@ -6,4 +7,8 @@ GoogleDork:       site:/*:8081/nexus/#welcome -inurl:"/nexus/content/"
 Description:      site:/*:8081/nexus/#welcome -inurl:"/nexus/content/"
 
 
-Nexus repository Login Portal: site:/*:8081/nexus/#welcome -inurl:"/nexus/content/"  Reza Abasi(Turku) 
+Nexus repository Login Portal:
+ site:/*:8081/nexus/#welcome -inurl:"/nexus/content/"
+ 
+ Reza Abasi(Turku)
+ 

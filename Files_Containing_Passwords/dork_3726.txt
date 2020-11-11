@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3726
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2011-06-28
 Author:           anonymous

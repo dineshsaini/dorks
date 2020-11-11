@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6244
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2020-06-08
 Author:           Abhi Chitkara
@@ -6,4 +7,9 @@ GoogleDork:       inurl:wp-content/plugins/sportspress
 Description:      inurl:wp-content/plugins/sportspress
 
 
-Dork: inurl:wp-content/plugins/elementor Description: This google dork lists out Advisories and Vulnerabilities regarding the elementor wordpress plugin. Ref: https://wpvulndb.com/vulnerabilities/10257 Author: Abhi Chitkara 
+Dork: inurl:wp-content/plugins/elementor
+ Description: This google dork lists out Advisories and Vulnerabilities
+ regarding the elementor wordpress plugin. Ref:
+ https://wpvulndb.com/vulnerabilities/10257
+ Author: Abhi Chitkara
+ 

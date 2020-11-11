@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6209
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-06-04
 Author:           Ritik Sahni
@@ -6,4 +7,8 @@ GoogleDork:       "index of" /ftp/logs
 Description:      "index of" /ftp/logs
 
 
-# Title: Finding potential log files. # Google Dork: "index of" /ftp/logs # Date: 04/06/2020 # Author: Ritik Sahni 
+# Title: Finding potential log files.
+ # Google Dork: "index of" /ftp/logs
+ # Date: 04/06/2020
+ # Author: Ritik Sahni
+ 

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1257
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2006-02-05
 Author:           anonymous
@@ -6,4 +7,4 @@ GoogleDork:       filetype:reg reg +intext:ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂWINVN
 Description:      filetype:reg reg +intext:ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂWINVNC3ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â
 
 
-This can be used to get encoded vnc passwords which can otherwise be obtained by a local registry and decoded by cain &amp; abel. The query find registry entries which can otherwise be found can locally in:\HKEY_CURRENT_USER\Software\ORL\WinVNC3\Password or\HKEY_USERS\.DEFAULT\Software\ORL\WinVNC3\PasswordIf you are a cain and abel user you'll and have used this feature before you will know how useful this query is. Other than decoded passwords you can also find other useful information on the VNC server and its security. I have successfully gained access to many VNC servers.
+This can be used to get encoded vnc passwords which can otherwise be obtained by a local registry and decoded by cain & abel. The query find registry entries which can otherwise be found can locally in:\HKEY_CURRENT_USER\Software\ORL\WinVNC3\Password or\HKEY_USERS\.DEFAULT\Software\ORL\WinVNC3\PasswordIf you are a cain and abel user you'll and have used this feature before you will know how useful this query is. Other than decoded passwords you can also find other useful information on the VNC server and its security. I have successfully gained access to many VNC servers.

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/444
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2004-08-20
 Author:           anonymous
@@ -6,4 +7,4 @@ GoogleDork:       intitle:Login * Webmailer
 Description:      intitle:Login * Webmailer
 
 
-1&amp;1 Webmail login portals. This is made by a german company called Internet United active in the hosting providers area. They have a server login product wich can be found by GooglingThis is all not very exiting as there have been no vulnerabilities reported on this software yet.
+1&1 Webmail login portals. This is made by a german company called Internet United active in the hosting providers area. They have a server login product wich can be found by GooglingThis is all not very exiting as there have been no vulnerabilities reported on this software yet.

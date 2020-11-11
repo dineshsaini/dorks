@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5248
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-06-05
 Author:           Goktug Serez
@@ -6,4 +7,10 @@ GoogleDork:       inurl:9000 AND intext:"Continuous Code Quality"
 Description:      inurl:9000 AND intext:"Continuous Code Quality"
 
 
-Category: Pages containing login portals Description: Dork for publicly available SonarQube dashboard pages Dork: inurl:9000 &amp; intext:"Continuous Code Quality" Date: 05/06/2019 Author: Goktug Serez 
+Severity: 5 
+Category: Pages containing login portals
+ Description: Dork for publicly available SonarQube dashboard pages
+ Dork: inurl:9000 & intext:"Continuous Code Quality"
+ Date: 05/06/2019
+ Author: Goktug Serez
+ 

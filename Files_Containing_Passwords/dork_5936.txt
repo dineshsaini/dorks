@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5936
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2020-04-22
 Author:           Alexandros Pappas
@@ -6,4 +7,11 @@ GoogleDork:       "super password level 3 cipher" ext:txt OR ext:log
 Description:      "super password level 3 cipher" ext:txt OR ext:log
 
 
-# Google Dork: "super password level 3 cipher" ext:txt OR ext:log  # Configuration files containing usernames and passwords.  # Date: 22/04/2020  # Author: Alexandros Pappas 
+# Google Dork: "super password level 3 cipher" ext:txt OR ext:log
+ 
+ # Configuration files containing usernames and passwords.
+ 
+ # Date: 22/04/2020
+ 
+ # Author: Alexandros Pappas
+ 

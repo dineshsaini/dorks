@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5200
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2019-05-06
 Author:           Jayson Zabate
@@ -6,4 +7,10 @@ GoogleDork:       intext:"@gmail.com" AND intext:"@yahoo.com" filetype:sql
 Description:      intext:"@gmail.com" AND intext:"@yahoo.com" filetype:sql
 
 
-Exploit : Finds SQL dump files with gmail and yahoo email account.  Google Dork : intext:"@gmail.com" AND intext:"@yahoo.com" filetype:sql  Exploit Author:- Jayson Zabate URL :- https://invalidwebsecurity.info/ 
+Exploit : Finds SQL dump files with gmail and yahoo email account.
+ 
+ Google Dork : intext:"@gmail.com" AND intext:"@yahoo.com" filetype:sql
+ 
+ Exploit Author:- Jayson Zabate
+ URL :- https://invalidwebsecurity.info/
+ 

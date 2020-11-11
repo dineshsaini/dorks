@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6319
+Severity: 5 
 Category:         Footholds
 Published Date:   2020-06-22
 Author:           krushna Lipane
@@ -6,4 +7,8 @@ GoogleDork:       inurl:"/jmx-console/HtmlAdaptor?action"
 Description:      inurl:"/jmx-console/HtmlAdaptor?action"
 
 
-Dork: inurl:"/jmx-console/HtmlAdaptor?action" Description: Sensitive data Exposure --- Author: Krushna Lipane 
+Dork: inurl:"/jmx-console/HtmlAdaptor?action"
+ Description: Sensitive data Exposure
+ ---
+ Author: Krushna Lipane
+ 

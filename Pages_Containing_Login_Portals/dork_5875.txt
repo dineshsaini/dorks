@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5875
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-04-16
 Author:           Nicholas Doropoulos
@@ -6,4 +7,7 @@ GoogleDork:       inurl:r51173 intext:"Keep me logged in"
 Description:      inurl:r51173 intext:"Keep me logged in"
 
 
-Category: Pages Containing Login Portals Nicholas Doropoulos 
+Severity: 5 
+Category: Pages Containing Login Portals
+ Nicholas Doropoulos
+ 

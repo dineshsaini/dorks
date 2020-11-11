@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4293
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2016-06-06
 Author:           anonymous

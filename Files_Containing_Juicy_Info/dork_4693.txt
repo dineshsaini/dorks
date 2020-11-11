@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4693
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2018-03-12
 Author:           oni49
@@ -6,4 +7,29 @@ GoogleDork:       ext:pem "PRIVATE KEY" -site:facebook.com -example -test*
 Description:      ext:pem "PRIVATE KEY" -site:facebook.com -example -test*
 
 
-Locate private keys that are publicly accessible.  You can also look use filetype:pem to search instead.  Other file types that may represent keys include: .p12 .pki .crt .key  Looking for the term "PRIVATE KEY" will look for the typical "BEGIN RSA PRIVATE KEY" or "END RSA PRIVATE KEY" but will target multiple key types and both beginning and end.  Removing site's like facebook.com reduces the number of user names that may match the search. Removing words like "example" and "test" removes the number of keys that are published on purpose for demonstrations.  This will produce a LOT of github results. If you want to look for other sites that may have accidentally published keys, add "-site:github.com" or "-github"  Happy hunting.  -oni49 
+Locate private keys that are publicly accessible.
+ 
+ You can also look use filetype:pem to search instead.
+ 
+ Other file types that may represent keys include:
+ .p12
+ .pki
+ .crt
+ .key
+ 
+ Looking for the term "PRIVATE KEY" will look for the typical "BEGIN RSA
+ PRIVATE KEY" or "END RSA PRIVATE KEY" but will target multiple key types
+ and both beginning and end.
+ 
+ Removing site's like facebook.com reduces the number of user names that may
+ match the search. Removing words like "example" and "test" removes the
+ number of keys that are published on purpose for demonstrations.
+ 
+ This will produce a LOT of github results. If you want to look for other
+ sites that may have accidentally published keys, add "-site:github.com" or
+ "-github"
+ 
+ Happy hunting.
+ 
+ -oni49
+ 

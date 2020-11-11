@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5971
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-04-30
 Author:           Alexandros Pappas
@@ -6,4 +7,11 @@ GoogleDork:       intitle:"Fortinet - Login"
 Description:      intitle:"Fortinet - Login"
 
 
-# Google Dork: intitle:"Fortinet - Login"  # Pages containing Login Portals.  # Date: 30/04/2020  # Author: Alexandros Pappas 
+# Google Dork: intitle:"Fortinet - Login"
+ 
+ # Pages containing Login Portals.
+ 
+ # Date: 30/04/2020
+ 
+ # Author: Alexandros Pappas
+ 

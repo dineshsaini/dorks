@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4907
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2018-08-07
 Author:           Bruno Schmid
@@ -6,4 +7,23 @@ GoogleDork:       employee "training" intitle:index.of ext:doc | pdf | xls |docx
 Description:      employee "training" intitle:index.of ext:doc | pdf | xls |docx |xlsx
 
 
-This will give you a good insight of the targets BOS(Business Operation Software) and sometimes their supply chain.  also try: newcomer "training" intitle:index.of ext:doc | pdf | xls |docx |xlsx  hr | admin "training" intitle:index.of ext:doc | pdf | xls |docx |xlsx  1st level support "training" intitle:index.of ext:doc | pdf | xls |docx |xlsx  suppervisor "training" intitle:index.of ext:doc | pdf | xls |docx |xlsx  engineer "training" intitle:index.of ext:doc | pdf | xls |docx |xlsx  You can also replace "training" with "exercise" or "education"  Bruno Schmid https://ch.linkedin.com/in/schmidbruno 
+This will give you a good insight of the targets BOS(Business Operation
+ Software) and sometimes their supply chain.
+ 
+ also try:
+ newcomer "training" intitle:index.of ext:doc | pdf | xls |docx |xlsx
+ 
+ hr | admin "training" intitle:index.of ext:doc | pdf | xls |docx |xlsx
+ 
+ 1st level support "training" intitle:index.of ext:doc | pdf | xls |docx
+ |xlsx
+ 
+ suppervisor "training" intitle:index.of ext:doc | pdf | xls |docx |xlsx
+ 
+ engineer "training" intitle:index.of ext:doc | pdf | xls |docx |xlsx
+ 
+ You can also replace "training" with "exercise" or "education"
+ 
+ Bruno Schmid
+ https://ch.linkedin.com/in/schmidbruno
+ 

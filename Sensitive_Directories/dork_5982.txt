@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5982
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2020-05-01
 Author:           Tushar Kurunkar
@@ -6,4 +7,11 @@ GoogleDork:       intitle:"index of" "/admin_backup"
 Description:      intitle:"index of" "/admin_backup"
 
 
-#Description: intitle:"index of" "/admin_backup" This Google dork shows juicy information about the website and some sensitive directories. An attacker can further misuse this to conduct attacks.  #Author : Tushar Kurunkar #Date : 30 April 2020 
+#Description: intitle:"index of" "/admin_backup"
+ This Google dork shows juicy information about the website and some
+ sensitive directories.
+ An attacker can further misuse this to conduct attacks.
+ 
+ #Author : Tushar Kurunkar
+ #Date : 30 April 2020
+ 

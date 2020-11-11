@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5222
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2019-05-23
 Author:           Robert Marmorstein
@@ -6,4 +7,11 @@ GoogleDork:       intitle:"LaserJet" "Device status" "Supplies summary"
 Description:      intitle:"LaserJet" "Device status" "Supplies summary"
 
 
-This Dork finds HP MFP devices that have their management interface exposed to the Internet.   # Exploit Title: HP MFP Devices # Google Dork: intitle:"LaserJet" "Device status" "Supplies summary" # Date: May 22, 2019 # Exploit Author: Robert Marmorstein # Vendor Homepage: https://www8.hp.com/us/en/home.html
+This Dork finds HP MFP devices that have their management interface exposed to the Internet.
+ 
+ 
+ # Exploit Title: HP MFP Devices
+ # Google Dork: intitle:"LaserJet" "Device status" "Supplies summary"
+ # Date: May 22, 2019
+ # Exploit Author: Robert Marmorstein
+ # Vendor Homepage: https://www8.hp.com/us/en/home.html

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5470
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2019-08-29
 Author:           Reza Abasi
@@ -6,4 +7,11 @@ GoogleDork:       intext:"@gmail.com" intext:"password" inurl:/files/ ext:txt
 Description:      intext:"@gmail.com" intext:"password" inurl:/files/ ext:txt
 
 
-files containing email and password:  intext:"@gmail.com" intext:"password" inurl:/files/ ext:txt ext:txt intext:"@gmail.com" intext:"password"   Reza Abasi(Turku) 
+files containing email and password:
+ 
+ intext:"@gmail.com" intext:"password" inurl:/files/ ext:txt
+ ext:txt intext:"@gmail.com" intext:"password"
+ 
+ 
+ Reza Abasi(Turku)
+ 

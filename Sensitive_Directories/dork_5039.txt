@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5039
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2018-11-27
 Author:           Mattias Borg
@@ -6,4 +7,8 @@ GoogleDork:       intitle:"index of /" intext:/backup
 Description:      intitle:"index of /" intext:/backup
 
 
-Access to different backup files   Author: Mattias Borg 
+Access to different backup files
+ 
+ 
+ Author: Mattias Borg
+ 

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5619
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-11-04
 Author:           Mohammed*_*
@@ -6,4 +7,9 @@ GoogleDork:       redash inurl:/org_slug
 Description:      redash inurl:/org_slug
 
 
-Redash Dashboard logins  # Google Dork: redash inurl:/org_slug # Date: [4-11-2019] # Author: [Mohammed*_*] 
+Redash Dashboard logins
+ 
+ # Google Dork: redash inurl:/org_slug
+ # Date: [4-11-2019]
+ # Author: [Mohammed*_*]
+ 

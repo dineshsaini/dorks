@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5682
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2020-01-06
 Author:           Reza Abasi
@@ -6,4 +7,9 @@ GoogleDork:       inurl:"8080/dashboard/" intitle:"Dashboard"
 Description:      inurl:"8080/dashboard/" intitle:"Dashboard"
 
 
-Zabbix Login Portal:  inurl:"8080/dashboard/" intitle:"Dashboard"  Reza Abasi(Turku) 
+Zabbix Login Portal:
+ 
+ inurl:"8080/dashboard/" intitle:"Dashboard"
+ 
+ Reza Abasi(Turku)
+ 

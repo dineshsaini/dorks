@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6238
+Severity: 5 
 Category:         Files Containing Usernames
 Published Date:   2020-06-08
 Author:           Shivanshu Sharma
@@ -6,4 +7,10 @@ GoogleDork:       allintext:username filetype:log
 Description:      allintext:username filetype:log
 
 
-# Dork : allintext:username filetype:log # This Dork will show lot of results that include usernames inside all .log files. # Author : Shivanshu Sharma  Sent from Mail for Windows 10  
+# Dork : allintext:username filetype:log
+ # This Dork will show lot of results that include usernames inside all .log files.
+ # Author : Shivanshu Sharma
+ 
+ Sent from Mail for Windows 10
+ 
+ 

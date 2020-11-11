@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6102
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2020-05-20
 Author:           Alexandros Pappas
@@ -6,4 +7,13 @@ GoogleDork:       intext:"Created by John Caruso" intext:"Created with Simple PH
 Description:      intext:"Created by John Caruso" intext:"Created with Simple PHP Photo Gallery"
 
 
-# Google Dork: intext:"Created by John Caruso" intext:"Created with Simple PHP Photo Gallery"  # SimplePHPGal 0.7 - Remote File Inclusion. This dork is linked to the following existing exploit: https://www.exploit-db.com/exploits/48424  # Date: 19/05/2020  # Author: Alexandros Pappas 
+# Google Dork: intext:"Created by John Caruso"
+ intext:"Created with Simple PHP Photo Gallery"
+ 
+ # SimplePHPGal 0.7 - Remote File Inclusion. This dork is linked to the
+ following existing exploit: https://www.exploit-db.com/exploits/48424
+ 
+ # Date: 19/05/2020
+ 
+ # Author: Alexandros Pappas
+ 

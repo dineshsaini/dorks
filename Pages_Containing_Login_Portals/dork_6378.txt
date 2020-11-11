@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6378
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-07-07
 Author:           Jose Praveen
@@ -6,4 +7,8 @@ GoogleDork:       "login" intitle:"*reports login"
 Description:      "login" intitle:"*reports login"
 
 
-# Google Dork : "login" intitle:"*reports login" # Description : Various Report login portals. # Date: 07/07/2020 # Author: Jose Praveen 
+# Google Dork : "login" intitle:"*reports login"
+ # Description : Various Report login portals.
+ # Date: 07/07/2020
+ # Author: Jose Praveen
+ 

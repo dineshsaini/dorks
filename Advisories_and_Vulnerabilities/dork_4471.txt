@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4471
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2017-05-08
 Author:           SadFud
@@ -6,4 +7,6 @@ GoogleDork:       intitle:index of AND (intext:mirai.x86 OR intext:mirai.mips OR
 Description:      intitle:index of AND (intext:mirai.x86 OR intext:mirai.mips OR intext:mirai.mpsl OR intext:mirai.arm OR intext:mirai.arm7 OR intext:mirai.ppc OR intext:mirai.spc OR intext:mirai.m68k OR intext:mirai.sh4)
 
 
-Description: Find servers infected with mirai  Author: SadFud
+Description: Find servers infected with mirai
+ 
+ Author: SadFud

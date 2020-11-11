@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4644
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2018-01-01
 Author:           Huijun Chen
@@ -6,4 +7,7 @@ GoogleDork:       "password"  + ext:conf "Modem Type = USB Modem"
 Description:      "password"  + ext:conf "Modem Type = USB Modem"
 
 
-Google Dork: Files Containing Passwords  Huijun Chen 
+Google Dork: Files Containing Passwords
+ 
+ Huijun Chen
+ 

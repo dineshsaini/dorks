@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6332
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-06-26
 Author:           Alexandros Pappas
@@ -6,4 +7,8 @@ GoogleDork:       intitle:"index of" /etc/openvpn/
 Description:      intitle:"index of" /etc/openvpn/
 
 
-# Google Dork: intitle:"index of" /etc/openvpn/ # Juicy information and sensitive directories. # Date: 26/06/2020 # Exploit Author: Alexandros Pappas 
+# Google Dork: intitle:"index of" /etc/openvpn/
+ # Juicy information and sensitive directories.
+ # Date: 26/06/2020
+ # Exploit Author: Alexandros Pappas
+ 

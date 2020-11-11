@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5456
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-08-27
 Author:           Reza Abasi
@@ -6,4 +7,9 @@ GoogleDork:       inurl:/identify/ intitle:"Forgotten Password"
 Description:      inurl:/identify/ intitle:"Forgotten Password"
 
 
-Login Pages:  inurl:/identify/ intitle:"Forgotten Password"  Reza Abasi(Turku) 
+Login Pages:
+ 
+ inurl:/identify/ intitle:"Forgotten Password"
+ 
+ Reza Abasi(Turku)
+ 

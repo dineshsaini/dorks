@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6198
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2020-06-04
 Author:           Abhi Chitkara
@@ -6,4 +7,9 @@ GoogleDork:       inurl:wp-content/plugins/simple-file-list
 Description:      inurl:wp-content/plugins/simple-file-list
 
 
-Dork: inurl:wp-content/plugins/simple-file-list Description: This google dork lists out Advisories and Vulnerabilities regarding the simple-file-list wordpress plugin. Ref: https://wpvulndb.com/vulnerabilities/10192 Author: Abhi Chitkara 
+Dork: inurl:wp-content/plugins/simple-file-list
+ Description: This google dork lists out Advisories and Vulnerabilities
+ regarding the simple-file-list wordpress plugin. Ref:
+ https://wpvulndb.com/vulnerabilities/10192
+ Author: Abhi Chitkara
+ 

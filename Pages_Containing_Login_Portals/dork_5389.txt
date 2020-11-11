@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5389
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-08-19
 Author:           Reza Abasi
@@ -6,4 +7,9 @@ GoogleDork:       inurl:/admin/cal_login.php
 Description:      inurl:/admin/cal_login.php
 
 
-Login page :  inurl:/admin/cal_login.php  Reza Abasi(Turku) 
+Login page :
+ 
+ inurl:/admin/cal_login.php
+ 
+ Reza Abasi(Turku)
+ 

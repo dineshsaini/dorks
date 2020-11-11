@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5593
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2019-10-22
 Author:           MiningOmerta
@@ -6,4 +7,15 @@ GoogleDork:       site:*.freshservice.com/support/solutions
 Description:      site:*.freshservice.com/support/solutions
 
 
-# Google Dork that Shows Interesting Information  # Companies using Freshdesk's Freshservice sometimes accidentally leave their KBs/Solutions public when migrating from another ticketing  # service. Some do not require login to see internal tech support solutions..  # add intext:{whatever industry or term} for a more targeted approach.  site:*.freshservice.com/support/solutions  Author: MiningOmerta 
+# Google Dork that Shows Interesting Information
+ 
+ # Companies using Freshdesk's Freshservice sometimes accidentally leave their KBs/Solutions public when migrating from another ticketing
+ 
+ # service. Some do not require login to see internal tech support solutions..
+ 
+ # add intext:{whatever industry or term} for a more targeted approach.
+ 
+ site:*.freshservice.com/support/solutions
+ 
+ Author: MiningOmerta
+ 

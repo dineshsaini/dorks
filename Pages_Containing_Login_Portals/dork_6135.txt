@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6135
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-05-27
 Author:           Ritik Sahni
@@ -6,4 +7,8 @@ GoogleDork:       inurl:login_admin "admin"
 Description:      inurl:login_admin "admin"
 
 
-# Title: Find admin login panels # Google Dork: inurl:login_admin "admin" # Date : 27/05/2020 # Author: Ritik Sahni 
+# Title: Find admin login panels
+ # Google Dork: inurl:login_admin "admin"
+ # Date : 27/05/2020
+ # Author: Ritik Sahni
+ 

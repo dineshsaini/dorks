@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5895
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2020-04-16
 Author:           Prasad Lingamaiah
@@ -6,4 +7,10 @@ GoogleDork:       inurl:/frameprop.htm
 Description:      inurl:/frameprop.htm
 
 
-inurl:/frameprop.htm  Category: Sensitive Information  Summary: A Google dork that gives information about Xerox Phaser Printer. 
+inurl:/frameprop.htm
+ 
+ Category: Sensitive Information
+ 
+ Summary:
+ A Google dork that gives information about Xerox Phaser Printer.
+ 

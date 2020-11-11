@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5417
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-08-20
 Author:           Reza Abasi
@@ -6,4 +7,9 @@ GoogleDork:       site:vpn.*.*/ intitle:"login"
 Description:      site:vpn.*.*/ intitle:"login"
 
 
-VPN Login Pages:  site:vpn.*.*/ intitle:"login"  Reza Abasi 
+VPN Login Pages:
+ 
+ site:vpn.*.*/ intitle:"login"
+ 
+ Reza Abasi
+ 

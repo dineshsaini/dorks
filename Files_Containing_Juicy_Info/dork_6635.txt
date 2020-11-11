@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6635
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-10-26
 Author:           Sajan Dhakate
@@ -6,4 +7,12 @@ GoogleDork:       allintext:"Index Of" "cookies.txt"
 Description:      allintext:"Index Of" "cookies.txt"
 
 
-# Exploit Title: *allintext:"Index Of" "cookies.txt"* # Google Dork: *allintext:"Index Of" "cookies.txt"* # Juicy information : Valuable cookie information. # Date: 25/10/2020 # Exploit Author: Sajan Dhakate  *Thanks &amp; Regards* *Sajan Dhakate* 
+# Exploit Title: *allintext:"Index Of" "cookies.txt"*
+ # Google Dork: *allintext:"Index Of" "cookies.txt"*
+ # Juicy information : Valuable cookie information.
+ # Date: 25/10/2020
+ # Exploit Author: Sajan Dhakate
+ 
+ *Thanks & Regards*
+ *Sajan Dhakate*
+ 

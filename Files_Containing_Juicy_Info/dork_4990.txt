@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4990
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2018-10-17
 Author:           Dxtroyer
@@ -6,4 +7,7 @@ GoogleDork:       "[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions]" ext:
 Description:      "[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions]" ext:reg
 
 
-Finds PuTTY session configs, sometimes containing plaintext credentials  Dxtroyer 
+Finds PuTTY session configs, sometimes containing plaintext credentials
+ 
+ Dxtroyer
+ 

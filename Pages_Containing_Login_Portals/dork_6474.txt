@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6474
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-08-11
 Author:           Sanu Jose M
@@ -6,4 +7,10 @@ GoogleDork:       inurl:client_login=
 Description:      inurl:client_login=
 
 
-Exploit Title: Pages containing login portals. Google Dork: inurl:client_login= Date: 10/08/2020 Exploit Author: Sanu Jose M Thanks &amp; regards, SANU JOSE M 
+Exploit Title: Pages containing login portals.
+ Google Dork: inurl:client_login=
+ Date: 10/08/2020
+ Exploit Author: Sanu Jose M
+ Thanks & regards,
+ SANU JOSE M
+ 

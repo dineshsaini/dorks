@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4458
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2017-05-03
 Author:           anonymous

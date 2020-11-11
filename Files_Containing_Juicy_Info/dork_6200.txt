@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6200
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-06-04
 Author:           Ravi Pavan
@@ -6,4 +7,7 @@ GoogleDork:       intitle:"index of" "database/config"
 Description:      intitle:"index of" "database/config"
 
 
-# Dock : intitle:"index of" "database/config" # Description: This dork will find some juicy information about database configuration files - database/config  Author : Ravi Pavan
+# Dock : intitle:"index of" "database/config"
+ # Description: This dork will find some juicy information about database configuration files - database/config
+ 
+ Author : Ravi Pavan

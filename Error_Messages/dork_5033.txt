@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5033
+Severity: 5 
 Category:         Error Messages
 Published Date:   2018-11-21
 Author:           CrimsonTorso
@@ -6,4 +7,7 @@ GoogleDork:       "syd_apply.cfm"
 Description:      "syd_apply.cfm"
 
 
-Find error pages for job applications, sometimes can contain juicy information. ~ CrimsonTorso 
+Find error pages for job applications, sometimes can contain juicy
+ information.
+ ~ CrimsonTorso
+ 

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4843
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2018-06-05
 Author:           Raj Kiran P
@@ -6,4 +7,7 @@ GoogleDork:       intext:Connect.with.Finalsite intitle:admin -facebook
 Description:      intext:Connect.with.Finalsite intitle:admin -facebook
 
 
-Admin login pages of website using Finalsite CMS.  Author: Raj Kiran P 
+Admin login pages of website using Finalsite CMS.
+ 
+ Author: Raj Kiran P
+ 

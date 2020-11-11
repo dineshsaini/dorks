@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5962
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-04-29
 Author:           Abhi Chitkara
@@ -6,4 +7,8 @@ GoogleDork:       intitle:"index of" machine.config
 Description:      intitle:"index of" machine.config
 
 
-Dork: intitle:"index of" machine.config Description: This Google dork lists out machine.config files for asp .net websites Author: Abhi Chitkara 
+Dork: intitle:"index of" machine.config
+ Description: This Google dork lists out machine.config files for asp .net
+ websites
+ Author: Abhi Chitkara
+ 

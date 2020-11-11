@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6311
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2020-06-18
 Author:           GAGAN KUMAR JHA
@@ -6,4 +7,11 @@ GoogleDork:       inurl:member filetype:xls
 Description:      inurl:member filetype:xls
 
 
-Dork:- inurl:member filetype:xls Description:- This dork can find Excel spreadsheets in an members directory. Many times these documents contain sensitive information.  Author : GAGAN KUMAR JHA DATE: 18/06/2020 Linkedin: https://www.linkedin.com/in/gagan-kumar-jha55/ 
+Dork:- inurl:member filetype:xls
+ Description:- This dork can find Excel spreadsheets in an members
+ directory. Many times these documents contain sensitive information.
+ 
+ Author : GAGAN KUMAR JHA
+ DATE: 18/06/2020
+ Linkedin: https://www.linkedin.com/in/gagan-kumar-jha55/
+ 

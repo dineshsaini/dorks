@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5919
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2020-04-20
 Author:           Nicholas Doropoulos
@@ -6,4 +7,6 @@ GoogleDork:       inurl:sws/index.html AND intext:"Model Name" AND intext:"Seria
 Description:      inurl:sws/index.html AND intext:"Model Name" AND intext:"Serial Number"
 
 
-Category: Various Online Devices Nicholas Doropoulos
+Severity: 5 
+Category: Various Online Devices
+ Nicholas Doropoulos

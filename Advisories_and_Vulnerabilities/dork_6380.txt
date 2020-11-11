@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6380
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2020-07-07
 Author:           Tanmay Bhattacharjee
@@ -6,4 +7,14 @@ GoogleDork:       allintext:wp-content/plugins/acf-to-rest-api
 Description:      allintext:wp-content/plugins/acf-to-rest-api
 
 
-Description: allintext:wp-content/plugins/acf-to-rest-api This google dorks give us the advisories and vulnerabilities on wordpress plugins.  Ref: https://wpvulndb.com/vulnerabilities/10284  Linkedin : https://www.linkedin.com/in/peaceonmind/  Thanks, Tanmay Bhattacharjee 
+Description: allintext:wp-content/plugins/acf-to-rest-api
+ This google dorks give us the advisories and vulnerabilities on wordpress
+ plugins.
+ 
+ Ref: https://wpvulndb.com/vulnerabilities/10284
+ 
+ Linkedin : https://www.linkedin.com/in/peaceonmind/
+ 
+ Thanks,
+ Tanmay Bhattacharjee
+ 

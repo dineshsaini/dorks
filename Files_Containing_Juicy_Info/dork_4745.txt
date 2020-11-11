@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4745
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2018-04-05
 Author:           edm0nd
@@ -6,4 +7,11 @@ GoogleDork:       intitle:"Index of /logs/" "lighttpd"
 Description:      intitle:"Index of /logs/" "lighttpd"
 
 
-Files Containing Juicy Info  Will reveal website traffic logs of sites using lighttp. Can be used to monitor how much traffic a website is getting and where from.  *By: *edm0nd https://twitter.com/Edmond_Major 
+Files Containing Juicy Info
+ 
+ Will reveal website traffic logs of sites using lighttp. Can be used to
+ monitor how much traffic a website is getting and where from.
+ 
+ *By: *edm0nd
+ https://twitter.com/Edmond_Major
+ 

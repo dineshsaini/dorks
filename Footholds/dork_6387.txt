@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6387
+Severity: 5 
 Category:         Footholds
 Published Date:   2020-07-09
 Author:           Tanmay Bhattacharjee
@@ -6,4 +7,12 @@ GoogleDork:       intitle:"index of /" +.htdocs
 Description:      intitle:"index of /" +.htdocs
 
 
-Description: intitle:"index of /" +.htdocs Access to the parent directory and get lots of information of directory and contains with sensitive information.This kind of foothold.  Linkedin : https://www.linkedin.com/in/peaceonmind/  Thanks, Tanmay Bhattacharjee 
+Description: intitle:"index of /" +.htdocs
+ Access to the parent directory and get lots of information of directory
+ and contains with sensitive information.This kind of foothold.
+ 
+ Linkedin : https://www.linkedin.com/in/peaceonmind/
+ 
+ Thanks,
+ Tanmay Bhattacharjee
+ 

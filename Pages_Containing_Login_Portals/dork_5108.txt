@@ -1,9 +1,15 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5108
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-02-15
 Author:           Bruno Schmid
-GoogleDork:       intitle:vendor | supply &amp; login | portal intext:login | email &amp; password
-Description:      intitle:vendor | supply &amp; login | portal intext:login | email &amp; password
+GoogleDork:       intitle:vendor | supply & login | portal intext:login | email & password
+Description:      intitle:vendor | supply & login | portal intext:login | email & password
 
 
-Login portals   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 
+Login portals
+ 
+ 
+ Bruno Schmid
+ https://ch.linkedin.com/in/schmidbruno
+ 

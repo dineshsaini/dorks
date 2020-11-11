@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6634
+Severity: 5 
 Category:         Files Containing Usernames
 Published Date:   2020-10-21
 Author:           Alexandros Pappas
@@ -6,4 +7,11 @@ GoogleDork:       "DefaultPassword" ext:reg "[HKEY_LOCAL_MACHINE\SOFTWARE\Micros
 Description:      "DefaultPassword" ext:reg "[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon]"
 
 
-# Google Dork: "DefaultPassword" ext:reg "[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon]"  # Exposed default usernames and passwords in Windows registry.  # Date: 10/10/2020  # Exploit Author: Alexandros Pappas 
+# Google Dork: "DefaultPassword" ext:reg "[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon]"
+ 
+ # Exposed default usernames and passwords in Windows registry.
+ 
+ # Date: 10/10/2020
+ 
+ # Exploit Author: Alexandros Pappas
+ 

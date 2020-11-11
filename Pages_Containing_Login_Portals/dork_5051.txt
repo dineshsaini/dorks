@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5051
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2018-12-05
 Author:           Gionathan Reale
@@ -6,4 +7,11 @@ GoogleDork:       "login":
 Description:      "login":
 
 
-"login":  This Google Dork discovers thousands of login portals.    - Gionathan "John" Reale 
+"login":
+ 
+ This Google Dork discovers thousands of login portals.
+ 
+ 
+ 
+ - Gionathan "John" Reale
+ 

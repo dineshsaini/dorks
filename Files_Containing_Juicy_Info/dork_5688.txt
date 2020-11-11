@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5688
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-01-09
 Author:           Reza Abasi
@@ -6,4 +7,9 @@ GoogleDork:       intitle:"index of" "wp-security-audit-log"
 Description:      intitle:"index of" "wp-security-audit-log"
 
 
-Files containing juicy info:  intitle:"index of" "wp-security-audit-log"  Reza Abasi(Turku) 
+Files containing juicy info:
+ 
+ intitle:"index of" "wp-security-audit-log"
+ 
+ Reza Abasi(Turku)
+ 

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4638
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2017-12-12
 Author:           amon k3b
@@ -6,4 +7,7 @@ GoogleDork:       intext:----- Begin SAP License ----- ext:txt
 Description:      intext:----- Begin SAP License ----- ext:txt
 
 
-hope it's hellpful to find sap license files :)  dork: intext:----- Begin SAP License ----- ext:txt 
+hope it's hellpful to find sap license files :)
+ 
+ dork: intext:----- Begin SAP License ----- ext:txt
+ 

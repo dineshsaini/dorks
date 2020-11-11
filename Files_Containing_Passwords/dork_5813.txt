@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5813
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2020-03-20
 Author:           Alexandros Pappas
@@ -6,4 +7,19 @@ GoogleDork:       "enable password" ext:cfg -git -cisco.com
 Description:      "enable password" ext:cfg -git -cisco.com
 
 
-# Google Dork:  "enable password" ext:cfg -git -cisco.com password aux-password ext:cfg -git -cisco.com password vty-password ext:cfg -git -cisco.com service password-encryption ext:cfg -git -cisco.com intext:"set enablepass password" "set enablepass password" ext:txt intext:"password encrypted" filetype:txt "password encrypted" ext:cfg  # By using this dork, passwords in Cisco configuration files can be found.  # Date: 20/03/2020  # Exploit Author: Alexandros Pappas 
+# Google Dork: 
+ "enable password" ext:cfg -git -cisco.com
+ password aux-password ext:cfg -git -cisco.com
+ password vty-password ext:cfg -git -cisco.com
+ service password-encryption ext:cfg -git -cisco.com
+ intext:"set enablepass password"
+ "set enablepass password" ext:txt
+ intext:"password encrypted" filetype:txt
+ "password encrypted" ext:cfg
+ 
+ # By using this dork, passwords in Cisco configuration files can be found.
+ 
+ # Date: 20/03/2020
+ 
+ # Exploit Author: Alexandros Pappas
+ 

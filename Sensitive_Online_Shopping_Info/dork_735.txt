@@ -1,9 +1,10 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/735
+Severity: 5 
 Category:         Sensitive Online Shopping Info
 Published Date:   2004-11-25
 Author:           anonymous
-GoogleDork:       site:ups.com intitle:&amp;quot;Ups Package tracking&amp;quot; intext:&amp;quot;1Z ### ### ## #### ### #&amp;quot;
-Description:      site:ups.com intitle:&amp;quot;Ups Package tracking&amp;quot; intext:&amp;quot;1Z ### ### ## #### ### #&amp;quot;
+GoogleDork:       site:ups.com intitle:&quot;Ups Package tracking&quot; intext:&quot;1Z ### ### ## #### ### #&quot;
+Description:      site:ups.com intitle:&quot;Ups Package tracking&quot; intext:&quot;1Z ### ### ## #### ### #&quot;
 
 
 Ever use the UPS Automated Tracking Service?? Wanna see where packages are going? Want to Man-in-the-middle their delivery? Well, then here it is.-Digital Spirit

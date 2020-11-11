@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6513
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-09-01
 Author:           Reza Abasi
@@ -6,4 +7,8 @@ GoogleDork:       intitle:"login to webmin" "You must enter a username and passw
 Description:      intitle:"login to webmin" "You must enter a username and password to login to the Webmin server"
 
 
-intitle:"login to webmin" "You must enter a username and password to login to the Webmin server"  BR, Reza Abasi(Turku) 
+intitle:"login to webmin" "You must enter a username and password to login to the Webmin server"
+ 
+ BR,
+ Reza Abasi(Turku)
+ 

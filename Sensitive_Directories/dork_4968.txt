@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4968
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2018-09-26
 Author:           Gionathan Reale
@@ -6,4 +7,10 @@ GoogleDork:       intext:my.cnf intitle:index of
 Description:      intext:my.cnf intitle:index of
 
 
-intext:my.cnf intitle:index of  This Google Dork discovers servers exposing mysql configuration files.   - Gionathan "John" Reale (https://www.exploit-db.com/author/?a=9609) 
+intext:my.cnf intitle:index of
+ 
+ This Google Dork discovers servers exposing mysql configuration files.
+ 
+ 
+ - Gionathan "John" Reale (https://www.exploit-db.com/author/?a=9609)
+ 

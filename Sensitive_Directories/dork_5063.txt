@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5063
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2019-01-02
 Author:           Chris Rogers
@@ -6,4 +7,5 @@ GoogleDork:       inurl:"ai1wm-backups"
 Description:      inurl:"ai1wm-backups"
 
 
-Find WordPress backup files and publicly accessible wp-content directories. 
+Find WordPress backup files and publicly accessible wp-content directories.
+ 

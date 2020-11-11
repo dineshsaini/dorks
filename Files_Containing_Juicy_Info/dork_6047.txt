@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6047
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-05-06
 Author:           Irshad Ahamed
@@ -6,4 +7,9 @@ GoogleDork:       intitle:"index of" "login.docx"
 Description:      intitle:"index of" "login.docx"
 
 
-Find sensitive information using this dork.  DORK: intitle:"index of" "login.docx"  ~ Irshad Ahamed 
+Find sensitive information using this dork.
+ 
+ DORK: intitle:"index of" "login.docx"
+ 
+ ~ Irshad Ahamed
+ 

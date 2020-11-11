@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4845
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2018-06-06
 Author:           Amal Jossy
@@ -6,4 +7,11 @@ GoogleDork:       filetype:env intext:REDIS_PASSWORD
 Description:      filetype:env intext:REDIS_PASSWORD
 
 
-.env files with password and username in plain-text of Redis, used in Laravel and other web apps  Other: filetype:env intext:APP_KEY=  Amal Jossy 
+.env files with password and username in plain-text of Redis, used in
+ Laravel and other web apps
+ 
+ Other:
+ filetype:env intext:APP_KEY=
+ 
+ Amal Jossy
+ 

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6259
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2020-06-10
 Author:           Mahesh Rai
@@ -6,4 +7,10 @@ GoogleDork:       "index of" "svg"
 Description:      "index of" "svg"
 
 
-# Google Dork: "index of" "svg" # Title: Sensitive file disclosure # Date: 06/06/2020 # Author: Mahesh Rai # LinkedIn: https://www.linkedin.com/in/mahesh-rai # Bugcrowd: https://bugcrowd.com/Mahesh_Rai 
+# Google Dork: "index of" "svg"
+ # Title: Sensitive file disclosure
+ # Date: 06/06/2020
+ # Author: Mahesh Rai
+ # LinkedIn: https://www.linkedin.com/in/mahesh-rai
+ # Bugcrowd: https://bugcrowd.com/Mahesh_Rai
+ 

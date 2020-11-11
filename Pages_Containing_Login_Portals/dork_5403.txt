@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5403
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-08-19
 Author:           Reza Abasi
@@ -6,4 +7,9 @@ GoogleDork:       inurl:/account/logon intitle:"Log On"
 Description:      inurl:/account/logon intitle:"Log On"
 
 
-Login Pages:  inurl:/account/logon intitle:"Log On"  Reza Abasi(Turku) 
+Login Pages:
+ 
+ inurl:/account/logon intitle:"Log On"
+ 
+ Reza Abasi(Turku)
+ 

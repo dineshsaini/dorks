@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4866
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2018-06-22
 Author:           ManhNho
@@ -6,4 +7,7 @@ GoogleDork:       intitle:"SSL VPN Service" + intext:"Your system administrator 
 Description:      intitle:"SSL VPN Service" + intext:"Your system administrator provided the following information to help understand and remedy the security conditions:"
 
 
-Show Cisco asa login web page which maybe contain new Cisco's CVEs  ManhNho 
+Show Cisco asa login web page which maybe contain new Cisco's CVEs
+ 
+ ManhNho
+ 

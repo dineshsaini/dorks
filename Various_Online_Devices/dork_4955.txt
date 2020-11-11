@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4955
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2018-09-17
 Author:           Akalanka Ekanayake
@@ -6,4 +7,22 @@ GoogleDork:       site:drive.google.com /preview intext:movie inurl:flv | wmv | 
 Description:      site:drive.google.com /preview intext:movie inurl:flv | wmv | mp4 -pdf -edit -view
 
 
-# Google Dork: site:drive.google.com /preview intext:movie inurl:flv | wmv | mp4 -pdf -edit -view # Date: 2018-09-15 # Author: Akalanka Ekanayake (Jake Logan) # Vendor Homepage: https://securehacker.co.uk  This dork will help you to find out videos published in Google drive.(Movies,Tv series,clips .etc)  Example :  site:drive.google.com /preview *intext:tv series* inurl:flv | wmv | mp4 -pdf -edit -view  site:drive.google.com /preview *intext:tutorial* inurl:flv | wmv | mp4 -pdf -edit -view  site:drive.google.com /preview *intext:720p *inurl:flv | wmv | mp4 -pdf -edit -view 
+# Google Dork: site:drive.google.com /preview intext:movie inurl:flv | wmv | mp4 -pdf -edit -view
+ # Date: 2018-09-15
+ # Author: Akalanka Ekanayake (Jake Logan)
+ # Vendor Homepage: https://securehacker.co.uk
+ 
+ This dork will help you to find out videos published in Google
+ drive.(Movies,Tv series,clips .etc)
+ 
+ Example :
+ 
+ site:drive.google.com /preview *intext:tv series* inurl:flv | wmv |
+ mp4 -pdf -edit -view
+ 
+ site:drive.google.com /preview *intext:tutorial* inurl:flv | wmv | mp4
+ -pdf -edit -view
+ 
+ site:drive.google.com /preview *intext:720p *inurl:flv | wmv | mp4
+ -pdf -edit -view
+ 

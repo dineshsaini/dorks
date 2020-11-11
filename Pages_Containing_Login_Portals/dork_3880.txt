@@ -1,9 +1,10 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3880
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2013-08-08
 Author:           anonymous
-GoogleDork:       intitle:"::: Login :::" &amp; intext:"Customer Login" &amp; "Any time &amp; Any where"
-Description:      intitle:"::: Login :::" &amp; intext:"Customer Login" &amp; "Any time &amp; Any where"
+GoogleDork:       intitle:"::: Login :::" & intext:"Customer Login" & "Any time & Any where"
+Description:      intitle:"::: Login :::" & intext:"Customer Login" & "Any time & Any where"
 
 
 #Summary: Surveillance login portals #Author: g00gl3 5c0u7

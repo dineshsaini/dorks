@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6282
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2020-06-15
 Author:           Prashant Sharma
@@ -6,4 +7,8 @@ GoogleDork:       "index of" "plugins/wp-rocket"
 Description:      "index of" "plugins/wp-rocket"
 
 
-Google Dork: "index of" "plugins/wp-rocket" Category: Advisories and Vulnerabilities Author: Prashant Sharma LinkedIn: https://www.linkedin.com/in/prashantique/ 
+Google Dork: "index of" "plugins/wp-rocket"
+ Category: Advisories and Vulnerabilities
+ Author: Prashant Sharma
+ LinkedIn: https://www.linkedin.com/in/prashantique/
+ 

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5730
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-02-10
 Author:           Mohammed*_*
@@ -6,4 +7,9 @@ GoogleDork:       intitle:VMware inurl:5480
 Description:      intitle:VMware inurl:5480
 
 
-VMware Appliance Management Logins  # Google Dork: intitle:VMware inurl:5480 # Date: [6-2-2020] # Author: [Mohammed*_*] 
+VMware Appliance Management Logins
+ 
+ # Google Dork: intitle:VMware inurl:5480
+ # Date: [6-2-2020]
+ # Author: [Mohammed*_*]
+ 

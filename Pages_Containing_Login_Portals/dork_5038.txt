@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5038
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2018-11-27
 Author:           ManhNho
@@ -6,4 +7,7 @@ GoogleDork:       intext:"Type in Username and Password, then click Ok" intitle:
 Description:      intext:"Type in Username and Password, then click Ok" intitle:"log in"
 
 
-Web login panel  ManhNho 
+Web login panel
+ 
+ ManhNho
+ 

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5644
+Severity: 5 
 Category:         Error Messages
 Published Date:   2019-11-11
 Author:           Dhaiwat Mehta
@@ -6,4 +7,11 @@ GoogleDork:       intitle:"Error log for /LM/"
 Description:      intitle:"Error log for /LM/"
 
 
-# Google Dork : intitle:"Error log for /LM/"  # Category : File contains Juicy items  # Date : 11-11-2019  # Author : Dhaiwat Mehta 
+# Google Dork : intitle:"Error log for /LM/"
+ 
+ # Category : File contains Juicy items
+ 
+ # Date : 11-11-2019
+ 
+ # Author : Dhaiwat Mehta
+ 

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5072
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2019-01-09
 Author:           FlyingFrog
@@ -6,4 +7,25 @@ GoogleDork:       inurl:"/webdynpro/resources/sap.com/"
 Description:      inurl:"/webdynpro/resources/sap.com/"
 
 
-AUTHOR: FlyingFrog Twitter: @ItsKarl0z   ++ SAP software components and tools listing ++  inurl:”/webdynpro/resources/sap.com/" - Find software installed on servers - Version info - SAP J2EE exploits - Exploit server software - Find adminconsole - Possible SQL Injection:     - https://www.exploit-db.com/exploits/43495 - Create new users - 1.670 results at the time of writing  DISCLAIMER: (The vulnerabilities are suggestions, none of them have been tested by me, always request permission before testing anything on someone else system)  
+AUTHOR: FlyingFrog
+ Twitter: @ItsKarl0z
+ 
+ 
+ ++ SAP software components and tools listing ++
+ 
+ inurl:”/webdynpro/resources/sap.com/"
+ - Find software installed on servers
+ - Version info
+ - SAP J2EE exploits
+ - Exploit server software
+ - Find adminconsole
+ - Possible SQL Injection:
+     - https://www.exploit-db.com/exploits/43495
+ - Create new users
+ - 1.670 results at the time of writing
+ 
+ DISCLAIMER:
+ (The vulnerabilities are suggestions, none of them have been tested by me,
+ always request permission before testing anything on someone else system)
+ 
+ 

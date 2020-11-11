@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6520
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2020-09-04
 Author:           Alexandros Pappas
@@ -6,4 +7,8 @@ GoogleDork:       intitle:"Rockwell Automation" inurl:"index.html" "Device Name"
 Description:      intitle:"Rockwell Automation" inurl:"index.html" "Device Name"
 
 
-# Google Dork: intitle:"Rockwell Automation" inurl:"index.html" "DeviceName" # Rockwell Automation PLC dashboards. # Date: 26/08/2020 # Exploit Author: Alexandros Pappas 
+# Google Dork: intitle:"Rockwell Automation" inurl:"index.html" "DeviceName"
+ # Rockwell Automation PLC dashboards.
+ # Date: 26/08/2020
+ # Exploit Author: Alexandros Pappas
+ 

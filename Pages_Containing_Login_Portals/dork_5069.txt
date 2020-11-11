@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5069
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-01-09
 Author:           FlyingFrog
@@ -6,4 +7,26 @@ GoogleDork:       inurl:infoviewapp
 Description:      inurl:infoviewapp
 
 
-AUTHOR: FlyingFrog Twitter: @ItsKarl0z   ++ SAP InfoView Business Objects ++  inurl:infoviewapp - Potential access to sensitive information - Login portals - Server entry points - Server - Potential to manipulate business objects - 2 Cross-Site Scripting Vulnerabillites available:     - https://www.exploit-db.com/exploits/36936     - https://www.exploit-db.com/exploits/36935 - 3.680 results at the time of writing  DISCLAIMER: (The vulnerabilities are suggestions, none of them have been tested by me, always request permission before testing anything on someone else system) Some of these are sourced from Onapsis, ERPscan and Rapid7 all have great sources on SAP testing  
+AUTHOR: FlyingFrog
+ Twitter: @ItsKarl0z
+ 
+ 
+ ++ SAP InfoView Business Objects ++
+ 
+ inurl:infoviewapp
+ - Potential access to sensitive information
+ - Login portals
+ - Server entry points
+ - Server
+ - Potential to manipulate business objects
+ - 2 Cross-Site Scripting Vulnerabillites available:
+     - https://www.exploit-db.com/exploits/36936
+     - https://www.exploit-db.com/exploits/36935
+ - 3.680 results at the time of writing
+ 
+ DISCLAIMER:
+ (The vulnerabilities are suggestions, none of them have been tested by me,
+ always request permission before testing anything on someone else system)
+ Some of these are sourced from Onapsis, ERPscan and Rapid7 all have great sources on SAP testing
+ 
+ 

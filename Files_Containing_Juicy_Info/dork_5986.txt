@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5986
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-05-01
 Author:           Alexandros Pappas
@@ -6,4 +7,13 @@ GoogleDork:       intitle:"index of" "parameters.yml.test" OR "parameters.yml.di
 Description:      intitle:"index of" "parameters.yml.test" OR "parameters.yml.dist"
 
 
-# Google Dork: intitle:"index of" "parameters.yml.test" OR "parameters.yml.dist"  # Juicy information and sensitive directories including mostly secret tokens, user names and some times passwords.  # Date: 1/05/2020  # Author: Alexandros Pappas 
+# Google Dork: intitle:"index of" "parameters.yml.test" OR
+ "parameters.yml.dist"
+ 
+ # Juicy information and sensitive directories including mostly secret
+ tokens, user names and some times passwords.
+ 
+ # Date: 1/05/2020
+ 
+ # Author: Alexandros Pappas
+ 

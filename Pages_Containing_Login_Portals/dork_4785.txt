@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4785
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2018-04-17
 Author:           Bruno Schmid
@@ -6,4 +7,23 @@ GoogleDork:       "login" "adp login" -adplogin.us -adplogin.org -adplogin.net
 Description:      "login" "adp login" -adplogin.us -adplogin.org -adplogin.net
 
 
-Login portals from ADP Login which is mainly used in the following fields:  - Human Capital Management - Payroll Services - Talent Management - HR Management - Affordable Care Act - Benefits Administration - Time &amp; Attendance - HR Business Process Outsourcing (HR BPO) - Professional Employer Organization (PEO) - Retirement Plans - Insurance Plans - Tax &amp; Compliance - Payment Solutions   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 
+Login portals from ADP Login which is mainly used in the following fields:
+ 
+ - Human Capital Management
+ - Payroll Services
+ - Talent Management
+ - HR Management
+ - Affordable Care Act
+ - Benefits Administration
+ - Time & Attendance
+ - HR Business Process Outsourcing (HR BPO)
+ - Professional Employer Organization (PEO)
+ - Retirement Plans
+ - Insurance Plans
+ - Tax & Compliance
+ - Payment Solutions
+ 
+ 
+ Bruno Schmid
+ https://ch.linkedin.com/in/schmidbruno
+ 

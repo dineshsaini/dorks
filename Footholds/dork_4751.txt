@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4751
+Severity: 5 
 Category:         Footholds
 Published Date:   2018-04-09
 Author:           _palonE
@@ -6,4 +7,17 @@ GoogleDork:       intitle:"Installing TYPO3 CMS"
 Description:      intitle:"Installing TYPO3 CMS"
 
 
- This will find the First Install Wizard of the TYPO3 CMS.  This is NOT the same as this dork: https://www.exploit-db.com/ghdb/3942/ which lets you find the Install tool, which is available after the Installation itself.  My dork will rather find the First Install wizard, which opposed to the Install tool does not have a password protection.  Some Installations should be able to be hijacked this way.  Use ethically and responsibly. Dork by _palonE 
+ This will find the First Install Wizard of the TYPO3 CMS.
+ 
+ This is NOT the same as this dork: https://www.exploit-db.com/ghdb/3942/
+ which lets you find the Install tool, which is available after the
+ Installation itself.
+ 
+ My dork will rather find the First Install wizard, which opposed to the
+ Install tool does not have a password protection.
+ 
+ Some Installations should be able to be hijacked this way.
+ 
+ Use ethically and responsibly.
+ Dork by _palonE
+ 

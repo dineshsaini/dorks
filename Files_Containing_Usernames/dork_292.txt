@@ -1,9 +1,10 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/292
+Severity: 5 
 Category:         Files Containing Usernames
 Published Date:   2004-06-19
 Author:           anonymous
-GoogleDork:       OWA Public folders &amp; Address book
-Description:      OWA Public folders &amp; Address book
+GoogleDork:       OWA Public folders & Address book
+Description:      OWA Public folders & Address book
 
 
 This search jumps right to the main page of Outlook Web Access Public Folders and the Exchange Address Book:.An attacker can use the addressbook to enumerate usernames anonymously without having to logon. These usernames can then be used to guess the mailbox passwords. An attacker can also browse the public folders to gather extra information about the organisation.

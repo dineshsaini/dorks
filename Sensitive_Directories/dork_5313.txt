@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5313
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2019-08-02
 Author:           Aditya shende
@@ -6,4 +7,11 @@ GoogleDork:       inurl: /filemanager/dialog.php
 Description:      inurl: /filemanager/dialog.php
 
 
-Dork : inurl: /filemanager/dialog.php  Impact :Sensitive directories  Author: Aditya shende  Date : 1 august 2019 
+Dork : inurl: /filemanager/dialog.php
+ 
+ Impact :Sensitive directories
+ 
+ Author: Aditya shende
+ 
+ Date : 1 august 2019
+ 

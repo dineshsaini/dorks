@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4661
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2018-01-24
 Author:           InspecterNull
@@ -6,4 +7,7 @@ GoogleDork:       inurl:/login/index.php intitle:CentOS
 Description:      inurl:/login/index.php intitle:CentOS
 
 
-inurl:/login/index.php intitle:CentOS  Finds CentOS Web Panel Login Pages. See http://centos-webpanel.com 
+inurl:/login/index.php intitle:CentOS
+ 
+ Finds CentOS Web Panel Login Pages. See http://centos-webpanel.com
+ 

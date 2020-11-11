@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5370
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-08-19
 Author:           Sourajeet Majumder
@@ -6,4 +7,7 @@ GoogleDork:       inurl:*admin_login.php
 Description:      inurl:*admin_login.php
 
 
-This Dork Can Be Used To Find Login Pages.  Here is the Dork: inurl:*admin_login.php 
+This Dork Can Be Used To Find Login Pages.
+ 
+ Here is the Dork: inurl:*admin_login.php
+ 

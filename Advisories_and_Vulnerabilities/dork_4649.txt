@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4649
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2018-01-03
 Author:           Mudassar
@@ -6,4 +7,13 @@ GoogleDork:       intitle:"WAGO Ethernet web-based-management"
 Description:      intitle:"WAGO Ethernet web-based-management"
 
 
-Vulnerable Wago devices can be identified with the following dork  intitle:"WAGO Ethernet web-based-management"  Reference: https://ics-cert.us-cert.gov/alerts/ICS-ALERT-17-341-01  Thanks,  Mudassar 
+Vulnerable Wago devices can be identified with the following dork
+ 
+ intitle:"WAGO Ethernet web-based-management"
+ 
+ Reference: https://ics-cert.us-cert.gov/alerts/ICS-ALERT-17-341-01
+ 
+ Thanks,
+ 
+ Mudassar
+ 

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5046
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2018-12-04
 Author:           Kevin Randall
@@ -6,4 +7,11 @@ GoogleDork:       filetype:xml config.xml passwordHash Jenkins
 Description:      filetype:xml config.xml passwordHash Jenkins
 
 
-Find Jenkins Password Hashes   filetype:xml config.xml passwordHash Jenkins   Discovered By: Kevin Randall 
+Find Jenkins Password Hashes
+ 
+ 
+ filetype:xml config.xml passwordHash Jenkins
+ 
+ 
+ Discovered By: Kevin Randall
+ 

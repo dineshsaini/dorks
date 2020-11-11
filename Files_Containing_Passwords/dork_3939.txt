@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3939
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2014-03-31
 Author:           anonymous
@@ -6,4 +7,4 @@ GoogleDork:       inurl:/backup intitle:index of backup intext:*sql
 Description:      inurl:/backup intitle:index of backup intext:*sql
 
 
-Google Search:https://www.google.com/search?client=opera&amp;q=admin+username+and+pass&amp;sourceid=opera&amp;ie=UTF-8&amp;oe=UTF-8#q=inurl:/backup+intitle:index+of+backup+intext:*sql&amp;start=70 1)Find the Back Up 2)Downlod it 3)Import it into phpmyadmin 4)Find the admin username and password :) Dork submitted by The Vi9er Good Luck
+Google Search:https://www.google.com/search?client=opera&q=admin+username+and+pass&sourceid=opera&ie=UTF-8&oe=UTF-8#q=inurl:/backup+intitle:index+of+backup+intext:*sql&start=70 1)Find the Back Up 2)Downlod it 3)Import it into phpmyadmin 4)Find the admin username and password :) Dork submitted by The Vi9er Good Luck

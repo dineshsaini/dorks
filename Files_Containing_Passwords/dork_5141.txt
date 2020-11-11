@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5141
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2019-03-01
 Author:           vocuzi
@@ -6,4 +7,12 @@ GoogleDork:       intitle:settings.py intext:EMAIL_HOST_PASSWORD -git -stackover
 Description:      intitle:settings.py intext:EMAIL_HOST_PASSWORD -git -stackoverflow
 
 
-Description : Django Web Framework email config plain-text Credentials.  Dork : intitle:settings.py intext:EMAIL_HOST_PASSWORD -git -stackoverflow  Author : Vipin Joshi (@vocuzi) 
+Description :
+ Django Web Framework email config plain-text Credentials.
+ 
+ Dork :
+ intitle:settings.py intext:EMAIL_HOST_PASSWORD -git -stackoverflow
+ 
+ Author :
+ Vipin Joshi (@vocuzi)
+ 

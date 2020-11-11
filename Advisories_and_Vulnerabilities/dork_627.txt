@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/627
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2004-10-26
 Author:           anonymous
@@ -6,4 +7,4 @@ GoogleDork:       "Enter ip" inurl:"php-ping.php"
 Description:      "Enter ip" inurl:"php-ping.php"
 
 
-It has been reported that php-ping may be prone to a remote command execution vulnerability that may allow remote attackers to execute commands on vulnerable systems. The problem exists due to insufficient sanitization of shellmetacharacters via the 'count' parameter of php-ping.php script.report: http://www.securityfocus.com/bid/9309/info/sample: http://img64.exs.cx/my.php?loc=img64&amp;image=phpping.jpg
+It has been reported that php-ping may be prone to a remote command execution vulnerability that may allow remote attackers to execute commands on vulnerable systems. The problem exists due to insufficient sanitization of shellmetacharacters via the 'count' parameter of php-ping.php script.report: http://www.securityfocus.com/bid/9309/info/sample: http://img64.exs.cx/my.php?loc=img64&image=phpping.jpg

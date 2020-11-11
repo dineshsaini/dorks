@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6459
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2020-07-29
 Author:           Alexandros Pappas
@@ -6,4 +7,11 @@ GoogleDork:       "HP LaserJet" inurl:"SSI/index.htm"
 Description:      "HP LaserJet" inurl:"SSI/index.htm"
 
 
-# Google Dork: "HP LaserJet" inurl:"SSI/index.htm"  # Various online devices (HP LaserJet Printers).  # Date: 29/07/2020  # Exploit Author: Alexandros Pappas 
+# Google Dork: "HP LaserJet" inurl:"SSI/index.htm"
+ 
+ # Various online devices (HP LaserJet Printers).
+ 
+ # Date: 29/07/2020
+ 
+ # Exploit Author: Alexandros Pappas
+ 

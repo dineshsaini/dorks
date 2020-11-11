@@ -1,9 +1,10 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3189
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2010-11-15
 Author:           anonymous
-GoogleDork:       inurl:"cal_day.php?op=day&amp;catview="
-Description:      inurl:"cal_day.php?op=day&amp;catview="
+GoogleDork:       inurl:"cal_day.php?op=day&catview="
+Description:      inurl:"cal_day.php?op=day&catview="
 
 
 Calendarix v0.8.20071118 SQL Injection: https://www.exploit-db.com/exploits/11443

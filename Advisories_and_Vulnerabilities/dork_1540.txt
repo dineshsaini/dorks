@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1540
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2010-11-15
 Author:           anonymous
@@ -6,4 +7,4 @@ GoogleDork:       inurl:btg_oglas
 Description:      inurl:btg_oglas
 
 
-Joomla Component (btg_oglas) HTML &amp; XSS Injection Vulnerability: https://www.exploit-db.com/exploits/15468
+Joomla Component (btg_oglas) HTML & XSS Injection Vulnerability: https://www.exploit-db.com/exploits/15468

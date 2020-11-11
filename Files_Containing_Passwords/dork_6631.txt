@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6631
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2020-10-21
 Author:           Alexandros Pappas
@@ -6,4 +7,12 @@ GoogleDork:       "spring.datasource.password=" + "spring.datasource.username=" 
 Description:      "spring.datasource.password=" + "spring.datasource.username=" ext:properties -git -gitlab
 
 
-# Google Dork: "spring.datasource.password=" + "spring.datasource.username=" ext:properties -git -gitlab  # Files containing usernames and passwords.  # Date: 11/10/2020  # Exploit Author: Alexandros Pappas 
+# Google Dork: "spring.datasource.password=" +
+ "spring.datasource.username=" ext:properties -git -gitlab
+ 
+ # Files containing usernames and passwords.
+ 
+ # Date: 11/10/2020
+ 
+ # Exploit Author: Alexandros Pappas
+ 

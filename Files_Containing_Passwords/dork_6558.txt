@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6558
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2020-09-22
 Author:           Dharmveer Singh
@@ -6,4 +7,9 @@ GoogleDork:       ext:txt intext:@yahoo.com intext:password
 Description:      ext:txt intext:@yahoo.com intext:password
 
 
- # Google Dork: ext:txt intext:@yahoo.com intext:password # By using this dorks,It will return the text file that contains some email and passwords which can be exploited by anyone. # Date: 22/09/2020 # Author: Dharmveer Singh 
+ # Google Dork: ext:txt intext:@yahoo.com intext:password
+ # By using this dorks,It will return the text file that contains some email
+ and passwords which can be exploited by anyone.
+ # Date: 22/09/2020
+ # Author: Dharmveer Singh
+ 

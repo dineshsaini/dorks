@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6543
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-09-16
 Author:           Alexandros Pappas
@@ -6,4 +7,8 @@ GoogleDork:       site:jira.*.* inurl:/customer/portal/
 Description:      site:jira.*.* inurl:/customer/portal/
 
 
-# Google Dork: site:jira.*.* inurl:/customer/portal/ # Jira login portals. # Date: 16/09/2020 # Exploit Author: Alexandros Pappas 
+# Google Dork: site:jira.*.* inurl:/customer/portal/
+ # Jira login portals.
+ # Date: 16/09/2020
+ # Exploit Author: Alexandros Pappas
+ 

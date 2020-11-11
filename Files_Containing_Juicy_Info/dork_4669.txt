@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4669
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2018-02-09
 Author:           _palonE
@@ -6,4 +7,9 @@ GoogleDork:       inurl:"main.php?action=db"
 Description:      inurl:"main.php?action=db"
 
 
-This dork will find installations of MySQLDumper (http://www.mysqldumper.de/) which by default are unprotected. This allows full databse acces. Use resposible and ethical!  Dork by _palone. 
+This dork will find installations of MySQLDumper (http://www.mysqldumper.de/)
+ which by default are unprotected. This allows full databse acces. Use
+ resposible and ethical!
+ 
+ Dork by _palone.
+ 

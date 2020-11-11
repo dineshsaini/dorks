@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5669
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2019-12-18
 Author:           Leandro Naranjo
@@ -6,4 +7,13 @@ GoogleDork:       inurl:"/fmi/webd" intitle:"FileMaker WebDirect"
 Description:      inurl:"/fmi/webd" intitle:"FileMaker WebDirect"
 
 
-# Google Dork : inurl:"/fmi/webd" intitle:"FileMaker WebDirect" # Description: Find websites where Filemaker applications are saved. Users can run them from the web browser. Some applications do not have user authentication, allowing us to find sensitive data depending on the purpose of the application. # Category : Files Containing Juicy Info # Date : 17/12/2019 # Author : Leandro Naranjo # Social: @tw1_lea 
+# Google Dork : inurl:"/fmi/webd" intitle:"FileMaker WebDirect"
+ # Description: Find websites where Filemaker applications are saved. Users
+ can run them from the web browser. Some applications do not have user
+ authentication, allowing us to find sensitive data depending on the purpose
+ of the application.
+ # Category : Files Containing Juicy Info
+ # Date : 17/12/2019
+ # Author : Leandro Naranjo
+ # Social: @tw1_lea
+ 

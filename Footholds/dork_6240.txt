@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6240
+Severity: 5 
 Category:         Footholds
 Published Date:   2020-06-08
 Author:           Shamika Shewale
@@ -6,4 +7,10 @@ GoogleDork:       site:linkedin.com employees target.com
 Description:      site:linkedin.com employees target.com
 
 
-*Dork: *site:linkedin.com employees target.com  *Description:* This google dork will list all the employees of a particular organisation who are there on linkedin.  *Author:* Shamika Shewale 
+*Dork: *site:linkedin.com employees target.com
+ 
+ *Description:* This google dork will list all the employees of a particular
+ organisation who are there on linkedin.
+ 
+ *Author:* Shamika Shewale
+ 

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4541
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2017-06-26
 Author:           Dxtroyer
@@ -6,4 +7,8 @@ GoogleDork:       intitle:"Index of /" "mod_ssl 2.2.22 OpenSSL/1.0.1"
 Description:      intitle:"Index of /" "mod_ssl 2.2.22 OpenSSL/1.0.1"
 
 
-Finds OpenSSL servers that are vulnerable to the Heartbleed Bug    Dxtroyer
+Finds OpenSSL servers that are vulnerable to the Heartbleed Bug
+ 
+ 
+ 
+ Dxtroyer

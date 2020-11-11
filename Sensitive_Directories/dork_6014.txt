@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6014
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2020-05-05
 Author:           Juveria Banu
@@ -6,4 +7,9 @@ GoogleDork:       intitle:"index of" "/admin/backup"
 Description:      intitle:"index of" "/admin/backup"
 
 
-Path to admin backup file using  intitle:"index of" "/admin/backup"  -Juveria Banu 
+Path to admin backup file using
+ 
+ intitle:"index of" "/admin/backup"
+ 
+ -Juveria Banu
+ 

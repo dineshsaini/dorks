@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6056
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-05-07
 Author:           Abhi Chitkara
@@ -6,4 +7,8 @@ GoogleDork:       intitle:"index of" "admin.jsp"
 Description:      intitle:"index of" "admin.jsp"
 
 
-Dork: intitle:"index of" "admin.jsp" Description: This Google dork lists out sensitive admin java servlet pages for a web server Author: Abhi Chitkara 
+Dork: intitle:"index of" "admin.jsp"
+ Description: This Google dork lists out sensitive admin java servlet pages
+ for a web server
+ Author: Abhi Chitkara
+ 

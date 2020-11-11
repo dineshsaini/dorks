@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5929
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-04-20
 Author:           Alexandros Pappas
@@ -6,4 +7,11 @@ GoogleDork:       intext:"Welcome Site/User Administrator"
 Description:      intext:"Welcome Site/User Administrator"
 
 
-# Google Dork: intext:"Welcome Site/User Administrator"  # Various pages containing login portals.  # Date: 20/04/2020  # Author: Alexandros Pappas 
+# Google Dork: intext:"Welcome Site/User Administrator"
+ 
+ # Various pages containing login portals.
+ 
+ # Date: 20/04/2020
+ 
+ # Author: Alexandros Pappas
+ 

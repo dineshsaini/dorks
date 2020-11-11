@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4815
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2018-05-11
 Author:           Sang Bui
@@ -6,4 +7,7 @@ GoogleDork:       inurl:"/wp-content/uploads/db-backup"
 Description:      inurl:"/wp-content/uploads/db-backup"
 
 
-Searching for the backup directory of WP-DB Backup plugin (WordPress).  Sang Bui 
+Searching for the backup directory of WP-DB Backup plugin (WordPress).
+ 
+ Sang Bui
+ 

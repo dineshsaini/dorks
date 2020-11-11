@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6060
+Severity: 5 
 Category:         Error Messages
 Published Date:   2020-05-07
 Author:           Alexandros Pappas
@@ -6,4 +7,11 @@ GoogleDork:       intitle:"index of" "my-errors.log" OR "my-errors.logs"
 Description:      intitle:"index of" "my-errors.log" OR "my-errors.logs"
 
 
-# Google Dork: intitle:"index of" "my-errors.log" OR "my-errors.logs"  # Juicy information including session IDs, user names, and more.  # Date: 7/05/2020  # Author: Alexandros Pappas 
+# Google Dork: intitle:"index of" "my-errors.log" OR "my-errors.logs"
+ 
+ # Juicy information including session IDs, user names, and more.
+ 
+ # Date: 7/05/2020
+ 
+ # Author: Alexandros Pappas
+ 

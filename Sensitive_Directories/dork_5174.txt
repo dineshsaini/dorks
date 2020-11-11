@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5174
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2019-04-10
 Author:           botsec0
@@ -6,4 +7,9 @@ GoogleDork:       type:mil inurl:ftp ext:pdf | ps
 Description:      type:mil inurl:ftp ext:pdf | ps
 
 
-Dork : type:mil inurl:ftp ext:pdf | ps  Description : this dork gives you sensitive directories via ftp.  Author : botsec0 
+Dork : type:mil inurl:ftp ext:pdf | ps
+ 
+ Description : this dork gives you sensitive directories via ftp.
+ 
+ Author : botsec0
+ 

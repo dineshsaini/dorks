@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5902
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2020-04-16
 Author:           Alexandros Pappas
@@ -6,4 +7,6 @@ GoogleDork:       intext:"Powered by YouPHPTube"
 Description:      intext:"Powered by YouPHPTube"
 
 
-# Google Dork: intext:"Powered by YouPHPTube"  # By using this dork, sites vulnerable to YouPHPTube 
+# Google Dork: intext:"Powered by YouPHPTube"
+ 
+ # By using this dork, sites vulnerable to YouPHPTube 

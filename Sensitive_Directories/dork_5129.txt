@@ -1,9 +1,15 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5129
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2019-02-18
 Author:           Bruno Schmid
-GoogleDork:       "description" &amp; "size" intitle:"index of" "owncloud"
-Description:      "description" &amp; "size" intitle:"index of" "owncloud"
+GoogleDork:       "description" & "size" intitle:"index of" "owncloud"
+Description:      "description" & "size" intitle:"index of" "owncloud"
 
 
-Owncloud folders   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 
+Owncloud folders
+ 
+ 
+ Bruno Schmid
+ https://ch.linkedin.com/in/schmidbruno
+ 

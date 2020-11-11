@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5293
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2019-07-29
 Author:           Drok3r
@@ -6,4 +7,10 @@ GoogleDork:       filetype:xls "nomina"
 Description:      filetype:xls "nomina"
 
 
-[*] Dork: filetype:xls "nomina"  [*] Este dork, nos permite buscar archivos con información sensible de empresas, como por ejemplo nominas o datos de sus empleados.  [*] This dork allows us to search for files with sensitive company information, such as payroll or employee data.  Drok3r
+[*] Dork: filetype:xls "nomina"
+ 
+ [*] Este dork, nos permite buscar archivos con información sensible de empresas, como por ejemplo nominas o datos de sus empleados.
+ 
+ [*] This dork allows us to search for files with sensitive company information, such as payroll or employee data.
+ 
+ Drok3r

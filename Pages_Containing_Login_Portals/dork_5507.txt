@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5507
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-09-05
 Author:           MiningOmerta
@@ -6,4 +7,9 @@ GoogleDork:       site:app.*.*/ intext:login
 Description:      site:app.*.*/ intext:login
 
 
-#Google Dork for more login pages, sometimes for internal apps.   #Author: MiningOmerta  
+#Google Dork for more login pages, sometimes for internal apps.
+ 
+ 
+ #Author: MiningOmerta
+ 
+ 

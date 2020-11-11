@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5685
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-01-09
 Author:           Reza Abasi
@@ -6,4 +7,9 @@ GoogleDork:       intitle:"LABVANTAGE Logon"
 Description:      intitle:"LABVANTAGE Logon"
 
 
-Login Portal:  intitle:"LABVANTAGE Logon"  Reza Abasi(Turku) 
+Login Portal:
+ 
+ intitle:"LABVANTAGE Logon"
+ 
+ Reza Abasi(Turku)
+ 

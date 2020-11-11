@@ -1,9 +1,15 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5181
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2019-04-12
 Author:           Miguel Santareno
-GoogleDork:       ext:txt | ext:sql | ext:cnf | ext:config | ext:log &amp; intext:"admin" | intext:"root" | intext:"administrator" &amp; intext:"password" | intext:"root" | intext:"admin" | intext:"administrator"
-Description:      ext:txt | ext:sql | ext:cnf | ext:config | ext:log &amp; intext:"admin" | intext:"root" | intext:"administrator" &amp; intext:"password" | intext:"root" | intext:"admin" | intext:"administrator"
+GoogleDork:       ext:txt | ext:sql | ext:cnf | ext:config | ext:log & intext:"admin" | intext:"root" | intext:"administrator" & intext:"password" | intext:"root" | intext:"admin" | intext:"administrator"
+Description:      ext:txt | ext:sql | ext:cnf | ext:config | ext:log & intext:"admin" | intext:"root" | intext:"administrator" & intext:"password" | intext:"root" | intext:"admin" | intext:"administrator"
 
 
-# Google Dork: ext:txt | ext:sql | ext:cnf | ext:config | ext:log &amp; intext:"admin" | intext:"root" | intext:"administrator" &amp; intext:"password" | intext:"root" | intext:"admin" | intext:"administrator" # Description: Google Dork to find default usernames and passwords # Date: 2019-09-12 # Author: Miguel Santareno # Contact: https://www.linkedin.com/in/miguelsantareno/ 
+# Google Dork: ext:txt | ext:sql | ext:cnf | ext:config | ext:log & intext:"admin" | intext:"root" | intext:"administrator" & intext:"password" | intext:"root" | intext:"admin" | intext:"administrator"
+ # Description: Google Dork to find default usernames and passwords
+ # Date: 2019-09-12
+ # Author: Miguel Santareno
+ # Contact: https://www.linkedin.com/in/miguelsantareno/
+ 

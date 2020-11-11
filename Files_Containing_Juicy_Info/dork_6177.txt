@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6177
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-06-04
 Author:           Abhinav Porwal
@@ -6,4 +7,11 @@ GoogleDork:       intitle:index of config.asp
 Description:      intitle:index of config.asp
 
 
-Dork: intitle:index of config.asp  Description: This search brings up sites with "config.asp" files. this configuration file contains both a username and a password for an SQL database.  Author: Abhinav Porwal 
+Dork: intitle:index of config.asp
+ 
+ Description: This search brings up sites with "config.asp" files. this
+ configuration file contains both a username and a password for an SQL
+ database.
+ 
+ Author: Abhinav Porwal
+ 

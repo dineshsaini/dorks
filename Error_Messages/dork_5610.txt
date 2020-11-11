@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5610
+Severity: 5 
 Category:         Error Messages
 Published Date:   2019-10-31
 Author:           Reza Abasi
@@ -6,4 +7,11 @@ GoogleDork:       inurl:"/errors/report.php" intext:"There has been an error pro
 Description:      inurl:"/errors/report.php" intext:"There has been an error processing your request"
 
 
-Error Pages:  inurl:"/errors/report.php" intext:"There has been an error processing your request" site:*/errors/404.html site:*/errors/error.html  Reza Abasi(Turku) 
+Error Pages:
+ 
+ inurl:"/errors/report.php" intext:"There has been an error processing your request"
+ site:*/errors/404.html
+ site:*/errors/error.html
+ 
+ Reza Abasi(Turku)
+ 

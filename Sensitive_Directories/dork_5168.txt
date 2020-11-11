@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5168
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2019-04-03
 Author:           Jayson Zabate
@@ -6,4 +7,12 @@ GoogleDork:       intitle:"Directory Listing For" "Filename" intext:Tomcat/5.0.2
 Description:      intitle:"Directory Listing For" "Filename" intext:Tomcat/5.0.28
 
 
-Exploit : Dorks allow you to access the sensitive directories of any web application using Apache Tomcat/5.0.28.  Google Dork : intitle:"Directory Listing For" "Filename" intext:Tomcat/5.0.28  Exploit Author:- Jayson Zabate URL :- https://invalidwebsecurity.info/ 
+Exploit : Dorks allow you to access the sensitive directories of any web
+ application using Apache Tomcat/5.0.28.
+ 
+ Google Dork : intitle:"Directory Listing For" "Filename"
+ intext:Tomcat/5.0.28
+ 
+ Exploit Author:- Jayson Zabate
+ URL :- https://invalidwebsecurity.info/
+ 

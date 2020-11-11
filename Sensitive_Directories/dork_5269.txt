@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5269
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2019-06-24
 Author:           nuria_pp
@@ -6,4 +7,8 @@ GoogleDork:       Index of / *.ovpn
 Description:      Index of / *.ovpn
 
 
-Files configuration openvpn, some certs, keys.  Index of / *.ovpn  Author: nuria_pp
+Files configuration openvpn, some certs, keys.
+ 
+ Index of / *.ovpn
+ 
+ Author: nuria_pp

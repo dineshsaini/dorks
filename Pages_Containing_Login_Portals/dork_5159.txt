@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5159
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-03-22
 Author:           Inspira Enterprise Pvt Ltd
@@ -6,4 +7,9 @@ GoogleDork:       intitle:"Log In - Juniper Web Device Manager"
 Description:      intitle:"Log In - Juniper Web Device Manager"
 
 
-Search: Log In - Juniper Web Device Manager Google Dorks: intitle:"Log In - Juniper Web Device Manager" Category : Various Online Devices  Exploit Author:- Harsh Mukeshbhai Joshi 
+Search: Log In - Juniper Web Device Manager
+ Google Dorks: intitle:"Log In - Juniper Web Device Manager"
+ Category : Various Online Devices
+ 
+ Exploit Author:- Harsh Mukeshbhai Joshi
+ 

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5998
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2020-05-04
 Author:           Alexandros Pappas
@@ -6,4 +7,13 @@ GoogleDork:       inurl:/webmail/ intext:Powered by IceWarp Server
 Description:      inurl:/webmail/ intext:Powered by IceWarp Server
 
 
-# Google Dork: inurl:/webmail/ intext:Powered by IceWarp Server  # IceWarp WebMail 11.4.4.1 - Reflective Cross-Site Scripting. This dork is linked to the following existing exploit: https://www.exploit-db.com/exploits/47988  # Date: 2/05/2020  # Author: Alexandros Pappas 
+# Google Dork: inurl:/webmail/ intext:Powered by IceWarp Server
+ 
+ # IceWarp WebMail 11.4.4.1 - Reflective Cross-Site Scripting. This dork is
+ linked to the following existing exploit:
+ https://www.exploit-db.com/exploits/47988
+ 
+ # Date: 2/05/2020
+ 
+ # Author: Alexandros Pappas
+ 

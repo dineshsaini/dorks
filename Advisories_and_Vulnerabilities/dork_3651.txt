@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3651
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2010-12-15
 Author:           anonymous
@@ -6,4 +7,4 @@ GoogleDork:       intext: Copyright+MantisBT Group
 Description:      intext: Copyright+MantisBT Group
 
 
-Mantis Bug Tracker http://mantisbt.org https://www.exploit-db.com/exploits/15735/ https://www.exploit-db.com/exploits/15736/ Thanks,* Gjoko 'LiquidWorm' Krstic* *Information Security Engineer* ***Zero Science Lab* Macedonian Information Security Research &amp; Development Laboratory http://www.zeroscience.mk +389 (0) 75 290 926 +389 (0) 77 670 886
+Mantis Bug Tracker http://mantisbt.org https://www.exploit-db.com/exploits/15735/ https://www.exploit-db.com/exploits/15736/ Thanks,* Gjoko 'LiquidWorm' Krstic* *Information Security Engineer* ***Zero Science Lab* Macedonian Information Security Research & Development Laboratory http://www.zeroscience.mk +389 (0) 75 290 926 +389 (0) 77 670 886

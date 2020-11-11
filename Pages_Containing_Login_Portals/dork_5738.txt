@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5738
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-02-18
 Author:           CANCOM #RedTeam
@@ -6,4 +7,13 @@ GoogleDork:       intitle:VMware intext:"VMware, Inc. All rights reserved." AND 
 Description:      intitle:VMware intext:"VMware, Inc. All rights reserved." AND "Powered by VMware Studio"
 
 
-AUTHOR: CANCOM #RedTeam  @ItsKarl0z  ++ VMware Studio Login ++  intitle:VMware intext:"VMware, Inc. All rights reserved." AND "Powered by VMware Studio" intitle:vSphere intext:"Powered by VMware Studio"  
+AUTHOR: CANCOM #RedTeam
+ 
+ @ItsKarl0z
+ 
+ ++ VMware Studio Login ++
+ 
+ intitle:VMware intext:"VMware, Inc. All rights reserved." AND "Powered by VMware Studio"
+ intitle:vSphere intext:"Powered by VMware Studio"
+ 
+ 

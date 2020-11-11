@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4898
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2018-08-02
 Author:           Securitybits.io
@@ -6,4 +7,9 @@ GoogleDork:       intitle:index.of id_rsa -id_rsa.pub
 Description:      intitle:index.of id_rsa -id_rsa.pub
 
 
-A simple dork to find SSH private keys indexed by google! Where many of the keys work  Have Responsibly fun! __________________________________ Securitybits.io 
+A simple dork to find SSH private keys indexed by google! Where many of the keys work
+ 
+ Have Responsibly fun!
+ __________________________________
+ Securitybits.io
+ 

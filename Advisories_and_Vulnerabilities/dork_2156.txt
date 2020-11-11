@@ -1,9 +1,10 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/2156
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2010-11-15
 Author:           anonymous
-GoogleDork:       "Designed &amp; Developed by N.E.T E-Commerce Group. All Rights Reserved."
-Description:      "Designed &amp; Developed by N.E.T E-Commerce Group. All Rights Reserved."
+GoogleDork:       "Designed & Developed by N.E.T E-Commerce Group. All Rights Reserved."
+Description:      "Designed & Developed by N.E.T E-Commerce Group. All Rights Reserved."
 
 
 IranMC Arad Center (news.php id) SQL Injection Vulnerability: https://www.exploit-db.com/exploits/6712

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4398
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2017-02-16
 Author:           anonymous
@@ -6,4 +7,4 @@ GoogleDork:       inurl:sendmessage.php?type=skype
 Description:      inurl:sendmessage.php?type=skype
 
 
-Dork to find Joomla JMS Support Online Module Reflected XSS (skype module) Type: Reflected XSS Vulnerable URL:http://localhost/[PATH]/sendmessage.php Vulnerable Parameters: ?type=skype&amp;user=&amp;skype= Method: GET Payload: "&gt;
+Dork to find Joomla JMS Support Online Module Reflected XSS (skype module) Type: Reflected XSS Vulnerable URL:http://localhost/[PATH]/sendmessage.php Vulnerable Parameters: ?type=skype&user=&skype= Method: GET Payload: "&gt;

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6347
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2020-06-30
 Author:           Ritik Kumar Jain
@@ -6,4 +7,12 @@ GoogleDork:       inurl:wp-content/plugins/form-maker
 Description:      inurl:wp-content/plugins/form-maker
 
 
-Google Dork: inurl:wp-content/plugins/form-maker  This google dork lists out Advisories and Vulnerabilities regarding the *Form maker by 10Web *plugin. Ref: https://wpvulndb.com/vulnerabilities/10237 Form Maker by 10Web &lt; 1.13.36 - Authenticated SQL Injection  Author: Ritik Kumar Jain (Dasagreeva) LinkedIn: https://www.linkedin.com/in/ritik-kumar-jain-57675419b/ 
+Google Dork: inurl:wp-content/plugins/form-maker 
+ This google dork lists out Advisories and Vulnerabilities regarding the *Form
+ maker by 10Web *plugin.
+ Ref: https://wpvulndb.com/vulnerabilities/10237
+ Form Maker by 10Web &lt; 1.13.36 - Authenticated SQL Injection
+ 
+ Author: Ritik Kumar Jain (Dasagreeva)
+ LinkedIn: https://www.linkedin.com/in/ritik-kumar-jain-57675419b/
+ 

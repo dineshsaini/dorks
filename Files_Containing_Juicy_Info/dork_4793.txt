@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4793
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2018-04-25
 Author:           edm0nd
@@ -6,4 +7,13 @@ GoogleDork:       inurl:/.well-known/security.txt
 Description:      inurl:/.well-known/security.txt
 
 
-Files Containing Juicy Info  This will return a list of all indexed websites that have implemented the proposed security.txt standard (https://securitytxt.org/). You could use this as a way to find companies that have bug bounty programs that will pay you for discovering vulns or exploits.  *By:* edm0nd https://twitter.com/Edmond_Major 
+Files Containing Juicy Info
+ 
+ This will return a list of all indexed websites that have
+ implemented the proposed security.txt standard (https://securitytxt.org/).
+ You could use this as a way to find companies that have bug bounty programs
+ that will pay you for discovering vulns or exploits.
+ 
+ *By:* edm0nd
+ https://twitter.com/Edmond_Major
+ 

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/265
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2004-06-02
 Author:           anonymous
@@ -6,4 +7,4 @@ GoogleDork:       filetype:cfg mrtg "target[*]" -sample -cvs -example
 Description:      filetype:cfg mrtg "target[*]" -sample -cvs -example
 
 
-Mrtg.cfg is the configuration file for polling SNMP enabled devices. The community string (often 'public') is found in the line starting with target:#Target[test]: 1.3.6.1.4.1.2021.10.1.5.1&amp;1.3.6.1.4.1.2021.10.1.5.2:public@localhostRemember not all targets are SNMP devices. Users can monitor CPU info for example.
+Mrtg.cfg is the configuration file for polling SNMP enabled devices. The community string (often 'public') is found in the line starting with target:#Target[test]: 1.3.6.1.4.1.2021.10.1.5.1&1.3.6.1.4.1.2021.10.1.5.2:public@localhostRemember not all targets are SNMP devices. Users can monitor CPU info for example.

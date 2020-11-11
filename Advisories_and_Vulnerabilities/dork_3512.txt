@@ -1,9 +1,10 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3512
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2010-11-15
 Author:           anonymous
-GoogleDork:       "SmodCMS" &amp; "S.ownik"
-Description:      "SmodCMS" &amp; "S.ownik"
+GoogleDork:       "SmodCMS" & "S.ownik"
+Description:      "SmodCMS" & "S.ownik"
 
 
 SmodCMS 2.10 (Slownik ssid) Remote SQL Injection - CVE: 2007-1931: https://www.exploit-db.com/exploits/3679

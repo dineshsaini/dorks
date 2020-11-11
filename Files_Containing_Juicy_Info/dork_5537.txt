@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5537
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2019-09-16
 Author:           Paras Arora
@@ -6,4 +7,8 @@ GoogleDork:       intitle:"index of" "debian.conf"
 Description:      intitle:"index of" "debian.conf"
 
 
-*DORK: *intitle:"index of" "ubuntu.conf" *Author: Paras Arora(PAC Security)* *Date: 16 september 2019* *Category:* Ubuntu Conf files 
+*DORK: *intitle:"index of" "ubuntu.conf"
+ *Author: Paras Arora(PAC Security)*
+ *Date: 16 september 2019*
+ *Category:* Ubuntu Conf files
+ 

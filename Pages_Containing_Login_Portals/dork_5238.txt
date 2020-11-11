@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5238
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-06-03
 Author:           GnosticPlayers
@@ -6,4 +7,7 @@ GoogleDork:       "Web Analytics powered by Open Web Analytics - v: 1.6.2"
 Description:      "Web Analytics powered by Open Web Analytics - v: 1.6.2"
 
 
-Find login portals for websites using Open Web Analytics.  By GnosticPlayers 
+Find login portals for websites using Open Web Analytics.
+ 
+ By GnosticPlayers
+ 

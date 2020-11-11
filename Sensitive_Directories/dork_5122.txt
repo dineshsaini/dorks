@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5122
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2019-02-15
 Author:           Bruno Schmid
@@ -6,4 +7,12 @@ GoogleDork:       intitle:"index of" $Recycle.bin
 Description:      intitle:"index of" $Recycle.bin
 
 
-Windows trash bins with a lot of juicy info.  You can also get drive letters and folders by attaching :%5C/ before $Recycle.bin %5C is "\"   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 
+Windows trash bins with a lot of juicy info.
+ 
+ You can also get drive letters and folders by attaching :%5C/
+ before $Recycle.bin %5C is "\"
+ 
+ 
+ Bruno Schmid
+ https://ch.linkedin.com/in/schmidbruno
+ 

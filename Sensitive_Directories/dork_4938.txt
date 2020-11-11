@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4938
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2018-09-04
 Author:           Gionathan Reale
@@ -6,4 +7,11 @@ GoogleDork:       "index of" "database.sql.zip"
 Description:      "index of" "database.sql.zip"
 
 
-"index of" "database.sql.zip"  This Google Dork discovers servers with open directories exposing  database backup files.   - Gionathan "John" Reale (https://www.exploit-db.com/author/?a=9609) 
+"index of" "database.sql.zip"
+ 
+ This Google Dork discovers servers with open directories exposing 
+ database backup files.
+ 
+ 
+ - Gionathan "John" Reale (https://www.exploit-db.com/author/?a=9609)
+ 

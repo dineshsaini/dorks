@@ -1,9 +1,18 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5285
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2019-07-24
 Author:           ahmed mohammed adel
-GoogleDork:       intext:"aspx" filetype:txt login &amp; password
-Description:      intext:"aspx" filetype:txt login &amp; password
+GoogleDork:       intext:"aspx" filetype:txt login & password
+Description:      intext:"aspx" filetype:txt login & password
 
 
-# Exploit Title: text files containing the user names and passwords.  # Google Dork: intext:"aspx" filetype:txt login &amp; password  # Author: ahmed mohammed adel - from egypt  @hmed@del  
+# Exploit Title: text files containing the user names and passwords.
+ 
+ # Google Dork: intext:"aspx" filetype:txt login & password
+ 
+ # Author: ahmed mohammed adel - from egypt
+ 
+ @hmed@del
+ 
+ 

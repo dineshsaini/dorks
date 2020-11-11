@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6160
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2020-06-01
 Author:           Abhi Chitkara
@@ -6,4 +7,9 @@ GoogleDork:       inurl:wp-content/plugins/gtranslate
 Description:      inurl:wp-content/plugins/gtranslate
 
 
-Dork: inurl:wp-content/plugins/gtranslate Description: This google dork lists out Advisories and Vulnerabilities regarding the gtranslate wordpress plugin. Ref: https://wpvulndb.com/vulnerabilities/10181 Author: Abhi Chitkara 
+Dork: inurl:wp-content/plugins/gtranslate
+ Description: This google dork lists out Advisories and Vulnerabilities
+ regarding the gtranslate wordpress plugin. Ref:
+ https://wpvulndb.com/vulnerabilities/10181
+ Author: Abhi Chitkara
+ 

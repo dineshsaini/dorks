@@ -1,9 +1,10 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/2256
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2010-11-15
 Author:           anonymous
-GoogleDork:       inurl:"tr.php?id=" Short Url &amp; Url Tracker
-Description:      inurl:"tr.php?id=" Short Url &amp; Url Tracker
+GoogleDork:       inurl:"tr.php?id=" Short Url & Url Tracker
+Description:      inurl:"tr.php?id=" Short Url & Url Tracker
 
 
-YourFreeWorld Short Url &amp; Url Tracker (id) SQL Injection Vuln - CVE: 2008-4885: https://www.exploit-db.com/exploits/6940
+YourFreeWorld Short Url & Url Tracker (id) SQL Injection Vuln - CVE: 2008-4885: https://www.exploit-db.com/exploits/6940

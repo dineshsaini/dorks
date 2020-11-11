@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/740
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2004-12-03
 Author:           anonymous

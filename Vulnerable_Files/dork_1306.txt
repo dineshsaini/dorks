@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1306
+Severity: 5 
 Category:         Vulnerable Files
 Published Date:   2006-02-28
 Author:           anonymous

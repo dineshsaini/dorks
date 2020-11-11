@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5212
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-05-13
 Author:           Isaiah Puzon
@@ -6,4 +7,10 @@ GoogleDork:       intext:"Login | Password" AND intext:"Powered by | username" A
 Description:      intext:"Login | Password" AND intext:"Powered by | username" AND intext:Drupal AND inurl:user
 
 
-Dork: intext:"Login | Password" AND intext:"Powered by | username" AND intext:Drupal AND inurl:user  Description: Drupal login portals 
+Dork:
+ intext:"Login | Password" AND intext:"Powered by | username" AND
+ intext:Drupal AND inurl:user
+ 
+ Description:
+ Drupal login portals
+ 

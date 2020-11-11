@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5980
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-05-01
 Author:           Tushar Kurunkar
@@ -6,4 +7,11 @@ GoogleDork:       intitle:"index of" "/accounts.txt"
 Description:      intitle:"index of" "/accounts.txt"
 
 
-#Description: intitle:"index of" "/accounts.txt" This Google dork shows juicy information about the website and their sensitive data. An attacker can further misuse this to conduct attacks.  #Author : Tushar Kurunkar #Date : 30 April 2020 
+#Description: intitle:"index of" "/accounts.txt"
+ This Google dork shows juicy information about the website and their
+ sensitive data.
+ An attacker can further misuse this to conduct attacks.
+ 
+ #Author : Tushar Kurunkar
+ #Date : 30 April 2020
+ 

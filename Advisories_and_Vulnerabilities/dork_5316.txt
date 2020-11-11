@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5316
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2019-08-02
 Author:           Sachin Wagh
@@ -6,4 +7,15 @@ GoogleDork:       inurl:zoom.us/j and intext:scheduled for
 Description:      inurl:zoom.us/j and intext:scheduled for
 
 
-Dorks:  inurl:zoom.us/s inurl:zoom.us/j inurl:zoom.us/j and intext:scheduled for  Category : Sensitive Information  Summary:  A Google dork that gives the information about Zoom Meetings. *Dork discovered by:* *Sachin Wagh (@tiger_tigerboy)*
+Dorks:
+ 
+ inurl:zoom.us/s
+ inurl:zoom.us/j
+ inurl:zoom.us/j and intext:scheduled for
+ 
+ Category : Sensitive Information
+ 
+ Summary:
+ 
+ A Google dork that gives the information about Zoom Meetings. *Dork
+ discovered by:* *Sachin Wagh (@tiger_tigerboy)*

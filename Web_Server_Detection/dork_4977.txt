@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4977
+Severity: 5 
 Category:         Web Server Detection
 Published Date:   2018-10-16
 Author:           Bruno Schmid
@@ -6,4 +7,9 @@ GoogleDork:       Coldbox | contentbox | commandbox "Powered by ContentBox"
 Description:      Coldbox | contentbox | commandbox "Powered by ContentBox"
 
 
-ContentBox content management tools and CMS.   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 
+ContentBox content management tools and CMS.
+ 
+ 
+ Bruno Schmid
+ https://ch.linkedin.com/in/schmidbruno
+ 

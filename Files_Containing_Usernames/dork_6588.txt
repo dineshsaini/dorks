@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6588
+Severity: 5 
 Category:         Files Containing Usernames
 Published Date:   2020-10-02
 Author:           Abishekraghav Murugeashan
@@ -6,4 +7,11 @@ GoogleDork:       File contains Sensitive Information
 Description:      File contains Sensitive Information
 
 
-Google Dorks: "index of" "*.usernames.txt"  Category: File contains Sensitive Information  Author: Abishekraghav Murugeashan  LinkedIn: https://www.linkedin.com/in/arhaxor21/ 
+Google Dorks: "index of" "*.usernames.txt"
+ 
+ Category: File contains Sensitive Information
+ 
+ Author: Abishekraghav Murugeashan
+ 
+ LinkedIn: https://www.linkedin.com/in/arhaxor21/
+ 

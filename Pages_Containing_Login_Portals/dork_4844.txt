@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4844
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2018-06-05
 Author:           Raj Kiran P
@@ -6,4 +7,7 @@ GoogleDork:       inurl:/contao/main ext:php -community -github
 Description:      inurl:/contao/main ext:php -community -github
 
 
-Retrieve login page of website that use Contao CMS.  Author: Raj Kiran P 
+Retrieve login page of website that use Contao CMS.
+ 
+ Author: Raj Kiran P
+ 

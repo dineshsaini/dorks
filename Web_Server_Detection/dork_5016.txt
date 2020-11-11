@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5016
+Severity: 5 
 Category:         Web Server Detection
 Published Date:   2018-11-07
 Author:           ManhNho
@@ -6,4 +7,7 @@ GoogleDork:       intitle: "Welcome to nginx!" + "Thank you for using nginx."
 Description:      intitle: "Welcome to nginx!" + "Thank you for using nginx."
 
 
-nginx detect  ManhNho 
+nginx detect
+ 
+ ManhNho
+ 

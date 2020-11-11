@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/129
+Severity: 5 
 Category:         Files Containing Usernames
 Published Date:   2004-03-16
 Author:           anonymous

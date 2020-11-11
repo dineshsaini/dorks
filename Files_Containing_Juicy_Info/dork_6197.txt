@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6197
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-06-04
 Author:           Anjali Prakash
@@ -6,4 +7,8 @@ GoogleDork:       inurl:"ReportServer/Pages/ReportViewer.aspx"
 Description:      inurl:"ReportServer/Pages/ReportViewer.aspx"
 
 
-# Google Dork: inurl:"ReportServer/Pages/ReportViewer.aspx" # Description: Various page containing Report viewer # Author : Anjali Prakash # Date: 2020-06-04 
+# Google Dork: inurl:"ReportServer/Pages/ReportViewer.aspx"
+ # Description: Various page containing Report viewer
+ # Author : Anjali Prakash
+ # Date: 2020-06-04
+ 

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5673
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-12-20
 Author:           berat isler
@@ -6,4 +7,9 @@ GoogleDork:       intitle:"WebSite X5 Manager" inurl:/admin/login.php
 Description:      intitle:"WebSite X5 Manager" inurl:/admin/login.php
 
 
-Google Dork: intitle:"WebSite X5 Manager" inurl:/admin/login.php This dork find some X5 website manager login page.   Berat İşler (root1x) 
+Google Dork: intitle:"WebSite X5 Manager" inurl:/admin/login.php
+ This dork find some X5 website manager login page.
+ 
+ 
+ Berat İşler (root1x)
+ 

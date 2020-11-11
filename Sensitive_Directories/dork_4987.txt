@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4987
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2018-10-16
 Author:           Harsh Mukeshbhai Joshi
@@ -6,4 +7,13 @@ GoogleDork:       intext:"paytm" intitle:"index of"
 Description:      intext:"paytm" intitle:"index of"
 
 
-Discovers PayTm config files and open directories of Sites.  PayTm Sensitive Directories Expose on Sites  Google Dork :- intext:”paytm” intitle:”index of”  Date:- 15th Oct, 2018  Exploit Author:- Harsh Mukeshbhai Joshi 
+Discovers PayTm config files and open directories of Sites.
+ 
+ PayTm Sensitive Directories Expose on Sites
+ 
+ Google Dork :- intext:”paytm” intitle:”index of”
+ 
+ Date:- 15th Oct, 2018
+ 
+ Exploit Author:- Harsh Mukeshbhai Joshi
+ 

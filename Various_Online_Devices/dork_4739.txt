@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4739
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2018-04-03
 Author:           p1x33l
@@ -6,4 +7,7 @@ GoogleDork:       ext:php + inurl:"ajaxfilemanager.php" + intext:"Current Folder
 Description:      ext:php + inurl:"ajaxfilemanager.php" + intext:"Current Folder Path"
 
 
-Ajax File Manager  #p1x33l 
+Ajax File Manager
+ 
+ #p1x33l
+ 

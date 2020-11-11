@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6271
+Severity: 5 
 Category:         Vulnerable Files
 Published Date:   2020-06-11
 Author:           Abhi Chitkara
@@ -6,4 +7,7 @@ GoogleDork:       index.of.?.frm
 Description:      index.of.?.frm
 
 
-Dork: index.of.?.frm Description: This google dorks lists out sensitive frm files on web servers Author: Abhi Chitkara 
+Dork: index.of.?.frm
+ Description: This google dorks lists out sensitive frm files on web servers
+ Author: Abhi Chitkara
+ 

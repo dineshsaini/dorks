@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4811
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2018-05-10
 Author:           Vaibhav Dhote
@@ -6,4 +7,7 @@ GoogleDork:       intitle:"Login" inurl:"/itim/self" | inurl:"/itim/ui" -ibm.com
 Description:      intitle:"Login" inurl:"/itim/self" | inurl:"/itim/ui" -ibm.com
 
 
-Pages using "IBM Tivoli Identity Manager" as login portals.  Vaibhav Dhote 
+Pages using "IBM Tivoli Identity Manager" as login portals.
+ 
+ Vaibhav Dhote
+ 

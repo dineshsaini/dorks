@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6577
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2020-09-28
 Author:           Aninda Saha
@@ -6,4 +7,9 @@ GoogleDork:       "index of" "email.ini"
 Description:      "index of" "email.ini"
 
 
-Google Dork: "index of" "email.ini" Description : Disclosure of database file tables and sensitive files. Date : 26/09/2020 Author: Aninda Saha  
+Google Dork: "index of" "email.ini"
+ Description : Disclosure of database file tables and sensitive files.
+ Date : 26/09/2020
+ Author: Aninda Saha
+ 
+ 

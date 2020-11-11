@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4819
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2018-05-16
 Author:           LewisBugBounty
@@ -6,4 +7,8 @@ GoogleDork:       site:showmyhomework.co.uk/school/homeworks/ "password"
 Description:      site:showmyhomework.co.uk/school/homeworks/ "password"
 
 
-Shows educational site passwords left for students, meant to be accessed via login portal  Found by @LewisBugBounty / fifteen@riseup.net 
+Shows educational site passwords left for students, meant to be accessed
+ via login portal
+ 
+ Found by @LewisBugBounty / fifteen@riseup.net
+ 

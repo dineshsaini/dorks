@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6142
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2020-05-28
 Author:           Manish Kumar
@@ -6,4 +7,11 @@ GoogleDork:       intitle:"index of" "system/config"
 Description:      intitle:"index of" "system/config"
 
 
-Dork:- intitle:"index of" "system/config"  Description:- This google dorks will find some Juicy Information about the system-config file.  Author:- Manish Kumar 
+Dork:- intitle:"index of" "system/config"
+ 
+ Description:-
+ This google dorks will find some Juicy Information about the system-config
+ file.
+ 
+ Author:- Manish Kumar
+ 

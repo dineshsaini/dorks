@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5872
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2020-03-31
 Author:           Alexandros Pappas
@@ -6,4 +7,17 @@ GoogleDork:       "Powered By Liferay"
 Description:      "Powered By Liferay"
 
 
-# Google Dork: "Powered By Liferay"  # By using this dork, sites "Powered By Liferay" can be found. Liferay Portal various versions are prone to multiple cross-site scripting vulnerabilities. This dork is linked to the following existing exploits: https://www.exploit-db.com/exploits/39626 https://www.exploit-db.com/exploits/46983 https://www.exploit-db.com/exploits/39880 https://www.exploit-db.com/exploits/31082  # Date: 31/03/2020  # Author: Alexandros Pappas 
+# Google Dork: "Powered By Liferay"
+ 
+ # By using this dork, sites "Powered By Liferay" can be found. Liferay
+ Portal various versions are prone to multiple cross-site scripting
+ vulnerabilities. This dork is linked to the following existing exploits:
+ https://www.exploit-db.com/exploits/39626
+ https://www.exploit-db.com/exploits/46983
+ https://www.exploit-db.com/exploits/39880
+ https://www.exploit-db.com/exploits/31082
+ 
+ # Date: 31/03/2020
+ 
+ # Author: Alexandros Pappas
+ 

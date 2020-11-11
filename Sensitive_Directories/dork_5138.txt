@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5138
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2019-03-01
 Author:           Inspira Enterprise Pvt Ltd
@@ -6,4 +7,11 @@ GoogleDork:       intitle:"index of" ".dockerignore"
 Description:      intitle:"index of" ".dockerignore"
 
 
- Exploit : Access the Sensitive Directories using .dockerignore file  Google Dork : intitle:"index of" ".dockerignore"  Exploit Author:- Inspira Enterprise Pvt Ltd  URL :- https://www.inspiraenterprise.com 
+ Exploit : Access the Sensitive Directories using .dockerignore file
+ 
+ Google Dork : intitle:"index of" ".dockerignore"
+ 
+ Exploit Author:- Inspira Enterprise Pvt Ltd
+ 
+ URL :- https://www.inspiraenterprise.com
+ 

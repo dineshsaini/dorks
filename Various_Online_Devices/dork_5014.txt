@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5014
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2018-11-07
 Author:           ManhNho
@@ -6,4 +7,7 @@ GoogleDork:       intitle:"Swagger UI - " + "Show/Hide"
 Description:      intitle:"Swagger UI - " + "Show/Hide"
 
 
-swagger APIs link  ManhNho 
+swagger APIs link
+ 
+ ManhNho
+ 

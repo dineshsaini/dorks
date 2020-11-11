@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6434
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-07-23
 Author:           Priyanka Prasad
@@ -6,4 +7,8 @@ GoogleDork:       intext:ISUR_MACHINE IIS -log
 Description:      intext:ISUR_MACHINE IIS -log
 
 
-Dork: intext:ISUR_MACHINE IIS -log Description: Error messages  Author: Priyanka Prasad  
+Dork: intext:ISUR_MACHINE IIS -log
+ Description: Error messages 
+ Author: Priyanka Prasad
+ 
+ 

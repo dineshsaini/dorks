@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5292
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-07-29
 Author:           Reza Abasi
@@ -6,4 +7,10 @@ GoogleDork:       inurl:wp/wp-login.php
 Description:      inurl:wp/wp-login.php
 
 
-Finding login page of wordpress  inurl:wp/wp-login.php site:*/wp-login.php intitle:"Log In"  Reza Abasi(Turku) 
+Finding login page of wordpress
+ 
+ inurl:wp/wp-login.php
+ site:*/wp-login.php intitle:"Log In"
+ 
+ Reza Abasi(Turku)
+ 

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5869
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-03-31
 Author:           Alexandros Pappas
@@ -6,4 +7,12 @@ GoogleDork:       intitle:"index of" cvsweb.conf
 Description:      intitle:"index of" cvsweb.conf
 
 
-# Google Dork: intitle:"index of" cvsweb.conf  # By using this dork, cvsweb configuration files with juicy information and sometimes with exposed passwords can be found.  # Date: 31/03/2020  # Author: Alexandros Pappas 
+# Google Dork: intitle:"index of" cvsweb.conf
+ 
+ # By using this dork, cvsweb configuration files with juicy information and
+ sometimes with exposed passwords can be found.
+ 
+ # Date: 31/03/2020
+ 
+ # Author: Alexandros Pappas
+ 

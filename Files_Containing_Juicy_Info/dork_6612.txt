@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6612
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-10-14
 Author:           Sajan Dhakate
@@ -6,4 +7,16 @@ GoogleDork:       allintext:"index of" "oauth-private.key"
 Description:      allintext:"index of" "oauth-private.key"
 
 
-Dear Team,  # Exploit Title: allintext:"index of" "oauth-private.key" # Google Dork: allintext:"index of" "oauth-private.key" # Exposed Oauth Private Keys # Date: 14/10/2020 # Exploit Author: Sajan Dhakate  Please find the attached txt file.  *Thanks &amp; Regards* *Sajan Dhakate* 
+Dear Team,
+ 
+ # Exploit Title: allintext:"index of" "oauth-private.key"
+ # Google Dork: allintext:"index of" "oauth-private.key"
+ # Exposed Oauth Private Keys
+ # Date: 14/10/2020
+ # Exploit Author: Sajan Dhakate
+ 
+ Please find the attached txt file.
+ 
+ *Thanks & Regards*
+ *Sajan Dhakate*
+ 

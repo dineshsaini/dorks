@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5173
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2019-04-10
 Author:           Miguel Santareno
@@ -6,4 +7,8 @@ GoogleDork:       inurl:_vti_bin/sites.asmx?wsdl | intitle:_vti_bin/sites.asmx?w
 Description:      inurl:_vti_bin/sites.asmx?wsdl | intitle:_vti_bin/sites.asmx?wsdl
 
 
-# Google Dork: inurl:_vti_bin/sites.asmx?wsdl | intitle:_vti_bin/sites.asmx?wsdl # Description: Web Services Description Language file exposed to internet # Date: 2019-04-09 # Author: Miguel Santareno # Contact: https://www.linkedin.com/in/miguelsantareno/
+# Google Dork: inurl:_vti_bin/sites.asmx?wsdl | intitle:_vti_bin/sites.asmx?wsdl
+ # Description: Web Services Description Language file exposed to internet
+ # Date: 2019-04-09
+ # Author: Miguel Santareno
+ # Contact: https://www.linkedin.com/in/miguelsantareno/

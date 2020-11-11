@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4652
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2018-01-04
 Author:           Pancaker
@@ -6,4 +7,14 @@ GoogleDork:       ruTorrent/rTorrent - Web UI (BitTorrent Client - Download/Uplo
 Description:      ruTorrent/rTorrent - Web UI (BitTorrent Client - Download/Upload/Seed/Control/File Explorer)
 
 
-intitle:"rutorrent v3" AND intext:Uploaded -github.com   - - -   ## Other Work  - ruTorrent ~ https://www.exploit-db.com/ghdb/4652/ - Deluge v1 ~ https://www.exploit-db.com/ghdb/4741/ - Deluge v2 ~ https://www.exploit-db.com/ghdb/4742/ 
+intitle:"rutorrent v3" AND intext:Uploaded -github.com
+ 
+ 
+ - - - 
+ 
+ ## Other Work
+ 
+ - ruTorrent ~ https://www.exploit-db.com/ghdb/4652/
+ - Deluge v1 ~ https://www.exploit-db.com/ghdb/4741/
+ - Deluge v2 ~ https://www.exploit-db.com/ghdb/4742/
+ 

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4829
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2018-05-18
 Author:           Rootkit_Pentester
@@ -6,4 +7,9 @@ GoogleDork:       inurl:jpegpull.htm
 Description:      inurl:jpegpull.htm
 
 
-Dork show Webcams CCTV. Enjoy healthy.  Dork by Rootkit Pentester.  
+Dork show Webcams CCTV.
+ Enjoy healthy.
+ 
+ Dork by Rootkit Pentester.
+ 
+ 

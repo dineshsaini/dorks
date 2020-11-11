@@ -1,9 +1,10 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3866
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2013-08-08
 Author:           anonymous
-GoogleDork:       intitle:"Internet Security Appliance" &amp; intext:"Enter Password and click Login"
-Description:      intitle:"Internet Security Appliance" &amp; intext:"Enter Password and click Login"
+GoogleDork:       intitle:"Internet Security Appliance" & intext:"Enter Password and click Login"
+Description:      intitle:"Internet Security Appliance" & intext:"Enter Password and click Login"
 
 
 #Summary: ZyWall Firewall login portal #Category: Various Online Devices #Author: g00gl3 5c0u7

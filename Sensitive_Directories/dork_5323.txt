@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5323
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2019-08-05
 Author:           Tejas Jain
@@ -6,4 +7,12 @@ GoogleDork:       intitle:"Index of" inurl:wp-json/oembed
 Description:      intitle:"Index of" inurl:wp-json/oembed
 
 
-#Google Dork: intitle:"Index of" inurl:wp-json intitle:"Index of" inurl:wp-json/oembed  #Description: contains sensitive files, links embedded with wordpress &amp; can be used to find CORS  # Author: Tejas Jain ( https://www.linkedin.com/in/tejasjain52 ) 
+#Google Dork:
+ intitle:"Index of" inurl:wp-json
+ intitle:"Index of" inurl:wp-json/oembed
+ 
+ #Description: contains sensitive files, links embedded with wordpress & can
+ be used to find CORS
+ 
+ # Author: Tejas Jain ( https://www.linkedin.com/in/tejasjain52 )
+ 

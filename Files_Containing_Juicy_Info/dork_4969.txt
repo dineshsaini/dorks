@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4969
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2018-10-01
 Author:           Gionathan Reale
@@ -6,4 +7,11 @@ GoogleDork:       intext:Modified files in JOE when it aborted on JOE was aborte
 Description:      intext:Modified files in JOE when it aborted on JOE was aborted because the terminal closed
 
 
-intext:Modified files in JOE when it aborted on JOE was aborted because  the terminal closed  This Google Dork discovers servers exposing possible useful information  hidden in DEADJOE files.  - Gionathan "John" Reale (https://www.exploit-db.com/author/?a=9609) 
+intext:Modified files in JOE when it aborted on JOE was aborted because 
+ the terminal closed
+ 
+ This Google Dork discovers servers exposing possible useful information 
+ hidden in DEADJOE files.
+ 
+ - Gionathan "John" Reale (https://www.exploit-db.com/author/?a=9609)
+ 

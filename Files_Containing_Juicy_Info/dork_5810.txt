@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5810
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-03-19
 Author:           Alexandros Pappas
@@ -6,4 +7,12 @@ GoogleDork:       "# Kickstart" filetype:cfg
 Description:      "# Kickstart" filetype:cfg
 
 
-# Google Dork: # Kickstart filetype:cfg  # By using this dork, kickstart configuration files that contain interesting information and root passwords (hashed) can be found.  # Date: 19/03/2020  # Exploit Author: Alexandros Pappas 
+# Google Dork: # Kickstart filetype:cfg
+ 
+ # By using this dork, kickstart configuration files that contain
+ interesting information and root passwords (hashed) can be found.
+ 
+ # Date: 19/03/2020
+ 
+ # Exploit Author: Alexandros Pappas
+ 

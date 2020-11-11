@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1314
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2006-03-28
 Author:           anonymous
@@ -6,4 +7,4 @@ GoogleDork:       intext:"Powered by Plogger!" -plogger.org -ihackstuff -exploit
 Description:      intext:"Powered by Plogger!" -plogger.org -ihackstuff -exploit
 
 
-explaination &amp; exploit: http://retrogod.altervista.org/plogger_b21_sql_xpl.html
+explaination & exploit: http://retrogod.altervista.org/plogger_b21_sql_xpl.html

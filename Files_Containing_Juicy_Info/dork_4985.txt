@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4985
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2018-10-16
 Author:           Kevin Randall
@@ -6,4 +7,9 @@ GoogleDork:       filetype:txt line vty 0 4
 Description:      filetype:txt line vty 0 4
 
 
-filetype:txt line vty 0 4  Discover Cisco Running Configuration  Discovered By: Kevin Randall 
+filetype:txt line vty 0 4
+ 
+ Discover Cisco Running Configuration
+ 
+ Discovered By: Kevin Randall
+ 

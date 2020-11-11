@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4903
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2018-08-06
 Author:           Mufeed VH
@@ -6,4 +7,9 @@ GoogleDork:       inurl:travis.yml tornado site:github.com
 Description:      inurl:travis.yml tornado site:github.com
 
 
-This can be used to identify the code hosted by different companies that use Tornado Web Server.  Thanks, Mufeed VH 
+This can be used to identify the code hosted by different companies that
+ use Tornado Web Server.
+ 
+ Thanks,
+ Mufeed VH
+ 

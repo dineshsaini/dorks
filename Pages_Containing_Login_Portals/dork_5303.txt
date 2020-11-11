@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5303
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-07-30
 Author:           Francis Al Victoriano
@@ -6,4 +7,9 @@ GoogleDork:       inurl:/system/login.php
 Description:      inurl:/system/login.php
 
 
-# Exploit Title: System Login  # Google Dork: inurl:/system/login.php  # Author: Francis Al Victoriano 
+# Exploit Title: System Login
+ 
+ # Google Dork: inurl:/system/login.php
+ 
+ # Author: Francis Al Victoriano
+ 

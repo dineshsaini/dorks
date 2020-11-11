@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1065
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2005-08-12
 Author:           anonymous
@@ -6,4 +7,4 @@ GoogleDork:       intitle:"Network Storage Link for USB 2.0 Disks" Firmware
 Description:      intitle:"Network Storage Link for USB 2.0 Disks" Firmware
 
 
-Networked USB hard drives (NSLU2). Be sure to disable Google's filter (&amp;filters=0) as that is where they pop up. Default password (Linksys) is admin:admin (just like all the rest). A majority are locked some are not. Some logins to the NSLU2 will be a link off a website. Enjoy.
+Networked USB hard drives (NSLU2). Be sure to disable Google's filter (&filters=0) as that is where they pop up. Default password (Linksys) is admin:admin (just like all the rest). A majority are locked some are not. Some logins to the NSLU2 will be a link off a website. Enjoy.

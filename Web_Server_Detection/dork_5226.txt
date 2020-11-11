@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5226
+Severity: 5 
 Category:         Web Server Detection
 Published Date:   2019-05-29
 Author:           Rootkit_Pentester
@@ -6,4 +7,7 @@ GoogleDork:       intitle:"WAMPSERVER homepage" "Server Configuration" "Apache V
 Description:      intitle:"WAMPSERVER homepage" "Server Configuration" "Apache Version"
 
 
-Dork for instances of WAMPSERVER homepages.  Dork by Rootkit Pentester. 
+Dork for instances of WAMPSERVER homepages.
+ 
+ Dork by Rootkit Pentester.
+ 

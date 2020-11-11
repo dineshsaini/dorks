@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5024
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2018-11-14
 Author:           Kevin Randall
@@ -6,4 +7,11 @@ GoogleDork:       filetype:txt "License Key"
 Description:      filetype:txt "License Key"
 
 
-Find License Keys for Various Software Products   filetype:txt "License Key"   Discovered By: Kevin Randall 
+Find License Keys for Various Software Products
+ 
+ 
+ filetype:txt "License Key"
+ 
+ 
+ Discovered By: Kevin Randall
+ 

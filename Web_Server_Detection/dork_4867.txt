@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4867
+Severity: 5 
 Category:         Web Server Detection
 Published Date:   2018-06-22
 Author:           KhanhNNVN
@@ -6,4 +7,9 @@ GoogleDork:       intitle:"apache tomcat/" "Apache Tomcat examples"
 Description:      intitle:"apache tomcat/" "Apache Tomcat examples"
 
 
- This dork show many example of Server Apache Tomcat.   KhanhNNVN  
+ This dork show many example of Server Apache Tomcat.
+ 
+ 
+ KhanhNNVN
+ 
+ 

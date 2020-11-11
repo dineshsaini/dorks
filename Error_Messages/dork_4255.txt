@@ -1,9 +1,10 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4255
+Severity: 5 
 Category:         Error Messages
 Published Date:   2016-04-05
 Author:           anonymous
-GoogleDork:       inurl:"id=" &amp; intext:"MySQL Error: 1064" &amp; "Session halted."
-Description:      inurl:"id=" &amp; intext:"MySQL Error: 1064" &amp; "Session halted."
+GoogleDork:       inurl:"id=" & intext:"MySQL Error: 1064" & "Session halted."
+Description:      inurl:"id=" & intext:"MySQL Error: 1064" & "Session halted."
 
 
-inurl:"id=" &amp; intext:"MySQL Error: 1064" &amp; "Session halted." Produces about 11,000 results. Author: pHr0ZZy
+inurl:"id=" & intext:"MySQL Error: 1064" & "Session halted." Produces about 11,000 results. Author: pHr0ZZy

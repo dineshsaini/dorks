@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4376
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2016-12-16
 Author:           anonymous
@@ -6,4 +7,12 @@ GoogleDork:       inurl:github.com intitle:config intext:"/msg nickserv identify
 Description:      inurl:github.com intitle:config intext:"/msg nickserv identify"
 
 
-Github irc raw password:    inurl:github.com intitle:config intext:"/msg nickserv identify"    - al4r0
+Github irc raw password:
+ 
+ 
+ 
+ inurl:github.com intitle:config intext:"/msg nickserv identify"
+ 
+ 
+ 
+ - al4r0

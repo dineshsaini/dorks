@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4457
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2017-05-03
 Author:           Dxtroyer
@@ -6,4 +7,8 @@ GoogleDork:       "[main]" "enc_GroupPwd=" ext:txt
 Description:      "[main]" "enc_GroupPwd=" ext:txt
 
 
-Finds Cisco VPN client passwords (encrypted, but easily cracked!)    Dxtroyer
+Finds Cisco VPN client passwords (encrypted, but easily cracked!)
+ 
+ 
+ 
+ Dxtroyer

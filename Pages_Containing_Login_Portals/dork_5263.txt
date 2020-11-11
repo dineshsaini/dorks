@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5263
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-06-19
 Author:           Reza Abasi
@@ -6,4 +7,10 @@ GoogleDork:       inurl:/admin/index.php
 Description:      inurl:/admin/index.php
 
 
-Finding the admin login page:  inurl:/admin/index.php inurl:/admin/index.php intitle:"Login"  Reza Abasi 
+Finding the admin login page:
+ 
+ inurl:/admin/index.php
+ inurl:/admin/index.php intitle:"Login"
+ 
+ Reza Abasi
+ 

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5028
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2018-11-14
 Author:           Bruno Schmid
@@ -6,4 +7,15 @@ GoogleDork:       intitle:"index of" pagefile.sys
 Description:      intitle:"index of" pagefile.sys
 
 
-This large (normally over 1GB) file is created by Windows Systems when there is not enough RAM in the system. Since lots of the RAM is in the file, chances are that a lot of good information will be in it.  This is a Windows dork, wont work in Linux or Mac.   Bruno Schmid https://ch.linkedin.com/in/schmidbruno  @brulliant  
+This large (normally over 1GB) file is created by Windows Systems when
+ there is not enough RAM in the system. Since lots of the RAM is in the
+ file, chances are that a lot of good information will be in it.
+ 
+ This is a Windows dork, wont work in Linux or Mac.
+ 
+ 
+ Bruno Schmid
+ https://ch.linkedin.com/in/schmidbruno
+ 
+ @brulliant 
+ 

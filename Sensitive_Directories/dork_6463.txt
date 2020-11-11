@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6463
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2020-08-05
 Author:           Alexandros Pappas
@@ -6,4 +7,8 @@ GoogleDork:       intitle:"index of" "/000~ROOT~000/"
 Description:      intitle:"index of" "/000~ROOT~000/"
 
 
-# Google Dork: intitle:"index of" "/000~ROOT~000/" # Juicy and sensitive information under Root directory. # Date: 29/07/2020 # Exploit Author: Alexandros Pappas 
+# Google Dork: intitle:"index of" "/000~ROOT~000/"
+ # Juicy and sensitive information under Root directory.
+ # Date: 29/07/2020
+ # Exploit Author: Alexandros Pappas
+ 

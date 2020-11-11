@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6310
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2020-06-18
 Author:           Alexandros Pappas
@@ -6,4 +7,8 @@ GoogleDork:       "MYSQL_ROOT_PASSWORD:" ext:env OR ext:yml -git
 Description:      "MYSQL_ROOT_PASSWORD:" ext:env OR ext:yml -git
 
 
-# Google Dork: "MYSQL_ROOT_PASSWORD:" ext:env OR ext:yml -git # Juicy information and sensitive directories including user names and passwords. # Date: 18/06/2020 # Exploit Author: Alexandros Pappas 
+# Google Dork: "MYSQL_ROOT_PASSWORD:" ext:env OR ext:yml -git
+ # Juicy information and sensitive directories including user names and passwords.
+ # Date: 18/06/2020
+ # Exploit Author: Alexandros Pappas
+ 

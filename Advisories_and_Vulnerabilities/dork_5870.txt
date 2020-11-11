@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5870
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2020-03-31
 Author:           Alexandros Pappas
@@ -6,4 +7,18 @@ GoogleDork:       "Powered by sNews CMS"
 Description:      "Powered by sNews CMS"
 
 
-# Google Dork: "Powered by sNews CMS"  # By using this dork, sites "Powered by sNews CMS" can be found. The vulnerability exists due to failure in the "snews.php" script to properly sanitize user-supplied input in "website_title" variable. Successful exploitation of this vulnerability could result in a compromise of the application, theft of cookie-based authentication credentials, disclosure or modification of sensitive data. This dork is linked to the following existing exploit: https://www.exploit-db.com/exploits/15295  # Date: 31/03/2020  # Author: Alexandros Pappas 
+# Google Dork: "Powered by sNews CMS"
+ 
+ # By using this dork, sites "Powered by sNews CMS" can be found. The
+ vulnerability exists due to failure in the "snews.php" script to properly
+ sanitize user-supplied input in "website_title" variable. Successful
+ exploitation of this vulnerability could result in a compromise of the
+ application, theft of cookie-based authentication credentials, disclosure
+ or modification of sensitive data.
+ This dork is linked to the following existing exploit:
+ https://www.exploit-db.com/exploits/15295
+ 
+ # Date: 31/03/2020
+ 
+ # Author: Alexandros Pappas
+ 

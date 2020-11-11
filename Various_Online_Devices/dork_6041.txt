@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6041
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2020-05-06
 Author:           MiningOmerta
@@ -6,4 +7,19 @@ GoogleDork:       site:*/EWS/Exchange.asmx
 Description:      site:*/EWS/Exchange.asmx
 
 
-Author: MiningOmerta  Finds indexed Microsoft Exchange Servers (Includes Office 365) for e-mail synchronization.  site:*/EWS/Exchange.asmx  link:  https://www.google.com/search?q=site%3A*%2FEWS%2FExchange.asmx  or  https://www.google.com/search?q=site%3A*%2FEWS%2FExchange.asmx+-contoso  if you don’t want the “Hello World” of Microsoft Domains :) 
+Author: MiningOmerta
+ 
+ Finds indexed Microsoft Exchange Servers (Includes Office 365) for e-mail synchronization.
+ 
+ site:*/EWS/Exchange.asmx
+ 
+ link:
+ 
+ https://www.google.com/search?q=site%3A*%2FEWS%2FExchange.asmx
+ 
+ or
+ 
+ https://www.google.com/search?q=site%3A*%2FEWS%2FExchange.asmx+-contoso
+ 
+ if you don’t want the “Hello World” of Microsoft Domains :)
+ 

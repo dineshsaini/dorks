@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5099
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2019-02-13
 Author:           Manish Bhandarkar
@@ -6,4 +7,25 @@ GoogleDork:       allintitle:"Index of /Admin/Common" | allintext:"Parent Direct
 Description:      allintitle:"Index of /Admin/Common" | allintext:"Parent Directory"
 
 
-Category : Sensitive Directories   Description : Dork for finding access of listed Admin directories which normally restricted to normal users. Usually to access those files need an admin login.   Note : To access more sensitive files locate to parent directory until /admin or /conf etc.   Dork : allintitle:"Index of /Admin/Common" | allintext:"Parent Directory"   Date : 10/2/2019   Author : Manish Bhandarkar  Blog : https://hackingforsecurity.blogspot.com/ 
+Category : Sensitive Directories
+ 
+ 
+ Description : Dork for finding access of listed Admin directories which
+ normally restricted to normal users. Usually to access those files need an
+ admin login.
+ 
+ 
+ Note : To access more sensitive files locate to parent directory until
+ /admin or /conf etc.
+ 
+ 
+ Dork : allintitle:"Index of /Admin/Common" | allintext:"Parent Directory"
+ 
+ 
+ Date : 10/2/2019
+ 
+ 
+ Author : Manish Bhandarkar
+ 
+ Blog : https://hackingforsecurity.blogspot.com/
+ 

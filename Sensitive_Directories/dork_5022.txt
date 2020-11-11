@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5022
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2018-11-12
 Author:           blackcat
@@ -6,4 +7,9 @@ GoogleDork:       inurl:/proc/tty/ index of
 Description:      inurl:/proc/tty/ index of
 
 
-Exploit Title: Using this dork for gathering information by parent directory to discover vulnerable or credential file Google Dork: inurl:/proc/tty/ index of Date: 2018-11-10 Exploit Author: blackcat  
+Exploit Title: Using this dork for gathering information by parent directory to discover vulnerable or credential file
+ Google Dork: inurl:/proc/tty/ index of
+ Date: 2018-11-10
+ Exploit Author: blackcat
+ 
+ 

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4901
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2018-08-06
 Author:           SMII Mondher
@@ -6,4 +7,11 @@ GoogleDork:       "var miner=new CryptoLoot.Anonymous" intext:CryptoLoot.Anonymo
 Description:      "var miner=new CryptoLoot.Anonymous" intext:CryptoLoot.Anonymous
 
 
-This is a dork for search sites running Crypto loot miner  Dork : "var miner=new CryptoLoot.Anonymous" intext:CryptoLoot.Anonymous  SMII Mondher   
+This is a dork for search sites running Crypto loot miner
+ 
+ Dork : "var miner=new CryptoLoot.Anonymous" intext:CryptoLoot.Anonymous
+ 
+ SMII Mondher
+ 
+ 
+ 

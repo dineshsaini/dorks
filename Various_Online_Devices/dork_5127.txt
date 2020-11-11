@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5127
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2019-02-18
 Author:           Bruno Schmid
@@ -6,4 +7,9 @@ GoogleDork:       intitle:"Home-CUPS" intext:printers -mugs
 Description:      intitle:"Home-CUPS" intext:printers -mugs
 
 
-CUPS printer deamons   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 
+CUPS printer deamons
+ 
+ 
+ Bruno Schmid
+ https://ch.linkedin.com/in/schmidbruno
+ 

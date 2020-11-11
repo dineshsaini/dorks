@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6254
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-06-09
 Author:           Alexandros Pappas
@@ -6,4 +7,11 @@ GoogleDork:       intitle:"*Admin Intranet Login"
 Description:      intitle:"*Admin Intranet Login"
 
 
-# Google Dork: intitle:"*Admin Intranet Login"  # Just a few admin intranet login pages.  # Date: 2020-06-09  # Exploit Author: Alexandros Pappas 
+# Google Dork: intitle:"*Admin Intranet Login"
+ 
+ # Just a few admin intranet login pages.
+ 
+ # Date: 2020-06-09
+ 
+ # Exploit Author: Alexandros Pappas
+ 

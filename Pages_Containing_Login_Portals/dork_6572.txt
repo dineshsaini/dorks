@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6572
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-09-25
 Author:           Javier Bernardo
@@ -6,4 +7,15 @@ GoogleDork:       inurl:idp/SSO.saml2
 Description:      inurl:idp/SSO.saml2
 
 
-# Google Dork: inurl:idp/SSO.saml2 # Date: 9/25/2020 # Exploit Author: Javier Bernardo # Homepage: https://www.hack.com.ar  Javier Bernardo *Ethical Hacker | Information Security Engineer*    Buenos Aires - Argentina 
+# Google Dork: inurl:idp/SSO.saml2
+ # Date: 9/25/2020
+ # Exploit Author: Javier Bernardo
+ # Homepage: https://www.hack.com.ar
+ 
+ Javier Bernardo
+ *Ethical Hacker | Information Security Engineer*
+ 
+ 
+ 
+ Buenos Aires - Argentina
+ 

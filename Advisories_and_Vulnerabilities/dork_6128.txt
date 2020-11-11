@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6128
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2020-05-26
 Author:           Alexandros Pappas
@@ -6,4 +7,13 @@ GoogleDork:       intitle:"Index of" intitle:"UserPro" -uploads
 Description:      intitle:"Index of" intitle:"UserPro" -uploads
 
 
-# Google Dork: intitle:"Index of" intitle:"UserPro" -uploads  # WordPress Plugin UserPro 4.9.32 - Cross-Site Scripting. This dork is linked to the following existing exploit: https://www.exploit-db.com/exploits/47304  # Date: 26/05/2020  # Author: Alexandros Pappas 
+# Google Dork: intitle:"Index of" intitle:"UserPro" -uploads
+ 
+ # WordPress Plugin UserPro 4.9.32 - Cross-Site Scripting. This dork is
+ linked to the following existing exploit:
+ https://www.exploit-db.com/exploits/47304
+ 
+ # Date: 26/05/2020
+ 
+ # Author: Alexandros Pappas
+ 

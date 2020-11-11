@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5405
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-08-19
 Author:           Reza Abasi
@@ -6,4 +7,9 @@ GoogleDork:       inurl:/wp-admin/admin.php intitle:"Log In"
 Description:      inurl:/wp-admin/admin.php intitle:"Log In"
 
 
-wordpress Login Pages:  inurl:/wp-admin/admin.php intitle:"Log In"  Reza Abasi(Turku) 
+wordpress Login Pages:
+ 
+ inurl:/wp-admin/admin.php intitle:"Log In"
+ 
+ Reza Abasi(Turku)
+ 

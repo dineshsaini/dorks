@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/996
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2005-06-06
 Author:           anonymous
@@ -6,4 +7,4 @@ GoogleDork:       inurl:perform.ini filetype:ini
 Description:      inurl:perform.ini filetype:ini
 
 
-mIRC Passwords For Nicks &amp; Channels in channel\[chanfolder] section of mirc.ini you can find 2 type of "private" information - secret channels (that is +ps is not listed everythere) and password protected channels - passwords stored in plaintext)
+mIRC Passwords For Nicks & Channels in channel\[chanfolder] section of mirc.ini you can find 2 type of "private" information - secret channels (that is +ps is not listed everythere) and password protected channels - passwords stored in plaintext)

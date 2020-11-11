@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4774
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2018-04-16
 Author:           Rootkit_Pentester
@@ -6,4 +7,8 @@ GoogleDork:       inurl:report.cgi?dashboard=
 Description:      inurl:report.cgi?dashboard=
 
 
-Dork who show MaDDash panels of traffic the net.  Dork by Rootkit Pentester  
+Dork who show MaDDash panels of traffic the net.
+ 
+ Dork by Rootkit Pentester
+ 
+ 

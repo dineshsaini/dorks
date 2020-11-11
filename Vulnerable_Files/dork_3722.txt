@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3722
+Severity: 5 
 Category:         Vulnerable Files
 Published Date:   2011-05-27
 Author:           anonymous

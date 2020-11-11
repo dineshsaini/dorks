@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6341
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2020-06-30
 Author:           Pratik Khalane
@@ -6,4 +7,9 @@ GoogleDork:       Index of: /services/aadhar card/
 Description:      Index of: /services/aadhar card/
 
 
-Google Dork : Index of: /services/aadhar card/ This google dork will list a personal identification. (Sensitive Information) #Author : Pratik Khalane # Date : 27/06/2020 
+Google Dork : Index of: /services/aadhar card/
+ This google dork will list a personal identification.
+ (Sensitive Information)
+ #Author : Pratik Khalane
+ # Date : 27/06/2020
+ 

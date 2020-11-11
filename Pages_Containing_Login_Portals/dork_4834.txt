@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4834
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2018-06-04
 Author:           Raj Kiran P
@@ -6,4 +7,13 @@ GoogleDork:       inurl:/CMSPages/logon ext:aspx
 Description:      inurl:/CMSPages/logon ext:aspx
 
 
-Retrieve Administration logins of websites using Kentico CMS.  inurl:/cmsdesk intitle:CMS.Login  inurl:/CMSPages/logon ext:aspx intitle:CMS.Login  These two dorks also retrieve more logins of website which use Kentico CMS.  Author : Raj Kiran P 
+Retrieve Administration logins of websites using Kentico CMS.
+ 
+ inurl:/cmsdesk intitle:CMS.Login
+ 
+ inurl:/CMSPages/logon ext:aspx intitle:CMS.Login
+ 
+ These two dorks also retrieve more logins of website which use Kentico CMS.
+ 
+ Author : Raj Kiran P
+ 

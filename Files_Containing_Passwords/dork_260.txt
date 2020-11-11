@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/260
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2004-05-26
 Author:           anonymous

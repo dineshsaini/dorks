@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5780
+Severity: 5 
 Category:         Web Server Detection
 Published Date:   2020-03-09
 Author:           Ubaid Ahmed
@@ -6,4 +7,10 @@ GoogleDork:       intitle:"Web Server's Default Page" intext:"hosting using Ples
 Description:      intitle:"Web Server's Default Page" intext:"hosting using Plesk" -www
 
 
-Web Server Detection  *Ubaid Ahmed*  *https://UbaidAhmed.com - Life is like riding a bicycle, you don’t fall off unless you plan to stop peddling* 
+Web Server Detection
+ 
+ *Ubaid Ahmed*
+ 
+ *https://UbaidAhmed.com - Life is like riding a
+ bicycle, you don’t fall off unless you plan to stop peddling*
+ 

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5297
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2019-07-30
 Author:           Mayur Parmar
@@ -6,4 +7,11 @@ GoogleDork:       intitle:"Index of" wp-content
 Description:      intitle:"Index of" wp-content
 
 
-Dork: intitle:"Index of" wp-content  Author:Mayur Parmar  info: it contains wordpress sensitive information. 
+Dork:
+ intitle:"Index of" wp-content
+ 
+ Author:Mayur Parmar
+ 
+ info:
+ it contains wordpress sensitive information.
+ 

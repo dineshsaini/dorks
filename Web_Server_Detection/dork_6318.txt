@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6318
+Severity: 5 
 Category:         Web Server Detection
 Published Date:   2020-06-22
 Author:           Rishabh Chaplot
@@ -6,4 +7,13 @@ GoogleDork:       intext:"index of /" "Index of" access_log
 Description:      intext:"index of /" "Index of" access_log
 
 
-intext:"index of /" "Index of" access_log  BY  Rishabh Chaplot Thank You! ---- Regards, Rishabh Chaplot 
+intext:"index of /" "Index of" access_log
+ 
+ BY
+ 
+ Rishabh Chaplot
+ Thank You!
+ ----
+ Regards,
+ Rishabh Chaplot
+ 

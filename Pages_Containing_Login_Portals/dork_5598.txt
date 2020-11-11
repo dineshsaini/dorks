@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5598
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-10-28
 Author:           M. Cory Billington
@@ -6,4 +7,9 @@ GoogleDork:       intitle:"API Publisher- Login"
 Description:      intitle:"API Publisher- Login"
 
 
-Dork: intitle:"API Publisher- Login"  Author: M. Cory Billington (@_th3y)  Info: WSO2 Login portals 
+Dork: intitle:"API Publisher- Login"
+ 
+ Author: M. Cory Billington (@_th3y)
+ 
+ Info: WSO2 Login portals
+ 

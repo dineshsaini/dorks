@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5513
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2019-09-10
 Author:           Kaustubh Kale
@@ -6,4 +7,16 @@ GoogleDork:       inurl:wp-content intext:backup-db
 Description:      inurl:wp-content intext:backup-db
 
 
-I have tested a dork in the Google Search and have found interesting results.  Dork : *inurl:wp-content intext:backup-db*   - This gives us the result of Various backup files/Folders stored in wp-content/uploads directories of various websites. - It also gives database backups consisting of SQL backup files of various websites who have not secured their sensitive directories.  Kaustubh Kale 
+I have tested a dork in the Google Search and have found interesting
+ results.
+ 
+ Dork : *inurl:wp-content intext:backup-db*
+ 
+ 
+ - This gives us the result of Various backup files/Folders stored in
+ wp-content/uploads directories of various websites.
+ - It also gives database backups consisting of SQL backup files of
+ various websites who have not secured their sensitive directories.
+ 
+ Kaustubh Kale
+ 

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5969
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2020-04-30
 Author:           MiningOmerta
@@ -6,4 +7,10 @@ GoogleDork:       inurl:*helpdesk* intext:"your default password is"
 Description:      inurl:*helpdesk* intext:"your default password is"
 
 
-Author: MiningOmerta Information: Finds default passwords in some pleace that may have not been seen before  Dork:  inurl:*helpdesk* intext:"your default password is" 
+Author: MiningOmerta
+ Information: Finds default passwords in some pleace that may have not been seen before
+ 
+ Dork:
+ 
+ inurl:*helpdesk* intext:"your default password is"
+ 

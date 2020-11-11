@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5245
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2019-06-04
 Author:           Dec0y
@@ -6,4 +7,5 @@ GoogleDork:       s3 site:amazonaws.com filetype:sql
 Description:      s3 site:amazonaws.com filetype:sql
 
 
-SQL Dumps stored on AWS S3 Buckets. 
+SQL Dumps stored on AWS S3 Buckets.
+ 

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5877
+Severity: 5 
 Category:         Error Messages
 Published Date:   2020-04-16
 Author:           Debashis Pal
@@ -6,4 +7,10 @@ GoogleDork:       inurl:"/WebResource.axd?d=" AND intext:Error
 Description:      inurl:"/WebResource.axd?d=" AND intext:Error
 
 
-# Dork #  inurl:"/WebResource.axd?d=" AND intext:Error  Error Messages.  
+# Dork #
+ 
+ inurl:"/WebResource.axd?d=" AND intext:Error
+ 
+ Error Messages.
+ 
+ 

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5326
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-08-06
 Author:           Reza Abasi
@@ -6,4 +7,9 @@ GoogleDork:       inurl:login.cgi
 Description:      inurl:login.cgi
 
 
-pages containing login portal  inurl:login.cgi  Reza Abasi(Turku) 
+pages containing login portal
+ 
+ inurl:login.cgi
+ 
+ Reza Abasi(Turku)
+ 

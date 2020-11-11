@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6573
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-09-25
 Author:           Sibi Mathew George
@@ -6,4 +7,13 @@ GoogleDork:       intitle:"Environment Variables" inurl:/cgi-bin/
 Description:      intitle:"Environment Variables" inurl:/cgi-bin/
 
 
-Google Dork: intitle:"Environment Variables" inurl:/cgi-bin/  Description: This Google Dork is used for listing "Environment Variables" script which is a CGI script that lists sensitive information such as the path names, server names, port numbers, server software, version numbers, administrator email addresses etc all these juicy information can be obtained.  Author: Sibi Mathew George 
+Google Dork: intitle:"Environment Variables" inurl:/cgi-bin/
+ 
+ Description: This Google Dork is used for listing "Environment Variables"
+ script which is a CGI script that lists sensitive information such as the
+ path names, server names, port numbers, server software, version numbers,
+ administrator email addresses etc all these juicy information can be
+ obtained.
+ 
+ Author: Sibi Mathew George
+ 

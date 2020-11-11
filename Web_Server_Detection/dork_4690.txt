@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4690
+Severity: 5 
 Category:         Web Server Detection
 Published Date:   2018-03-07
 Author:           Aamir Rehman
@@ -6,4 +7,9 @@ GoogleDork:       inurl:"server-status" "Server Version: Apache/" "Server Built:
 Description:      inurl:"server-status" "Server Version: Apache/" "Server Built: " "Server uptime:" "Total accesses" "CPU Usage:"
 
 
-inurl:"server-status" "Server Version: Apache/" "Server Built: " "Server uptime:" "Total accesses" "CPU Usage:"  Above mentioned dork shows URL which has Apache server-status file openly accessible. Apache server status file discloses all the request which are send to server and most of the time it discloses hidden urls or parameter's call.   
+inurl:"server-status" "Server Version: Apache/" "Server Built: " "Server uptime:" "Total accesses" "CPU Usage:"
+ 
+ Above mentioned dork shows URL which has Apache server-status file openly accessible. Apache server status file discloses all the request which are send to server and most of the time it discloses hidden urls or parameter's call.
+ 
+ 
+ 

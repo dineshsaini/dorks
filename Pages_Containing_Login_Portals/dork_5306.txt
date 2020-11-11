@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5306
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-07-30
 Author:           Francis Al Victoriano
@@ -6,4 +7,9 @@ GoogleDork:       inurl:/employee/login.php
 Description:      inurl:/employee/login.php
 
 
-# Exploit Title: Employee Login Page  # Google Dork: inurl:/employee/login.php  # Author: Francis Al Victoriano 
+# Exploit Title: Employee Login Page
+ 
+ # Google Dork: inurl:/employee/login.php
+ 
+ # Author: Francis Al Victoriano
+ 

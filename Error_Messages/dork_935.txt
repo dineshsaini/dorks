@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/935
+Severity: 5 
 Category:         Error Messages
 Published Date:   2005-04-05
 Author:           anonymous

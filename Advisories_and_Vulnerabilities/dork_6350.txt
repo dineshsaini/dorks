@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6350
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2020-06-30
 Author:           Ritik Kumar Jain
@@ -6,4 +7,14 @@ GoogleDork:       inurl:wp-content/plugins/coming-soon
 Description:      inurl:wp-content/plugins/coming-soon
 
 
-Google Dork: inurl:wp-content/plugins/coming-soon This google dork lists out Advisories and Vulnerabilities regarding the coming soon page,maintenance and under construction pages. Ref:https://wpvulndb.com/vulnerabilities/10283 Coming Soon Page, Under Construction &amp; Maintenance Mode by SeedProd &lt; 5.1.2 - Authenticated Stored Cross Site Scripting (XSS)   Author: Ritik Kumar Jain (Dasagreeva) LinkedIn: https://www.linkedin.com/in/ritik-kumar-jain-57675419b/ 
+Google Dork: inurl:wp-content/plugins/coming-soon
+ This google dork lists out Advisories and Vulnerabilities regarding
+ the coming soon page,maintenance and under construction pages.
+ Ref:https://wpvulndb.com/vulnerabilities/10283
+ Coming Soon Page, Under Construction & Maintenance Mode by SeedProd &lt; 5.1.2
+ - Authenticated Stored Cross Site Scripting (XSS)
+ 
+ 
+ Author: Ritik Kumar Jain (Dasagreeva)
+ LinkedIn: https://www.linkedin.com/in/ritik-kumar-jain-57675419b/
+ 

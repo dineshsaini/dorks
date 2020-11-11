@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5217
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2019-05-16
 Author:           edm0nd
@@ -6,4 +7,9 @@ GoogleDork:       site:global.gotomeeting.com inurl:recording
 Description:      site:global.gotomeeting.com inurl:recording
 
 
-Description: Find recorded meetings of people who used GoToMeeting for a conference call or meeting. You can also download the full recording. Category: Files Containing Juicy Info  Author: edm0nd https://twitter.com/edmond_major 
+Description: Find recorded meetings of people who used GoToMeeting for a
+ conference call or meeting. You can also download the full recording.
+ Category: Files Containing Juicy Info
+ 
+ Author: edm0nd https://twitter.com/edmond_major
+ 

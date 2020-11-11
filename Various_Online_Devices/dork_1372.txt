@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1372
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2006-05-04
 Author:           anonymous
@@ -6,4 +7,4 @@ GoogleDork:       intitle:"iGuard Fingerprint Security System"
 Description:      intitle:"iGuard Fingerprint Security System"
 
 
-vendor:http://www.iguardus.com/dome information disclosure: employeers list &amp; free camera access
+vendor:http://www.iguardus.com/dome information disclosure: employeers list & free camera access

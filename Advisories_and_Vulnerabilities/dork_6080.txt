@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6080
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2020-05-14
 Author:           Alexandros Pappas
@@ -6,4 +7,13 @@ GoogleDork:       inurl:"index.php?option=com_hdwplayer"
 Description:      inurl:"index.php?option=com_hdwplayer"
 
 
-# Google Dork: inurl:"index.php?option=com_hdwplayer"  # Joomla! com_hdwplayer 4.2 - 'search.php' SQL Injection. This dork is linked to the following existing exploit: https://www.exploit-db.com/exploits/48242  # Date: 14/05/2020  # Author: Alexandros Pappas 
+# Google Dork: inurl:"index.php?option=com_hdwplayer"
+ 
+ # Joomla! com_hdwplayer 4.2 - 'search.php' SQL Injection. This dork is
+ linked to the following existing exploit:
+ https://www.exploit-db.com/exploits/48242
+ 
+ # Date: 14/05/2020
+ 
+ # Author: Alexandros Pappas
+ 

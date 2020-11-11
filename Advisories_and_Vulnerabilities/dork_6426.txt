@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6426
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2020-07-21
 Author:           Sachin Kattimani
@@ -6,4 +7,15 @@ GoogleDork:       inurl:wp-content/plugins/sfwd-lms
 Description:      inurl:wp-content/plugins/sfwd-lms
 
 
-DORK: inurl:wp-content/plugins/sfwd-lms  https://wpvulndb.com/vulnerabilities/ 10461  This google dork gives us the advisories and vulnerabilities on wordpress plugins   Thanks, Sachin 
+DORK: inurl:wp-content/plugins/sfwd-lms
+ 
+ https://wpvulndb.com/vulnerabilities/
+ 10461
+ 
+ This google dork gives us the advisories and vulnerabilities on wordpress
+ plugins
+ 
+ 
+ Thanks,
+ Sachin
+ 

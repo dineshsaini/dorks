@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3714
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2011-08-25
 Author:           DigiP
@@ -6,4 +7,18 @@ GoogleDork:       "error_log" inurl:/wp-content
 Description:      "error_log" inurl:/wp-content
 
 
-Find various www readable Wordpress directories containing error logs with   server side debugging info, such as home path directory names, which are   often the same user names for logging into the server over FTP and SSH.    This often exposes the path of the plug-ins installed in wordpress as well,   giving someone more information and avenues of attack since many Wordpress   plug-ins can lead to compromises of the sites security. - DigiP   
+Find various www readable Wordpress directories containing error logs with 
+ 
+ server side debugging info, such as home path directory names, which are 
+ 
+ often the same user names for logging into the server over FTP and SSH.
+ 
+ 
+ 
+ This often exposes the path of the plug-ins installed in wordpress as well, 
+ 
+ giving someone more information and avenues of attack since many Wordpress 
+ 
+ plug-ins can lead to compromises of the sites security. - DigiP 
+ 
+ 

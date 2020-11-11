@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/362
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2004-07-22
 Author:           anonymous
@@ -6,4 +7,4 @@ GoogleDork:       Xerox Phaser 6250
 Description:      Xerox Phaser 6250
 
 
-Base Specifications Phaser 6250N: Letter/Legal Size Color Printer 110V, 26ppm Color/B&amp;W (24ppm A4 Color/B&amp;W), 2400dpi, 700MHz Processor, Ethernet, 256MB Memory, Photo Quality Mode, Network Feature SetPassword not allways needed it seems, depends on admin setup..
+Base Specifications Phaser 6250N: Letter/Legal Size Color Printer 110V, 26ppm Color/B&W (24ppm A4 Color/B&W), 2400dpi, 700MHz Processor, Ethernet, 256MB Memory, Photo Quality Mode, Network Feature SetPassword not allways needed it seems, depends on admin setup..

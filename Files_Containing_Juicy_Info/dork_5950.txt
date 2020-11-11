@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5950
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-04-27
 Author:           Alexandros Pappas
@@ -6,4 +7,12 @@ GoogleDork:       intitle:"Index of" db.inc
 Description:      intitle:"Index of" db.inc
 
 
-# Google Dork: intitle:"Index of" db.inc  # Configuration files containing some times database usernames and passwords.  # Date: 27/04/2020  # Author: Alexandros Pappas 
+# Google Dork: intitle:"Index of" db.inc
+ 
+ # Configuration files containing some times database usernames and
+ passwords.
+ 
+ # Date: 27/04/2020
+ 
+ # Author: Alexandros Pappas
+ 

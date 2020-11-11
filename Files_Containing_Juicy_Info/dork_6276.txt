@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6276
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-06-12
 Author:           saivinayreddy
@@ -6,4 +7,5 @@ GoogleDork:       index of .svn/text-base/index.php.svn-base
 Description:      index of .svn/text-base/index.php.svn-base
 
 
-Dork: index of .svn/text-base/index.php.svn-base 
+Dork: index of .svn/text-base/index.php.svn-base
+ 

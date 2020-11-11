@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5085
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2019-01-30
 Author:           Miguel Santareno
@@ -6,4 +7,12 @@ GoogleDork:       intitle:QueryService Web Service
 Description:      intitle:QueryService Web Service
 
 
-# Google Dork: intitle:QueryService Web Service # Description: QueryService Web Service exposed to internet # Date: 2019-01-27 # Author: Miguel Santareno # Contact: https://www.linkedin.com/in/miguelsantareno/    
+# Google Dork: intitle:QueryService Web Service
+ # Description: QueryService Web Service exposed to internet
+ # Date: 2019-01-27
+ # Author: Miguel Santareno
+ # Contact: https://www.linkedin.com/in/miguelsantareno/
+ 
+ 
+ 
+ 

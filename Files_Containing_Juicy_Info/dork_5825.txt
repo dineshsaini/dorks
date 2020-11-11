@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5825
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-03-23
 Author:           Alexandros Pappas
@@ -6,4 +7,12 @@ GoogleDork:       ext:cfg tac_plus.cfg
 Description:      ext:cfg tac_plus.cfg
 
 
-# Google Dork: ext:cfg tac_plus.cfg  # By using this dork, admin passwords and much more, in configuration files can be found.  # Date: 21/03/2020  # Exploit Author: Alexandros Pappas 
+# Google Dork: ext:cfg tac_plus.cfg
+ 
+ # By using this dork, admin passwords and much more, in configuration files
+ can be found.
+ 
+ # Date: 21/03/2020
+ 
+ # Exploit Author: Alexandros Pappas
+ 

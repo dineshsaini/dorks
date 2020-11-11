@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6086
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2020-05-14
 Author:           Abhi Chitkara
@@ -6,4 +7,9 @@ GoogleDork:       inurl:wp-content/plugins/google-site-kit
 Description:      inurl:wp-content/plugins/google-site-kit
 
 
-Dork: inurl:wp-content/plugins/google-site-kit Description: This google dork lists out Advisories and Vulnerabilities regarding the google site kit wordpress plugin. Ref: https://wpvulndb.com/vulnerabilities/10224 Author: Abhi Chitkara 
+Dork: inurl:wp-content/plugins/google-site-kit
+ Description: This google dork lists out Advisories and Vulnerabilities
+ regarding the google site kit wordpress plugin. Ref:
+ https://wpvulndb.com/vulnerabilities/10224
+ Author: Abhi Chitkara
+ 

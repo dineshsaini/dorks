@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5831
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2020-03-26
 Author:           Alexandros Pappas
@@ -6,4 +7,12 @@ GoogleDork:       intitle:ThingsBoard inurl:8080/dashboard
 Description:      intitle:ThingsBoard inurl:8080/dashboard
 
 
-# Google Dork: intitle:ThingsBoard inurl:8080/dashboard  # By using this dork, various ThingsBoard dashboards (humidity, temperature, etc) can be found.  # Date: 26/03/2020  # Author: Alexandros Pappas 
+# Google Dork: intitle:ThingsBoard inurl:8080/dashboard
+ 
+ # By using this dork, various ThingsBoard dashboards (humidity,
+ temperature, etc) can be found.
+ 
+ # Date: 26/03/2020
+ 
+ # Author: Alexandros Pappas
+ 

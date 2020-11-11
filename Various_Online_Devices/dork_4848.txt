@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4848
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2018-06-06
 Author:           Brain Reflow
@@ -6,4 +7,10 @@ GoogleDork:       intitle:'System Web Interface: WATTrouter M'
 Description:      intitle:'System Web Interface: WATTrouter M'
 
 
-Dork about WATTrouter M SSR - programmable controller to optimize self-consumption of energy produced by photovoltaic or wind power plant  intitle:'System Web Interface: WATTrouter M'  Author : *.doc-TOR aka Brain Reflow https://twitter.com/The_d0c_T0R 
+Dork about WATTrouter M SSR - programmable controller to optimize
+ self-consumption of energy produced by photovoltaic or wind power plant
+ 
+ intitle:'System Web Interface: WATTrouter M'
+ 
+ Author : *.doc-TOR aka Brain Reflow https://twitter.com/The_d0c_T0R
+ 

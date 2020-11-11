@@ -1,9 +1,15 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5130
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2019-02-19
 Author:           Midori-SH
-GoogleDork:       inurl:/snap.cgi?&amp;-getpic
-Description:      inurl:/snap.cgi?&amp;-getpic
+GoogleDork:       inurl:/snap.cgi?&-getpic
+Description:      inurl:/snap.cgi?&-getpic
 
 
-Exposes a number of Master IP CAM 01 IP camera's  Midori'SH https://twitter.com/MidoriShell  
+Exposes a number of Master IP CAM 01 IP camera's
+ 
+ Midori'SH
+ https://twitter.com/MidoriShell
+ 
+ 

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5886
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-04-16
 Author:           Reza Abasi
@@ -6,4 +7,9 @@ GoogleDork:       site:*/request-new-password
 Description:      site:*/request-new-password
 
 
-Login Portal:  site:*/request-new-password  Reza Abasi(Turku) 
+Login Portal:
+ 
+ site:*/request-new-password
+ 
+ Reza Abasi(Turku)
+ 

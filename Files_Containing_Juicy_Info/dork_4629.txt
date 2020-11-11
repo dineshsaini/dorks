@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4629
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2017-12-07
 Author:           Aamir Rehman
@@ -6,4 +7,11 @@ GoogleDork:       intext:"Set objConn=Server.CreateObject("ADODB.Connection")" e
 Description:      intext:"Set objConn=Server.CreateObject("ADODB.Connection")" ext:asp
 
 
-intext:"Set objConn=Server.CreateObject("ADODB.Connection")" ext:asp   Above Dork will show source code of asp file, Most of them contains path to local database.  Thanks Aamir Rehman 
+intext:"Set objConn=Server.CreateObject("ADODB.Connection")" ext:asp
+ 
+ 
+ Above Dork will show source code of asp file, Most of them contains path to local database.
+ 
+ Thanks
+ Aamir Rehman
+ 

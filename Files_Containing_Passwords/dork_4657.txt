@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4657
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2018-01-12
 Author:           vocuzi
@@ -6,4 +7,12 @@ GoogleDork:       intitle:"Index Of" intext:sftp-config.json
 Description:      intitle:"Index Of" intext:sftp-config.json
 
 
-Description : This dork returns list of FTP/SFTP passwords from sublime text.  Dork : intitle:"Index Of" intext:sftp-config.json  Author : Vipin Joshi ( @vocuzi ) 
+Description :
+ This dork returns list of FTP/SFTP passwords from sublime text.
+ 
+ Dork :
+ intitle:"Index Of" intext:sftp-config.json
+ 
+ Author :
+ Vipin Joshi ( @vocuzi )
+ 

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5787
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2020-03-16
 Author:           Alexandros Pappas
@@ -6,4 +7,12 @@ GoogleDork:       inurl:"view/index.shtml"
 Description:      inurl:"view/index.shtml"
 
 
-# Google Dork: inurl:"view/index.shtml"  # By using this dork, various camera LIVE AXIS MODEL web interfaces can be found.  # Date: 14/03/2020  # Exploit Author: Alexandros Pappas 
+# Google Dork: inurl:"view/index.shtml"
+ 
+ # By using this dork, various camera LIVE AXIS MODEL web interfaces can be
+ found.
+ 
+ # Date: 14/03/2020
+ 
+ # Exploit Author: Alexandros Pappas
+ 

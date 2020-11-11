@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5965
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-04-29
 Author:           Alexandros Pappas
@@ -6,4 +7,17 @@ GoogleDork:       intitle:"index of" /.ssh/id_rsa OR id_rsa.pub
 Description:      intitle:"index of" /.ssh/id_rsa OR id_rsa.pub
 
 
-# Google Dork:  intitle:"index of" /.ssh/id_rsa OR id_rsa.pub intitle:"index of" /ssh_host_ecdsa_key OR ssh_host_ecdsa_key.pub intitle:"index of" /ssh_host_rsa_key OR ssh_host_rsa_key.pub intitle:"index of" /ssh_host_key OR ssh_host_key.pub intitle:"index of" /id_ecdsa OR id_ecdsa.pub intitle:"index of" /.ssh/id_dsa OR id_dsa.pub  # RSA private and public keys.  # Date: 29/04/2020  # Exploit Author: Alexandros Pappas 
+# Google Dork: 
+ intitle:"index of" /.ssh/id_rsa OR id_rsa.pub
+ intitle:"index of" /ssh_host_ecdsa_key OR ssh_host_ecdsa_key.pub
+ intitle:"index of" /ssh_host_rsa_key OR ssh_host_rsa_key.pub
+ intitle:"index of" /ssh_host_key OR ssh_host_key.pub
+ intitle:"index of" /id_ecdsa OR id_ecdsa.pub
+ intitle:"index of" /.ssh/id_dsa OR id_dsa.pub
+ 
+ # RSA private and public keys.
+ 
+ # Date: 29/04/2020
+ 
+ # Exploit Author: Alexandros Pappas
+ 

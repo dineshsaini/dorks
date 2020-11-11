@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5230
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2019-05-29
 Author:           Alfie
@@ -6,4 +7,12 @@ GoogleDork:       filetype:svn -gitlab -github inurl:"/.svn"
 Description:      filetype:svn -gitlab -github inurl:"/.svn"
 
 
-Google dork description: web servers serving the svn repository. This potential flaw can be used to download content from the Web server that might otherwise be private.  Google Search: filetype:svn -gitlab -github inurl:"/.svn"  Submitted by: Alfie  Twitter: https://twitter.com/emenalf
+Google dork description: web servers serving the svn repository. This
+ potential flaw can be used to download content from the Web server that
+ might otherwise be private.
+ 
+ Google Search: filetype:svn -gitlab -github inurl:"/.svn"
+ 
+ Submitted by: Alfie
+ 
+ Twitter: https://twitter.com/emenalf

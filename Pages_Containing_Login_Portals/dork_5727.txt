@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5727
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-02-06
 Author:           berat isler
@@ -6,4 +7,10 @@ GoogleDork:       intext:"Rubicon Communications, LLC (Netgate)" intitle:"Login"
 Description:      intext:"Rubicon Communications, LLC (Netgate)" intitle:"Login"
 
 
-This dork found Pfsense Login Portals.You can modify you your need or country extension.  Google Dork : intext:"Rubicon Communications, LLC (Netgate)" intitle:"Login"  Berat Isler ( root1x) 
+This dork found Pfsense Login Portals.You can modify you your need or
+ country extension.
+ 
+ Google Dork : intext:"Rubicon Communications, LLC (Netgate)" intitle:"Login"
+ 
+ Berat Isler ( root1x)
+ 

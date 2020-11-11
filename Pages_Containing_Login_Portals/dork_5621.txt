@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5621
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-11-05
 Author:           Mohammed*_*
@@ -6,4 +7,9 @@ GoogleDork:       inurl:/webconsole/webpages/login.jsp
 Description:      inurl:/webconsole/webpages/login.jsp
 
 
-Sophos XG Firewall Login pages  # Google Dork: inurl:/webconsole/webpages/login.jsp # Date: [5-11-2019] # Author: [Mohammed*_*] 
+Sophos XG Firewall Login pages
+ 
+ # Google Dork: inurl:/webconsole/webpages/login.jsp
+ # Date: [5-11-2019]
+ # Author: [Mohammed*_*]
+ 

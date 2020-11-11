@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6533
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2020-09-11
 Author:           bt0
@@ -6,4 +7,17 @@ GoogleDork:       inurl:"/wp-content/plugins/wp-file-manager/lib/php/connector.m
 Description:      inurl:"/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php" - Wordpress File Manager
 
 
-dork: inurl:"/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php" Author: bt0 references: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-25213 https://wpvulndb.com/vulnerabilities/10389  Description:  Seravo noticed multiple cases where WordPress sites were breached using 0-day in wp-file-manager (confirmed with v6.8, which was the latest version available in wordpress.org). File lib/php/connector.minimal.php can be by default opened directly, and this file loads lib/php/elFinderConnector.class.php which reads POST/GET variables, and then allows executing some internal features, like uploading files. PHP is allowed, thus this leads to unauthenticated arbitrary file upload and remote code execution. It seems that this vulnerability was originally discovered and published publicly on Twitter on August 26th (see references), and was later seen being exploited in the wild by Seravo.  Best regards, bt0
+dork: inurl:"/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php"
+ Author: bt0
+ references:
+ https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-25213
+ https://wpvulndb.com/vulnerabilities/10389
+ 
+ Description:
+ 
+ Seravo noticed multiple cases where WordPress sites were breached using 0-day in wp-file-manager (confirmed with v6.8, which was the latest version available in wordpress.org).
+ File lib/php/connector.minimal.php can be by default opened directly, and this file loads lib/php/elFinderConnector.class.php which reads POST/GET variables, and then allows executing some internal features, like uploading files. PHP is allowed, thus this leads to unauthenticated arbitrary file upload and remote code execution.
+ It seems that this vulnerability was originally discovered and published publicly on Twitter on August 26th (see references), and was later seen being exploited in the wild by Seravo.
+ 
+ Best regards,
+ bt0

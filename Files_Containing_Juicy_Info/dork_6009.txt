@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6009
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-05-04
 Author:           Tushar Kurunkar
@@ -6,4 +7,11 @@ GoogleDork:       intitle:"index of" "/yum.log"
 Description:      intitle:"index of" "/yum.log"
 
 
-#Description: intitle:"index of" "/yum.log" This Google dork shows juicy information about the website and their yum logs. An attacker can further misuse this to conduct attacks.  #Author : Tushar Kurunkar #Date : 3 May 2020 
+#Description: intitle:"index of" "/yum.log"
+ This Google dork shows juicy information about the website and their yum
+ logs.
+ An attacker can further misuse this to conduct attacks.
+ 
+ #Author : Tushar Kurunkar
+ #Date : 3 May 2020
+ 

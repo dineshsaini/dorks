@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6216
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-06-04
 Author:           Abhi Chitkara
@@ -6,4 +7,7 @@ GoogleDork:       intitle:"index of" "admin-login.php"
 Description:      intitle:"index of" "admin-login.php"
 
 
-Dork: intitle:"index of" "admin-login.php" Description: This google dorks lists out admin login php pages on web servers. Author: Abhi Chitkara 
+Dork: intitle:"index of" "admin-login.php"
+ Description: This google dorks lists out admin login php pages on web servers.
+ Author: Abhi Chitkara
+ 

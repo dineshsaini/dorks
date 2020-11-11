@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5258
+Severity: 5 
 Category:         Web Server Detection
 Published Date:   2019-06-17
 Author:           Zerconil
@@ -6,4 +7,7 @@ GoogleDork:       intext:"Brought to you by eVetSites"
 Description:      intext:"Brought to you by eVetSites"
 
 
-List of sites all hosted by eVetSites, hosting platform for veterinarians  Zerconil 
+List of sites all hosted by eVetSites, hosting platform for veterinarians
+ 
+ Zerconil
+ 

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6401
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-07-14
 Author:           Jose Praveen
@@ -6,4 +7,8 @@ GoogleDork:       inurl:/seeyon/index.jsp
 Description:      inurl:/seeyon/index.jsp
 
 
-# Google Dork : inurl:/seeyon/index.jsp # Description : Pages containing login portals. # Date: 11/07/2020 # Author: Jose Praveen 
+# Google Dork : inurl:/seeyon/index.jsp
+ # Description : Pages containing login portals.
+ # Date: 11/07/2020
+ # Author: Jose Praveen
+ 

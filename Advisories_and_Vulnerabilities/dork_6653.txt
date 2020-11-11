@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6653
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2020-11-04
 Author:           Alexandros Pappas
@@ -6,4 +7,16 @@ GoogleDork:       Server: Mida eFramework
 Description:      Server: Mida eFramework
 
 
-# Google Dork: Server: Mida eFramework  # Mida eFramework 2.9.0 - Back Door Access. CVE : CVE-2020-15921. https://www.exploit-db.com/exploits/48823 Mida eFramework 2.9.0 - Remote Code Execution. CVE : CVE-2020-15920. https://www.exploit-db.com/exploits/48768 Mida eFramework 2.8.9 - Remote Code Execution CVE : CVE-2020-15922. https://www.exploit-db.com/exploits/48835  # Date: 29/10/2020  # Exploit Author: Alexandros Pappas 
+# Google Dork: Server: Mida eFramework
+ 
+ # Mida eFramework 2.9.0 - Back Door Access.
+ CVE : CVE-2020-15921. https://www.exploit-db.com/exploits/48823
+ Mida eFramework 2.9.0 - Remote Code Execution.
+ CVE : CVE-2020-15920. https://www.exploit-db.com/exploits/48768
+ Mida eFramework 2.8.9 - Remote Code Execution
+ CVE : CVE-2020-15922. https://www.exploit-db.com/exploits/48835
+ 
+ # Date: 29/10/2020
+ 
+ # Exploit Author: Alexandros Pappas
+ 

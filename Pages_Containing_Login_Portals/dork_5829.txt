@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5829
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-03-26
 Author:           Nicholas Doropoulos
@@ -6,4 +7,7 @@ GoogleDork:       site:*/Citrix/storeweb
 Description:      site:*/Citrix/storeweb
 
 
-Category: Pages Containing Login Portals  Nicholas Doropoulos
+Severity: 5 
+Category: Pages Containing Login Portals
+ 
+ Nicholas Doropoulos

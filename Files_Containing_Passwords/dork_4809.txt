@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4809
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2018-05-08
 Author:           ManhNho
@@ -6,4 +7,9 @@ GoogleDork:       intext:"PuTTY log" ext:log "password" -supportforums -github
 Description:      intext:"PuTTY log" ext:log "password" -supportforums -github
 
 
-intext:"PuTTY log" ext:log "password" -supportforums -github  File containing passwords  ManhNho 
+intext:"PuTTY log" ext:log "password" -supportforums -github
+ 
+ File containing passwords
+ 
+ ManhNho
+ 

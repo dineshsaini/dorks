@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4771
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2018-04-16
 Author:           Parth S. Patel
@@ -6,4 +7,11 @@ GoogleDork:       intitle:"index.of" | inurl:/filemanager/connectors/ intext:upl
 Description:      intitle:"index.of" | inurl:/filemanager/connectors/ intext:uploadtest.html
 
 
-Open Custom File Uploader specifically in "/ FCKeditor/.."    Author: Parth S. Patel https://ca.linkedin.com/in/parthpateloscp   
+Open Custom File Uploader specifically in "/ FCKeditor/.." 
+ 
+ 
+ Author: Parth S. Patel
+ https://ca.linkedin.com/in/parthpateloscp
+ 
+ 
+ 

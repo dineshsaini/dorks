@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4970
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2018-10-03
 Author:           Xin Min
@@ -6,4 +7,7 @@ GoogleDork:       inurl:"standalone.xml" intext:"password&gt;"
 Description:      inurl:"standalone.xml" intext:"password&gt;"
 
 
-Google Dork: Files Containing Passwords inurl:"standalone.xml" intext:"password&gt;" Author: Xin Min This dork allows you to search for password of wildfly or jboss configuration.
+Google Dork: Files Containing Passwords
+ inurl:"standalone.xml" intext:"password&gt;"
+ Author: Xin Min
+ This dork allows you to search for password of wildfly or jboss configuration.

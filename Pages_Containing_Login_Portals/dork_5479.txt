@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5479
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-08-30
 Author:           M. Cory Billington
@@ -6,4 +7,10 @@ GoogleDork:       intitle:"Login to Webmin" intext:"You must enter a username an
 Description:      intitle:"Login to Webmin" intext:"You must enter a username and password to login to the server"
 
 
-Dork: intitle:"Login to Webmin" intext:"You must enter a username and password to login to the server"  Author: M. Cory Billington (@_th3y)  Info: WebMin Login portals 
+Dork: intitle:"Login to Webmin" intext:"You must enter a username and
+ password to login to the server"
+ 
+ Author: M. Cory Billington (@_th3y)
+ 
+ Info: WebMin Login portals
+ 

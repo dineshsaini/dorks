@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4641
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2017-12-21
 Author:           Huijun Chen
@@ -6,4 +7,9 @@ GoogleDork:       ext:inf SetupMgrTag AdminPassword
 Description:      ext:inf SetupMgrTag AdminPassword
 
 
-Google Dork: Files Containing Passwords Finds admin password from windows install config files.  Huijun Chen  
+Google Dork: Files Containing Passwords
+ Finds admin password from windows install config files.
+ 
+ Huijun Chen
+ 
+ 

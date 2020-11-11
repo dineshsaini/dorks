@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5015
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2018-11-07
 Author:           Miguel Santareno
@@ -6,4 +7,8 @@ GoogleDork:       inurl:/_vti_pvt/service.cnf | inurl:/_vti_inf.html | inurl:/_v
 Description:      inurl:/_vti_pvt/service.cnf | inurl:/_vti_inf.html | inurl:/_vti_bin/ | inurl:/_vti_bin/spsdisco.aspx
 
 
-# Google Dork: inurl:/_vti_pvt/service.cnf | inurl:/_vti_inf.html | inurl:/_vti_bin/ | inurl:/_vti_bin/spsdisco.aspx # Description: Google Dork to find SharePoint version, FrontPage Configuration Information and SharePoint web services # Date: 2018-11-07 # Author: Miguel Santareno # Contact: https://www.linkedin.com/in/miguelsantareno/
+# Google Dork: inurl:/_vti_pvt/service.cnf | inurl:/_vti_inf.html | inurl:/_vti_bin/ | inurl:/_vti_bin/spsdisco.aspx
+ # Description: Google Dork to find SharePoint version, FrontPage Configuration Information and SharePoint web services
+ # Date: 2018-11-07
+ # Author: Miguel Santareno
+ # Contact: https://www.linkedin.com/in/miguelsantareno/

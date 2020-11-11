@@ -1,9 +1,10 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4161
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2015-12-18
 Author:           anonymous
-GoogleDork:       inurl:/index.htm?cat=info&amp;printerInfo
-Description:      inurl:/index.htm?cat=info&amp;printerInfo
+GoogleDork:       inurl:/index.htm?cat=info&printerInfo
+Description:      inurl:/index.htm?cat=info&printerInfo
 
 
-inurl:/index.htm?cat=info&amp;printerInfo Description : This google dork can access many HP LASER JET printers without login.. By Sivabalan ( CYBER GENIUS )
+inurl:/index.htm?cat=info&printerInfo Description : This google dork can access many HP LASER JET printers without login.. By Sivabalan ( CYBER GENIUS )

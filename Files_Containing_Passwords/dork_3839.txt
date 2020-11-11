@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3839
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2013-04-09
 Author:           anonymous
@@ -6,4 +7,4 @@ GoogleDork:       ext:sql intext:@hotmail.com intext :password
 Description:      ext:sql intext:@hotmail.com intext :password
 
 
-By , NItish Mehta , Illuminative Works(CEO &amp; Founder )
+By , NItish Mehta , Illuminative Works(CEO & Founder )

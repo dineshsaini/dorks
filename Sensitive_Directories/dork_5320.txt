@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5320
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2019-08-02
 Author:           Adrian Roy Lorica
@@ -6,4 +7,7 @@ GoogleDork:       "Index of" inurl:phpmyadmin
 Description:      "Index of" inurl:phpmyadmin
 
 
-Google Dork: inurl: "Index of" inurl:phpmyadmin Date: 08/02/2019 Author: Adrian Roy Lorica 
+Google Dork: inurl: "Index of" inurl:phpmyadmin
+ Date: 08/02/2019
+ Author: Adrian Roy Lorica
+ 

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5961
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-04-29
 Author:           Abhi Chitkara
@@ -6,4 +7,9 @@ GoogleDork:       intitle:"index of" apache.log
 Description:      intitle:"index of" apache.log
 
 
-Dork: intitle: "index of" apache.log Description: This Google dork shows juicy information about the website and finds out publicly available *apache logs.txt that contain sensitive information &amp; can be exploited by the hacker. Author: Abhi Chitkara 
+Dork: intitle: "index of" apache.log
+ Description: This Google dork shows juicy information about the website and
+ finds out publicly available *apache logs.txt that contain sensitive
+ information & can be exploited by the hacker.
+ Author: Abhi Chitkara
+ 

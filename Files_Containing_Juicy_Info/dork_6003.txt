@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6003
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-05-04
 Author:           Abhi Chitkara
@@ -6,4 +7,8 @@ GoogleDork:       intitle:"index of" "settings.yaml"
 Description:      intitle:"index of" "settings.yaml"
 
 
-Dork: intitle:"index of" "settings.yaml" Description: This Google dork lists out sensitive configuration files stored in the "settings.yaml" for a website. Author: Abhi Chitkara 
+Dork: intitle:"index of" "settings.yaml"
+ Description: This Google dork lists out sensitive configuration files
+ stored in the "settings.yaml" for a website.
+ Author: Abhi Chitkara
+ 

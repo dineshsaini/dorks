@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6542
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-09-16
 Author:           Raghotham M
@@ -6,4 +7,10 @@ GoogleDork:       inurl:/ mis login
 Description:      inurl:/ mis login
 
 
- # Google Dork: inurl:/ mis login # Date: [15/09/2020] # Exploit Author: [Raghotham M] # Category: [Pages Containing Login Portals] # Description: [ Dork shows admin pages of various sites and Management Information System login portals ] 
+ # Google Dork: inurl:/ mis login
+ # Date: [15/09/2020]
+ # Exploit Author: [Raghotham M]
+ # Category: [Pages Containing Login Portals]
+ # Description: [ Dork shows admin pages of various sites and Management
+ Information System login portals ]
+ 

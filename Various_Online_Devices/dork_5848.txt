@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5848
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2020-03-30
 Author:           Nicholas Doropoulos
@@ -6,4 +7,8 @@ GoogleDork:       inurl:/live.htm intext:"M-JPEG"|"System Log"|"Camera-1"|"View 
 Description:      inurl:/live.htm intext:"M-JPEG"|"System Log"|"Camera-1"|"View Control"
 
 
-Category: Various Online Devices Nicholas Doropoulos  
+Severity: 5 
+Category: Various Online Devices
+ Nicholas Doropoulos
+ 
+ 

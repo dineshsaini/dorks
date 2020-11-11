@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5353
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-08-15
 Author:           Mert Yeniay
@@ -6,4 +7,6 @@ GoogleDork:       inurl:user_login.php
 Description:      inurl:user_login.php
 
 
-Login Portals  Mert Yeniay 
+Login Portals
+ 
+ Mert Yeniay 

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5904
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-04-16
 Author:           berat isler
@@ -6,4 +7,9 @@ GoogleDork:       intitle:"index of" "vpn-config.*"
 Description:      intitle:"index of" "vpn-config.*"
 
 
-This dork found some juicy information about the vpn-config file.  Google Dork : intitle:"index of" "vpn-config.*"  Author : Berat ISLER (root1x) 
+This dork found some juicy information about the vpn-config file.
+ 
+ Google Dork : intitle:"index of" "vpn-config.*"
+ 
+ Author : Berat ISLER (root1x)
+ 

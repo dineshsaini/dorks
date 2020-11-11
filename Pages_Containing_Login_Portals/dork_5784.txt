@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5784
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-03-11
 Author:           Ubaid Ahmed
@@ -6,4 +7,10 @@ GoogleDork:       intitle:"Outlook Web App" inurl:"/owa/auth" logon ext:aspx
 Description:      intitle:"Outlook Web App" inurl:"/owa/auth" logon ext:aspx
 
 
---  *Regards,* *Ubaid Ahmed*   *https://UbaidAhmed.com * 
+-- 
+ *Regards,*
+ *Ubaid Ahmed*
+ 
+ 
+ *https://UbaidAhmed.com *
+ 

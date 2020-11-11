@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4711
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2018-03-27
 Author:           Bruno Schmid
@@ -6,4 +7,9 @@ GoogleDork:       intext:password inurl:"/log/production" ext:log
 Description:      intext:password inurl:"/log/production" ext:log
 
 
-Rails web application Framework stores passwords and tokens in plain text i the log.   Bruno Schmid 
+Rails web application Framework stores passwords and tokens in plain text i
+ the log.
+ 
+ 
+ Bruno Schmid
+ 

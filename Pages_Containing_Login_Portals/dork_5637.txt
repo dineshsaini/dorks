@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5637
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-11-11
 Author:           Reza Abasi
@@ -6,4 +7,10 @@ GoogleDork:       inurl:"/index.php?content=login"
 Description:      inurl:"/index.php?content=login"
 
 
-Login Portal:  inurl:"/index.php?content=login" inurl:"/index.php?content=forgot"  Reza Abasi(Turku) 
+Login Portal:
+ 
+ inurl:"/index.php?content=login"
+ inurl:"/index.php?content=forgot"
+ 
+ Reza Abasi(Turku)
+ 

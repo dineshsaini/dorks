@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5725
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-02-03
 Author:           Puneet Choudhary
@@ -6,4 +7,9 @@ GoogleDork:       filetype:env intext:APP_NAME
 Description:      filetype:env intext:APP_NAME
 
 
-Google Dork: filetype:env intext:APP_NAME Description: Find env file on laravel based website containing database username and password, email username &amp; password Category: File containing juicy information  
+Google Dork: filetype:env intext:APP_NAME
+ Description: Find env file on laravel based website
+ containing database username and password, email username & password
+ Category: File containing juicy information
+ 
+ 

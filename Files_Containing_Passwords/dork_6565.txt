@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6565
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2020-09-23
 Author:           Alexandros Pappas
@@ -6,4 +7,8 @@ GoogleDork:       "'username' =&gt;" + "'password' =&gt;" ext:log
 Description:      "'username' =&gt;" + "'password' =&gt;" ext:log
 
 
-# Google Dork: "'username' =&gt;" + "'password' =&gt;" ext:log # Exposed passwords, and much more... # Date: 22/09/2020 # Exploit Author: Alexandros Pappas 
+# Google Dork: "'username' =&gt;" + "'password' =&gt;" ext:log
+ # Exposed passwords, and much more...
+ # Date: 22/09/2020
+ # Exploit Author: Alexandros Pappas
+ 

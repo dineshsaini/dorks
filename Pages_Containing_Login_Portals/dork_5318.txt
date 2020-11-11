@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5318
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-08-02
 Author:           Adrian Roy Lorica
@@ -6,4 +7,7 @@ GoogleDork:       inurl: admin/login.aspx
 Description:      inurl: admin/login.aspx
 
 
-Google Dork: inurl: admin/login.aspx Date: 08/02/2019 Author: Adrian Roy Lorica 
+Google Dork: inurl: admin/login.aspx
+ Date: 08/02/2019
+ Author: Adrian Roy Lorica
+ 

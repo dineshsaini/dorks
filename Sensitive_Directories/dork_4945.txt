@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4945
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2018-09-12
 Author:           Bl4kd43m0n
@@ -6,4 +7,8 @@ GoogleDork:       inurl:/typo3/typo3conf
 Description:      inurl:/typo3/typo3conf
 
 
-inurl:/typo3/typo3conf Find interesting files from TYPO3 CMS installation.  by Franciny Salles (#Bl4kd43m0n) 
+inurl:/typo3/typo3conf
+ Find interesting files from TYPO3 CMS installation.
+ 
+ by Franciny Salles (#Bl4kd43m0n)
+ 

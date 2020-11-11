@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5833
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-03-27
 Author:           Alexandros Pappas
@@ -6,4 +7,12 @@ GoogleDork:       intext:"Welcome! Log in or create an account to continue."
 Description:      intext:"Welcome! Log in or create an account to continue."
 
 
-# Google Dork: intext:"Welcome! Log in or create an account to continue."  # By using this dork, various web pages containing login portals can be found.  # Date: 27/03/2020  # Author: Alexandros Pappas 
+# Google Dork: intext:"Welcome! Log in or create an account to continue."
+ 
+ # By using this dork, various web pages containing login portals can be
+ found.
+ 
+ # Date: 27/03/2020
+ 
+ # Author: Alexandros Pappas
+ 

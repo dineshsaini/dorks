@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6489
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2020-08-21
 Author:           Alexandros Pappas
@@ -6,4 +7,8 @@ GoogleDork:       inurl:"view.shtml" "Network Camera"
 Description:      inurl:"view.shtml" "Network Camera"
 
 
-# Google Dork: inurl:"view.shtml" "Network Camera" # Various online devices (webcams). # Date: 21/08/2020 # Exploit Author: Alexandros Pappas 
+# Google Dork: inurl:"view.shtml" "Network Camera"
+ # Various online devices (webcams).
+ # Date: 21/08/2020
+ # Exploit Author: Alexandros Pappas
+ 

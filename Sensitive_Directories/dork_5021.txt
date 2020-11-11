@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5021
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2018-11-12
 Author:           blackcat
@@ -6,4 +7,8 @@ GoogleDork:       intitle:index of /.sql.gz intext:/backup/
 Description:      intitle:index of /.sql.gz intext:/backup/
 
 
-Exploit Title: This Google Dork discover to gathering information of database schema and credentials data of mysql backup Google Dork: intitle:index of /.sql.gz intext:/backup/ Date: 2018-11-10 Exploit Author: blackcat 
+Exploit Title: This Google Dork discover to gathering information of database schema and credentials data of mysql backup
+ Google Dork: intitle:index of /.sql.gz intext:/backup/
+ Date: 2018-11-10
+ Exploit Author: blackcat
+ 

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4740
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2018-04-03
 Author:           Arya Usha
@@ -6,4 +7,10 @@ GoogleDork:       CakePHP filetype:sql intext:password | pwd intext:username | u
 Description:      CakePHP filetype:sql intext:password | pwd intext:username | uname intext: Insert into users values
 
 
-This dork allow you to specific find file contains Username, Password, Secret Keys and allows you to search for sql configuration file.   Thanks Arya Usha 
+This dork allow you to specific find file contains Username,
+ Password, Secret Keys and allows you to search for sql configuration file.
+ 
+ 
+ Thanks
+ Arya Usha
+ 

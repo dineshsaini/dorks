@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6374
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2020-07-06
 Author:           Abhi Chitkara
@@ -6,4 +7,9 @@ GoogleDork:       inurl:wp-content/plugins/payment-form-for-paypal-pro
 Description:      inurl:wp-content/plugins/payment-form-for-paypal-pro
 
 
-Dork: inurl:wp-content/plugins/payment-form-for-paypal-pro Description: This google dork lists out Advisories and Vulnerabilities regarding the payment-form-for-paypal-pro wordpress plugin. Ref: https://wpvulndb.com/vulnerabilities/10287 Author: Abhi Chitkara 
+Dork: inurl:wp-content/plugins/payment-form-for-paypal-pro
+ Description: This google dork lists out Advisories and Vulnerabilities
+ regarding the payment-form-for-paypal-pro wordpress plugin. Ref:
+ https://wpvulndb.com/vulnerabilities/10287
+ Author: Abhi Chitkara
+ 

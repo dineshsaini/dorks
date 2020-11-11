@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6575
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2020-09-28
 Author:           Alexandros Pappas
@@ -6,4 +7,8 @@ GoogleDork:       "Pop-up" + "Live Image" inurl:index.html
 Description:      "Pop-up" + "Live Image" inurl:index.html
 
 
-# Google Dork: "Pop-up" + "Live Image" inurl:index.html # Various online devices (webcams). # Date: 28/09/2020 # Exploit Author: Alexandros Pappas 
+# Google Dork: "Pop-up" + "Live Image" inurl:index.html
+ # Various online devices (webcams).
+ # Date: 28/09/2020
+ # Exploit Author: Alexandros Pappas
+ 

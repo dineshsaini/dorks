@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1236
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2006-01-01
 Author:           anonymous
@@ -6,4 +7,4 @@ GoogleDork:       filetype:bak createobject sa
 Description:      filetype:bak createobject sa
 
 
-This query searches for files that have been renamed to a .bak extension (obviously), but includes a search for the characters "sa" (default SQL server admin id) and "createobject" which is requisite VBScript for opening some sort of odbc/ado connection. Since the sql id and password are plain text, it's easy to connect to the SQL server once you have this information... especially those that use "server=127.0.0.1" so you know IIS &amp; SQL Server are running on the same box.
+This query searches for files that have been renamed to a .bak extension (obviously), but includes a search for the characters "sa" (default SQL server admin id) and "createobject" which is requisite VBScript for opening some sort of odbc/ado connection. Since the sql id and password are plain text, it's easy to connect to the SQL server once you have this information... especially those that use "server=127.0.0.1" so you know IIS & SQL Server are running on the same box.

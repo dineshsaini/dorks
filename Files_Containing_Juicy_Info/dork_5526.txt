@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5526
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2019-09-13
 Author:           Renato Hormazabal
@@ -6,4 +7,6 @@ GoogleDork:       inurl:/application/config/database.php*
 Description:      inurl:/application/config/database.php*
 
 
-Sensitive Directories and Juice Informations in open public Git/SVN  @hex0x42424242
+Sensitive Directories and Juice Informations in open public Git/SVN
+ 
+ @hex0x42424242

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5516
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2019-09-10
 Author:           Surya Teja Masanam
@@ -6,4 +7,8 @@ GoogleDork:       "Scanned by Camscanner" filetype:pdf
 Description:      "Scanned by Camscanner" filetype:pdf
 
 
-# Google Dork: "Scanned by Camscanner" filetype:pdf # Category: Files Containing Juicy Information # Author: Surya Teja Masanam # Date: 10-09-2018 
+# Google Dork: "Scanned by Camscanner" filetype:pdf
+ # Category: Files Containing Juicy Information
+ # Author: Surya Teja Masanam
+ # Date: 10-09-2018
+ 

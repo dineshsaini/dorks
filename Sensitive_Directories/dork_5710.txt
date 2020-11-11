@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5710
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2020-01-27
 Author:           Bruno Schmid
@@ -6,4 +7,9 @@ GoogleDork:       -pub -pool intitle:"index of" squirrelmail/
 Description:      -pub -pool intitle:"index of" squirrelmail/
 
 
-Squirrel mail configuration files and sometimes credentials.   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 
+Squirrel mail configuration files and sometimes credentials.
+ 
+ 
+ Bruno Schmid
+ https://ch.linkedin.com/in/schmidbruno
+ 

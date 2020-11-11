@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6544
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2020-09-16
 Author:           Sibi Mathew George
@@ -6,4 +7,13 @@ GoogleDork:       inurl:device ext:rsp
 Description:      inurl:device ext:rsp
 
 
-Google Dork: inurl:device ext:rsp  CVE: CVE-2018-9995   Description: The CVE-2018-9995 vulnerability against IoT devices. It is able to extract account credentials of DVR, MVR, MDVR, XVR, NVR etc devices thereby accessing the devices and their video feeds.  Author : Sibi Mathew George 
+Google Dork: inurl:device ext:rsp
+ 
+ CVE: CVE-2018-9995 
+ 
+ Description: The CVE-2018-9995 vulnerability against IoT
+ devices. It is able to extract account credentials of DVR, MVR, MDVR, XVR,
+ NVR etc devices thereby accessing the devices and their video feeds.
+ 
+ Author : Sibi Mathew George
+ 

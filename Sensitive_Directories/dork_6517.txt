@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6517
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2020-09-03
 Author:           Alexandros Pappas
@@ -6,4 +7,8 @@ GoogleDork:       "ws_ftp.log" ext:log
 Description:      "ws_ftp.log" ext:log
 
 
-# Google Dork: "ws_ftp.log" ext:log # Sensitive directories. # Date: 1/09/2020 # Exploit Author: Alexandros Pappas 
+# Google Dork: "ws_ftp.log" ext:log
+ # Sensitive directories.
+ # Date: 1/09/2020
+ # Exploit Author: Alexandros Pappas
+ 

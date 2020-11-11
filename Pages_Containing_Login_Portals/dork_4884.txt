@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4884
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2018-07-05
 Author:           Lino Thomas
@@ -6,4 +7,8 @@ GoogleDork:       inurl:login.jsp intitle:"admin"
 Description:      inurl:login.jsp intitle:"admin"
 
 
-Dork : inurl:login.jsp intitle:"admin"  Description : This Dork id Used to find the Admin Login Portal of a Web Page Author: Lino Thomas 
+Dork : inurl:login.jsp intitle:"admin"
+ 
+ Description : This Dork id Used to find the Admin Login Portal of a Web Page
+ Author: Lino Thomas
+ 

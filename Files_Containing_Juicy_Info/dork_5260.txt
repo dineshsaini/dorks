@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5260
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2019-06-19
 Author:           anonymous
@@ -6,4 +7,8 @@ GoogleDork:       docs.google.com/document
 Description:      docs.google.com/document
 
 
-- `site:https://docs.google.com/document/d/ password`  - `site:https://docs.google.com/document/d/ password email`  - `site:https://docs.google.com/document/d/ username`  - `site:https://docs.google.com/document/d/ ssn`  - `site:https://docs.google.com/document/d/ passport number` 
+- `site:https://docs.google.com/document/d/ password` 
+ - `site:https://docs.google.com/document/d/ password email` 
+ - `site:https://docs.google.com/document/d/ username` 
+ - `site:https://docs.google.com/document/d/ ssn` 
+ - `site:https://docs.google.com/document/d/ passport number` 

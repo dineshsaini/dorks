@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5729
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2020-02-10
 Author:           vocuzi
@@ -6,4 +7,12 @@ GoogleDork:       intext:"Security is Off" intitle:"Namenode information"
 Description:      intext:"Security is Off" intitle:"Namenode information"
 
 
-Description: Unprotected public Hadoop Administration dashboards  Dork : intext:"Security is Off" intitle:"Namenode information"  Author: Vipin Joshi (@vocuzi) 
+Description:
+ Unprotected public Hadoop Administration dashboards
+ 
+ Dork :
+ intext:"Security is Off" intitle:"Namenode information"
+ 
+ Author:
+ Vipin Joshi (@vocuzi)
+ 

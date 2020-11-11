@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5953
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2020-04-27
 Author:           Alexandros Pappas
@@ -6,4 +7,12 @@ GoogleDork:       "/etc/shadow root:$" ext:cfg OR ext:log OR ext:txt OR ext:sql 
 Description:      "/etc/shadow root:$" ext:cfg OR ext:log OR ext:txt OR ext:sql -git
 
 
-# Google Dork: "/etc/shadow root:$" ext:cfg OR ext:log OR ext:txt OR ext:sql -git  # By using this dork some root passwords in /etc/shadow can be found.  # Date: 27/04/2020  # Author: Alexandros Pappas 
+# Google Dork: "/etc/shadow root:$" ext:cfg OR ext:log OR ext:txt OR
+ ext:sql -git
+ 
+ # By using this dork some root passwords in /etc/shadow can be found.
+ 
+ # Date: 27/04/2020
+ 
+ # Author: Alexandros Pappas
+ 

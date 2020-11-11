@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5092
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2019-02-05
 Author:           Brain Reflow
@@ -6,4 +7,11 @@ GoogleDork:       intitle:"Login - Xfinity" AND "Gateway &gt; Login"
 Description:      intitle:"Login - Xfinity" AND "Gateway &gt; Login"
 
 
-Dork about login panels of Xfinity Routers   intitle:"Login - Xfinity" AND "Gateway &gt; Login"   Author : *.doc-TOR aka Brain Reflow https://twitter.com/The_d0c_T0R 
+Dork about login panels of Xfinity Routers
+ 
+ 
+ intitle:"Login - Xfinity" AND "Gateway &gt; Login"
+ 
+ 
+ Author : *.doc-TOR aka Brain Reflow https://twitter.com/The_d0c_T0R
+ 

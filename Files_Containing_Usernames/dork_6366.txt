@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6366
+Severity: 5 
 Category:         Files Containing Usernames
 Published Date:   2020-07-02
 Author:           Mohit khemchandani
@@ -6,4 +7,7 @@ GoogleDork:       intitle:"index of" "/ftpusers"
 Description:      intitle:"index of" "/ftpusers"
 
 
-Title: File containing juicy info Google Dork: intitle:"index of" "/ftpusers" Date: 02/07/2020 Author : Mohit Khemchandani
+Title: File containing juicy info
+ Google Dork: intitle:"index of" "/ftpusers"
+ Date: 02/07/2020
+ Author : Mohit Khemchandani

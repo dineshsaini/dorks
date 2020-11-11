@@ -1,9 +1,10 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3881
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2013-08-08
 Author:           anonymous
-GoogleDork:       inurl:phpmyadmin/index.php &amp; (intext:username &amp; password &amp; "Welcome to")
-Description:      inurl:phpmyadmin/index.php &amp; (intext:username &amp; password &amp; "Welcome to")
+GoogleDork:       inurl:phpmyadmin/index.php & (intext:username & password & "Welcome to")
+Description:      inurl:phpmyadmin/index.php & (intext:username & password & "Welcome to")
 
 
 #Summary: PHP Admin login portals #Author: g00gl3 5c0u7

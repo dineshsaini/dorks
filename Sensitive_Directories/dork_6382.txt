@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6382
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2020-07-08
 Author:           Alexandros Pappas
@@ -6,4 +7,8 @@ GoogleDork:       intitle:"index of" "/root/etc/security/"
 Description:      intitle:"index of" "/root/etc/security/"
 
 
-# Google Dork: intitle:"index of" "/root/etc/security/" # Juicy information and sensitive directories. # Date: 8/07/2020 # Exploit Author: Alexandros Pappas 
+# Google Dork: intitle:"index of" "/root/etc/security/"
+ # Juicy information and sensitive directories.
+ # Date: 8/07/2020
+ # Exploit Author: Alexandros Pappas
+ 

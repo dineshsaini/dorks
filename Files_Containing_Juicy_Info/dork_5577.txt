@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5577
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2019-10-18
 Author:           Maxime Westhoven
@@ -6,4 +7,8 @@ GoogleDork:       intitle:"Index Of" intext:sftp-config.json
 Description:      intitle:"Index Of" intext:sftp-config.json
 
 
-intitle:"Index Of" intext:sftp-config.json  --  Maxime Westhoven 
+intitle:"Index Of" intext:sftp-config.json
+ 
+ -- 
+ Maxime Westhoven
+ 

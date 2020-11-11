@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/618
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2004-10-26
 Author:           anonymous
@@ -6,4 +7,4 @@ GoogleDork:       filetype:cgi inurl:nbmember.cgi
 Description:      filetype:cgi inurl:nbmember.cgi
 
 
-vulnerable Netbilling nbmember.cgiNetbilling 'nbmember.cgi' script is reported prone to an information disclosure vulnerability. This issue may allow remote attackers to gain access to user authentication credentials and potentially sensitive configuration information.The following proof of concept is available:http://www.example.com/cgi-bin/nbmember.cgi?cmd=testhttp://www.example.com/cgi-bin/nbmember.cgi?cmd=list_all_users&amp;keyword=hereistheaccesskeywordhttp://www.securityfocus.com/bid/11504
+vulnerable Netbilling nbmember.cgiNetbilling 'nbmember.cgi' script is reported prone to an information disclosure vulnerability. This issue may allow remote attackers to gain access to user authentication credentials and potentially sensitive configuration information.The following proof of concept is available:http://www.example.com/cgi-bin/nbmember.cgi?cmd=testhttp://www.example.com/cgi-bin/nbmember.cgi?cmd=list_all_users&keyword=hereistheaccesskeywordhttp://www.securityfocus.com/bid/11504

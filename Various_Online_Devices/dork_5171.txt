@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5171
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2019-04-05
 Author:           CrimsonTorso
@@ -6,4 +7,7 @@ GoogleDork:       "This service is powered by a copy of ZendTo"
 Description:      "This service is powered by a copy of ZendTo"
 
 
-Find websites using ZendTo software, which includes File Upload &amp; Login portals. ~ CrimsonTorso 
+Find websites using ZendTo software, which includes File Upload & Login
+ portals.
+ ~ CrimsonTorso
+ 

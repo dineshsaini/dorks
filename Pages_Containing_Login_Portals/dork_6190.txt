@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6190
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-06-04
 Author:           AJAYSEN R
@@ -6,4 +7,7 @@ GoogleDork:       inurl:emplogin.aspx
 Description:      inurl:emplogin.aspx
 
 
-# Google Dork: inurl:emplogin.aspx # List of Employee login page of various website # Author: AJAYSEN R 
+# Google Dork: inurl:emplogin.aspx
+ # List of Employee login page of various website
+ # Author: AJAYSEN R
+ 

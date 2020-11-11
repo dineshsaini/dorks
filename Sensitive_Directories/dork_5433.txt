@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5433
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2019-08-22
 Author:           Reza Abasi
@@ -6,4 +7,9 @@ GoogleDork:       intitle:"index of" /content/admin/
 Description:      intitle:"index of" /content/admin/
 
 
-Sensitive Directory:  intitle:"index of" /content/admin/  Reza Abasi(Turku) 
+Sensitive Directory:
+ 
+ intitle:"index of" /content/admin/
+ 
+ Reza Abasi(Turku)
+ 

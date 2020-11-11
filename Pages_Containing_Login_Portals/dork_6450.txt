@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6450
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-07-26
 Author:           Dharmveer Singh
@@ -6,4 +7,10 @@ GoogleDork:       site:police.*.*/ intext:"login" intitle:"login"
 Description:      site:police.*.*/ intext:"login" intitle:"login"
 
 
-# Google Dork: site:police.*.*/ intext:"login" intitle:"login" # By using this dork, we can extract various police station login portals # Date: 3/07/2020 # Author: Dharmveer Singh*  [image: image.png] 
+# Google Dork: site:police.*.*/ intext:"login" intitle:"login"
+ # By using this dork, we can extract various police station login portals
+ # Date: 3/07/2020
+ # Author: Dharmveer Singh*
+ 
+ [image: image.png]
+ 

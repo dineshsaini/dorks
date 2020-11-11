@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6522
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-09-07
 Author:           Alexandros Pappas
@@ -6,4 +7,8 @@ GoogleDork:       "SonicWALL - Authentication" inurl:/auth.html
 Description:      "SonicWALL - Authentication" inurl:/auth.html
 
 
-# Google Dork: "SonicWALL - Authentication" inurl:/auth.html # Pages containing login portals. # Date: 3/09/2020 # Exploit Author: Alexandros Pappas 
+# Google Dork: "SonicWALL - Authentication" inurl:/auth.html
+ # Pages containing login portals.
+ # Date: 3/09/2020
+ # Exploit Author: Alexandros Pappas
+ 

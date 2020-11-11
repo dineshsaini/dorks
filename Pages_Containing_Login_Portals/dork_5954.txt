@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5954
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-04-27
 Author:           Alexandros Pappas
@@ -6,4 +7,12 @@ GoogleDork:       "The default username and password is admin:admin" intitle:Log
 Description:      "The default username and password is admin:admin" intitle:Login OR inurl:login.php
 
 
-# Google Dork: "The default username and password is admin:admin" intitle:Login OR inurl:login.php  # Default user name and password admin:admin.  # Date: 27/04/2020  # Author: Alexandros Pappas 
+# Google Dork: "The default username and password is admin:admin"
+ intitle:Login OR inurl:login.php
+ 
+ # Default user name and password admin:admin.
+ 
+ # Date: 27/04/2020
+ 
+ # Author: Alexandros Pappas
+ 

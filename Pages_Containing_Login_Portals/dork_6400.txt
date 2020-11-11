@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6400
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-07-14
 Author:           Alexandros Pappas
@@ -6,4 +7,8 @@ GoogleDork:       "login" intitle:"*payroll login"
 Description:      "login" intitle:"*payroll login"
 
 
-# Google Dork: "login" intitle:"*payroll login" # Payroll login portals. # Date: 14/07/2020 # Author: Alexandros Pappas 
+# Google Dork: "login" intitle:"*payroll login"
+ # Payroll login portals.
+ # Date: 14/07/2020
+ # Author: Alexandros Pappas
+ 

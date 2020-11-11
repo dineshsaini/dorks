@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5019
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2018-11-08
 Author:           Kevin Randall
@@ -6,4 +7,9 @@ GoogleDork:       allinurl:DialogHandler.aspx
 Description:      allinurl:DialogHandler.aspx
 
 
-Sites running Telerik Web UI Dialog Handler  allinurl:DialogHandler.aspx  Discovered By: Kevin Randall 
+Sites running Telerik Web UI Dialog Handler
+ 
+ allinurl:DialogHandler.aspx
+ 
+ Discovered By: Kevin Randall
+ 

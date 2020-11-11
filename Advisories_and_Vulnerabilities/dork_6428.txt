@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6428
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2020-07-21
 Author:           Sachin Kattimani
@@ -6,4 +7,10 @@ GoogleDork:       inurl:wp-content/plugins/email-subscribers
 Description:      inurl:wp-content/plugins/email-subscribers
 
 
-DORK:inurl:wp-content/plugins/email-subscribers  https://wpvulndb.com/vulnerabilities/ 10322  This google dork gives us the advisories and vulnerabilities on wordpress plugins
+DORK:inurl:wp-content/plugins/email-subscribers
+ 
+ https://wpvulndb.com/vulnerabilities/
+ 10322
+ 
+ This google dork gives us the advisories and vulnerabilities on wordpress
+ plugins

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4958
+Severity: 5 
 Category:         Web Server Detection
 Published Date:   2018-09-20
 Author:           Bruno Schmid
@@ -6,4 +7,9 @@ GoogleDork:       intext:"Powered by Sentora" -github.com
 Description:      intext:"Powered by Sentora" -github.com
 
 
-Sites using Sentora CMS.   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 
+Sites using Sentora CMS.
+ 
+ 
+ Bruno Schmid
+ https://ch.linkedin.com/in/schmidbruno
+ 

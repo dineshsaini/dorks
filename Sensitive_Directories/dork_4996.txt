@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4996
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2018-10-23
 Author:           Alfie
@@ -6,4 +7,12 @@ GoogleDork:       inurl:"/wp-json/" -wordpress
 Description:      inurl:"/wp-json/" -wordpress
 
 
-Google dork *description: Advisories_and_Vulnerabilities dork_1240.txt dork_1241.txt dork_1242.txt dork_1243.txt dork_1244.txt dork_1245.txt dork_1246.txt dork_1247.txt dork_1248.txt dork_1249.txt dork_1250.txt dork_1251.txt dork_1252.txt dork_1253.txt dork_1254.txt Error_Messages failed_dorks.txt Files_Containing_Juicy_Info Files_Containing_Passwords Files_Containing_Usernames Footholds ghdb_dorks.sh logs.txt Network_or_Vulnerability_Data Pages_Containing_Login_Portals Sensitive_Directories Sensitive_Online_Shopping_Info Various_Online_Devices Vulnerable_Files Vulnerable_Servers Web_Server_Detection Sites running WordPress CMS and access to the wp-json API endpoint which *might* be vulnerable to content injection  *Google Search: *inurl:"/wp-json/" -wordpress  Submitted by: Alfie  Website: (https://the-infosec.com) 
+Google dork *description: Advisories_and_Vulnerabilities dork_1240.txt dork_1241.txt dork_1242.txt dork_1243.txt dork_1244.txt dork_1245.txt dork_1246.txt dork_1247.txt dork_1248.txt dork_1249.txt dork_1250.txt dork_1251.txt dork_1252.txt dork_1253.txt dork_1254.txt Error_Messages failed_dorks.txt Files_Containing_Juicy_Info Files_Containing_Passwords Files_Containing_Usernames Footholds ghdb_dorks.sh logs.txt Network_or_Vulnerability_Data Pages_Containing_Login_Portals Sensitive_Directories Sensitive_Online_Shopping_Info Various_Online_Devices Vulnerable_Files Vulnerable_Servers Web_Server_Detection Sites running WordPress CMS and access to the
+ wp-json API endpoint which *might* be vulnerable to content injection
+ 
+ *Google Search: *inurl:"/wp-json/" -wordpress
+ 
+ Submitted by: Alfie
+ 
+ Website: (https://the-infosec.com)
+ 

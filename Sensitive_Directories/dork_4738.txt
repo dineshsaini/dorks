@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4738
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2018-04-02
 Author:           Sang Bui
@@ -6,4 +7,8 @@ GoogleDork:       intitle:CV+index of
 Description:      intitle:CV+index of
 
 
-Able to search and download the CV from web directory.   Sang Bui 
+Able to search and download the CV from web directory.
+ 
+ 
+ Sang Bui
+ 

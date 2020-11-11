@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1317
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2006-03-28
 Author:           anonymous
@@ -6,4 +7,4 @@ GoogleDork:       "powered by guestbook script" -ihackstuff -exploit
 Description:      "powered by guestbook script" -ihackstuff -exploit
 
 
-poc exploit &amp; explaination: http://retrogod.altervista.org/gbs_17_xpl_pl.html
+poc exploit & explaination: http://retrogod.altervista.org/gbs_17_xpl_pl.html

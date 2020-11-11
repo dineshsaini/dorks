@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5157
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2019-03-18
 Author:           CrimsonTorso
@@ -6,4 +7,7 @@ GoogleDork:       "Powered by Trac 1.0.2"
 Description:      "Powered by Trac 1.0.2"
 
 
-Find Reporting-based websites that are using Trac.  ~ CrimsonTorso 
+Find Reporting-based websites that are using Trac.
+ 
+ ~ CrimsonTorso
+ 

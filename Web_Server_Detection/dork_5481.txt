@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5481
+Severity: 5 
 Category:         Web Server Detection
 Published Date:   2019-09-02
 Author:           Reza Abasi
@@ -6,4 +7,12 @@ GoogleDork:       inurl:/iisstart.htm intitle:"IIS7"
 Description:      inurl:/iisstart.htm intitle:"IIS7"
 
 
-Web Server Detection:  inurl:/iisstart.htm intitle:"IIS7" inurl:/iisstart.htm intitle:"IIS Windows Server" intitle:"Microsoft Internet Information Services 8" inurl:/iisstart.htm intitle:"IIS Windows"  Reza Abasi(Turku) 
+Web Server Detection:
+ 
+ inurl:/iisstart.htm intitle:"IIS7"
+ inurl:/iisstart.htm intitle:"IIS Windows Server"
+ intitle:"Microsoft Internet Information Services 8"
+ inurl:/iisstart.htm intitle:"IIS Windows"
+ 
+ Reza Abasi(Turku)
+ 

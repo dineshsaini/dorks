@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5769
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2020-03-05
 Author:           Hilary Soita
@@ -6,4 +7,9 @@ GoogleDork:       intext:"WPENGINE_SESSION_DB_USERNAME" || "WPENGINE_SESSION_DB_
 Description:      intext:"WPENGINE_SESSION_DB_USERNAME" || "WPENGINE_SESSION_DB_PASSWORD"
 
 
-WPEngine credentials exposed  --   *Hilary Soita.* 
+WPEngine credentials exposed
+ 
+ -- 
+ 
+ *Hilary Soita.*
+ 

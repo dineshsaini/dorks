@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6644
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-10-28
 Author:           Alexandros Pappas
@@ -6,4 +7,11 @@ GoogleDork:       "* Authentication Unique Keys and Salts" ext:txt | ext:log
 Description:      "* Authentication Unique Keys and Salts" ext:txt | ext:log
 
 
-# Google Dork: "* Authentication Unique Keys and Salts" ext:txt | ext:log  # Authentication Unique Keys and Salts and more....  # Date: 2/10/2020  # Exploit Author: Alexandros Pappas 
+# Google Dork: "* Authentication Unique Keys and Salts" ext:txt | ext:log
+ 
+ # Authentication Unique Keys and Salts and more....
+ 
+ # Date: 2/10/2020
+ 
+ # Exploit Author: Alexandros Pappas
+ 

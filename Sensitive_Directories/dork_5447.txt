@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5447
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2019-08-26
 Author:           Midhun Biju
@@ -6,4 +7,12 @@ GoogleDork:       intitle:index.of.?.database
 Description:      intitle:index.of.?.database
 
 
-Google Dork: intitle:index.of.?.database  Category: Sensitive Directories  Description: Used to find sensitive database files (*.sql) from the website directory  Author: Midhun Biju 
+Google Dork: intitle:index.of.?.database
+ 
+ Category: Sensitive Directories
+ 
+ Description:
+ Used to find sensitive database files (*.sql) from the website directory
+ 
+ Author: Midhun Biju
+ 

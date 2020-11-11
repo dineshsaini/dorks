@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6342
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2020-06-30
 Author:           Sandeep Kumar
@@ -6,4 +7,8 @@ GoogleDork:       inurl:logs intext:GET https:// ext:txt intext:password intext:
 Description:      inurl:logs intext:GET https:// ext:txt intext:password intext:username
 
 
-Dork: inurl:logs intext:GET https:// ext:txt intext:password intext:username Description: this dork will return username and password sent in GET request from proxies logs. Author: Sandeep kumar 
+Dork: inurl:logs intext:GET https:// ext:txt intext:password intext:username
+ Description: this dork will return username and password sent in GET
+ request from proxies logs.
+ Author: Sandeep kumar
+ 

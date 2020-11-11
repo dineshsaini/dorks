@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/46
+Severity: 5 
 Category:         Vulnerable Servers
 Published Date:   2003-07-08
 Author:           anonymous

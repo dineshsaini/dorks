@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4894
+Severity: 5 
 Category:         Web Server Detection
 Published Date:   2018-07-19
 Author:           ManhNho
@@ -6,4 +7,9 @@ GoogleDork:       intitle:HTTP Server Test Page powered by CentOS
 Description:      intitle:HTTP Server Test Page powered by CentOS
 
 
-intitle:HTTP Server Test Page powered by CentOS  CentOS detected  ManhNho 
+intitle:HTTP Server Test Page powered by CentOS
+ 
+ CentOS detected
+ 
+ ManhNho
+ 

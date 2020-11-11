@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6430
+Severity: 5 
 Category:         Footholds
 Published Date:   2020-07-21
 Author:           Tanmay Bhattacharjee
@@ -6,4 +7,11 @@ GoogleDork:       intitle:"index.of" +jmx-console
 Description:      intitle:"index.of" +jmx-console
 
 
-Description: intitle:"index.of" +jmx-console  This google dorks give us java management extention.   Thanks, Tanmay Bhattacharjee 
+Description: intitle:"index.of" +jmx-console
+ 
+ This google dorks give us java management extention.
+ 
+ 
+ Thanks,
+ Tanmay Bhattacharjee
+ 

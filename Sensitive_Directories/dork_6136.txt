@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6136
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2020-05-27
 Author:           Ritik Sahni
@@ -6,4 +7,8 @@ GoogleDork:       "index of" "/config/sql"
 Description:      "index of" "/config/sql"
 
 
-# Title: Find sensitive SQL config files. # Google Dork: "index of" "/config/sql" # Date: 27/05/2020 # Author: Ritik Sahni 
+# Title: Find sensitive SQL config files.
+ # Google Dork: "index of" "/config/sql"
+ # Date: 27/05/2020
+ # Author: Ritik Sahni
+ 

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4716
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2018-03-28
 Author:           edm0nd
@@ -6,4 +7,11 @@ GoogleDork:       intitle:Control Panel "Login with your username and password b
 Description:      intitle:Control Panel "Login with your username and password below." +"Email" +"Powered by"
 
 
-*What: *Vulnerable Interspire Email Marketer installs and their login pages.  The dork from the recently published paper https://security.infoteam.ch/en/blog/posts/from-hacked-client-to-0day-discovery.html  *By: *edm0nd https://twitter.com/Edmond_Major 
+*What: *Vulnerable Interspire Email Marketer installs and their login pages.
+ 
+ The dork from the recently published paper
+ https://security.infoteam.ch/en/blog/posts/from-hacked-client-to-0day-discovery.html
+ 
+ *By: *edm0nd
+ https://twitter.com/Edmond_Major
+ 

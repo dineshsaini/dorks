@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4789
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2018-04-25
 Author:           ManhNho
@@ -6,4 +7,9 @@ GoogleDork:       inurl:"/bigdump.php" + intitle:"BigDump ver."
 Description:      inurl:"/bigdump.php" + intitle:"BigDump ver."
 
 
-inurl:"/bigdump.php" + intitle:"BigDump ver."  Show "BigDump: Staggered MySQL Dump Importer" Page  ManhNho 
+inurl:"/bigdump.php" + intitle:"BigDump ver."
+ 
+ Show "BigDump: Staggered MySQL Dump Importer" Page
+ 
+ ManhNho
+ 

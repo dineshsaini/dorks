@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5794
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-03-16
 Author:           Nicholas Doropoulos
@@ -6,4 +7,8 @@ GoogleDork:       intext:"please enter your username and password" inurl:login f
 Description:      intext:"please enter your username and password" inurl:login filetype:php
 
 
-Category: Pages Containing Login Portals   Nicholas Doropoulos
+Severity: 5 
+Category: Pages Containing Login Portals
+ 
+ 
+ Nicholas Doropoulos

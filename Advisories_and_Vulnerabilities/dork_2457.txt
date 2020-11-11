@@ -1,9 +1,10 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/2457
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2010-11-15
 Author:           anonymous
-GoogleDork:       "Designed &amp; Developed by net-finity"
-Description:      "Designed &amp; Developed by net-finity"
+GoogleDork:       "Designed & Developed by net-finity"
+Description:      "Designed & Developed by net-finity"
 
 
 net-finity (links.php) Remote SQL Injection Vulnerability: https://www.exploit-db.com/exploits/4629

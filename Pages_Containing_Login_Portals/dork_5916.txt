@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5916
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-04-20
 Author:           Alexandros Pappas
@@ -6,4 +7,11 @@ GoogleDork:       "login" intitle:"iot login"
 Description:      "login" intitle:"iot login"
 
 
-# Google Dork: "login" intitle:"iot login"  # Pages containing various IoT () login portals can be found.  # Date: 17/04/2020  # Author: Alexandros Pappas 
+# Google Dork: "login" intitle:"iot login"
+ 
+ # Pages containing various IoT () login portals can be found.
+ 
+ # Date: 17/04/2020
+ 
+ # Author: Alexandros Pappas
+ 

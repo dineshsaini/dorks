@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5496
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-09-03
 Author:           Paras Arora
@@ -6,4 +7,9 @@ GoogleDork:       site:*/resetpassword.php
 Description:      site:*/resetpassword.php
 
 
-To View ResetPassword Portals of various websites *Dork: site:*/resetpassword.php* *Author: Paras Arora* *Date: 3rd September 2019 * *Category: Pages Containing Reset Portals* 
+To View ResetPassword Portals of various websites
+ *Dork: site:*/resetpassword.php*
+ *Author: Paras Arora*
+ *Date: 3rd September 2019 *
+ *Category: Pages Containing Reset Portals*
+ 

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5506
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-09-05
 Author:           MiningOmerta
@@ -6,4 +7,11 @@ GoogleDork:       site:dev.*.*/signin
 Description:      site:dev.*.*/signin
 
 
-Google Dork Submission for finding developers login pages for various places.  site:dev.*.*/signin site:account.*.*/signin  Author: MiningOmerta  
+Google Dork Submission for finding developers login pages for various places.
+ 
+ site:dev.*.*/signin
+ site:account.*.*/signin
+ 
+ Author: MiningOmerta
+ 
+ 

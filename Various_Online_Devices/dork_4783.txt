@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4783
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2018-04-17
 Author:           Parth S. Patel
@@ -6,4 +7,10 @@ GoogleDork:       intext:build:SVNTag= JBoss intitle:Administration Console inur
 Description:      intext:build:SVNTag= JBoss intitle:Administration Console inurl:web-console
 
 
-JBoss AS management console.    Author: Parth S. Patel https://ca.linkedin.com/in/parthpateloscp  
+JBoss AS management console.
+ 
+ 
+ 
+ Author: Parth S. Patel
+ https://ca.linkedin.com/in/parthpateloscp
+  

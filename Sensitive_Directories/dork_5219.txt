@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5219
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2019-05-21
 Author:           acc3ssp0int
@@ -6,4 +7,12 @@ GoogleDork:       inurl:bc.googleusercontent.com intitle:index of
 Description:      inurl:bc.googleusercontent.com intitle:index of
 
 
-dork that enumerates GCP for sensitive directories  *Google Dork*  inurl:bc.googleusercontent.com intitle:index of  *Dates: *21-05-2019  *Dork Author:* acc3ssp0int
+dork that enumerates GCP for sensitive directories
+ 
+ *Google Dork*
+ 
+ inurl:bc.googleusercontent.com intitle:index of
+ 
+ *Dates: *21-05-2019
+ 
+ *Dork Author:* acc3ssp0int

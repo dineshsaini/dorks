@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6002
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2020-05-04
 Author:           Abhi Chitkara
@@ -6,4 +7,8 @@ GoogleDork:       intitle:"index of" "admin/json"
 Description:      intitle:"index of" "admin/json"
 
 
-Dork: intitle:"index of" "admin/json" Description: This Google dork lists out sensitive json file stored in the admin folder for a website. Author: Abhi Chitkara 
+Dork: intitle:"index of" "admin/json"
+ Description: This Google dork lists out sensitive json file stored in the
+ admin folder for a website.
+ Author: Abhi Chitkara
+ 

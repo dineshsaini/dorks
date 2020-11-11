@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4685
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2018-03-02
 Author:           Alfie
@@ -6,4 +7,11 @@ GoogleDork:       "MAIL_PASSWORD" filetype:env
 Description:      "MAIL_PASSWORD" filetype:env
 
 
-*Google* dork *description: *mail credentials ( db credentials) for mostly laravel websites  *Google Search:* "MAIL_PASSWORD" filetype:env  *Submitted by:* Alfie  *Website: (*https://the-infosec.com*)*
+*Google* dork *description: *mail credentials ( db credentials) for mostly
+ laravel websites
+ 
+ *Google Search:* "MAIL_PASSWORD" filetype:env
+ 
+ *Submitted by:* Alfie
+ 
+ *Website: (*https://the-infosec.com*)*

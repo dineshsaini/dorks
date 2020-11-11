@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5147
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2019-03-11
 Author:           Thalysson Sarmento
@@ -6,4 +7,5 @@ GoogleDork:       inurl:/files/_log/ filetype:log
 Description:      inurl:/files/_log/ filetype:log
 
 
-inurl:/files/_log/ filetype:log 
+inurl:/files/_log/ filetype:log
+ 

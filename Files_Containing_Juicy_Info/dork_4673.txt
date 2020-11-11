@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4673
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2018-02-14
 Author:           Dxtroyer
@@ -6,4 +7,9 @@ GoogleDork:       "[LocalizedFileNames]" inurl:"desktop.ini" ext:ini -git -wiki
 Description:      "[LocalizedFileNames]" inurl:"desktop.ini" ext:ini -git -wiki
 
 
-Finds desktop.ini files which have lists of shortcuts on the desktop. Often different software, including insecure software, creates desktop shortcuts. You can use this to find different software running on the server.  Dxtroyer 
+Finds desktop.ini files which have lists of shortcuts on the desktop. Often
+ different software, including insecure software, creates desktop shortcuts.
+ You can use this to find different software running on the server.
+ 
+ Dxtroyer
+ 

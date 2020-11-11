@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6017
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2020-05-05
 Author:           Abhi Chitkara
@@ -6,4 +7,8 @@ GoogleDork:       intitle:"index of" "graphql/subscription"
 Description:      intitle:"index of" "graphql/subscription"
 
 
-Dork: intitle:"index of" "graphql/subscription" Description: This Google dork lists out sensitive graphQL subscription flows for a website. Author: Abhi Chitkara 
+Dork: intitle:"index of" "graphql/subscription"
+ Description: This Google dork lists out sensitive graphQL subscription
+ flows for a website.
+ Author: Abhi Chitkara
+ 

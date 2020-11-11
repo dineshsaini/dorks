@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4782
+Severity: 5 
 Category:         Vulnerable Servers
 Published Date:   2018-04-17
 Author:           Pancaker
@@ -6,4 +7,11 @@ GoogleDork:       Drupal CMS - Drupalgeddon2
 Description:      Drupal CMS - Drupalgeddon2
 
 
-GoogleDork #1 ~ inurl:"/user/register" "Powered by Drupal" -CAPTCHA -"Access denied"  GoogleDork #2 ~ inurl:"user/register?element_parents=account/mail"  GoogleDork #3 ~ inurl:"*drupal_ajax"  GoogleDork #4 ~ ;) 
+GoogleDork #1 ~ inurl:"/user/register" "Powered by Drupal" -CAPTCHA -"Access denied"
+ 
+ GoogleDork #2 ~ inurl:"user/register?element_parents=account/mail"
+ 
+ GoogleDork #3 ~ inurl:"*drupal_ajax"
+ 
+ GoogleDork #4 ~ ;)
+ 

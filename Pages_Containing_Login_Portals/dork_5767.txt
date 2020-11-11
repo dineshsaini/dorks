@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5767
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-03-04
 Author:           Juveria Banu
@@ -6,4 +7,10 @@ GoogleDork:       intitle:"Log In JIRA" inurl:"8080:/login.jsp"
 Description:      intitle:"Log In JIRA" inurl:"8080:/login.jsp"
 
 
-The following dork gives you an extensive search result for login pages of JIRA  intitle:"Log In JIRA" inurl:"8080:/login.jsp"  By Juveria Banu 
+The following dork gives you an extensive search result for login pages of
+ JIRA
+ 
+ intitle:"Log In JIRA" inurl:"8080:/login.jsp"
+ 
+ By Juveria Banu
+ 

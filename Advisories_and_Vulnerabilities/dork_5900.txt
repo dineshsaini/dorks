@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5900
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2020-04-16
 Author:           Alexandros Pappas
@@ -6,4 +7,13 @@ GoogleDork:       inurl:php-bin/webclient.php
 Description:      inurl:php-bin/webclient.php
 
 
-# Google Dork: inurl:php-bin/webclient.php  # By using this dork, sites vulnerable to 0day Alcatel-Lucent Omnivista 8770 - Remote Code Execution, can be found. This dork is linked to the following existing exploit: https://www.exploit-db.com/exploits/47761  # Date: 07/04/2020  # Author: Alexandros Pappas 
+# Google Dork: inurl:php-bin/webclient.php
+ 
+ # By using this dork, sites vulnerable to 0day Alcatel-Lucent Omnivista
+ 8770 - Remote Code Execution, can be found. This dork is linked to the
+ following existing exploit: https://www.exploit-db.com/exploits/47761
+ 
+ # Date: 07/04/2020
+ 
+ # Author: Alexandros Pappas
+ 

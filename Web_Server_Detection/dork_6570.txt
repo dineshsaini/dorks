@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6570
+Severity: 5 
 Category:         Web Server Detection
 Published Date:   2020-09-24
 Author:           Ozer Goker
@@ -6,4 +7,9 @@ GoogleDork:       intitle:Snoop Servlet
 Description:      intitle:Snoop Servlet
 
 
-# Dork Title: to Find Snoop Servlet # Google Dork: intitle:Snoop Servlet # Date: 23.09.2020 # Author: Ozer Goker  
+# Dork Title: to Find Snoop Servlet
+ # Google Dork: intitle:Snoop Servlet
+ # Date: 23.09.2020
+ # Author: Ozer Goker
+ 
+ 

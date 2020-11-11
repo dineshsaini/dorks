@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5048
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2018-12-04
 Author:           Brain Reflow
@@ -6,4 +7,9 @@ GoogleDork:       intitle:"VB Viewer"
 Description:      intitle:"VB Viewer"
 
 
-This search finds several more webcams or IPCams  intitle:"VB Viewer"  Author : *.doc-TOR aka Brain Reflow https://twitter.com/The_d0c_T0R 
+This search finds several more webcams or IPCams
+ 
+ intitle:"VB Viewer"
+ 
+ Author : *.doc-TOR aka Brain Reflow https://twitter.com/The_d0c_T0R
+ 

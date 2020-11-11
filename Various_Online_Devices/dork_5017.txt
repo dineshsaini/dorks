@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5017
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2018-11-08
 Author:           Drok3r
@@ -6,4 +7,8 @@ GoogleDork:       inurl:/sample/LvAppl/lvappl.htm
 Description:      inurl:/sample/LvAppl/lvappl.htm
 
 
-[*] Dork: inurl:/sample/LvAppl/lvappl.htm  Dork to find Network Camera Server  Drok3r
+[*] Dork: inurl:/sample/LvAppl/lvappl.htm
+ 
+ Dork to find Network Camera Server
+ 
+ Drok3r

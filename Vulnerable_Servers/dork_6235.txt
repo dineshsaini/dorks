@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6235
+Severity: 5 
 Category:         Vulnerable Servers
 Published Date:   2020-06-08
 Author:           Sushant Kamble
@@ -6,4 +7,11 @@ GoogleDork:       site: target.com ext:action | ext:struts | ext:do
 Description:      site: target.com ext:action | ext:struts | ext:do
 
 
-*Dork:* site: target.com ext:action | ext:struts | ext:do  *Description:* This google dork will list up all the sites which use struts framework in there site.  *Author:* Sushant Shashikant Kamble https://www.linkedin.com/in/iamsushantkamble 
+*Dork:* site: target.com ext:action | ext:struts | ext:do
+ 
+ *Description:* This google dork will list up all the sites which use struts
+ framework in there site.
+ 
+ *Author:* Sushant Shashikant Kamble
+ https://www.linkedin.com/in/iamsushantkamble
+ 

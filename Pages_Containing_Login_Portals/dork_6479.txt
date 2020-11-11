@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6479
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-08-13
 Author:           Alexandros Pappas
@@ -6,4 +7,8 @@ GoogleDork:       intitle:"D-LINK" inurl:Login.html
 Description:      intitle:"D-LINK" inurl:Login.html
 
 
-# Google Dork: intitle:"D-LINK" inurl:Login.html # D-LINK router login portals. # Date: 11/08/2020 # Exploit Author: Alexandros Pappas 
+# Google Dork: intitle:"D-LINK" inurl:Login.html
+ # D-LINK router login portals.
+ # Date: 11/08/2020
+ # Exploit Author: Alexandros Pappas
+ 

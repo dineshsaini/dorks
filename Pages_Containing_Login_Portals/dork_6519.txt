@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6519
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-09-04
 Author:           Alexandros Pappas
@@ -6,4 +7,8 @@ GoogleDork:       inurl:weblogin.cgi?mobile=0
 Description:      inurl:weblogin.cgi?mobile=0
 
 
-# Google Dork: inurl:weblogin.cgi?mobile=0 # ZyXEL (Unified Security Gateways, Firewalls, VPN, etc) login portals. # Date: 1/09/2020 # Exploit Author: Alexandros Pappas 
+# Google Dork: inurl:weblogin.cgi?mobile=0
+ # ZyXEL (Unified Security Gateways, Firewalls, VPN, etc) login portals.
+ # Date: 1/09/2020
+ # Exploit Author: Alexandros Pappas
+ 

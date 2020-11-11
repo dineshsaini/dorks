@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4814
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2018-05-11
 Author:           Dec0y
@@ -6,4 +7,10 @@ GoogleDork:       inurl:fisheye AND inurl:changelog -site:atlassian.com -site:gi
 Description:      inurl:fisheye AND inurl:changelog -site:atlassian.com -site:github.com -intext:"Log in to FishEye"
 
 
-inurl:fisheye AND inurl:changelog -site:atlassian.com -site:github.com -intext:"Log in to FishEye"  Lots of interesting fisheye/crucible code commits and reviews.  Dec0y 
+inurl:fisheye AND inurl:changelog -site:atlassian.com -site:github.com
+ -intext:"Log in to FishEye"
+ 
+ Lots of interesting fisheye/crucible code commits and reviews.
+ 
+ Dec0y
+ 

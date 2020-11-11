@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6193
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2020-06-04
 Author:           M.Harsha vardhan
@@ -6,4 +7,8 @@ GoogleDork:       "config.php.bak" intitle:"index of"
 Description:      "config.php.bak" intitle:"index of"
 
 
-# Dork: "config.php.bak" intitle:"index of" # Date: 2020-06-02 # Exploit Author: M.Harsha vardhan #Description : This dorks leaks the db user_pass from backup files of database/phpmyadmin 
+# Dork: "config.php.bak" intitle:"index of"
+ # Date: 2020-06-02
+ # Exploit Author: M.Harsha vardhan
+ #Description : This dorks leaks the db user_pass from backup files of database/phpmyadmin
+ 

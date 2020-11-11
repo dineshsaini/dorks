@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4859
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2018-06-18
 Author:           Raj Kiran P
@@ -6,4 +7,11 @@ GoogleDork:       intitle:Wagtail.-.Sign in intext:Javascript.is.required.to.use
 Description:      intitle:Wagtail.-.Sign in intext:Javascript.is.required.to.use.Wagtail
 
 
-Retrieve all admin page of website that use Wagtail CMS.   More: inurl:admin intitle:wagtail -wagtail.io -stackoverflow -github   Author: Raj Kiran P 
+Retrieve all admin page of website that use Wagtail CMS.
+ 
+ 
+ More: inurl:admin intitle:wagtail -wagtail.io -stackoverflow -github
+ 
+ 
+ Author: Raj Kiran P
+ 

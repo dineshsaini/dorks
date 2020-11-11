@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4906
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2018-08-07
 Author:           Bruno Schmid
@@ -6,4 +7,9 @@ GoogleDork:       ext:log intext:"connection" intitle:"index of" -stackoverflow
 Description:      ext:log intext:"connection" intitle:"index of" -stackoverflow
 
 
-Juicy information mainly found in log files ( WSFTP.LOG, access.log, machttp.log, password.log)  Bruno Schmid https://ch.linkedin.com/in/schmidbruno 
+Juicy information mainly found in log files ( WSFTP.LOG, access.log,
+ machttp.log, password.log)
+ 
+ Bruno Schmid
+ https://ch.linkedin.com/in/schmidbruno
+ 

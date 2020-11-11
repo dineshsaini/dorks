@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5012
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2018-11-06
 Author:           ManhNho
@@ -6,4 +7,7 @@ GoogleDork:       Index of /.svn
 Description:      Index of /.svn
 
 
-SVN directory  ManhNho 
+SVN directory
+ 
+ ManhNho
+ 

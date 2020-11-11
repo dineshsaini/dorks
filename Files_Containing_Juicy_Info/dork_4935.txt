@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4935
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2018-08-29
 Author:           ManhNho
@@ -6,4 +7,9 @@ GoogleDork:       ext:ppk ssh key -github.com -gitlab
 Description:      ext:ppk ssh key -github.com -gitlab
 
 
-ext:ppk ssh key -github.com -gitlab  file contain SSH key  ManhNho 
+ext:ppk ssh key -github.com -gitlab
+ 
+ file contain SSH key
+ 
+ ManhNho
+ 

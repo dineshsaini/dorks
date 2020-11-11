@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5097
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-02-12
 Author:           Manish Bhandarkar
@@ -6,4 +7,18 @@ GoogleDork:       inurl:"/my-account-login" | allintext:"My Account"
 Description:      inurl:"/my-account-login" | allintext:"My Account"
 
 
-Category : Pages containing login portals  Description : Dork for finding login portals where well known company websites hosted on famous hosting provider such as Akamai, Amazon, Microsoft Azure, Leaseweb, weebly, Rackspace, OVH SAS, etc.  Dork : inurl:"/my-account-login" | allintext:"My Account"  Also try : inurl:"/my-account/login"  Date : 10/2/2019  Author : Manish Bhandarkar Blog : https://hackingforsecurity.blogspot.com/ 
+Category : Pages containing login portals
+ 
+ Description : Dork for finding login portals where well known company
+ websites hosted on famous hosting provider such as Akamai, Amazon,
+ Microsoft Azure, Leaseweb, weebly, Rackspace, OVH SAS, etc.
+ 
+ Dork : inurl:"/my-account-login" | allintext:"My Account"
+ 
+ Also try : inurl:"/my-account/login"
+ 
+ Date : 10/2/2019
+ 
+ Author : Manish Bhandarkar
+ Blog : https://hackingforsecurity.blogspot.com/
+ 

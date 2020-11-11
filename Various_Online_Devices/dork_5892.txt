@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5892
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2020-04-16
 Author:           Siddhesh Thakur
@@ -6,4 +7,8 @@ GoogleDork:       intitle:"index of" "cvsweb.cgi"
 Description:      intitle:"index of" "cvsweb.cgi"
 
 
-Description: intitle:"index of" "cvsweb.cgi" This google dork contains cvsweb configuration information related to command gateway interface of different websites. Using this dork we can find juicy information of different config files and repositories. 
+Description: intitle:"index of" "cvsweb.cgi"
+ This google dork contains cvsweb configuration information related to
+ command gateway interface of different websites. Using this dork we can
+ find juicy information of different config files and repositories.
+ 

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/2510
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2010-11-15
 Author:           anonymous
@@ -6,4 +7,4 @@ GoogleDork:       "index.php?sbjoke_id="
 Description:      "index.php?sbjoke_id="
 
 
-Jokes &amp; Funny Pics Script (sb_jokeid) SQL Injection Vulnerability - CVE: 2008-2874: https://www.exploit-db.com/exploits/5934
+Jokes & Funny Pics Script (sb_jokeid) SQL Injection Vulnerability - CVE: 2008-2874: https://www.exploit-db.com/exploits/5934

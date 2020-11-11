@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6417
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2020-07-17
 Author:           Sachin Kattimani
@@ -6,4 +7,14 @@ GoogleDork:       inurl:wp-content/plugins/async-javascript
 Description:      inurl:wp-content/plugins/async-javascript
 
 
-DORK: inurl:wp-content/plugins/async-javascript  https://wpvulndb.com/vulnerabilities/10098  This google dork gives us the advisories and vulnerabilities on wordpress plugins   Thanks, Sachin 
+DORK: inurl:wp-content/plugins/async-javascript
+ 
+ https://wpvulndb.com/vulnerabilities/10098
+ 
+ This google dork gives us the advisories and vulnerabilities on wordpress
+ plugins
+ 
+ 
+ Thanks,
+ Sachin
+ 

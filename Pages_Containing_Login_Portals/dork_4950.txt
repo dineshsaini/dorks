@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4950
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2018-09-13
 Author:           Osman Arif
@@ -6,4 +7,10 @@ GoogleDork:       inurl:/INALogin.jsp
 Description:      inurl:/INALogin.jsp
 
 
-[*] Description: Finds The Internet Banking Backend Administrator Portals Running on Oracle Flex-cube Core Banking Solutions.  [*] Google Dork: inurl:/INALogin.jsp  [*] Author: Osman Arif 
+[*] Description: Finds The Internet Banking Backend Administrator Portals
+ Running on Oracle Flex-cube Core Banking Solutions.
+ 
+ [*] Google Dork: inurl:/INALogin.jsp
+ 
+ [*] Author: Osman Arif
+ 

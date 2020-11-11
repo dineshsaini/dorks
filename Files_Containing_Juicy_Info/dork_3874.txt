@@ -1,9 +1,10 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3874
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2013-08-08
 Author:           anonymous
-GoogleDork:       intitle:"WAMPSERVER Homepage" &amp; intext:"Server Configuration"
-Description:      intitle:"WAMPSERVER Homepage" &amp; intext:"Server Configuration"
+GoogleDork:       intitle:"WAMPSERVER Homepage" & intext:"Server Configuration"
+Description:      intitle:"WAMPSERVER Homepage" & intext:"Server Configuration"
 
 
 #Summary: Wampserver Homepage free access (*http://www.wampserver.com/).* #Author: g00gl3 5c0u7

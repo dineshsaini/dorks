@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6515
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-09-02
 Author:           Badal Sardhara
@@ -6,4 +7,8 @@ GoogleDork:       intitle:"index of" "composer.lock"
 Description:      intitle:"index of" "composer.lock"
 
 
-Description : intitle:"index of" "composer.lock"  This google dork gives us the composer.lock file and sensitive details of misconfigured servers. 
+Description : intitle:"index of" "composer.lock"
+ 
+ This google dork gives us the composer.lock file and sensitive details
+ of misconfigured servers.
+ 

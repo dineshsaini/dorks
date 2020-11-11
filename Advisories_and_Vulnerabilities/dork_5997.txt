@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5997
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2020-05-04
 Author:           Alexandros Pappas
@@ -6,4 +7,13 @@ GoogleDork:       inurl:/wp-content/themes/CherryFramework
 Description:      inurl:/wp-content/themes/CherryFramework
 
 
-# Google Dork: inurl:/wp-content/themes/CherryFramework  # Wordpress CherryFramework Themes 3.1.4 - Backup File Download. This dork is linked to the following existing exploit: https://www.exploit-db.com/exploits/45896  # Date: 2/05/2020  # Author: Alexandros Pappas 
+# Google Dork: inurl:/wp-content/themes/CherryFramework
+ 
+ # Wordpress CherryFramework Themes 3.1.4 - Backup File Download. This dork
+ is linked to the following existing exploit:
+ https://www.exploit-db.com/exploits/45896
+ 
+ # Date: 2/05/2020
+ 
+ # Author: Alexandros Pappas
+ 

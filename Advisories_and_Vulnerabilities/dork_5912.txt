@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5912
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2020-04-17
 Author:           Alexandros Pappas
@@ -6,4 +7,13 @@ GoogleDork:       inurl:"\wp-content\plugins\all-in-one-seo-pack"
 Description:      inurl:"\wp-content\plugins\all-in-one-seo-pack"
 
 
-# Google Dork: inurl:"\wp-content\plugins\all-in-one-seo-pack"  # By using this dork, sites vulnerable to all-in-one-seo-pack 3.2.7 - Persistent Cross-Site Scripting, can be found. This dork is linked to the following existing exploit: https://www.exploit-db.com/exploits/47425  # Date: 17/04/2020  # Author: Alexandros Pappas 
+# Google Dork: inurl:"\wp-content\plugins\all-in-one-seo-pack"
+ 
+ # By using this dork, sites vulnerable to all-in-one-seo-pack 3.2.7 -
+ Persistent Cross-Site Scripting, can be found. This dork is linked to the
+ following existing exploit: https://www.exploit-db.com/exploits/47425
+ 
+ # Date: 17/04/2020
+ 
+ # Author: Alexandros Pappas
+ 

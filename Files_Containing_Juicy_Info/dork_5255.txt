@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5255
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2019-06-17
 Author:           Francis Al Victoriano
@@ -6,4 +7,7 @@ GoogleDork:       DB_USERNAME filetype:env
 Description:      DB_USERNAME filetype:env
 
 
-# Exploit Title: Laravel Environment Configuration # Google Dork: DB_USERNAME filetype:env # Author: Francis Al Victoriano 
+# Exploit Title: Laravel Environment Configuration
+ # Google Dork: DB_USERNAME filetype:env
+ # Author: Francis Al Victoriano
+ 

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6412
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-07-16
 Author:           isa ghojaria
@@ -6,4 +7,5 @@ GoogleDork:       allintext:username,password filetype:log
 Description:      allintext:username,password filetype:log
 
 
-allintext:username,password filetype:log 
+allintext:username,password filetype:log
+ 

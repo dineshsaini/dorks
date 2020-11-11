@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6270
+Severity: 5 
 Category:         Vulnerable Files
 Published Date:   2020-06-11
 Author:           Swapnil Talele
@@ -6,4 +7,8 @@ GoogleDork:       "index of" "Production.json"
 Description:      "index of" "Production.json"
 
 
-Google Dork: "index of" "Production.json" Dork Title: Files Containing Juicy Info Date: [11-06-2020] Dork Author: Swapnil Talele 
+Google Dork: "index of" "Production.json"
+ Dork Title: Files Containing Juicy Info
+ Date: [11-06-2020]
+ Dork Author: Swapnil Talele
+ 

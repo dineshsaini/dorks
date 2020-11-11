@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4637
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2017-12-11
 Author:           Dxtroyer
@@ -6,4 +7,9 @@ GoogleDork:       "enable secret" ext:cfg -git -cisco.com
 Description:      "enable secret" ext:cfg -git -cisco.com
 
 
-Finds files containing Cisco NAC hostnames and passwords in plaintext  Dxtroyer  P.S. Some honeypots too, sorry :P 
+Finds files containing Cisco NAC hostnames and passwords in plaintext
+ 
+ Dxtroyer
+ 
+ P.S. Some honeypots too, sorry :P
+ 

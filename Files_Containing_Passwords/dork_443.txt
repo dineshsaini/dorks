@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/443
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2004-08-20
 Author:           anonymous

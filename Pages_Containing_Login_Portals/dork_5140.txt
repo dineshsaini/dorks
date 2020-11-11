@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5140
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-03-01
 Author:           botsec0
@@ -6,4 +7,9 @@ GoogleDork:       inurl:SSOLogin.jsp intext:"user"
 Description:      inurl:SSOLogin.jsp intext:"user"
 
 
-Dork : inurl:SSOLogin.jsp intext:"user"  Description : this dork gives you user single sign on (SSO) jsp login portals.  Author : botsec0 
+Dork : inurl:SSOLogin.jsp intext:"user"
+ 
+ Description : this dork gives you user single sign on (SSO) jsp login portals.
+ 
+ Author : botsec0
+ 

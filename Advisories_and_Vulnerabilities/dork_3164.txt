@@ -1,9 +1,10 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3164
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2010-11-15
 Author:           anonymous
-GoogleDork:       inurl:"?page=duyurular_detay&amp;id="
-Description:      inurl:"?page=duyurular_detay&amp;id="
+GoogleDork:       inurl:"?page=duyurular_detay&id="
+Description:      inurl:"?page=duyurular_detay&id="
 
 
 Webyapar 2.0 Multiple Remote SQL Injection Vulnerabilities - CVE: 2007-4068: https://www.exploit-db.com/exploits/4224

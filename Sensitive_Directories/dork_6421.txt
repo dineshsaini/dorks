@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6421
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2020-07-21
 Author:           Siddharth Hingol
@@ -6,4 +7,15 @@ GoogleDork:       intitle:"index of" /var/logs filetype:'"log | txt | csv"
 Description:      intitle:"index of" /var/logs filetype:'"log | txt | csv"
 
 
-*Google Dork:* intitle:"index of" /var/logs filetype:'"log | txt | csv"  Description:- Discovers log files stored on linux servers in open directories of websites. Sensitive information is exposed on the site.  Date:- 21st July, 2020 Exploit Author:- Siddharth Hingol  Thanks &amp; Regards, Siddharth Hingol 
+*Google Dork:* intitle:"index of" /var/logs filetype:'"log | txt | csv"
+ 
+ Description:-
+ Discovers log files stored on linux servers in open directories of websites.
+ Sensitive information is exposed on the site.
+ 
+ Date:- 21st July, 2020
+ Exploit Author:- Siddharth Hingol
+ 
+ Thanks & Regards,
+ Siddharth Hingol
+ 

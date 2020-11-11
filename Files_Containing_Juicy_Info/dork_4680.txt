@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4680
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2018-02-22
 Author:           Nishaanth Guna
@@ -6,4 +7,9 @@ GoogleDork:       allinurl:awstats.pl?config=
 Description:      allinurl:awstats.pl?config=
 
 
-Using this dork, one will be able to find the web statistics for the server including who is visiting this site, which pages are frequented, error codes and much more.  *Nishaanth Guna* Security Researcher, *Appknox https://www.appknox.com/*
+Using this dork, one will be able to find the web statistics for the server
+ including who is visiting this site, which pages are frequented, error
+ codes and much more.
+ 
+ *Nishaanth Guna*
+ Security Researcher, *Appknox https://www.appknox.com/*

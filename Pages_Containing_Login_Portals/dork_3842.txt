@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3842
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2013-04-09
 Author:           anonymous
@@ -6,4 +7,4 @@ GoogleDork:       intext:YOU ARE ACCESSING A GOVERNMENT INFORMATION SYSTEM inurl
 Description:      intext:YOU ARE ACCESSING A GOVERNMENT INFORMATION SYSTEM inurl:login.aspx
 
 
-Category : Pages containing login portals Description : Dork for finding government login portals Dork : intext:YOU ARE ACCESSING A GOVERNMENT INFORMATION SYSTEM inurl:login.aspx Link : https://encrypted.google.com/#hl=en&amp;output=search&amp;sclient=psy-ab&amp;q=intext:YOU+ARE+ACCESSING+A+GOVERNMENT+INFORMATION+SYSTEM+inurl%3Alogin.aspx&amp;oq=intext:YOU+ARE+ACCESSING+A+GOVERNMENT+INFORMATION+SYSTEM+inurl%3Alogin.aspx&amp;gs_l=hp.3...894.894.0.1059.1.1.0.0.0.0.116.116.0j1.1.0...0.0...1c.1.7.psy-ab.lvawmQ4rKqA&amp;pbx=1&amp;bav=on.2,or.r_qf.&amp;bvm=bv.44011176,d.d2k&amp;fp=7b93b16efbccc178&amp;biw=1362&amp;bih=667 Date : 20/3/2013 Author : Scott Sturrock Email: f00bar'at'linuxmail'dot'org
+Category : Pages containing login portals Description : Dork for finding government login portals Dork : intext:YOU ARE ACCESSING A GOVERNMENT INFORMATION SYSTEM inurl:login.aspx Link : https://encrypted.google.com/#hl=en&output=search&sclient=psy-ab&q=intext:YOU+ARE+ACCESSING+A+GOVERNMENT+INFORMATION+SYSTEM+inurl%3Alogin.aspx&oq=intext:YOU+ARE+ACCESSING+A+GOVERNMENT+INFORMATION+SYSTEM+inurl%3Alogin.aspx&gs_l=hp.3...894.894.0.1059.1.1.0.0.0.0.116.116.0j1.1.0...0.0...1c.1.7.psy-ab.lvawmQ4rKqA&pbx=1&bav=on.2,or.r_qf.&bvm=bv.44011176,d.d2k&fp=7b93b16efbccc178&biw=1362&bih=667 Date : 20/3/2013 Author : Scott Sturrock Email: f00bar'at'linuxmail'dot'org

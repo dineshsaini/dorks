@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4772
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2018-04-16
 Author:           Parth S. Patel
@@ -6,4 +7,11 @@ GoogleDork:       intitle:\index.of inurl:/websendmail/
 Description:      intitle:\index.of inurl:/websendmail/
 
 
-Sites with WebGais - Websendmail.   Author: Parth S. Patel https://ca.linkedin.com/in/parthpateloscp   
+Sites with WebGais - Websendmail.
+ 
+ 
+ Author: Parth S. Patel
+ https://ca.linkedin.com/in/parthpateloscp
+ 
+ 
+ 

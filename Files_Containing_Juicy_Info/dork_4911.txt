@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4911
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2018-08-13
 Author:           Bruno Schmid
@@ -6,4 +7,8 @@ GoogleDork:       swiftmailer intitle:"index of" "smtp.yml" | "smtp.xml"
 Description:      swiftmailer intitle:"index of" "smtp.yml" | "smtp.xml"
 
 
-This dork might give passwords and server directoies with juicy info.  Bruno Schmid https://ch.linkedin.com/in/schmidbruno 
+This dork might give passwords and server directoies with juicy info.
+ 
+ Bruno Schmid
+ https://ch.linkedin.com/in/schmidbruno
+ 

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5981
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2020-05-01
 Author:           Abhi Chitkara
@@ -6,4 +7,8 @@ GoogleDork:       intitle:"index of" "git-jira-log"
 Description:      intitle:"index of" "git-jira-log"
 
 
-Dork: intitle:"index of" "git-jira-log" Description: This Google dork lists out sensitive git jira log files which contain jira commits made via git for a website. Author: Abhi Chitkara 
+Dork: intitle:"index of" "git-jira-log"
+ Description: This Google dork lists out sensitive git jira log files which
+ contain jira commits made via git for a website.
+ Author: Abhi Chitkara
+ 

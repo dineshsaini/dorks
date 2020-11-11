@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1164
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2005-10-08
 Author:           anonymous
@@ -6,4 +7,4 @@ GoogleDork:       "Cyphor (Release:" -www.cynox.ch
 Description:      "Cyphor (Release:" -www.cynox.ch
 
 
-Cyphor 0.19 (possibly prior versions) SQL Injection / Board takeover / cross site scriptingmy advisory &amp; poc exploit:http://rgod.altervista.org/cyphor019.htmlrgodModerator PS: The software is longer maintained.
+Cyphor 0.19 (possibly prior versions) SQL Injection / Board takeover / cross site scriptingmy advisory & poc exploit:http://rgod.altervista.org/cyphor019.htmlrgodModerator PS: The software is longer maintained.

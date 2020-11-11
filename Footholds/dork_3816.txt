@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3816
+Severity: 5 
 Category:         Footholds
 Published Date:   2012-11-02
 Author:           anonymous

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4937
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2018-09-04
 Author:           hehnope
@@ -6,4 +7,7 @@ GoogleDork:       intext:"Build dashboard" intext:"Project" intext:"Plan" intext
 Description:      intext:"Build dashboard" intext:"Project" intext:"Plan" intext:"Build"
 
 
-Detail: Can be used to find public facing build servers such as Bamboo Google Dork: intext:"Build dashboard" intext:"Project" intext:"Plan" intext:"Build" Date: 9-1-2018 Exploit Author: hehnope
+Detail: Can be used to find public facing build servers such as Bamboo
+ Google Dork: intext:"Build dashboard" intext:"Project" intext:"Plan" intext:"Build"
+ Date: 9-1-2018
+ Exploit Author: hehnope

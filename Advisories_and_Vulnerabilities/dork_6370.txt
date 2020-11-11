@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6370
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2020-07-06
 Author:           Abhi Chitkara
@@ -6,4 +7,9 @@ GoogleDork:       inurl:wp-content/plugins/security-malware-firewall
 Description:      inurl:wp-content/plugins/security-malware-firewall
 
 
-Dork: inurl:wp-content/plugins/security-malware-firewall Description: This google dork lists out Advisories and Vulnerabilities regarding the security-malware-firewall wordpress plugin. Ref: https://wpvulndb.com/vulnerabilities/10292 Author: Abhi Chitkara 
+Dork: inurl:wp-content/plugins/security-malware-firewall
+ Description: This google dork lists out Advisories and Vulnerabilities
+ regarding the security-malware-firewall wordpress plugin. Ref:
+ https://wpvulndb.com/vulnerabilities/10292
+ Author: Abhi Chitkara
+ 

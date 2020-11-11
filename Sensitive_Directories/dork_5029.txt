@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5029
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2018-11-15
 Author:           ManhNho
@@ -6,4 +7,7 @@ GoogleDork:       index of kcfinder/
 Description:      index of kcfinder/
 
 
-kcfinder directories  ManhNho 
+kcfinder directories
+ 
+ ManhNho
+ 

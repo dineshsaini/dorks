@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6010
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-05-04
 Author:           Tushar Kurunkar
@@ -6,4 +7,11 @@ GoogleDork:       intitle:"index of" "/users.xls"
 Description:      intitle:"index of" "/users.xls"
 
 
-#Description : intitle:"index of" "/users.xls" This Google dork shows juicy information about the website and their usernames in excel format. An attacker can further misuse this to conduct attacks.  #Author : Tushar Kurunkar #Date : 3 May 2020 
+#Description : intitle:"index of" "/users.xls"
+ This Google dork shows juicy information about the website and their
+ usernames in excel format.
+ An attacker can further misuse this to conduct attacks.
+ 
+ #Author : Tushar Kurunkar
+ #Date : 3 May 2020
+ 

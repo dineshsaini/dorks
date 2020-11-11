@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6071
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2020-05-08
 Author:           Abhi Chitkara
@@ -6,4 +7,9 @@ GoogleDork:       inurl:wp-content/plugins/elementor-pro
 Description:      inurl:wp-content/plugins/elementor-pro
 
 
-Dork: inurl:wp-content/plugins/elementor-pro Description: This Google dork lists out Advisories and Vulnerabilities about the Elementor Pro Plugin. Ref: https://wpvulndb.com/vulnerabilities/10214 Author: Abhi Chitkara 
+Dork: inurl:wp-content/plugins/elementor-pro
+ Description: This Google dork lists out Advisories and Vulnerabilities
+ about the Elementor Pro Plugin. Ref:
+ https://wpvulndb.com/vulnerabilities/10214
+ Author: Abhi Chitkara
+ 

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5944
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-04-23
 Author:           Dan Petran
@@ -6,4 +7,7 @@ GoogleDork:       inurl:start.swe?SWECmd
 Description:      inurl:start.swe?SWECmd
 
 
-This dork is for exposing Siebel login portals. I consider it a serious flaw as Siebel uses anonymous users and you can actually view content if by accident responsibilities are assigned to this anonymous user. 
+This dork is for exposing Siebel login portals. I consider it a serious
+ flaw as Siebel uses anonymous users and you can actually view content if by
+ accident responsibilities are assigned to this anonymous user.
+ 

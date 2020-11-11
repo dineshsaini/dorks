@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5031
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2018-11-16
 Author:           nuria_pp
@@ -6,4 +7,7 @@ GoogleDork:       intitle:"index of /" authorized_keys
 Description:      intitle:"index of /" authorized_keys
 
 
-Google Dork Description: intitle:"index of /" authorized_keys Google Search: intitle:"index of /" authorized_keys Author: @nuria_pp Sensitive Directories: authorized_keys ssh and some rsa file
+Google Dork Description: intitle:"index of /" authorized_keys
+ Google Search: intitle:"index of /" authorized_keys
+ Author: @nuria_pp
+ Sensitive Directories: authorized_keys ssh and some rsa file

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6381
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2020-07-07
 Author:           Abhinav Porwal
@@ -6,4 +7,10 @@ GoogleDork:       inurl:wp-content/themes/sparky
 Description:      inurl:wp-content/themes/sparky
 
 
-Dork: inurl:wp-content/themes/sparky  Description: This google dorks give us the advisories and vulnerabilities on WordPress Themes. Ref.: https://wpvulndb.com/vulnerabilities/7338 Author: Abhinav Porwal 
+Dork: inurl:wp-content/themes/sparky
+ 
+ Description: This google dorks give us the advisories and vulnerabilities
+ on WordPress Themes.
+ Ref.: https://wpvulndb.com/vulnerabilities/7338
+ Author: Abhinav Porwal
+ 

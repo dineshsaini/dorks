@@ -1,9 +1,12 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5885
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-04-16
 Author:           Nicholas Doropoulos
-GoogleDork:       intext:"Any time &amp; Any where" intext:"Username" intext:"Password" intext:login intext:"View: Mobile | PC"
-Description:      intext:"Any time &amp; Any where" intext:"Username" intext:"Password" intext:login intext:"View: Mobile | PC"
+GoogleDork:       intext:"Any time & Any where" intext:"Username" intext:"Password" intext:login intext:"View: Mobile | PC"
+Description:      intext:"Any time & Any where" intext:"Username" intext:"Password" intext:login intext:"View: Mobile | PC"
 
 
-Category: Pages Containing Login Portals Nicholas Doropoulos
+Severity: 5 
+Category: Pages Containing Login Portals
+ Nicholas Doropoulos

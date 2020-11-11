@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4619
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2017-11-27
 Author:           Fu2x2000
@@ -6,4 +7,11 @@ GoogleDork:       intext:"index of /userfiles/file/"
 Description:      intext:"index of /userfiles/file/"
 
 
-When you dork with this,it will generate juicy information to userfiles , for best practice filter according to the country .   Regards  Fu2x2000 
+When you dork with this,it will generate juicy information to userfiles ,
+ for best practice filter according to the country .
+ 
+ 
+ Regards
+ 
+ Fu2x2000
+ 

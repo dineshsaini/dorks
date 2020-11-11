@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6305
+Severity: 5 
 Category:         Footholds
 Published Date:   2020-06-17
 Author:           Harsh Bothra
@@ -6,4 +7,9 @@ GoogleDork:       inurl:logon/LogonPoint/index.html
 Description:      inurl:logon/LogonPoint/index.html
 
 
-Dork: inurl:logon/LogonPoint/index.html Description: Find Citrix Gateway Portals that might be potentially vulnerable to CVE-2019-19781. Author - Harsh Bothra Twitter - https://www.twitter.com/harshbothra_ 
+Dork: inurl:logon/LogonPoint/index.html
+ Description: Find Citrix Gateway Portals that might be potentially
+ vulnerable to CVE-2019-19781.
+ Author - Harsh Bothra
+ Twitter - https://www.twitter.com/harshbothra_
+ 

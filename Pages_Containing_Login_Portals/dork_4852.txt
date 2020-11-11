@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4852
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2018-06-11
 Author:           Raj Kiran P
@@ -6,4 +7,7 @@ GoogleDork:       intext:Omeka*Username Powered.by.Omeka inurl:admin -github -om
 Description:      intext:Omeka*Username Powered.by.Omeka inurl:admin -github -omeka.org
 
 
-Retrieve all admin login page of websites that use Omeka CMS.  Author: Raj Kiran P 
+Retrieve all admin login page of websites that use Omeka CMS.
+ 
+ Author: Raj Kiran P
+ 

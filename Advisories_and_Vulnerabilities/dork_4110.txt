@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4110
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2015-11-03
 Author:           anonymous

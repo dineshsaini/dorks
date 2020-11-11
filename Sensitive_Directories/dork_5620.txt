@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5620
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2019-11-05
 Author:           Paras Arora
@@ -6,4 +7,8 @@ GoogleDork:       site:* index.of: /android/manifest.xml
 Description:      site:* index.of: /android/manifest.xml
 
 
-Dork: site:* index.of: /android/manifest.xml Author: Paras Arora(PAC Security) Date: 5th Nov 2019 Category: Android Files 
+Dork: site:* index.of: /android/manifest.xml
+ Author: Paras Arora(PAC Security)
+ Date: 5th Nov 2019
+ Category: Android Files
+ 

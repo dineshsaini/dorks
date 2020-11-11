@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6215
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-06-04
 Author:           Pritam Singh
@@ -6,4 +7,16 @@ GoogleDork:       inurl:emplogin.html
 Description:      inurl:emplogin.html
 
 
-# Google Dork: inurl:emplogin.html # Exploit Title: Find the employee login page in different website including 'emplogin' as substring. # Author: Pritam Singh   Thanks,  *Pritam Singh* Security Researcher CEH, RHCSA, N+  email: pritamsingh.cyber@gmail.com 
+# Google Dork: inurl:emplogin.html
+ # Exploit Title: Find the employee login page in different website including 'emplogin' as substring.
+ # Author: Pritam Singh
+ 
+ 
+ Thanks,
+ 
+ *Pritam Singh*
+ Security Researcher
+ CEH, RHCSA, N+
+ 
+ email: pritamsingh.cyber@gmail.com
+ 

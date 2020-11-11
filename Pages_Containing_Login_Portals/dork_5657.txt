@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5657
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-11-22
 Author:           shivaGprasadh
@@ -6,4 +7,7 @@ GoogleDork:       inurl:login.jsp intitle:login
 Description:      inurl:login.jsp intitle:login
 
 
-*Google Dork:* inurl:login.jsp intitle:login *Description:* Pages Containing Login Portals *Author:* shivaGprasadh 
+*Google Dork:* inurl:login.jsp intitle:login
+ *Description:* Pages Containing Login Portals
+ *Author:* shivaGprasadh
+ 

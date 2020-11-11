@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4635
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2017-12-11
 Author:           Dxtroyer
@@ -6,4 +7,7 @@ GoogleDork:       inurl:"/moodle/login/index.php"
 Description:      inurl:"/moodle/login/index.php"
 
 
-Finds Moodle Login pages  Dxtroyer 
+Finds Moodle Login pages
+ 
+ Dxtroyer
+ 

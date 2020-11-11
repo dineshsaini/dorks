@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6182
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-06-04
 Author:           JadeWolf
@@ -6,4 +7,14 @@ GoogleDork:       index.of:"pcap" -site:stackoverflow.com -site:github.com
 Description:      index.of:"pcap" -site:stackoverflow.com -site:github.com
 
 
-Dork: index.of:"pcap" -site:stackoverflow.com -site:github.com  Description: This dork queries google and finds the Wireshark PCAP files within open directories.  Category: Files Containing Juicy Info.  Author: JadeWolf
+Dork:
+ index.of:"pcap" -site:stackoverflow.com -site:github.com
+ 
+ Description:
+ This dork queries google and finds the Wireshark PCAP files within open directories.
+ 
+ Category:
+ Files Containing Juicy Info.
+ 
+ Author:
+ JadeWolf

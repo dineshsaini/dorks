@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6123
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-05-25
 Author:           Alexandros Pappas
@@ -6,4 +7,12 @@ GoogleDork:       intitle:"Ice Hrm Login" intext:"Forgot Password"
 Description:      intitle:"Ice Hrm Login" intext:"Forgot Password"
 
 
-# Google Dork: intitle:"Ice Hrm Login" intext:"Forgot Password"  # Pages containing login portals, where some of them use weak passwords, like admin/admin.  # Date: 25/05/2020  # Author: Alexandros Pappas 
+# Google Dork: intitle:"Ice Hrm Login" intext:"Forgot Password"
+ 
+ # Pages containing login portals, where some of them use weak passwords,
+ like admin/admin.
+ 
+ # Date: 25/05/2020
+ 
+ # Author: Alexandros Pappas
+ 

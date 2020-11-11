@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4251
+Severity: 5 
 Category:         Error Messages
 Published Date:   2016-04-01
 Author:           anonymous

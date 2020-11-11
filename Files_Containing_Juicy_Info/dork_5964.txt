@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5964
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-04-29
 Author:           Alexandros Pappas
@@ -6,4 +7,11 @@ GoogleDork:       intitle:"index of" /known_hosts
 Description:      intitle:"index of" /known_hosts
 
 
-# Google Dork: intitle:"index of" /known_hosts  # List of pubkeys of known SSH servers.  # Date: 29/04/2020  # Author: Alexandros Pappas 
+# Google Dork: intitle:"index of" /known_hosts
+ 
+ # List of pubkeys of known SSH servers.
+ 
+ # Date: 29/04/2020
+ 
+ # Author: Alexandros Pappas
+ 

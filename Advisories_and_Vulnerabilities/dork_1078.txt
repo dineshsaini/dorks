@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1078
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2005-09-19
 Author:           anonymous
@@ -6,4 +7,4 @@ GoogleDork:       intitle:"Looking Glass v20040427" "When verifying an URL check
 Description:      intitle:"Looking Glass v20040427" "When verifying an URL check one of those"
 
 
-Looking Glass v20040427 arbitrary commands execution / cross site scripting. description: Looking Glass is a pretty extensive web based network querying tool for use on php enabled servers. site: http://de-neef.net/articles.php?id=2&amp;page=1download page: http://de-neef.net/download.php?file=2Read the full report here: http://rgod.altervista.org/lookingglass.html
+Looking Glass v20040427 arbitrary commands execution / cross site scripting. description: Looking Glass is a pretty extensive web based network querying tool for use on php enabled servers. site: http://de-neef.net/articles.php?id=2&page=1download page: http://de-neef.net/download.php?file=2Read the full report here: http://rgod.altervista.org/lookingglass.html

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/337
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2004-07-16
 Author:           anonymous
@@ -6,4 +7,4 @@ GoogleDork:       index.of.password
 Description:      index.of.password
 
 
-These directories are named "password." I wonder what you might find in here. Warning: sometimes p0rn sites make directories on servers with directories named "password" and single html files inside named things liks "horny.htm" or "brittany.htm." These are to boost their search results. Don't click them (unless you want to be buried in an avalanche of p0rn...Moderator note: This googledork has expired ! See also:http://johnny.ihackstuff.com/index.php?module=ProdReviews&amp;func=showcontent&amp;id=380
+These directories are named "password." I wonder what you might find in here. Warning: sometimes p0rn sites make directories on servers with directories named "password" and single html files inside named things liks "horny.htm" or "brittany.htm." These are to boost their search results. Don't click them (unless you want to be buried in an avalanche of p0rn...Moderator note: This googledork has expired ! See also:http://johnny.ihackstuff.com/index.php?module=ProdReviews&func=showcontent&id=380

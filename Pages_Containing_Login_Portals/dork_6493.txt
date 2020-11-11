@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6493
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-08-24
 Author:           Sibi Mathew George
@@ -6,4 +7,10 @@ GoogleDork:       inurl:device.rsp -com -www
 Description:      inurl:device.rsp -com -www
 
 
-Google Dork: inurl:device.rsp -com -www  Description: This Google Dork is helpful in finding all the login portals of devices such as XVR, NVR, HVR, DVR, MDVR, AHD, HD IP Camera etc.  Author: Sibi Mathew George 
+Google Dork: inurl:device.rsp -com -www
+ 
+ Description: This Google Dork is helpful in finding all the login portals
+ of devices such as XVR, NVR, HVR, DVR, MDVR, AHD, HD IP Camera etc.
+ 
+ Author: Sibi Mathew George
+ 

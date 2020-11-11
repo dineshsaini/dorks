@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5955
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-04-28
 Author:           Reza Abasi
@@ -6,4 +7,10 @@ GoogleDork:       inurl:"/dynamic/password-reset.html"
 Description:      inurl:"/dynamic/password-reset.html"
 
 
-Login Portal:  inurl:"/dynamic/password-reset.html" inurl:"/dynamic/login.html" intitle:"Linksys"  Reza Abasi(Turku) 
+Login Portal:
+ 
+ inurl:"/dynamic/password-reset.html"
+ inurl:"/dynamic/login.html" intitle:"Linksys"
+ 
+ Reza Abasi(Turku)
+ 

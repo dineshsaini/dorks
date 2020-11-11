@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5908
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2020-04-16
 Author:           Kartik Adak
@@ -6,4 +7,11 @@ GoogleDork:       intitle: "index of" "MySQL-Router"
 Description:      intitle: "index of" "MySQL-Router"
 
 
-#Description : intitle: "index of" "MySQL-Router" MySQL-Router is a middleware that routes database traffic to back end database. This Google dork gives us sensitive information such as information of the users - location, username, ID etc.  #Author: Kartik Adak #Date: 11 April 2020 
+#Description : intitle: "index of" "MySQL-Router"
+ MySQL-Router is a middleware that routes database traffic to back end
+ database. This Google dork gives us sensitive information such as
+ information of the users - location, username, ID etc.
+ 
+ #Author: Kartik Adak
+ #Date: 11 April 2020
+ 

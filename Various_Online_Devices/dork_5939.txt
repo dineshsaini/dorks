@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5939
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2020-04-22
 Author:           Alexandros Pappas
@@ -6,4 +7,11 @@ GoogleDork:       inurl:8080/dashboard intitle:Graphite Dashboard
 Description:      inurl:8080/dashboard intitle:Graphite Dashboard
 
 
-# Google Dork: inurl:8080/dashboard intitle:Graphite Dashboard  # Various Graphite Dashboards.  # Date: 22/04/2020  # Author: Alexandros Pappas 
+# Google Dork: inurl:8080/dashboard intitle:Graphite Dashboard
+ 
+ # Various Graphite Dashboards.
+ 
+ # Date: 22/04/2020
+ 
+ # Author: Alexandros Pappas
+ 

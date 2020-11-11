@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6237
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-06-08
 Author:           Arindam Halder
@@ -6,4 +7,15 @@ GoogleDork:       inurl:"/index.php?route=account/password"
 Description:      inurl:"/index.php?route=account/password"
 
 
- #* Google Dork: inurl:"/index.php?route=account/password"* *# Date: 07/06/2020* *# List of Employee login page of various website*   *# Author: Arindam Halder* *# LinkedIn: www.linkedin.com/in/arindam-halder-0798 *  *Best Regards,* *Arindam Halder* 
+ #* Google Dork: inurl:"/index.php?route=account/password"*
+ *# Date: 07/06/2020*
+ *# List of Employee login page of various website*
+ 
+ 
+ *# Author: Arindam Halder*
+ *# LinkedIn: www.linkedin.com/in/arindam-halder-0798
+ *
+ 
+ *Best Regards,*
+ *Arindam Halder*
+ 

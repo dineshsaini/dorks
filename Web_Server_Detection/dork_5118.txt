@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5118
+Severity: 5 
 Category:         Web Server Detection
 Published Date:   2019-02-15
 Author:           FlyingFrog
@@ -6,4 +7,12 @@ GoogleDork:       "Proudly created with Wix.com"
 Description:      "Proudly created with Wix.com"
 
 
-AUTHOR: FlyingFrog  Twitter: @ItsKarl0z  ++ Find Websites made with WIX ++  "Proudly created with Wix.com"  - 13.500.000 results at the time of writing
+AUTHOR: FlyingFrog
+ 
+ Twitter: @ItsKarl0z
+ 
+ ++ Find Websites made with WIX ++
+ 
+ "Proudly created with Wix.com"
+ 
+ - 13.500.000 results at the time of writing

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6074
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-05-11
 Author:           Alexandros Pappas
@@ -6,4 +7,12 @@ GoogleDork:       intitle:"index of" "refresh_token.txt" OR "access_token.txt" O
 Description:      intitle:"index of" "refresh_token.txt" OR "access_token.txt" OR "jsapi_ticket.txt"
 
 
-# Google Dork: intitle:"index of" "refresh_token.txt" OR "access_token.txt" OR "jsapi_ticket.txt"  # Juicy and sensitive information including tokens and more.  # Date: 9/05/2020  # Author: Alexandros Pappas 
+# Google Dork: intitle:"index of" "refresh_token.txt" OR "access_token.txt"
+ OR "jsapi_ticket.txt"
+ 
+ # Juicy and sensitive information including tokens and more.
+ 
+ # Date: 9/05/2020
+ 
+ # Author: Alexandros Pappas
+ 

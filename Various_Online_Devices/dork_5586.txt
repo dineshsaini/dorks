@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5586
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2019-10-18
 Author:           Oscar Gil Gutierrez
@@ -6,4 +7,5 @@ GoogleDork:       intext:{{szErrorTip}} inurl:/doc/page/login.asp
 Description:      intext:{{szErrorTip}} inurl:/doc/page/login.asp
 
 
-Discover Hikvision IP cameras facing the internet 
+Discover Hikvision IP cameras facing the internet
+ 

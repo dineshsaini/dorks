@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4660
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2018-01-22
 Author:           Muhammad Amir Naseem
@@ -6,4 +7,9 @@ GoogleDork:       inurl:"/jde/E1Menu.maf"
 Description:      inurl:"/jde/E1Menu.maf"
 
 
-This dork is to search for public available jd edward ERP portals.  Dork: inurl:"/jde/E1Menu.maf"  As per Oracle documentation the default username: DEMO and password: DEMO 
+This dork is to search for public available jd edward ERP portals.
+ 
+ Dork: inurl:"/jde/E1Menu.maf"
+ 
+ As per Oracle documentation the default username: DEMO and password: DEMO
+ 

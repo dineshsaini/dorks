@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5878
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-04-16
 Author:           Debashis Pal
@@ -6,4 +7,10 @@ GoogleDork:       inurl:/sslvpn/Login/Login
 Description:      inurl:/sslvpn/Login/Login
 
 
-# Dork #  inurl:/sslvpn/Login/Login  Login Portals.  
+# Dork #
+ 
+ inurl:/sslvpn/Login/Login
+ 
+ Login Portals.
+ 
+ 

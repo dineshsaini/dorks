@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4612
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2017-11-13
 Author:           Ashwin Rajeev
@@ -6,4 +7,9 @@ GoogleDork:       inurl:"communique_detail.php?id="
 Description:      inurl:"communique_detail.php?id="
 
 
-*Google Dork Description*:inurl:"communique_detail.php?id="  -with this dork it is possible to access multiple communique detail login pages of different sites. -Author: Ashwin Rajeev 
+*Google Dork Description*:inurl:"communique_detail.php?id="
+ 
+ -with this dork it is possible to access multiple communique detail login
+ pages of different sites.
+ -Author: Ashwin Rajeev
+ 

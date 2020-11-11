@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5166
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2019-04-03
 Author:           Jayson Zabate
@@ -6,4 +7,11 @@ GoogleDork:       intitle: "Index of" intext:log
 Description:      intitle: "Index of" intext:log
 
 
-Exploit : File Containing Juicy Info - Dorks allow you to view logs. (e.g. /log, file/log, ftplogs, server logs)  Google Dork : intitle: “Index of” intext:log  Exploit Author:- Jayson Zabate URL :- https://invalidwebsecurity.info/ 
+Exploit : File Containing Juicy Info - Dorks allow you to view logs. (e.g.
+ /log, file/log, ftplogs, server logs)
+ 
+ Google Dork : intitle: “Index of” intext:log
+ 
+ Exploit Author:- Jayson Zabate
+ URL :- https://invalidwebsecurity.info/
+ 

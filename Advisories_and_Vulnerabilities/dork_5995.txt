@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5995
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2020-05-04
 Author:           Alexandros Pappas
@@ -6,4 +7,12 @@ GoogleDork:       inurl:"/course/jumpto.php?jump="
 Description:      inurl:"/course/jumpto.php?jump="
 
 
-# Google Dork: inurl:"/course/jumpto.php?jump="  # Moodle 3.4.1 - Remote Code Execution. This dork is linked to the following existing exploit: https://www.exploit-db.com/exploits/46551  # Date: 2/05/2020  # Author: Alexandros Pappas 
+# Google Dork: inurl:"/course/jumpto.php?jump="
+ 
+ # Moodle 3.4.1 - Remote Code Execution. This dork is linked to the
+ following existing exploit: https://www.exploit-db.com/exploits/46551
+ 
+ # Date: 2/05/2020
+ 
+ # Author: Alexandros Pappas
+ 

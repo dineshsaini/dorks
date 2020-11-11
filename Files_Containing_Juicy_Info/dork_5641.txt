@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5641
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2019-11-11
 Author:           Reza Abasi
@@ -6,4 +7,9 @@ GoogleDork:       intitle:"index of" "databases.yml"
 Description:      intitle:"index of" "databases.yml"
 
 
-Files containing password:  intitle:"index of" "databases.yml"  Reza Abasi(Turku) 
+Files containing password:
+ 
+ intitle:"index of" "databases.yml"
+ 
+ Reza Abasi(Turku)
+ 

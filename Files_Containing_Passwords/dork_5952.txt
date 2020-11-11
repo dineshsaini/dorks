@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5952
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2020-04-27
 Author:           Alexandros Pappas
@@ -6,4 +7,11 @@ GoogleDork:       "MasterUserPassword" ext:cfg OR ext:log OR ext:txt -git
 Description:      "MasterUserPassword" ext:cfg OR ext:log OR ext:txt -git
 
 
-# Google Dork: "MasterUserPassword" ext:cfg OR ext:log OR ext:txt -git  # By using this dork some exposed master user passwords can be found.  # Date: 27/04/2020  # Author: Alexandros Pappas 
+# Google Dork: "MasterUserPassword" ext:cfg OR ext:log OR ext:txt -git
+ 
+ # By using this dork some exposed master user passwords can be found.
+ 
+ # Date: 27/04/2020
+ 
+ # Author: Alexandros Pappas
+ 

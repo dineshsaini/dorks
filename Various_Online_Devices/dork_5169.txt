@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5169
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2019-04-03
 Author:           edm0nd
@@ -6,4 +7,12 @@ GoogleDork:       site:azurewebsites.net inurl:.gov | .mil | .edu
 Description:      site:azurewebsites.net inurl:.gov | .mil | .edu
 
 
-*Google Dork:* site:azurewebsites.net inurl:.gov | .mil | .edu  *Description: *Here is a Google Dork that reveals a large footprint of all .gov, .edu, and, .mil websites that are hosted and setup on Microsofts Azure cloud platform.  *By:* edm0nd https://twitter.com/Edmond_Major 
+*Google Dork:* site:azurewebsites.net inurl:.gov | .mil | .edu
+ 
+ *Description: *Here is a Google Dork that reveals a large footprint of all
+ .gov, .edu, and, .mil websites that are hosted and setup on Microsofts
+ Azure cloud platform.
+ 
+ *By:* edm0nd
+ https://twitter.com/Edmond_Major
+ 

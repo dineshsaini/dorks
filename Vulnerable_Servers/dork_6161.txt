@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6161
+Severity: 5 
 Category:         Vulnerable Servers
 Published Date:   2020-06-02
 Author:           Alexandros Pappas
@@ -6,4 +7,12 @@ GoogleDork:       "Powered by Jira Service Desk"
 Description:      "Powered by Jira Service Desk"
 
 
-# Google Dork: "Powered by Jira Service Desk"  # By using this dork it is possible to find sites vulnerable to CVE-2019-15003, CVE-2019-15004.  # Date: 29/05/2020  # Exploit Author: Alexandros Pappas 
+# Google Dork: "Powered by Jira Service Desk"
+ 
+ # By using this dork it is possible to find sites vulnerable to
+ CVE-2019-15003, CVE-2019-15004.
+ 
+ # Date: 29/05/2020
+ 
+ # Exploit Author: Alexandros Pappas
+ 

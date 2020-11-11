@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5531
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-09-16
 Author:           Reza Abasi
@@ -6,4 +7,9 @@ GoogleDork:       site:*/casAuthn/login.php
 Description:      site:*/casAuthn/login.php
 
 
-Login Page:  site:*/casAuthn/login.php  Reza Abasi(Turku) 
+Login Page:
+ 
+ site:*/casAuthn/login.php
+ 
+ Reza Abasi(Turku)
+ 

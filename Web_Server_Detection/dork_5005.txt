@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5005
+Severity: 5 
 Category:         Web Server Detection
 Published Date:   2018-11-01
 Author:           ManhNho
@@ -6,4 +7,9 @@ GoogleDork:       intitle:"Sucuri WebSite Firewall - Access Denied"
 Description:      intitle:"Sucuri WebSite Firewall - Access Denied"
 
 
-intitle:"Sucuri WebSite Firewall - Access Denied"  Sucuri Firewall detected  ManhNho 
+intitle:"Sucuri WebSite Firewall - Access Denied"
+ 
+ Sucuri Firewall detected
+ 
+ ManhNho
+ 

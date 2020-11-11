@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4705
+Severity: 5 
 Category:         Web Server Detection
 Published Date:   2018-03-21
 Author:           Alfie
@@ -6,4 +7,11 @@ GoogleDork:       "var miner = new CoinHive" intext:document.domain
 Description:      "var miner = new CoinHive" intext:document.domain
 
 
-*Google dork_1240.txt dork_1241.txt dork_1242.txt dork_1243.txt dork_1244.txt dork_1245.txt dork_1246.txt dork_1247.txt dork_1248.txt dork_1249.txt dork_1250.txt dork_1251.txt dork_1252.txt dork_1253.txt dork_1254.txt failed_dorks.txt ghdb_dorks.sh description: *sites running the CoinHive crypto miner  *Google Search:* "var miner = new CoinHive" intext:document.domain  *Submitted by:* Alfie  *Website: (*https://the-infosec.com*)* 
+*Google dork_1240.txt dork_1241.txt dork_1242.txt dork_1243.txt dork_1244.txt dork_1245.txt dork_1246.txt dork_1247.txt dork_1248.txt dork_1249.txt dork_1250.txt dork_1251.txt dork_1252.txt dork_1253.txt dork_1254.txt failed_dorks.txt ghdb_dorks.sh description: *sites running the CoinHive crypto miner
+ 
+ *Google Search:* "var miner = new CoinHive" intext:document.domain
+ 
+ *Submitted by:* Alfie
+ 
+ *Website: (*https://the-infosec.com*)*
+ 

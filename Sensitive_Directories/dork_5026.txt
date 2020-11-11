@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5026
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2018-11-14
 Author:           nuria_pp
@@ -6,4 +7,7 @@ GoogleDork:       intitle:"index of /" intext:/Download/
 Description:      intitle:"index of /" intext:/Download/
 
 
-Google Dork: intitle:"index of /" intext:/Download/  author: @nuria_pp 
+Google Dork: intitle:"index of /" intext:/Download/
+ 
+ author: @nuria_pp
+ 

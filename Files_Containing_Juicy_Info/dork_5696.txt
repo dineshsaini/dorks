@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5696
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-01-21
 Author:           Marcelo Ruz S.
@@ -6,4 +7,7 @@ GoogleDork:       inurl:"_notes/dwsync.xml"
 Description:      inurl:"_notes/dwsync.xml"
 
 
-# Google Dork: inurl:_notes/dwsync.xml"  # Date: 21-01-2020 # Author: Marcelo Ruz S.
+# Google Dork: inurl:_notes/dwsync.xml"
+ 
+ # Date: 21-01-2020
+ # Author: Marcelo Ruz S.

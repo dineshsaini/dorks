@@ -1,9 +1,13 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4642
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2017-12-22
 Author:           Ankit Anubhav
-GoogleDork:       intitle:"Status &amp; Control" + "Thermostat Status" +"HVAC Settings" +"Zone Temperature"
-Description:      intitle:"Status &amp; Control" + "Thermostat Status" +"HVAC Settings" +"Zone Temperature"
+GoogleDork:       intitle:"Status & Control" + "Thermostat Status" +"HVAC Settings" +"Zone Temperature"
+Description:      intitle:"Status & Control" + "Thermostat Status" +"HVAC Settings" +"Zone Temperature"
 
 
-The dork gives output as a list of smart (Network/NT) thermostats. Without authentication, a viewer can get information like Zone Temperature and other thermostat settings.  Ankit Anubhav, NewSky Security
+The dork gives output as a list of smart (Network/NT) thermostats.
+ Without authentication, a viewer can get information like Zone Temperature and other thermostat settings.
+ 
+ Ankit Anubhav, NewSky Security

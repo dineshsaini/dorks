@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5691
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2020-01-17
 Author:           Alfie
@@ -6,4 +7,12 @@ GoogleDork:       intitle:"WSO2 Management Console"
 Description:      intitle:"WSO2 Management Console"
 
 
-Google dork description: Instances of WSO2 Carbon, an opensource middleware platform.  Google Search: intitle:"WSO2 Management Console"  Submitted by: Alfie  Twitter: https://twitter.com/emenalf 
+Google dork description: Instances of WSO2 Carbon, an opensource middleware
+ platform.
+ 
+ Google Search: intitle:"WSO2 Management Console"
+ 
+ Submitted by: Alfie
+ 
+ Twitter: https://twitter.com/emenalf
+ 

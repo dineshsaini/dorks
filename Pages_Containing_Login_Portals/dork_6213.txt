@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6213
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-06-04
 Author:           Agrah Jain
@@ -6,4 +7,9 @@ GoogleDork:       site:*/auth.html intitle:login
 Description:      site:*/auth.html intitle:login
 
 
-# Google Dork site:*/auth.html intitle:login # Description:- This dork is used to get the login portals of the websites. # Author: Agrah Jain # Date: 30-May-2020 # Linkedin: https://www.linkedin.com/in/agrahjain 
+# Google Dork site:*/auth.html intitle:login
+ # Description:- This dork is used to get the login portals of the websites.
+ # Author: Agrah Jain
+ # Date: 30-May-2020
+ # Linkedin: https://www.linkedin.com/in/agrahjain
+ 

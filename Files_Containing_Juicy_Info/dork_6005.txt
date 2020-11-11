@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6005
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-05-04
 Author:           Abhi Chitkara
@@ -6,4 +7,8 @@ GoogleDork:       intitle:"index of" "client_id.json"
 Description:      intitle:"index of" "client_id.json"
 
 
-Dork: intitle:"index of" "client_id.json" Description: This Google dork lists out sensitive client ids stored in the "client_id.json" file for a website. Author: Abhi Chitkara 
+Dork: intitle:"index of" "client_id.json"
+ Description: This Google dork lists out sensitive client ids stored in the
+ "client_id.json" file for a website.
+ Author: Abhi Chitkara
+ 

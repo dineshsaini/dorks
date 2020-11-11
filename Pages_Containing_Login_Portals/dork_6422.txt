@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6422
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-07-21
 Author:           Alexandros Pappas
@@ -6,4 +7,8 @@ GoogleDork:       inurl:index.php "Powered by PHP Server Monitor v3.1.1"
 Description:      inurl:index.php "Powered by PHP Server Monitor v3.1.1"
 
 
-# Google Dork: inurl:index.php "Powered by PHP Server Monitor v3.1.1" # Pages containing login portals. # Date: 20/07/2020 # Exploit Author: Alexandros Pappas 
+# Google Dork: inurl:index.php "Powered by PHP Server Monitor v3.1.1"
+ # Pages containing login portals.
+ # Date: 20/07/2020
+ # Exploit Author: Alexandros Pappas
+ 

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6261
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-06-10
 Author:           Alexandros Pappas
@@ -6,4 +7,8 @@ GoogleDork:       "login" intitle:"intext:"Welcome to Member" login"
 Description:      "login" intitle:"intext:"Welcome to Member" login"
 
 
-# Google Dork: "login" intitle:"intext:"Welcome to Member" login" # Various member login pages. # Date: 10/06/2020 # Exploit Author: Alexandros Pappas 
+# Google Dork: "login" intitle:"intext:"Welcome to Member" login"
+ # Various member login pages.
+ # Date: 10/06/2020
+ # Exploit Author: Alexandros Pappas
+ 

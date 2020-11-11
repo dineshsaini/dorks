@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5007
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2018-11-01
 Author:           ManhNho
@@ -6,4 +7,7 @@ GoogleDork:       inurl:"/phpsqlitecms/cms/index.php"
 Description:      inurl:"/phpsqlitecms/cms/index.php"
 
 
-phpsqlitecms login panel  ManhNho 
+phpsqlitecms login panel
+ 
+ ManhNho
+ 

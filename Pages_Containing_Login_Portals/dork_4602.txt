@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4602
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2017-10-30
 Author:           Sreeram Sasikumar
@@ -6,4 +7,7 @@ GoogleDork:       intitle:"Django site admin" inurl:admin -site:stackoverflow.co
 Description:      intitle:"Django site admin" inurl:admin -site:stackoverflow.com -site:github.com
 
 
-Identify admin page for websites built with Python Django framework  Sreeram Sasikumar 
+Identify admin page for websites built with Python Django framework
+ 
+ Sreeram Sasikumar
+ 

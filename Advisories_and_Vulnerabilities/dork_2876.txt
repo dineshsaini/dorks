@@ -1,9 +1,10 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/2876
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2010-11-15
 Author:           anonymous
-GoogleDork:       Website powered by Subdreamer CMS &amp; Sequel Theme Designed by indiqo.media
-Description:      Website powered by Subdreamer CMS &amp; Sequel Theme Designed by indiqo.media
+GoogleDork:       Website powered by Subdreamer CMS & Sequel Theme Designed by indiqo.media
+Description:      Website powered by Subdreamer CMS & Sequel Theme Designed by indiqo.media
 
 
 Subdreamer.v3.0.1 cms upload Vulnerability: https://www.exploit-db.com/exploits/11749

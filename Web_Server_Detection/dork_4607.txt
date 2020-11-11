@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4607
+Severity: 5 
 Category:         Web Server Detection
 Published Date:   2017-10-31
 Author:           Rejul Raghu
@@ -6,4 +7,7 @@ GoogleDork:       inurl:readme.md intext:"Laravel"
 Description:      inurl:readme.md intext:"Laravel"
 
 
-Reason:Lavavel package comes with readme.md and Since it's a part of default package it get indexed and able to identify the framework using this dork which can be further used for exploiting. 
+Reason:Lavavel package comes with readme.md and Since it's a part of
+ default package it get indexed and able to identify the framework using
+ this dork which can be further used for exploiting.
+ 

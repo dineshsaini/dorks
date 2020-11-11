@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4375
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2016-12-16
 Author:           anonymous
@@ -6,4 +7,4 @@ GoogleDork:       inurl:"/html/modeminfo.asp?
 Description:      inurl:"/html/modeminfo.asp?
 
 
-at&amp;t and NetGear router information. Also inurl:"/html/login.asp?" intext:"REMOTE ACCESS IS CURRENTLY ENABLED." -Xploit 
+at&t and NetGear router information. Also inurl:"/html/login.asp?" intext:"REMOTE ACCESS IS CURRENTLY ENABLED." -Xploit 

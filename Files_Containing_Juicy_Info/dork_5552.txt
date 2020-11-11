@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5552
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2019-09-24
 Author:           Dhaiwat Mehta
@@ -6,4 +7,8 @@ GoogleDork:       inurl:credentials.txt -github -git -gitlab
 Description:      inurl:credentials.txt -github -git -gitlab
 
 
-This dork can use to find publicly available credentials files in short category of Files Containing Juicy Info.  Dhaiwat Mehta 
+This dork can use to find publicly available credentials files in short
+ category of Files Containing Juicy Info.
+ 
+ Dhaiwat Mehta
+ 

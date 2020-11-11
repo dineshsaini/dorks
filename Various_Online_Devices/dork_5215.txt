@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5215
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2019-05-15
 Author:           Miguel Santareno
@@ -6,4 +7,8 @@ GoogleDork:       inurl:/web-console/ServerInfo.jsp | inurl:/status?full=true
 Description:      inurl:/web-console/ServerInfo.jsp | inurl:/status?full=true
 
 
-# Google Dork: inurl:/web-console/ServerInfo.jsp | inurl:/status?full=true # Description: Google Dork to find JBoss Management Console Server Information or tomcat status # Date: 2019-05-15 # Author: Miguel Santareno # Contact: https://www.linkedin.com/in/miguelsantareno/
+# Google Dork: inurl:/web-console/ServerInfo.jsp | inurl:/status?full=true
+ # Description: Google Dork to find JBoss Management Console Server Information or tomcat status
+ # Date: 2019-05-15
+ # Author: Miguel Santareno
+ # Contact: https://www.linkedin.com/in/miguelsantareno/

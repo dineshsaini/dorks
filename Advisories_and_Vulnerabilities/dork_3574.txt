@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3574
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2010-11-15
 Author:           anonymous
@@ -6,4 +7,4 @@ GoogleDork:       "Powered by Online Grades"
 Description:      "Powered by Online Grades"
 
 
-Online Grades &amp; Attendance 3.2.6 Blind SQL Injection - CVE: 2009-2598: https://www.exploit-db.com/exploits/8854
+Online Grades & Attendance 3.2.6 Blind SQL Injection - CVE: 2009-2598: https://www.exploit-db.com/exploits/8854

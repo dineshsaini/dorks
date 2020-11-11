@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6339
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-06-30
 Author:           isa ghojaria
@@ -6,4 +7,5 @@ GoogleDork:       inurl:"index.php/user/password/"
 Description:      inurl:"index.php/user/password/"
 
 
- inurl:"index.php/user/password/" 
+ inurl:"index.php/user/password/"
+ 

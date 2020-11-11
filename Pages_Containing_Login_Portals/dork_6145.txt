@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6145
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-05-28
 Author:           Alexandros Pappas
@@ -6,4 +7,11 @@ GoogleDork:       "login" intitle:"*scada login"
 Description:      "login" intitle:"*scada login"
 
 
-# Google Dork: "login" intitle:"*scada login"  # Various SCADA login portals.  # Date: 28/05/2020  # Author: Alexandros Pappas 
+# Google Dork: "login" intitle:"*scada login"
+ 
+ # Various SCADA login portals.
+ 
+ # Date: 28/05/2020
+ 
+ # Author: Alexandros Pappas
+ 

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6181
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-06-04
 Author:           Alexandros Pappas
@@ -6,4 +7,8 @@ GoogleDork:       inurl:admin/upload.asp
 Description:      inurl:admin/upload.asp
 
 
-# Google Dork: inurl:admin/upload.asp # Sensitive directories and login portals. # Date: 29/05/2020 # Exploit Author: Alexandros Pappas 
+# Google Dork: inurl:admin/upload.asp
+ # Sensitive directories and login portals.
+ # Date: 29/05/2020
+ # Exploit Author: Alexandros Pappas
+ 

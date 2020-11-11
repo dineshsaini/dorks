@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4986
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2018-10-16
 Author:           CrimsonTorso
@@ -6,4 +7,7 @@ GoogleDork:       "ProQuest provides subscription access to numerous premium tec
 Description:      "ProQuest provides subscription access to numerous premium technical journals, dissertations and other information databases."
 
 
-Find login portals on websites using ProQuest.  ~ CrimsonTorso 
+Find login portals on websites using ProQuest.
+ 
+ ~ CrimsonTorso
+ 

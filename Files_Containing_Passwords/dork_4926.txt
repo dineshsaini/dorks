@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4926
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2018-08-20
 Author:           Chris Rogers
@@ -6,4 +7,5 @@ GoogleDork:       "battlefield" "email" site:pastebin.com
 Description:      "battlefield" "email" site:pastebin.com
 
 
-Hacked EA/Origin passwords 
+Hacked EA/Origin passwords
+ 

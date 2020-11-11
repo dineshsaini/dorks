@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5755
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-02-26
 Author:           Hilary Soita
@@ -6,4 +7,9 @@ GoogleDork:       inurl:"auth.html" intitle:"SonicWall"
 Description:      inurl:"auth.html" intitle:"SonicWall"
 
 
-Find sonicwall appliance login pages  --   *Hilary Soita.* 
+Find sonicwall appliance login pages
+ 
+ -- 
+ 
+ *Hilary Soita.*
+ 

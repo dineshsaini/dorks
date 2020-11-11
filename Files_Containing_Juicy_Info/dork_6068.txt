@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6068
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-05-08
 Author:           Abhi Chitkara
@@ -6,4 +7,8 @@ GoogleDork:       intitle:"index of" "configure.in"
 Description:      intitle:"index of" "configure.in"
 
 
-Dork: intitle:"index of" "configure.in" Description: This Google dork lists out sensitive data for the altibase dbms on a web server Author: Abhi Chitkara 
+Dork: intitle:"index of" "configure.in"
+ Description: This Google dork lists out sensitive data for the altibase
+ dbms on a web server
+ Author: Abhi Chitkara
+ 

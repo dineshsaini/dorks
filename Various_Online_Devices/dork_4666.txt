@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4666
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2018-02-05
 Author:           Jacobo Avariento
@@ -6,4 +7,14 @@ GoogleDork:       inurl:"/cgi-bin/filemanager/Manager.pl"
 Description:      inurl:"/cgi-bin/filemanager/Manager.pl"
 
 
-Google dork for iDC File Manager.  iDC File Manager is a secure multi user web based File Management System, that allows you to store, manage and share every format of digital media, including, documents, images, audio, video, publishing layouts, presentations and PDF files Between you and your end users.  If your Company has a requirement to distribute or share files with customers, suppliers, remote workers or just internally, then iDC File Manager is the best solution for you. 
+Google dork for iDC File Manager.
+ 
+ iDC File Manager is a secure multi user web based File Management
+ System, that allows you to store, manage and share every format of
+ digital media, including, documents, images, audio, video, publishing
+ layouts, presentations and PDF files Between you and your end users.
+ 
+ If your Company has a requirement to distribute or share files with
+ customers, suppliers, remote workers or just internally, then iDC File
+ Manager is the best solution for you.
+ 

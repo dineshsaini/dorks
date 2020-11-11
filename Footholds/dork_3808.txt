@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3808
+Severity: 5 
 Category:         Footholds
 Published Date:   2012-11-02
 Author:           anonymous
@@ -6,4 +7,4 @@ GoogleDork:       intitle:C0ded By web.sniper
 Description:      intitle:C0ded By web.sniper
 
 
-User &amp; Domain || Symlink Using this dork you can find the User and the Domains of the Server... intitle:C0ded By web.sniper Author: Un0wn_X
+User & Domain || Symlink Using this dork you can find the User and the Domains of the Server... intitle:C0ded By web.sniper Author: Un0wn_X

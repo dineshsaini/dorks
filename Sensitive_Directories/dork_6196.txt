@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6196
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2020-06-04
 Author:           Alexandros Pappas
@@ -6,4 +7,8 @@ GoogleDork:       allintitle: sensitive ext:doc OR ext:xls OR ext:xlsx
 Description:      allintitle: sensitive ext:doc OR ext:xls OR ext:xlsx
 
 
-# Google Dork: allintitle: sensitive ext:doc OR ext:xls OR ext:xlsx # Sensitive stuff. # Date: 29/05/2020 # Exploit Author: Alexandros Pappas 
+# Google Dork: allintitle: sensitive ext:doc OR ext:xls OR ext:xlsx
+ # Sensitive stuff.
+ # Date: 29/05/2020
+ # Exploit Author: Alexandros Pappas
+ 

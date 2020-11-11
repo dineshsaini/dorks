@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6591
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-10-05
 Author:           Sibi Mathew George
@@ -6,4 +7,11 @@ GoogleDork:       allintitle:"CrushFTP WebInterface"
 Description:      allintitle:"CrushFTP WebInterface"
 
 
-Google Dork: allintitle:"CrushFTP WebInterface"  Description: This Google Dork helps in detecting various pages of CrushFTP WebInterface which includes login portals as well password reset/recovery pages.  Author: Sibi Mathew George 
+Google Dork: allintitle:"CrushFTP WebInterface"
+ 
+ Description: This Google Dork helps in detecting various pages of CrushFTP
+ WebInterface which includes login portals as well password reset/recovery
+ pages.
+ 
+ Author: Sibi Mathew George
+ 

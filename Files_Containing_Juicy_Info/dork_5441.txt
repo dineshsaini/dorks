@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5441
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2019-08-26
 Author:           Reza Abasi
@@ -6,4 +7,10 @@ GoogleDork:       site:*/log/access_log
 Description:      site:*/log/access_log
 
 
-file containing juicy info:  site:*/log/access_log site:*/logs/error_log  Reza Abasi(Turku) 
+file containing juicy info:
+ 
+ site:*/log/access_log
+ site:*/logs/error_log
+ 
+ Reza Abasi(Turku)
+ 

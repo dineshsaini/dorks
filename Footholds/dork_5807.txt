@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5807
+Severity: 5 
 Category:         Footholds
 Published Date:   2020-03-18
 Author:           Debashis Pal
@@ -6,4 +7,9 @@ GoogleDork:       intitle:("Index of") AND intext:("c99.txt" OR "c100.txt")
 Description:      intitle:("Index of") AND intext:("c99.txt" OR "c100.txt")
 
 
-# Dork #  intitle:("Index of") AND intext:("c99.txt" OR "c100.txt")  Footholds for possible infected domain with web shell contents. 
+# Dork #
+ 
+ intitle:("Index of") AND intext:("c99.txt" OR "c100.txt")
+ 
+ Footholds for possible infected domain with web shell contents.
+ 

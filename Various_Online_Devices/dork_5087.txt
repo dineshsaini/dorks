@@ -1,9 +1,17 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5087
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2019-02-05
 Author:           Brain Reflow
-GoogleDork:       intext:"Any time &amp; Any where" AND "Customer Login"
-Description:      intext:"Any time &amp; Any where" AND "Customer Login"
+GoogleDork:       intext:"Any time & Any where" AND "Customer Login"
+Description:      intext:"Any time & Any where" AND "Customer Login"
 
 
-Dork about Avtech - Video Surveillance Technology Several login panels  intext:"Any time &amp; Any where" AND "Customer Login"   Author : *.doc-TOR aka Brain Reflow https://twitter.com/The_d0c_T0R 
+Dork about Avtech - Video Surveillance Technology
+ Several login panels
+ 
+ intext:"Any time & Any where" AND "Customer Login"
+ 
+ 
+ Author : *.doc-TOR aka Brain Reflow https://twitter.com/The_d0c_T0R
+ 

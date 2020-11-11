@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5613
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2019-11-04
 Author:           Reza Abasi
@@ -6,4 +7,9 @@ GoogleDork:       intitle:"Marshall VS Server"
 Description:      intitle:"Marshall VS Server"
 
 
-Online Devices:  intitle:"Marshall VS Server"  Reza Abasi(Turku) 
+Online Devices:
+ 
+ intitle:"Marshall VS Server"
+ 
+ Reza Abasi(Turku)
+ 

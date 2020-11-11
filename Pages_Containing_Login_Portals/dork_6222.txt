@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6222
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-06-04
 Author:           AJAYSEN R
@@ -6,4 +7,7 @@ GoogleDork:       inurl:admin/login.jsp
 Description:      inurl:admin/login.jsp
 
 
-Dork : inurl:admin/login.jsp Description : List of admin login portals of various website. Author: Ajaysen R 
+Dork : inurl:admin/login.jsp
+ Description : List of admin login portals of various website.
+ Author: Ajaysen R
+ 

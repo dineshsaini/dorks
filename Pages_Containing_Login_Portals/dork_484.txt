@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/484
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2004-09-21
 Author:           anonymous
@@ -6,4 +7,4 @@ GoogleDork:       ez Publish administration
 Description:      ez Publish administration
 
 
-Thousands of enterprises, governmental offices, non-profit organizations, small and middle sized companies and educational institutions around the world trust eZ publish for running their web solutions.Vendor site: http://www.ez.no/Vulnerabilities: http://search.securityfocus.com/swsearch?query=ez+publish&amp;sbm=bid&amp;submit=Search%21&amp;metaname=alldoc&amp;sort=swishlastmodifiedDepending on the version two queries can usedAdmin intitle:"eZ publish administration"intitle:"Login" "Welcome to eZ publish administration"Crosssite Scriting, Information Disclosure, Pathdisclosure available on older versions
+Thousands of enterprises, governmental offices, non-profit organizations, small and middle sized companies and educational institutions around the world trust eZ publish for running their web solutions.Vendor site: http://www.ez.no/Vulnerabilities: http://search.securityfocus.com/swsearch?query=ez+publish&sbm=bid&submit=Search%21&metaname=alldoc&sort=swishlastmodifiedDepending on the version two queries can usedAdmin intitle:"eZ publish administration"intitle:"Login" "Welcome to eZ publish administration"Crosssite Scriting, Information Disclosure, Pathdisclosure available on older versions

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6280
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2020-06-15
 Author:           Abhinav Porwal
@@ -6,4 +7,10 @@ GoogleDork:       "powered by Typo3"
 Description:      "powered by Typo3"
 
 
-Dork: "powered by Typo3"  Description: This google dork lists out the "powered by Typo3" sites Reference: https://www.cvedetails.com/cve/CVE-2019-12748/  Author: Abhinav Porwal 
+Dork: "powered by Typo3"
+ 
+ Description: This google dork lists out the "powered by Typo3" sites
+ Reference: https://www.cvedetails.com/cve/CVE-2019-12748/
+ 
+ Author: Abhinav Porwal
+ 

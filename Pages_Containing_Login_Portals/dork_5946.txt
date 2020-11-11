@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5946
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-04-24
 Author:           Alexandros Pappas
@@ -6,4 +7,11 @@ GoogleDork:       inurl:/8080/login.html
 Description:      inurl:/8080/login.html
 
 
-# Google Dork: inurl:/8080/login.html  # Various pages containing login portals.  # Date: 23/04/2020  # Author: Alexandros Pappas 
+# Google Dork: inurl:/8080/login.html
+ 
+ # Various pages containing login portals.
+ 
+ # Date: 23/04/2020
+ 
+ # Author: Alexandros Pappas
+ 

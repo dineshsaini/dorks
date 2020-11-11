@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5935
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2020-04-22
 Author:           Alexandros Pappas
@@ -6,4 +7,12 @@ GoogleDork:       "admin password irreversible-cipher" ext:txt OR ext:log OR ext
 Description:      "admin password irreversible-cipher" ext:txt OR ext:log OR ext:cfg
 
 
-# Google Dork: "admin password irreversible-cipher" ext:txt OR ext:log OR ext:cfg  # Configuration files containing usernames and passwords.  # Date: 22/04/2020  # Author: Alexandros Pappas 
+# Google Dork: "admin password irreversible-cipher" ext:txt OR ext:log OR
+ ext:cfg
+ 
+ # Configuration files containing usernames and passwords.
+ 
+ # Date: 22/04/2020
+ 
+ # Author: Alexandros Pappas
+ 

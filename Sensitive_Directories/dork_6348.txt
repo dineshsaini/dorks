@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6348
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2020-06-30
 Author:           Ambadi MP
@@ -6,4 +7,7 @@ GoogleDork:       intitle:"index of" "app.log"
 Description:      intitle:"index of" "app.log"
 
 
-# Dork : intitle:"index of" "app.log" # Sensitive Informations # Author : Ambadi MP 
+# Dork : intitle:"index of" "app.log"
+ # Sensitive Informations
+ # Author : Ambadi MP
+ 

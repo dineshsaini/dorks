@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6286
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-06-16
 Author:           Md Anzaruddin
@@ -6,4 +7,18 @@ GoogleDork:       inurl:adminlogin.jsp
 Description:      inurl:adminlogin.jsp
 
 
-#Google Dork:- inurl:adminlogin.jsp  #Description: This Page Contains Various Admin login Pages for a web server.  #Author: Md Anzaruddin Linkedin: https://www.linkedin.com/in/mdanzaruddin/   #Date: 15-June-2020  ---  Regards: Md Anzaruddin 
+#Google Dork:- inurl:adminlogin.jsp
+ 
+ #Description: This Page Contains Various Admin login Pages for a web server.
+ 
+ #Author: Md Anzaruddin
+ Linkedin: https://www.linkedin.com/in/mdanzaruddin/
+ 
+ 
+ #Date: 15-June-2020
+ 
+ ---
+ 
+ Regards:
+ Md Anzaruddin
+ 

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3704
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2011-03-23
 Author:           anonymous

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5315
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-08-02
 Author:           M. Cory Billington
@@ -6,4 +7,9 @@ GoogleDork:       inurl:cgi/login.pl
 Description:      inurl:cgi/login.pl
 
 
-Dorks:   inurl:cgi/login.pl inurl:cgi/login.pl intext:"Matrix Science"  -M. Cory Billington
+Dorks: 
+ 
+ inurl:cgi/login.pl
+ inurl:cgi/login.pl intext:"Matrix Science"
+ 
+ -M. Cory Billington

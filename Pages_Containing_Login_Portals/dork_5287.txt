@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5287
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-07-24
 Author:           Vishnu Padmakumar
@@ -6,4 +7,7 @@ GoogleDork:       inurl:Dashboard.jspa intext:"Atlassian Jira Project Management
 Description:      inurl:Dashboard.jspa intext:"Atlassian Jira Project Management Software"
 
 
-Page Containing Login Portals Targeted platform: Jira Project and Issue Tracking Software Dork: inurl:Dashboard.jspa intext:"Atlassian Jira Project Management Software" 
+Page Containing Login Portals
+ Targeted platform: Jira Project and Issue Tracking Software
+ Dork: inurl:Dashboard.jspa intext:"Atlassian Jira Project Management Software"
+ 

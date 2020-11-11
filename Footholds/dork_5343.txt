@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5343
+Severity: 5 
 Category:         Footholds
 Published Date:   2019-08-12
 Author:           Mr.XSecr3t
@@ -6,4 +7,7 @@ GoogleDork:       intitle:Administration - Installation - MantisBT
 Description:      intitle:Administration - Installation - MantisBT
 
 
-Dorks for mantisBT CMS installation  Mr.XSecr3t 
+Dorks for mantisBT CMS installation
+ 
+ Mr.XSecr3t
+ 

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5240
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-06-03
 Author:           Bruno Schmid
@@ -6,4 +7,10 @@ GoogleDork:       intext:"Sign in with your organizational account" login -githu
 Description:      intext:"Sign in with your organizational account" login -github.com
 
 
-Office365 login pages.   Bruno Schmid https://ch.linkedin.com/in/schmidbruno @brulliant 
+Office365 login pages.
+ 
+ 
+ Bruno Schmid
+ https://ch.linkedin.com/in/schmidbruno
+ @brulliant
+ 

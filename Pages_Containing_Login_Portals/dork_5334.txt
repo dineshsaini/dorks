@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5334
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-08-12
 Author:           Sathishshan
@@ -6,4 +7,8 @@ GoogleDork:       inurl:adminpanel/index.php
 Description:      inurl:adminpanel/index.php
 
 
-GOOLGE DORK Dork: inurl:adminpanel/index.php Author: Sathishshan Info: Contains sensitive directory information of adminpanel login 
+GOOLGE DORK
+ Dork: inurl:adminpanel/index.php
+ Author: Sathishshan
+ Info: Contains sensitive directory information of adminpanel login
+ 

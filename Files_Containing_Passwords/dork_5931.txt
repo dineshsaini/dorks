@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5931
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2020-04-21
 Author:           Alexandros Pappas
@@ -6,4 +7,11 @@ GoogleDork:       intitle:"index of" application.ini
 Description:      intitle:"index of" application.ini
 
 
-# Google Dork: intitle:"index of" application.ini  # Applications' configuration files containing usernames and passwords.  # Date: 20/04/2020  # Author: Alexandros Pappas 
+# Google Dork: intitle:"index of" application.ini
+ 
+ # Applications' configuration files containing usernames and passwords.
+ 
+ # Date: 20/04/2020
+ 
+ # Author: Alexandros Pappas
+ 

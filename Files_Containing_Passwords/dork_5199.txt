@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5199
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2019-05-06
 Author:           vocuzi
@@ -6,4 +7,12 @@ GoogleDork:       inurl:wp-config.php intext:DB_PASSWORD -stackoverflow -wpbegin
 Description:      inurl:wp-config.php intext:DB_PASSWORD -stackoverflow -wpbeginner
 
 
-Description : Plain text wordpress config responses, exposing DB passwords  Dork: inurl:wp-config.php intext:DB_PASSWORD -stackoverflow -wpbeginner  Author: Vipin Joshi(@vocuzi) 
+Description :
+ Plain text wordpress config responses, exposing DB passwords
+ 
+ Dork:
+ inurl:wp-config.php intext:DB_PASSWORD -stackoverflow -wpbeginner
+ 
+ Author:
+ Vipin Joshi(@vocuzi)
+ 

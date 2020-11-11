@@ -1,9 +1,15 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5631
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-11-08
 Author:           Reza Abasi
-GoogleDork:       site:*/auth_index.htm?lang=kr&amp;loginvalue=0&amp;port=0
-Description:      site:*/auth_index.htm?lang=kr&amp;loginvalue=0&amp;port=0
+GoogleDork:       site:*/auth_index.htm?lang=kr&loginvalue=0&port=0
+Description:      site:*/auth_index.htm?lang=kr&loginvalue=0&port=0
 
 
-Samsung DVR web viewer login portal:  site:*/auth_index.htm?lang=kr&amp;loginvalue=0&amp;port=0  Reza Abasi(Turku) 
+Samsung DVR web viewer login portal:
+ 
+ site:*/auth_index.htm?lang=kr&loginvalue=0&port=0
+ 
+ Reza Abasi(Turku)
+ 

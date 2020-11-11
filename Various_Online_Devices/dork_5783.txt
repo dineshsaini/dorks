@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5783
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2020-03-11
 Author:           Riku Dola
@@ -6,4 +7,9 @@ GoogleDork:       "VB Viewer" inurl:/viewer/live/ja/live.html
 Description:      "VB Viewer" inurl:/viewer/live/ja/live.html
 
 
-Dork: "VB Viewer" inurl:/viewer/live/ja/live.html  Description: IP Cameras 
+Dork:
+ "VB Viewer" inurl:/viewer/live/ja/live.html
+ 
+ Description:
+ IP Cameras
+ 

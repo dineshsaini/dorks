@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6050
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-05-06
 Author:           Irshad Ahamed
@@ -6,4 +7,10 @@ GoogleDork:       intitle:"index of" "config.js"
 Description:      intitle:"index of" "config.js"
 
 
-Using this dork, the configuration file of websites using Express Js as backend can be found.  DORK: intitle:"index of" "config.js"  ~ Irshad Ahamed 
+Using this dork, the configuration file of websites using Express Js as
+ backend can be found.
+ 
+ DORK: intitle:"index of" "config.js"
+ 
+ ~ Irshad Ahamed
+ 

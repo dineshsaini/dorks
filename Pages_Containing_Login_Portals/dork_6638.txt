@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6638
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-10-26
 Author:           KawaiiPantsu
@@ -6,4 +7,7 @@ GoogleDork:       allintext:"Copperfasten Technologies" "Login"
 Description:      allintext:"Copperfasten Technologies" "Login"
 
 
-# Title: Find websites using SpamTitan system # Google Dork: allintext:"Copperfasten Technologies" "Login" # Author: KawaiiPantsu 
+# Title: Find websites using SpamTitan system
+ # Google Dork: allintext:"Copperfasten Technologies" "Login"
+ # Author: KawaiiPantsu
+ 

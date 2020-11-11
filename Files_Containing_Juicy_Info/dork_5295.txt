@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5295
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2019-07-30
 Author:           Sayak Naskar
@@ -6,4 +7,7 @@ GoogleDork:       inurl:/filedown.php?file=
 Description:      inurl:/filedown.php?file=
 
 
-# Google Dork: inurl:/filedown.php?file= # Author: Sayak Naskar # Date: 29.07.2019 
+# Google Dork: inurl:/filedown.php?file=
+ # Author: Sayak Naskar
+ # Date: 29.07.2019
+ 

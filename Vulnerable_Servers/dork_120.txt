@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/120
+Severity: 5 
 Category:         Vulnerable Servers
 Published Date:   2004-03-04
 Author:           anonymous

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5891
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2020-04-16
 Author:           Ketan Amrute
@@ -6,4 +7,11 @@ GoogleDork:       intitle:"index of" "cctv"
 Description:      intitle:"index of" "cctv"
 
 
-#Description: intitle:"index of" "cctv" This Google dork shows CCTV video footages of other which are saved insecurely on websites. An attacker can further misuse this to conduct attacks.  #Author : Ketan Amrute #Date: 4 April 2020 
+#Description: intitle:"index of" "cctv"
+ This Google dork shows CCTV video footages of other which are saved
+ insecurely on websites.
+ An attacker can further misuse this to conduct attacks.
+ 
+ #Author : Ketan Amrute
+ #Date: 4 April 2020
+ 

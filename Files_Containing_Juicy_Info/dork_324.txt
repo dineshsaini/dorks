@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/324
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2004-07-12
 Author:           anonymous

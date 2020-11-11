@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4627
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2017-11-30
 Author:           Fu2x2000
@@ -6,4 +7,11 @@ GoogleDork:       intext:"/wp-content/uploads/wpsc/"
 Description:      intext:"/wp-content/uploads/wpsc/"
 
 
-When you dork with this,it will generate juicy information, may have sensitive information in some cases ,   Regards  Fu2x2000 
+When you dork with this,it will generate juicy information, may have
+ sensitive information in some cases ,
+ 
+ 
+ Regards
+ 
+ Fu2x2000
+ 

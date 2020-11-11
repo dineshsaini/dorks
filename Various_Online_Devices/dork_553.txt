@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/553
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2004-10-11
 Author:           anonymous
@@ -6,4 +7,4 @@ GoogleDork:       (inurl:webArch/mainFrame.cgi ) | (intitle:"web image monitor" 
 Description:      (inurl:webArch/mainFrame.cgi ) | (intitle:"web image monitor" -htm -solutions)
 
 
-The Ricoh Aficio 2035 (fax/scanner) web interface.Attackers may read faxes and can get information like internal ip addresses.cleanup by: yeseins &amp; golfocleanup date: Apr 28, 2005original dork: inurl:webArch/mainFrame.cgi
+The Ricoh Aficio 2035 (fax/scanner) web interface.Attackers may read faxes and can get information like internal ip addresses.cleanup by: yeseins & golfocleanup date: Apr 28, 2005original dork: inurl:webArch/mainFrame.cgi

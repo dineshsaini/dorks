@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4932
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2018-08-27
 Author:           Bruno Schmid
@@ -6,4 +7,8 @@ GoogleDork:       inurl:/usersignin?
 Description:      inurl:/usersignin?
 
 
-Login portals  Bruno Schmid https://ch.linkedin.com/in/schmidbruno 
+Login portals
+ 
+ Bruno Schmid
+ https://ch.linkedin.com/in/schmidbruno
+ 

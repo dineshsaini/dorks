@@ -1,9 +1,10 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/859
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2005-02-07
 Author:           anonymous
-GoogleDork:       &amp;quot;Powered by DUpaypal&amp;quot; -site:duware.com
-Description:      &amp;quot;Powered by DUpaypal&amp;quot; -site:duware.com
+GoogleDork:       &quot;Powered by DUpaypal&quot; -site:duware.com
+Description:      &quot;Powered by DUpaypal&quot; -site:duware.com
 
 
 Here is another DUware product, DUpaypal. Once you get hold of the database it contains the admin username and password. The default by the way is admin/passwordThe default location for the database is ../_private/DUpaypal.mdb

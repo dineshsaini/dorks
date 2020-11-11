@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6309
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2020-06-18
 Author:           Alexandros Pappas
@@ -6,4 +7,9 @@ GoogleDork:       intext:"TopManage (R) 2002 - 2020"
 Description:      intext:"TopManage (R) 2002 - 2020"
 
 
-# Google Dork: intext:"TopManage ® 2002 - 2020" # OLK Web Store 2020 - Cross-Site Request Forgery. This dork is linked to # the following existing exploit: https://www.exploit-db.com/exploits/47960 # Date: 05/06/2020 # Exploit Author: Alexandros Pappas 
+# Google Dork: intext:"TopManage ® 2002 - 2020"
+ # OLK Web Store 2020 - Cross-Site Request Forgery. This dork is linked to
+ # the following existing exploit: https://www.exploit-db.com/exploits/47960
+ # Date: 05/06/2020
+ # Exploit Author: Alexandros Pappas
+ 

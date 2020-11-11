@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5724
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-02-03
 Author:           Bruno Schmid
@@ -6,4 +7,9 @@ GoogleDork:       accdb OR accde intitle:"index of" -pub -google -books
 Description:      accdb OR accde intitle:"index of" -pub -google -books
 
 
-Dork gives Microsoft Access databases.   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 
+Dork gives Microsoft Access databases.
+ 
+ 
+ Bruno Schmid
+ https://ch.linkedin.com/in/schmidbruno
+ 

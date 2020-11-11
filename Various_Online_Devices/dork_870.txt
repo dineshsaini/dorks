@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/870
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2005-02-15
 Author:           anonymous

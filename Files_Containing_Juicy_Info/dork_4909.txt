@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4909
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2018-08-08
 Author:           Anwar Ayoob
@@ -6,4 +7,8 @@ GoogleDork:       inurl:lighttpd.conf lighttpd site:github.com
 Description:      inurl:lighttpd.conf lighttpd site:github.com
 
 
-This dork can be used to detect codes hosted by different companies that uses lighttpd Web Server.  Anwar Ayoob 
+This dork can be used to detect codes hosted by different companies that
+ uses lighttpd Web Server.
+ 
+ Anwar Ayoob
+ 

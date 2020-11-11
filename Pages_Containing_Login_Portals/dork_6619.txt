@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6619
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-10-19
 Author:           Aninda Saha
@@ -6,4 +7,11 @@ GoogleDork:       intext:Please Login SSL VPN inurl:remote/login intext:FortiCli
 Description:      intext:Please Login SSL VPN inurl:remote/login intext:FortiClient
 
 
-#Google Dork: intext:Please Login SSL VPN inurl:remote/login #intext:FortiClient #Description : Fortinet VPN login pages. #Date : 19/10/2020 #Exploit Author: Aninda Saha  Proof Of Concept: 
+#Google Dork: intext:Please Login SSL VPN inurl:remote/login
+ #intext:FortiClient
+ #Description : Fortinet VPN login pages.
+ #Date : 19/10/2020
+ #Exploit Author: Aninda Saha
+ 
+ Proof Of Concept:
+ 

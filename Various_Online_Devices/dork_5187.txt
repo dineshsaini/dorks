@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5187
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2019-04-22
 Author:           Raj Kiran P
@@ -6,4 +7,7 @@ GoogleDork:       inurl:/clusters intitle:"kafka Manager"
 Description:      inurl:/clusters intitle:"kafka Manager"
 
 
-Manage/Monitor sensitive information in Kafka.  Author : Raj Kiran P 
+Manage/Monitor sensitive information in Kafka.
+ 
+ Author : Raj Kiran P
+ 

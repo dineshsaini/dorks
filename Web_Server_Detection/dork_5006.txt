@@ -1,9 +1,13 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5006
+Severity: 5 
 Category:         Web Server Detection
 Published Date:   2018-11-01
 Author:           ManhNho
-GoogleDork:       intext:"Powered by phpSQLiteCMS" | intitle:"phpSQLiteCMS - A simple &amp; lightweight CMS"
-Description:      intext:"Powered by phpSQLiteCMS" | intitle:"phpSQLiteCMS - A simple &amp; lightweight CMS"
+GoogleDork:       intext:"Powered by phpSQLiteCMS" | intitle:"phpSQLiteCMS - A simple & lightweight CMS"
+Description:      intext:"Powered by phpSQLiteCMS" | intitle:"phpSQLiteCMS - A simple & lightweight CMS"
 
 
-phpSQLiteCMS detect  ManhNho 
+phpSQLiteCMS detect
+ 
+ ManhNho
+ 

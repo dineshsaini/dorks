@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4948
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2018-09-12
 Author:           Gionathan Reale
@@ -6,4 +7,12 @@ GoogleDork:       intext:"class JConfig {" inurl:configuration.php
 Description:      intext:"class JConfig {" inurl:configuration.php
 
 
-intext:"class JConfig {" inurl:configuration.php  This Google Dork discovers badly configured servers exposing sensitive  Joomla configuaration information.    - Gionathan "John" Reale (https://www.exploit-db.com/author/?a=9609) 
+intext:"class JConfig {" inurl:configuration.php
+ 
+ This Google Dork discovers badly configured servers exposing sensitive 
+ Joomla configuaration information.
+ 
+ 
+ 
+ - Gionathan "John" Reale (https://www.exploit-db.com/author/?a=9609)
+ 

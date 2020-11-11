@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5057
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2018-12-14
 Author:           Kevin Randall
@@ -6,4 +7,11 @@ GoogleDork:       intext:password "Login Info" filetype:txt
 Description:      intext:password "Login Info" filetype:txt
 
 
-Find Username and Password Combo Login Information   intext:password "Login Info" filetype:txt   Discovered By: Kevin Randall 
+Find Username and Password Combo Login Information
+ 
+ 
+ intext:password "Login Info" filetype:txt
+ 
+ 
+ Discovered By: Kevin Randall
+ 

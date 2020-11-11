@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4766
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2018-04-12
 Author:           Bruno Schmid
@@ -6,4 +7,8 @@ GoogleDork:       inurl:"databases.yml" ext:yml password -github
 Description:      inurl:"databases.yml" ext:yml password -github
 
 
-Symfony databases passwords.   Bruno Schmid 
+Symfony databases passwords.
+ 
+ 
+ Bruno Schmid
+ 

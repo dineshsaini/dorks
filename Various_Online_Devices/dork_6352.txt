@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6352
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2020-06-30
 Author:           Prasad Lingamaiah
@@ -6,4 +7,7 @@ GoogleDork:       inurl:/base/main_login.html intext:"Login"
 Description:      inurl:/base/main_login.html intext:"Login"
 
 
-Dorks: inurl:/base/main_login.html intext:"Login" Category: Sensitive Information Summary: A Google dork that gives information about the NETGEAR Router. 
+Dorks: inurl:/base/main_login.html intext:"Login"
+ Category: Sensitive Information
+ Summary: A Google dork that gives information about the NETGEAR Router.
+ 

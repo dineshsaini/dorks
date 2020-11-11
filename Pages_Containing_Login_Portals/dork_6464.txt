@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6464
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-08-05
 Author:           Sibi Mathew George
@@ -6,4 +7,10 @@ GoogleDork:       intitle:"Login - OpenStack Dashboard" inurl:/dashboard/auth/lo
 Description:      intitle:"Login - OpenStack Dashboard" inurl:/dashboard/auth/login
 
 
-Google Dork: intitle:"Login - OpenStack Dashboard" inurl:/dashboard/auth/login  Description: This dork lists all the login portals to OpenStack Dashboard.  Author: Sibi Mathew George 
+Google Dork: intitle:"Login - OpenStack Dashboard"
+ inurl:/dashboard/auth/login
+ 
+ Description: This dork lists all the login portals to OpenStack Dashboard.
+ 
+ Author: Sibi Mathew George
+ 

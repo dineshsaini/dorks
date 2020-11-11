@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5191
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-04-23
 Author:           F1uffyGoat
@@ -6,4 +7,8 @@ GoogleDork:       inurl:ctl/Login/Default.aspx
 Description:      inurl:ctl/Login/Default.aspx
 
 
-The Dork: inurl:ctl/Login/Default.aspx reveals the CMS Login page for the Dot Net Nuke CMS.  Versions  DNN 7.1.0 and earlier / DNN 6.2.8 and earlier are vulnerable to XXS ( CVE-2013-4649 ).   This can be tested by reviewing the page source code and searching for default.css where the version will precede it. 
+The Dork: inurl:ctl/Login/Default.aspx reveals the CMS Login page for the Dot Net Nuke CMS.
+ 
+ Versions  DNN 7.1.0 and earlier / DNN 6.2.8 and earlier are vulnerable to XXS ( CVE-2013-4649 ). 
+ 
+ This can be tested by reviewing the page source code and searching for default.css where the version will precede it. 

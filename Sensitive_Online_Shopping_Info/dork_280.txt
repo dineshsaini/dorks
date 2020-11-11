@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/280
+Severity: 5 
 Category:         Sensitive Online Shopping Info
 Published Date:   2004-06-06
 Author:           anonymous

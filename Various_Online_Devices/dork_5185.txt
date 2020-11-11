@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5185
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2019-04-22
 Author:           EJUPI Békim
@@ -6,4 +7,8 @@ GoogleDork:       inurl:TOP/PRTINFO.HTML
 Description:      inurl:TOP/PRTINFO.HTML
 
 
-inurl:TOP/PRTINFO.HTML  Found Epson printer without password administrator.  My name : EJUPI Békim
+inurl:TOP/PRTINFO.HTML
+ 
+ Found Epson printer without password administrator.
+ 
+ My name : EJUPI Békim

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6112
+Severity: 5 
 Category:         Error Messages
 Published Date:   2020-05-21
 Author:           Abhi Chitkara
@@ -6,4 +7,8 @@ GoogleDork:       intitle:"index of" "stacktrace.log"
 Description:      intitle:"index of" "stacktrace.log"
 
 
-Dork: intitle:"index of" "stacktrace.log" Description: This google dork lists out sensitive stack trace details for web servers. Author: Abhi Chitkara 
+Dork: intitle:"index of" "stacktrace.log"
+ Description: This google dork lists out sensitive stack trace details for
+ web servers.
+ Author: Abhi Chitkara
+ 

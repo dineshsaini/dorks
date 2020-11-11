@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5960
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2020-04-29
 Author:           Abhi Chitkara
@@ -6,4 +7,9 @@ GoogleDork:       intitle:"index of" db.frm
 Description:      intitle:"index of" db.frm
 
 
-Dork: intitle:"index of" db.sql Description: This Google dork shows juicy information about the website and finds out publicly available *MariaDB databases* that contain sensitive information &amp; can be exploited by the hacker. Author: Abhi Chitkara 
+Dork: intitle:"index of" db.sql
+ Description: This Google dork shows juicy information about the website and
+ finds out publicly available *MariaDB databases* that contain sensitive
+ information & can be exploited by the hacker.
+ Author: Abhi Chitkara
+ 

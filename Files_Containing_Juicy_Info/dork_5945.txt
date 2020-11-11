@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5945
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-04-23
 Author:           Alexandros Pappas
@@ -6,4 +7,11 @@ GoogleDork:       "SecretAccessKey" OR "AccessKeyId" ext:txt OR ext:cfg -git
 Description:      "SecretAccessKey" OR "AccessKeyId" ext:txt OR ext:cfg -git
 
 
-# Google Dork: "SecretAccessKey" OR "AccessKeyId" ext:txt OR ext:cfg -git  # Configuration files containing credentials.  # Date: 23/04/2020  # Author: Alexandros Pappas 
+# Google Dork: "SecretAccessKey" OR "AccessKeyId" ext:txt OR ext:cfg -git
+ 
+ # Configuration files containing credentials.
+ 
+ # Date: 23/04/2020
+ 
+ # Author: Alexandros Pappas
+ 

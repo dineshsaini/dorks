@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4701
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2018-03-20
 Author:           Bruno Schmid
@@ -6,4 +7,9 @@ GoogleDork:       intitle:"index of" docker-compose.yml
 Description:      intitle:"index of" docker-compose.yml
 
 
-File contains juicy info about docker containers, like DB configurations and more.  Bruno Schmid  
+File contains juicy info about docker containers, like DB configurations
+ and more.
+ 
+ Bruno Schmid
+ 
+ 

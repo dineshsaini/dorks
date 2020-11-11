@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6153
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2020-05-28
 Author:           Abhi Chitkara
@@ -6,4 +7,9 @@ GoogleDork:       inurl:wp-content/plugins/grand-media
 Description:      inurl:wp-content/plugins/grand-media
 
 
-Dork: inurl:wp-content/plugins/grand-media Description: This google dork lists out Advisories and Vulnerabilities regarding the grand media wordpress plugin. Ref: https://wpvulndb.com/vulnerabilities/10197 Author: Abhi Chitkara 
+Dork: inurl:wp-content/plugins/grand-media
+ Description: This google dork lists out Advisories and Vulnerabilities
+ regarding the grand media wordpress plugin. Ref:
+ https://wpvulndb.com/vulnerabilities/10197
+ Author: Abhi Chitkara
+ 

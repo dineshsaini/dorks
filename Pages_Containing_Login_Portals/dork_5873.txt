@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5873
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-04-16
 Author:           Juveria Banu
@@ -6,4 +7,7 @@ GoogleDork:       site:*/JIRA/login
 Description:      site:*/JIRA/login
 
 
-JIRA Login page using  site:*/JIRA/login 
+JIRA Login page using
+ 
+ site:*/JIRA/login
+ 

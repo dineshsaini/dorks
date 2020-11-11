@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4233
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2016-03-14
 Author:           anonymous
@@ -6,4 +7,4 @@ GoogleDork:       intitle:"RouterOS" intitle:"configuration page" intext:"You ha
 Description:      intitle:"RouterOS" intitle:"configuration page" intext:"You have connected to a router. Administrative access only."
 
 
-Description: RouterOS configuration &amp; login page Google search: intitle:"RouterOS" intitle:"configuration page" intext:"You have connected to a router. Administrative access only." Author: nebo_oben
+Description: RouterOS configuration & login page Google search: intitle:"RouterOS" intitle:"configuration page" intext:"You have connected to a router. Administrative access only." Author: nebo_oben

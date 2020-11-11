@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4706
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2018-03-21
 Author:           ManhNho
@@ -6,4 +7,9 @@ GoogleDork:       intitle:Login to CMS Made Simple + inurl:/cmsms
 Description:      intitle:Login to CMS Made Simple + inurl:/cmsms
 
 
-intitle:Login to CMS Made Simple + inurl:/cmsms  CMS Made Simple login pages  ManhNho 
+intitle:Login to CMS Made Simple + inurl:/cmsms
+ 
+ CMS Made Simple login pages
+ 
+ ManhNho
+ 

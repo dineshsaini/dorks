@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4869
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2018-06-22
 Author:           CrimsonTorso
@@ -6,4 +7,7 @@ GoogleDork:       frmLogin
 Description:      frmLogin
 
 
-Find websites using frmLogin login portals.   ~CrimsonTorso 
+Find websites using frmLogin login portals. 
+ 
+ ~CrimsonTorso
+ 

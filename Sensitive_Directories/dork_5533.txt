@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5533
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2019-09-16
 Author:           Mayur Parmar
@@ -6,4 +7,8 @@ GoogleDork:       indexof:.htaccess
 Description:      indexof:.htaccess
 
 
-dork: indexof:.htaccess  Author: Mayur parmar(th3cyb3rc0p) 
+dork:
+ indexof:.htaccess
+ 
+ Author: Mayur parmar(th3cyb3rc0p)
+ 

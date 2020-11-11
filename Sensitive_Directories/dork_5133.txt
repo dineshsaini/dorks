@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5133
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2019-02-22
 Author:           Inspira Enterprise Pvt Ltd
@@ -6,4 +7,10 @@ GoogleDork:       intitle:"index of" ".pem"
 Description:      intitle:"index of" ".pem"
 
 
- Exploit : Access the .pem (Privacy Enhanced Mail) file  Google Dork : intitle:"index of" ".pem"  Exploit Author:- Inspira Enterprise Pvt Ltd  URL :- https://www.inspiraenterprise.com
+ Exploit : Access the .pem (Privacy Enhanced Mail) file
+ 
+ Google Dork : intitle:"index of" ".pem"
+ 
+ Exploit Author:- Inspira Enterprise Pvt Ltd
+ 
+ URL :- https://www.inspiraenterprise.com

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6491
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-08-21
 Author:           Anshul T
@@ -6,4 +7,15 @@ GoogleDork:       intext:admin ext:sql inurl:admin
 Description:      intext:admin ext:sql inurl:admin
 
 
-*Google Dork:* intext:admin ext:sql inurl:admin  *Description:*With the extension sql and intext admin and inurl admin, I was able to look into some of the admin sql files and even sql queries directly that reveals lots of sensitive information like login id, password in clear text. .  *Author:* Anshul T  Thanks, Anshul T 
+*Google Dork:* intext:admin ext:sql inurl:admin
+ 
+ *Description:*With the extension sql and intext admin and inurl admin, I
+ was able to look into some of the admin sql files and even sql queries
+ directly that reveals lots of sensitive information like login id, password
+ in clear text. .
+ 
+ *Author:* Anshul T
+ 
+ Thanks,
+ Anshul T
+ 

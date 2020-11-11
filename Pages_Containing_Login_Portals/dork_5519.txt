@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5519
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-09-12
 Author:           Reza Abasi
@@ -6,4 +7,9 @@ GoogleDork:       site:*/authUpdate intitle:"Account Access Help"
 Description:      site:*/authUpdate intitle:"Account Access Help"
 
 
-Login Portal:  site:*/authUpdate intitle:"Account Access Help"  Reza Abasi(Turku) 
+Login Portal:
+ 
+ site:*/authUpdate intitle:"Account Access Help"
+ 
+ Reza Abasi(Turku)
+ 

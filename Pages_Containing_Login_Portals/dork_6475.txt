@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6475
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-08-11
 Author:           Alexandros Pappas
@@ -6,4 +7,8 @@ GoogleDork:       intitle:"D-LINK SYSTEMS, INC. | WIRELESS AP : LOGIN"
 Description:      intitle:"D-LINK SYSTEMS, INC. | WIRELESS AP : LOGIN"
 
 
-# Google Dork: intitle:"D-LINK SYSTEMS, INC. | WIRELESS AP : LOGIN" # D-LINK Wireless AP login portals. # Date: 11/08/2020 # Exploit Author: Alexandros Pappas 
+# Google Dork: intitle:"D-LINK SYSTEMS, INC. | WIRELESS AP : LOGIN"
+ # D-LINK Wireless AP login portals.
+ # Date: 11/08/2020
+ # Exploit Author: Alexandros Pappas
+ 

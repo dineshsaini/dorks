@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5800
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2020-03-17
 Author:           Rohit Gautam
@@ -6,4 +7,8 @@ GoogleDork:       intitle:"index of" "/concrete/Authentication"
 Description:      intitle:"index of" "/concrete/Authentication"
 
 
-Google Dork Query to find out insecure and sensitve concrete Authentication stored in YML format.  Google Dork Query: *intitle:"index of" "/concrete/Authentication"* 
+Google Dork Query to find out insecure and sensitve concrete Authentication
+ stored in YML format.
+ 
+ Google Dork Query: *intitle:"index of" "/concrete/Authentication"*
+ 

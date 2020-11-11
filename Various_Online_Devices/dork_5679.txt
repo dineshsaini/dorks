@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5679
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2020-01-06
 Author:           Reza Abasi
@@ -6,4 +7,9 @@ GoogleDork:       inurl:"/index.php?enter=guest"
 Description:      inurl:"/index.php?enter=guest"
 
 
-Zabbix login portal:  inurl:"/index.php?enter=guest"  Reza Abasi(Turku) 
+Zabbix login portal:
+ 
+ inurl:"/index.php?enter=guest"
+ 
+ Reza Abasi(Turku)
+ 

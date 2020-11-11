@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5186
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2019-04-22
 Author:           Aman Bhardwaj
@@ -6,4 +7,15 @@ GoogleDork:       intitle:"index of" scada
 Description:      intitle:"index of" scada
 
 
-*Google Dork:- intitle:"index of" scada*  *Description :- *  *Discovers Scada juicy information.*  *SCADA Sensitive Directories Expose on Site**.*  *Date :- 20th April, 2019*  *Exploit Author :- Aman Bhardwaj * 
+*Google Dork:- intitle:"index of" scada*
+ 
+ *Description :- *
+ 
+ *Discovers Scada juicy information.*
+ 
+ *SCADA Sensitive Directories Expose on Site**.*
+ 
+ *Date :- 20th April, 2019*
+ 
+ *Exploit Author :- Aman Bhardwaj *
+ 

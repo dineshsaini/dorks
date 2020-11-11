@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6346
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-06-30
 Author:           Alexandros Pappas
@@ -6,4 +7,8 @@ GoogleDork:       intitle:"index of" "bundle.pem"
 Description:      intitle:"index of" "bundle.pem"
 
 
-# Google Dork: intitle:"index of" "bundle.pem" # Juicy information and sensitive directories. # Date: 26/06/2020 # Exploit Author: Alexandros Pappas 
+# Google Dork: intitle:"index of" "bundle.pem"
+ # Juicy information and sensitive directories.
+ # Date: 26/06/2020
+ # Exploit Author: Alexandros Pappas
+ 

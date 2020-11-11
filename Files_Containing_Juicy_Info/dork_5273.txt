@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5273
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2019-07-08
 Author:           Eliezer Rabadon
@@ -6,4 +7,10 @@ GoogleDork:       site:https://docs.google.com/forms responses
 Description:      site:https://docs.google.com/forms responses
 
 
-site:https://docs.google.com/forms responses   Description:   This dork allows to view form analytics and responses of generated google forms  
+site:https://docs.google.com/forms responses 
+ 
+ Description: 
+ 
+ This dork allows to view form analytics and responses of generated
+ google forms 
+ 

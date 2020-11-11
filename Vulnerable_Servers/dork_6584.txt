@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6584
+Severity: 5 
 Category:         Vulnerable Servers
 Published Date:   2020-10-01
 Author:           Alexandros Pappas
@@ -6,4 +7,8 @@ GoogleDork:       intitle:"Vulnerability Report" "Critical" ext:pdf
 Description:      intitle:"Vulnerability Report" "Critical" ext:pdf
 
 
-# Google Dork: intitle:"Vulnerability Report" "Critical" ext:pdf # Vulnerability Reports. # Date: 30/09/2020 # Exploit Author: Alexandros Pappas 
+# Google Dork: intitle:"Vulnerability Report" "Critical" ext:pdf
+ # Vulnerability Reports.
+ # Date: 30/09/2020
+ # Exploit Author: Alexandros Pappas
+ 

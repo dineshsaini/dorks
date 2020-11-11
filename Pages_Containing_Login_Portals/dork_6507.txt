@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6507
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-08-31
 Author:           Alexandros Pappas
@@ -6,4 +7,8 @@ GoogleDork:       intitle:"GoAnywhere Web Client - Login"
 Description:      intitle:"GoAnywhere Web Client - Login"
 
 
-# Google Dork: intitle:"GoAnywhere Web Client - Login" # Login portals. # Date: 29/08/2020 # Exploit Author: Alexandros Pappas 
+# Google Dork: intitle:"GoAnywhere Web Client - Login"
+ # Login portals.
+ # Date: 29/08/2020
+ # Exploit Author: Alexandros Pappas
+ 

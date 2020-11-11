@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4801
+Severity: 5 
 Category:         Footholds
 Published Date:   2018-05-02
 Author:           Parth S. Patel
@@ -6,4 +7,10 @@ GoogleDork:       intitle:Upload inurl:/cgi-bin/filechucker.cgi
 Description:      intitle:Upload inurl:/cgi-bin/filechucker.cgi
 
 
-AJAX-based web application / file manager - “filechucker” that lets you upload arbitary files on a website.   Author: Parth S. Patel https://ca.linkedin.com/in/parthpateloscp  
+AJAX-based web application / file manager - “filechucker” that lets you upload arbitary files on a website.
+ 
+ 
+ Author: Parth S. Patel
+ https://ca.linkedin.com/in/parthpateloscp
+ 
+ 

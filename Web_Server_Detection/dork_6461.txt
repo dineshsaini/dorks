@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6461
+Severity: 5 
 Category:         Web Server Detection
 Published Date:   2020-08-04
 Author:           Sibi Mathew George
@@ -6,4 +7,9 @@ GoogleDork:       intitle:"Microsoft Internet Information Services 8" -IIS
 Description:      intitle:"Microsoft Internet Information Services 8" -IIS
 
 
-Google Dork: intitle:"Microsoft Internet Information Services 8" -IIS  Description: This dork detects all IIS version 8 servers in search engine.  Author: Sibi Mathew George 
+Google Dork: intitle:"Microsoft Internet Information Services 8" -IIS
+ 
+ Description: This dork detects all IIS version 8 servers in search engine.
+ 
+ Author: Sibi Mathew George
+ 

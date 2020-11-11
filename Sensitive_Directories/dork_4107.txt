@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4107
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2015-10-30
 Author:           anonymous

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5492
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-09-03
 Author:           Reza Abasi
@@ -6,4 +7,21 @@ GoogleDork:       site:*/forgot-password
 Description:      site:*/forgot-password
 
 
-Login Portals:  site:*/forgot-password site:*/password-forget inurl:"/?forgot_password=yes" site:*/password-recovery inurl:"wp-login.php?action=lostpassword" site:*/auth/reset_password/ site:*/login/# intext:"Reset Password" site:*/forgot inurl:"/forgotpassword.jsp?locale=us" site:*/passwordReset site:*/pwdreset site:*/login/reset.html inurl:"forgotmypassword.html"  Reza Abasi(Turku) 
+Login Portals:
+ 
+ site:*/forgot-password
+ site:*/password-forget
+ inurl:"/?forgot_password=yes"
+ site:*/password-recovery
+ inurl:"wp-login.php?action=lostpassword"
+ site:*/auth/reset_password/
+ site:*/login/# intext:"Reset Password"
+ site:*/forgot
+ inurl:"/forgotpassword.jsp?locale=us"
+ site:*/passwordReset
+ site:*/pwdreset
+ site:*/login/reset.html
+ inurl:"forgotmypassword.html"
+ 
+ Reza Abasi(Turku)
+ 

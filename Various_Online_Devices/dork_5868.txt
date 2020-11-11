@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5868
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2020-03-31
 Author:           Debashis Pal
@@ -6,4 +7,10 @@ GoogleDork:       inurl:"/English/pages_WinUS/" AND intitle:"Top page"
 Description:      inurl:"/English/pages_WinUS/" AND intitle:"Top page"
 
 
-# Dork #  inurl:"/English/pages_WinUS/" AND intitle:"Top page"  Various Online Devices- for Canon Printer.  
+# Dork #
+ 
+ inurl:"/English/pages_WinUS/" AND intitle:"Top page"
+ 
+ Various Online Devices- for Canon Printer.
+ 
+ 

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3701
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2011-03-16
 Author:           anonymous
@@ -6,4 +7,4 @@ GoogleDork:       intext:"Powered by VoiceCMS"
 Description:      intext:"Powered by VoiceCMS"
 
 
-Submitter: p0pc0rn SQL Injection: http://site.com/default.asp?com=[Page]&amp;id=[SQL]&amp;m=[id] http://site.com/default.asp?com=[Page]&amp;id=[id]&amp;m=[SQL]
+Submitter: p0pc0rn SQL Injection: http://site.com/default.asp?com=[Page]&id=[SQL]&m=[id] http://site.com/default.asp?com=[Page]&id=[id]&m=[SQL]

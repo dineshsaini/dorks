@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5801
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-03-18
 Author:           Alexandros Pappas
@@ -6,4 +7,15 @@ GoogleDork:       intitle:"index of" database.yml
 Description:      intitle:"index of" database.yml
 
 
-# Google Dork:  intitle:"index of" database.yml intitle:"index of" database.yml.ci intitle:"index of" "database-old.yml"  # By using this dork, sensitive directories and databases' username and password can be found.  # Date: 17/03/2020  # Exploit Author: Alexandros Pappas 
+# Google Dork: 
+ intitle:"index of" database.yml
+ intitle:"index of" database.yml.ci
+ intitle:"index of" "database-old.yml"
+ 
+ # By using this dork, sensitive directories and databases' username and
+ password can be found.
+ 
+ # Date: 17/03/2020
+ 
+ # Exploit Author: Alexandros Pappas
+ 

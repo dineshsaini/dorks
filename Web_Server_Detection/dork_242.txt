@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/242
+Severity: 5 
 Category:         Web Server Detection
 Published Date:   2004-05-17
 Author:           anonymous

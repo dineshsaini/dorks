@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4421
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2017-04-10
 Author:           Dxtroyer
@@ -6,4 +7,8 @@ GoogleDork:       inurl:"-wp13.txt"
 Description:      inurl:"-wp13.txt"
 
 
-Finds config files for MySQL, ABSPATH, Wordpress, and more!    Dxtroyer
+Finds config files for MySQL, ABSPATH, Wordpress, and more!
+ 
+ 
+ 
+ Dxtroyer

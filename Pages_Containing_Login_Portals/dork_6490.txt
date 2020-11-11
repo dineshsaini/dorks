@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6490
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-08-21
 Author:           Sibi Mathew George
@@ -6,4 +7,8 @@ GoogleDork:       intitle:"NVR LOGIN" -inurl:"nvr | com | www | net"
 Description:      intitle:"NVR LOGIN" -inurl:"nvr | com | www | net"
 
 
-Google Dork: intitle:"NVR LOGIN" -inurl:"nvr | com | www | net" Description: This google dork is useful for detecting all the login portals of NVR based devices. Author: Sibi Mathew George 
+Google Dork: intitle:"NVR LOGIN" -inurl:"nvr | com | www | net"
+ Description: This google dork is useful for detecting all the login portals
+ of NVR based devices.
+ Author: Sibi Mathew George
+ 

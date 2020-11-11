@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4947
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2018-09-12
 Author:           Gionathan Reale
@@ -6,4 +7,12 @@ GoogleDork:       intext:"define('DB_NAME'," ext:txt
 Description:      intext:"define('DB_NAME'," ext:txt
 
 
-intext:"define('DB_NAME'," ext:txt  This Google Dork discovers badly configured servers exposing sensitive  Wordpress database information.    - Gionathan "John" Reale (https://www.exploit-db.com/author/?a=9609) 
+intext:"define('DB_NAME'," ext:txt
+ 
+ This Google Dork discovers badly configured servers exposing sensitive 
+ Wordpress database information.
+ 
+ 
+ 
+ - Gionathan "John" Reale (https://www.exploit-db.com/author/?a=9609)
+ 

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5994
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2020-05-04
 Author:           Alexandros Pappas
@@ -6,4 +7,14 @@ GoogleDork:       intext:"Please Login" inurl:"/remote/login"
 Description:      intext:"Please Login" inurl:"/remote/login"
 
 
-# Google Dork: intext:"Please Login" inurl:"/remote/login"  # FortiOS Leak file - Reading login/passwords in clear text. This dork is linked to the following existing exploits: https://www.exploit-db.com/exploits/47287 https://www.exploit-db.com/exploits/47288  # Date: 2/05/2020  # Author: Alexandros Pappas 
+# Google Dork: intext:"Please Login" inurl:"/remote/login"
+ 
+ # FortiOS Leak file - Reading login/passwords in clear text. This dork is
+ linked to the following existing exploits:
+ https://www.exploit-db.com/exploits/47287
+ https://www.exploit-db.com/exploits/47288
+ 
+ # Date: 2/05/2020
+ 
+ # Author: Alexandros Pappas
+ 

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5450
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2019-08-26
 Author:           M. Cory Billington
@@ -6,4 +7,9 @@ GoogleDork:       inurl:webArch/mainFrame filetype:cgi intext:"Web Image Monitor
 Description:      inurl:webArch/mainFrame filetype:cgi intext:"Web Image Monitor"
 
 
-Dork: inurl:webArch/mainFrame filetype:cgi intext:"Web Image Monitor"  Author: M. Cory Billington  Info: Web portals for Ricoh printers/copiers/multifunction machines 
+Dork: inurl:webArch/mainFrame filetype:cgi intext:"Web Image Monitor"
+ 
+ Author: M. Cory Billington
+ 
+ Info: Web portals for Ricoh printers/copiers/multifunction machines
+ 

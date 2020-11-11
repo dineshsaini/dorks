@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6156
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-05-29
 Author:           Janmejaya Swain
@@ -6,4 +7,11 @@ GoogleDork:       inurl:forgotpassword.do
 Description:      inurl:forgotpassword.do
 
 
-# Google Dork: inurl:forgotpassword.do  # Description:- Various pages containing forgot password portals  # Author: Janmejaya Swain # Date: 28-May-2020 # Linkedin: https://www.linkedin.com/in/janmejayaswainofficial 
+# Google Dork: inurl:forgotpassword.do
+ 
+ # Description:- Various pages containing forgot password portals
+ 
+ # Author: Janmejaya Swain
+ # Date: 28-May-2020
+ # Linkedin: https://www.linkedin.com/in/janmejayaswainofficial
+ 

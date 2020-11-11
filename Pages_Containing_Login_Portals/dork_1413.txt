@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1413
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2006-09-20
 Author:           anonymous

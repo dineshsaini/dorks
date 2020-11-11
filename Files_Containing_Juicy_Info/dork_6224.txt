@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6224
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-06-04
 Author:           Shivani Kumari
@@ -6,4 +7,17 @@ GoogleDork:       "index of" "user.sqlite"
 Description:      "index of" "user.sqlite"
 
 
-# Google Dork: "index of" "user.sqlite" # Title: SQLite files disclosure. # Date: 04/06/2020  # Author: Shivani Kumari # LinkedIn: https://www.linkedin.com/in/shivani1337/ # Twitter: https://twitter.com/Shivani1337 # GitHub: https://github.com/Shivani1337 # Bugcrowd: https://bugcrowd.com/Shivani1337  _ Thank you, Shivani Kumari 
+# Google Dork: "index of" "user.sqlite"
+ # Title: SQLite files disclosure.
+ # Date: 04/06/2020
+ 
+ # Author: Shivani Kumari
+ # LinkedIn: https://www.linkedin.com/in/shivani1337/
+ # Twitter: https://twitter.com/Shivani1337
+ # GitHub: https://github.com/Shivani1337
+ # Bugcrowd: https://bugcrowd.com/Shivani1337
+ 
+ _
+ Thank you,
+ Shivani Kumari
+ 

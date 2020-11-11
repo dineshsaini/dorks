@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6456
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-07-29
 Author:           Alexandros Pappas
@@ -6,4 +7,11 @@ GoogleDork:       "You have accessed a private computer system" inurl:login
 Description:      "You have accessed a private computer system" inurl:login
 
 
-# Google Dork: "You have accessed a private computer system" inurl:login  # Pages containing login portals.  # Date: 29/07/2020  # Exploit Author: Alexandros Pappas 
+# Google Dork: "You have accessed a private computer system" inurl:login
+ 
+ # Pages containing login portals.
+ 
+ # Date: 29/07/2020
+ 
+ # Exploit Author: Alexandros Pappas
+ 

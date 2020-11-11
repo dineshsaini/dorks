@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6322
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-06-22
 Author:           Sid Joshi
@@ -6,4 +7,11 @@ GoogleDork:       intitle:"index of" "id_rsa.pub"
 Description:      intitle:"index of" "id_rsa.pub"
 
 
-# Dork: intitle:"index of" "id_rsa.pub" # Author: Sid Joshi # Result of this dorks contains Sensitive Directories with juicy ssh keys.  # POC in attachment  # Thanks! 
+# Dork: intitle:"index of" "id_rsa.pub"
+ # Author: Sid Joshi
+ # Result of this dorks contains Sensitive Directories with juicy ssh keys.
+ 
+ # POC in attachment
+ 
+ # Thanks!
+ 

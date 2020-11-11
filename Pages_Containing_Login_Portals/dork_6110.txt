@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6110
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-05-21
 Author:           Abhi Chitkara
@@ -6,4 +7,8 @@ GoogleDork:       inurl:admin.aspx
 Description:      inurl:admin.aspx
 
 
-Dork: inurl:admin.aspx Description: This google dork lists out asp.net admin pages for web servers. Author: Abhi Chitkara 
+Dork: inurl:admin.aspx
+ Description: This google dork lists out asp.net admin pages for web
+ servers.
+ Author: Abhi Chitkara
+ 

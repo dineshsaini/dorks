@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4621
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2017-11-27
 Author:           Vishnu Santhosh
@@ -6,4 +7,9 @@ GoogleDork:       inurl:composer.json filetype:json -site:github.com
 Description:      inurl:composer.json filetype:json -site:github.com
 
 
-To find out the php packages and their versions used within a website using the composer dependency manager config file, composer.json  Thanks Vishnu Santhosh 
+To find out the php packages and their versions used within a website using
+ the composer dependency manager config file, composer.json
+ 
+ Thanks
+ Vishnu Santhosh
+ 

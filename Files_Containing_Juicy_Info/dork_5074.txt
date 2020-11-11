@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5074
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2019-01-09
 Author:           FlyingFrog
@@ -6,4 +7,25 @@ GoogleDork:       inurl:apspassword
 Description:      inurl:apspassword
 
 
-AUTHOR: FlyingFrog Twitter: @ItsKarl0z   ++ SAP Crystal report access ++  inurl:apspassword - open SAP crystal databases to browse - Possible SQL Injection - Sensitive information - Possible Cross-Site Scripting     - https://www.exploit-db.com/exploits/32882 - Possible Directory Traversal     - https://www.exploit-db.com/exploits/16054 - 48 results at the time of writing  DISCLAIMER: (The vulnerabilities are suggestions, none of them have been tested by me, always request permission before testing anything on someone else system) Credit goes to the boys of Rapid7  
+AUTHOR: FlyingFrog
+ Twitter: @ItsKarl0z
+ 
+ 
+ ++ SAP Crystal report access ++
+ 
+ inurl:apspassword
+ - open SAP crystal databases to browse
+ - Possible SQL Injection
+ - Sensitive information
+ - Possible Cross-Site Scripting
+     - https://www.exploit-db.com/exploits/32882
+ - Possible Directory Traversal
+     - https://www.exploit-db.com/exploits/16054
+ - 48 results at the time of writing
+ 
+ DISCLAIMER:
+ (The vulnerabilities are suggestions, none of them have been tested by me,
+ always request permission before testing anything on someone else system)
+ Credit goes to the boys of Rapid7
+ 
+ 

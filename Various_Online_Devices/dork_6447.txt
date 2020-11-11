@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6447
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2020-07-26
 Author:           Alexandros Pappas
@@ -6,4 +7,8 @@ GoogleDork:       inurl:/home/homej.html
 Description:      inurl:/home/homej.html
 
 
-# Google Dork: inurl:/home/homej.html # Various online devices. # Date: 22/07/2020 # Exploit Author: Alexandros Pappas 
+# Google Dork: inurl:/home/homej.html
+ # Various online devices.
+ # Date: 22/07/2020
+ # Exploit Author: Alexandros Pappas
+ 

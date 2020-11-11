@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6000
+Severity: 5 
 Category:         Web Server Detection
 Published Date:   2020-05-04
 Author:           Abhi Chitkara
@@ -6,4 +7,8 @@ GoogleDork:       intitle:"index of" "docker.yml"
 Description:      intitle:"index of" "docker.yml"
 
 
-Dork: intitle:"index of" "docker.yml" Description: This Google dork lists out docker configuration details stored in a file named "docker.yml" for a drupal cms website. Author: Abhi Chitkara 
+Dork: intitle:"index of" "docker.yml"
+ Description: This Google dork lists out docker configuration details stored
+ in a file named "docker.yml" for a drupal cms website.
+ Author: Abhi Chitkara
+ 

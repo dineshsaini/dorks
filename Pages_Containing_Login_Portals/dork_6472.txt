@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6472
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-08-10
 Author:           Aditya Rana
@@ -6,4 +7,8 @@ GoogleDork:       site:.gov inurl:admin login
 Description:      site:.gov inurl:admin login
 
 
-Description- site:.gov inurl:admin login This dork gives Admin login panels of many websites.   
+Description- site:.gov inurl:admin login
+ This dork gives Admin login panels of many websites.
+ 
+ 
+ 

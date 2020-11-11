@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6218
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-06-04
 Author:           andre vinicius
@@ -6,4 +7,7 @@ GoogleDork:       filetype:sql intext: "sql dump"
 Description:      filetype:sql intext: "sql dump"
 
 
-filetype:sql intext: "sql dump"  Sensitive Sql dump files in various domains 
+filetype:sql intext: "sql dump"
+ 
+ Sensitive Sql dump files in various domains
+ 

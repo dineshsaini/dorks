@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4825
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2018-05-16
 Author:           geezazkrays
@@ -6,4 +7,11 @@ GoogleDork:       inurl:revslider inurl:'/revslider+port'
 Description:      inurl:revslider inurl:'/revslider+port'
 
 
-infos and symlinks to revslider folders upload, plugins and settings, server and port.  geezazkrays  i was just searching in google if which port of revslider they use, and this were the googledork showed me. 
+infos and symlinks to revslider folders upload, plugins and settings,
+ server and port.
+ 
+ geezazkrays
+ 
+ i was just searching in google if which port of revslider they use, and
+ this were the googledork showed me.
+ 

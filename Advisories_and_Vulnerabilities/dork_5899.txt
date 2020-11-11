@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5899
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2020-04-16
 Author:           Alexandros Pappas
@@ -6,4 +7,14 @@ GoogleDork:       filetype:php inurl:"/general/login.php?PHPSESSID="
 Description:      filetype:php inurl:"/general/login.php?PHPSESSID="
 
 
-# Google Dork: filetype:php inurl:"/general/login.php?PHPSESSID="  # By using this dork, sites running PHPCollab 2.5, which are prone to SQL Injection and other multiple vulnerabilities, can be found. This dork is linked to the following existing exploit: https://www.exploit-db.com/exploits/37004  # Date: 07/04/2020  # Author: Alexandros Pappas 
+# Google Dork: filetype:php inurl:"/general/login.php?PHPSESSID="
+ 
+ # By using this dork, sites running PHPCollab 2.5, which are prone to SQL
+ Injection and other multiple vulnerabilities, can be found. This dork is
+ linked to the following existing exploit:
+ https://www.exploit-db.com/exploits/37004
+ 
+ # Date: 07/04/2020
+ 
+ # Author: Alexandros Pappas
+ 

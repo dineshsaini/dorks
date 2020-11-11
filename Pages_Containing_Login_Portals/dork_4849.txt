@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4849
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2018-06-07
 Author:           Abhinand Das A
@@ -6,4 +7,14 @@ GoogleDork:       inurl:/sitefinity intext:Copyright.(c)*Telerik. Site.Finity
 Description:      inurl:/sitefinity intext:Copyright.(c)*Telerik. Site.Finity
 
 
-This dork retrieves all the login page of website that use Sitefinity CMS.   inurl:/sitefinity/login intext:Login.to.manage.the.site.  The above dork also retrieves more login page of website that use Sitefinity CMS.   Author: Abhinand Das A 
+This dork retrieves all the login page of website that use Sitefinity CMS.
+ 
+ 
+ inurl:/sitefinity/login intext:Login.to.manage.the.site.
+ 
+ The above dork also retrieves more login page of website that use
+ Sitefinity CMS.
+ 
+ 
+ Author: Abhinand Das A
+ 

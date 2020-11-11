@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4674
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2018-02-14
 Author:           Dxtroyer
@@ -6,4 +7,8 @@ GoogleDork:       "[Tera Term]" inurl:"teraterm.ini" ext:ini -git
 Description:      "[Tera Term]" inurl:"teraterm.ini" ext:ini -git
 
 
-Finds Tera Term configuration files, containing juicy information about the SSH server  Dxtroyer 
+Finds Tera Term configuration files, containing juicy information about the
+ SSH server
+ 
+ Dxtroyer
+ 

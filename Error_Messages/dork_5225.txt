@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5225
+Severity: 5 
 Category:         Error Messages
 Published Date:   2019-05-29
 Author:           Dec0y
@@ -6,4 +7,7 @@ GoogleDork:       filetype:php "Notice: Undefined variable: data in" -forum
 Description:      filetype:php "Notice: Undefined variable: data in" -forum
 
 
-Information Disclosure:  filetype:php "Notice: Undefined variable: data in" -forum 
+Information Disclosure:
+ 
+ filetype:php "Notice: Undefined variable: data in" -forum
+ 

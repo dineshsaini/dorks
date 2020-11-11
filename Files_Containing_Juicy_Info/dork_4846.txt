@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4846
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2018-06-06
 Author:           Amal Jossy
@@ -6,4 +7,7 @@ GoogleDork:       filetype:env intext:AWS_SECRET
 Description:      filetype:env intext:AWS_SECRET
 
 
-.env files having AWS keys and other juicy info  Amal Jossy 
+.env files having AWS keys and other juicy info
+ 
+ Amal Jossy
+ 

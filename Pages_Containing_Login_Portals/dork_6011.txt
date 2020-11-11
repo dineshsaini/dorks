@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6011
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-05-04
 Author:           M. Cory Billington
@@ -6,4 +7,8 @@ GoogleDork:       intitle:"OpenMeetings" intext:"Username or mail address"
 Description:      intitle:"OpenMeetings" intext:"Username or mail address"
 
 
-Dork: intitle:"OpenMeetings" intext:"Username or mail address" Info: Apache OpenMeetings login portals  Author: M. Cory Billington (@_th3y) 
+Dork: intitle:"OpenMeetings" intext:"Username or mail address"
+ Info: Apache OpenMeetings login portals
+ 
+ Author: M. Cory Billington (@_th3y)
+ 

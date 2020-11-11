@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5525
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2019-09-12
 Author:           Mohammed*_*
@@ -6,4 +7,9 @@ GoogleDork:       intitle:"openshift web console" inurl:console inurl:/console
 Description:      intitle:"openshift web console" inurl:console inurl:/console
 
 
-Openshift Web Console  # Google Dork: intitle:"openshift web console" inurl:console inurl:/console # Date: [12-09-2019] # Author: [Mohammed*_*] 
+Openshift Web Console
+ 
+ # Google Dork: intitle:"openshift web console" inurl:console inurl:/console
+ # Date: [12-09-2019]
+ # Author: [Mohammed*_*]
+ 

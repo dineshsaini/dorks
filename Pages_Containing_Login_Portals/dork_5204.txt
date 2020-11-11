@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5204
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-05-07
 Author:           Dec0y
@@ -6,4 +7,7 @@ GoogleDork:       inurl:login.aspx filetype:aspx intext:"TMW Systems"
 Description:      inurl:login.aspx filetype:aspx intext:"TMW Systems"
 
 
-Transportation Analytics Login Portals.  Decoy 
+Transportation Analytics Login Portals.
+ 
+ Decoy
+ 

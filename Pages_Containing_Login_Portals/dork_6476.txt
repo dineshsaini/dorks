@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6476
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-08-12
 Author:           Sibi Mathew George
@@ -6,4 +7,19 @@ GoogleDork:       intitle:"DVR LOGIN" -com
 Description:      intitle:"DVR LOGIN" -com
 
 
-Google Dork: intitle:"DVR LOGIN" -com  Description: This google dork is useful for detecting all the login portals of DVR based devices.  Author: Sibi Mathew George      ---- Sent using Guerrillamail.com Block or report abuse: https://www.guerrillamail.com//abuse/?a=RU5mDh4gTLITmwu3vn0Qfw%3D%3D   
+Google Dork: intitle:"DVR LOGIN" -com
+ 
+ Description: This google dork is useful for detecting all the login portals of DVR based devices.
+ 
+ Author: Sibi Mathew George
+ 
+ 
+ 
+ 
+ 
+ ----
+ Sent using Guerrillamail.com
+ Block or report abuse: https://www.guerrillamail.com//abuse/?a=RU5mDh4gTLITmwu3vn0Qfw%3D%3D
+ 
+ 
+ 

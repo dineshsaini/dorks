@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5383
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-08-19
 Author:           Reza Abasi
@@ -6,4 +7,9 @@ GoogleDork:       intitle:"Sales Central - Logon"
 Description:      intitle:"Sales Central - Logon"
 
 
-Login page :  intitle:"Sales Central - Logon"  Reza Abasi(Turku) 
+Login page :
+ 
+ intitle:"Sales Central - Logon"
+ 
+ Reza Abasi(Turku)
+ 

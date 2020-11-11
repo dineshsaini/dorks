@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5991
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2020-05-04
 Author:           Alexandros Pappas
@@ -6,4 +7,13 @@ GoogleDork:       intitle:qdPM 9.1. Copyright (c) 2020 qdpm.net
 Description:      intitle:qdPM 9.1. Copyright (c) 2020 qdpm.net
 
 
-# Google Dork: intitle:qdPM 9.1. Copyright © 2020 qdpm.net  # Sites vulnerable to qdPM &lt; 9.1 - Remote Code Execution. This dork is linked to the following existing exploit: https://www.exploit-db.com/exploits/48146  # Date: 2/05/2020  # Author: Alexandros Pappas 
+# Google Dork: intitle:qdPM 9.1. Copyright © 2020 qdpm.net
+ 
+ # Sites vulnerable to qdPM &lt; 9.1 - Remote Code Execution. This dork is
+ linked to the following existing exploit:
+ https://www.exploit-db.com/exploits/48146
+ 
+ # Date: 2/05/2020
+ 
+ # Author: Alexandros Pappas
+ 

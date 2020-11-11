@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6585
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-10-01
 Author:           Alexandros Pappas
@@ -6,4 +7,8 @@ GoogleDork:       inurl:/phpPgAdmin/browser.php intext:"Servers" | "PostgreSQL*"
 Description:      inurl:/phpPgAdmin/browser.php intext:"Servers" | "PostgreSQL*"
 
 
-# Google Dork: inurl:/phpPgAdmin/browser.php intext:"Servers" |"PostgreSQL*" # phpPgAdmin portals. # Date: 30/09/2020 # Exploit Author: Alexandros Pappas 
+# Google Dork: inurl:/phpPgAdmin/browser.php intext:"Servers" |"PostgreSQL*"
+ # phpPgAdmin portals.
+ # Date: 30/09/2020
+ # Exploit Author: Alexandros Pappas
+ 

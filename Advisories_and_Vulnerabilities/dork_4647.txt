@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4647
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2018-01-02
 Author:           Mudassar
@@ -6,4 +7,9 @@ GoogleDork:       intitle:"Nport web console"
 Description:      intitle:"Nport web console"
 
 
-Vulnerable moxa devices can be identified with the following dork  intitle:"Nport web console"  reference:https://ics-cert.us-cert.gov/advisories/ICSA-17-355-01 
+Vulnerable moxa devices can be identified with the following dork
+ 
+ intitle:"Nport web console"
+ 
+ reference:https://ics-cert.us-cert.gov/advisories/ICSA-17-355-01
+ 

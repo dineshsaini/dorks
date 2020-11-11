@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4620
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2017-11-27
 Author:           Fu2x2000
@@ -6,4 +7,11 @@ GoogleDork:       intext:"softperms.txt" ext:TXT
 Description:      intext:"softperms.txt" ext:TXT
 
 
-When you dork with this,it will generate juicy information that may lead to parent directory , for best practice filter according to the country .   Regards  Fu2x2000 
+When you dork with this,it will generate juicy information that may lead to
+ parent directory , for best practice filter according to the country .
+ 
+ 
+ Regards
+ 
+ Fu2x2000
+ 

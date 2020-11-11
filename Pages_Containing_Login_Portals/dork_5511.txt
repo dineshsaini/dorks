@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5511
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-09-10
 Author:           Reza Abasi
@@ -6,4 +7,9 @@ GoogleDork:       inurl:"/SecureAuth.aspx"
 Description:      inurl:"/SecureAuth.aspx"
 
 
-Login Portal:  inurl:"/SecureAuth.aspx"  Reza Abasi(Turku) 
+Login Portal:
+ 
+ inurl:"/SecureAuth.aspx"
+ 
+ Reza Abasi(Turku)
+ 

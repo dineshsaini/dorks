@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5201
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2019-05-06
 Author:           Isaiah Puzon
@@ -6,4 +7,11 @@ GoogleDork:       intext:"the WordPress" inurl:wp-config ext:txt
 Description:      intext:"the WordPress" inurl:wp-config ext:txt
 
 
-*Dork: * intext:"the WordPress" inurl:wp-config ext:txt  *Description:* WordPress Configuration files with .txt extension  *Category:* Files Containing Passwords
+*Dork: *
+ intext:"the WordPress" inurl:wp-config ext:txt
+ 
+ *Description:*
+ WordPress Configuration files with .txt extension
+ 
+ *Category:*
+ Files Containing Passwords

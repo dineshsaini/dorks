@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6576
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-09-28
 Author:           Javier Bernardo
@@ -6,4 +7,13 @@ GoogleDork:       inurl:AIMS/PS
 Description:      inurl:AIMS/PS
 
 
-# Google Dork: inurl:AIMS/PS # Date: 9/28/2020 # Exploit Author: Javier Bernardo  Javier Bernardo *Ethical Hacker | Information Security Engineer*   Buenos Aires - Argentina 
+# Google Dork: inurl:AIMS/PS
+ # Date: 9/28/2020
+ # Exploit Author: Javier Bernardo
+ 
+ Javier Bernardo
+ *Ethical Hacker | Information Security Engineer*
+ 
+ 
+ Buenos Aires - Argentina
+ 

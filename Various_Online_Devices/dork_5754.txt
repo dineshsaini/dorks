@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5754
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2020-02-26
 Author:           Reza Abasi
@@ -6,4 +7,9 @@ GoogleDork:       site:*/cgi-bin/webproc intext:"username"
 Description:      site:*/cgi-bin/webproc intext:"username"
 
 
-Online devices:  site:*/cgi-bin/webproc intext:"username"  Reza Abasi(Turku) 
+Online devices:
+ 
+ site:*/cgi-bin/webproc intext:"username"
+ 
+ Reza Abasi(Turku)
+ 

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5249
+Severity: 5 
 Category:         Web Server Detection
 Published Date:   2019-06-06
 Author:           Dec0y
@@ -6,4 +7,5 @@ GoogleDork:       intext:"Powered by GetSimple" -site:get-simple.info
 Description:      intext:"Powered by GetSimple" -site:get-simple.info
 
 
-This will find sites using the GetSimple CMS. 
+This will find sites using the GetSimple CMS.
+ 

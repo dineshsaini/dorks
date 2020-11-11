@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6187
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-06-04
 Author:           Abhi Chitkara
@@ -6,4 +7,7 @@ GoogleDork:       intitle:"index of" ".config"
 Description:      intitle:"index of" ".config"
 
 
-Dork: intitle:"index of" ".config" Description: This google dorks lists out config folders on web servers. Author: Abhi Chitkara 
+Dork: intitle:"index of" ".config"
+ Description: This google dorks lists out config folders on web servers.
+ Author: Abhi Chitkara
+ 

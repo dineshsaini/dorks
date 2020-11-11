@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6231
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-06-08
 Author:           Ambadi MP
@@ -6,4 +7,7 @@ GoogleDork:       intitle:"Intranet Login"
 Description:      intitle:"Intranet Login"
 
 
-# Dork:intitle:"Intranet Login" # Lists Intranet Portals # Author : Ambadi MP 
+# Dork:intitle:"Intranet Login"
+ # Lists Intranet Portals
+ # Author : Ambadi MP
+ 

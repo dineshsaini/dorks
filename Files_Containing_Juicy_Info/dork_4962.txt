@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4962
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2018-09-24
 Author:           ManhNho
@@ -6,4 +7,7 @@ GoogleDork:       configuration&gt; + filetype:config -github.com
 Description:      configuration&gt; + filetype:config -github.com
 
 
-web.config file  ManhNho 
+web.config file
+ 
+ ManhNho
+ 

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5857
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2020-03-30
 Author:           Alexandros Pappas
@@ -6,4 +7,14 @@ GoogleDork:       "Powered by Zimplit CMS"
 Description:      "Powered by Zimplit CMS"
 
 
-#Google Dork: "Powered by Zimplit CMS"  # By using this dork, sites "Powered by Zimplit CMS" can be found. Zimplit CMS is prone to multiple cross-site-scripting vulnerabilities because it fails to properly sanitize user-supplied input. This is linked to the following exploit: https://www.exploit-db.com/exploits/35063  # Date: 30/03/2020  # Author: Alexandros Pappas 
+#Google Dork: "Powered by Zimplit CMS"
+ 
+ # By using this dork, sites "Powered by Zimplit CMS" can be found. Zimplit
+ CMS is prone to multiple cross-site-scripting vulnerabilities because it
+ fails to properly sanitize user-supplied input. This is linked to the
+ following exploit: https://www.exploit-db.com/exploits/35063
+ 
+ # Date: 30/03/2020
+ 
+ # Author: Alexandros Pappas
+ 

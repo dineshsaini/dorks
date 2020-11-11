@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5049
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2018-12-04
 Author:           ManhNho
@@ -6,4 +7,7 @@ GoogleDork:       index of /etc/certs/
 Description:      index of /etc/certs/
 
 
-certificate directories  ManhNho 
+certificate directories
+ 
+ ManhNho
+ 

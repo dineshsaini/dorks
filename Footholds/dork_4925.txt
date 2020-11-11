@@ -1,9 +1,17 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4925
+Severity: 5 
 Category:         Footholds
 Published Date:   2018-08-17
 Author:           Gionathan Reale
-GoogleDork:       inurl: "Mister Spy" | intext:"Mister Spy &amp; Souheyl Bypass Shell"
-Description:      inurl: "Mister Spy" | intext:"Mister Spy &amp; Souheyl Bypass Shell"
+GoogleDork:       inurl: "Mister Spy" | intext:"Mister Spy & Souheyl Bypass Shell"
+Description:      inurl: "Mister Spy" | intext:"Mister Spy & Souheyl Bypass Shell"
 
 
-inurl: "Mister Spy" | intext:"Mister Spy &amp; Souheyl Bypass Shell"  This Google Dork discovers servers infected with the "Mister Spy" web  shell.   - Gionathan "John" Reale (https://www.exploit-db.com/author/?a=9609) 
+inurl: "Mister Spy" | intext:"Mister Spy & Souheyl Bypass Shell"
+ 
+ This Google Dork discovers servers infected with the "Mister Spy" web 
+ shell.
+ 
+ 
+ - Gionathan "John" Reale (https://www.exploit-db.com/author/?a=9609)
+ 

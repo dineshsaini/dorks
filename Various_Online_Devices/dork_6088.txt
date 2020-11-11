@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6088
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2020-05-18
 Author:           Nisankh Acharjya
@@ -6,4 +7,10 @@ GoogleDork:       intitle:"WEBCAM 7 " -inurl:/admin.html
 Description:      intitle:"WEBCAM 7 " -inurl:/admin.html
 
 
-Google Dork :  intitle:"WEBCAM 7 " -inurl:/admin.html intitle:"WEBCAM 7 " -site:.com   Nisankh Acharjya 
+Google Dork : 
+ intitle:"WEBCAM 7 " -inurl:/admin.html
+ intitle:"WEBCAM 7 " -site:.com
+ 
+ 
+ Nisankh Acharjya
+ 

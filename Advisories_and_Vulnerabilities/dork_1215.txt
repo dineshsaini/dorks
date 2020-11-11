@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1215
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2005-12-04
 Author:           anonymous
@@ -6,4 +7,4 @@ GoogleDork:       "Based on DoceboLMS 2.0"
 Description:      "Based on DoceboLMS 2.0"
 
 
-advisory &amp; poc exploit:http://rgod.altervista.org/docebo204_xpl.html
+advisory & poc exploit:http://rgod.altervista.org/docebo204_xpl.html

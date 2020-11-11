@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5137
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2019-03-01
 Author:           Hussain Vohra
@@ -6,4 +7,8 @@ GoogleDork:       inurl:pipermail filetype:txt
 Description:      inurl:pipermail filetype:txt
 
 
-file containing emails..  Regards Hussain Vohra 
+file containing emails..
+ 
+ Regards
+ Hussain Vohra
+ 

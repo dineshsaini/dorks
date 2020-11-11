@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6155
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-05-29
 Author:           Deepesh Kumar Pandey
@@ -6,4 +7,10 @@ GoogleDork:       inurl:adminlogin.html
 Description:      inurl:adminlogin.html
 
 
-inurl:adminlogin.html  Description:- This dork id will find the admin login portal devloped under HTML technology  Auther:- Deepesh Kumar Pandey 
+inurl:adminlogin.html
+ 
+ Description:- This dork id will find the admin login portal devloped under
+ HTML technology
+ 
+ Auther:- Deepesh Kumar Pandey
+ 

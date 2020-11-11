@@ -1,9 +1,10 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3868
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2013-08-08
 Author:           anonymous
-GoogleDork:       intitle:".:: Welcome to the Web-Based Configurator::." &amp; intext:"Welcome to your router Configuration Interface"
-Description:      intitle:".:: Welcome to the Web-Based Configurator::." &amp; intext:"Welcome to your router Configuration Interface"
+GoogleDork:       intitle:".:: Welcome to the Web-Based Configurator::." & intext:"Welcome to your router Configuration Interface"
+Description:      intitle:".:: Welcome to the Web-Based Configurator::." & intext:"Welcome to your router Configuration Interface"
 
 
 #Summary: ZyXEL router login portal #Category: Pages containing login portals #Author: g00gl3 5c0u7 NOTE: currently exists this -&gt; https://www.exploit-db.com/ghdb/270/ but only shows 8 results against 63100 that i sent, also covers more models.

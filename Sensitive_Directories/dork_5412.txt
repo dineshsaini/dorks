@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5412
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2019-08-20
 Author:           Reza Abasi
@@ -6,4 +7,10 @@ GoogleDork:       intitle:"index of" /php4/
 Description:      intitle:"index of" /php4/
 
 
-Sensitive Directory:  intitle:"index of" /php4/ intitle:"index of" /php/ inurl:/php/  Reza Abasi(Turku) 
+Sensitive Directory:
+ 
+ intitle:"index of" /php4/
+ intitle:"index of" /php/ inurl:/php/
+ 
+ Reza Abasi(Turku)
+ 

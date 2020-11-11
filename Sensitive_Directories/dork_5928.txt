@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5928
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2020-04-20
 Author:           Alexandros Pappas
@@ -6,4 +7,11 @@ GoogleDork:       intitle:"index of" "proxy.pac" OR "proxy.pac.bak"
 Description:      intitle:"index of" "proxy.pac" OR "proxy.pac.bak"
 
 
-# Google Dork: intitle:"index of" "proxy.pac" OR "proxy.pac.bak"  # Various proxy pac files containing juicy and sensitive information.  # Date: 20/04/2020  # Author: Alexandros Pappas 
+# Google Dork: intitle:"index of" "proxy.pac" OR "proxy.pac.bak"
+ 
+ # Various proxy pac files containing juicy and sensitive information.
+ 
+ # Date: 20/04/2020
+ 
+ # Author: Alexandros Pappas
+ 

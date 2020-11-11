@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6477
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-08-12
 Author:           Alexandros Pappas
@@ -6,4 +7,8 @@ GoogleDork:       intitle:"Helpdesk Software Login" "login" "by Jitbit"
 Description:      intitle:"Helpdesk Software Login" "login" "by Jitbit"
 
 
-# Google Dork: intitle:"Helpdesk Software Login" "login" "by Jitbit" # Ticketing Systems login portals. # Date: 12/08/2020 # Exploit Author: Alexandros Pappas 
+# Google Dork: intitle:"Helpdesk Software Login" "login" "by Jitbit"
+ # Ticketing Systems login portals.
+ # Date: 12/08/2020
+ # Exploit Author: Alexandros Pappas
+ 

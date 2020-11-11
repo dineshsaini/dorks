@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3924
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2013-12-03
 Author:           anonymous
@@ -6,4 +7,4 @@ GoogleDork:       inurl:/administrator/index.php?autologin=1
 Description:      inurl:/administrator/index.php?autologin=1
 
 
-Title: google hacking username and password of joomla Google Dork: inurl:/administrator/index.php?autologin=1 Date: 2013-11-30 Author: Ashiyane Digital Security Team Software Link: www.joomla.org/ Version: joomla 2.5 Location: /administrator/index.php?autologin=1&amp;passwd=[password]&amp;username=[username]
+Title: google hacking username and password of joomla Google Dork: inurl:/administrator/index.php?autologin=1 Date: 2013-11-30 Author: Ashiyane Digital Security Team Software Link: www.joomla.org/ Version: joomla 2.5 Location: /administrator/index.php?autologin=1&passwd=[password]&username=[username]

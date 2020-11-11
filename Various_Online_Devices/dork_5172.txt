@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5172
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2019-04-08
 Author:           Ramikan
@@ -6,4 +7,8 @@ GoogleDork:       inurl:/signin.php?ret=
 Description:      inurl:/signin.php?ret=
 
 
-This dork will return websites which are running ShoreTel Connect conferencing portals.  Ramikan 
+This dork will return websites which are running ShoreTel Connect
+ conferencing portals.
+ 
+ Ramikan
+ 

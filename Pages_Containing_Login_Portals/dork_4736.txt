@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4736
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2018-04-02
 Author:           Bruno Schmid
@@ -6,4 +7,9 @@ GoogleDork:       intitle:"login" | intitle:"hospital" "patient" "clinic" "admin
 Description:      intitle:"login" | intitle:"hospital" "patient" "clinic" "admin" "medical" "login" -stackoverflow -github -youtube
 
 
-Medical related login portals    Bruno Schmid 
+Medical related login portals
+ 
+ 
+ 
+ Bruno Schmid
+ 

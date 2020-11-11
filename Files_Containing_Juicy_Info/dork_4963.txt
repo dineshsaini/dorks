@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4963
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2018-09-24
 Author:           Dhruv Gramopadhye
@@ -6,4 +7,16 @@ GoogleDork:       inurl:logs/gravityforms
 Description:      inurl:logs/gravityforms
 
 
-# Exploit Title: WordPress GravityForms Information Leak # Google Dork: inurl:logs/gravityforms # Description: Websites using gravity forms have debug logs that are publicly available. Note that some include information that has some information from paypal: addresses, cookies, email addresses, ip addresses. # Date: Sunday Sept. 23, 2018 # Exploit Author: Dhruv Gramopadhye (dgramop) # Vendor Homepage: https://www.gravityforms.com/ # Version: 2.3.2 # Contact: https://dgramop.xyz  Version number estimated, future versions may be affected. 
+# Exploit Title: WordPress GravityForms Information Leak
+ # Google Dork: inurl:logs/gravityforms
+ # Description: Websites using gravity forms have debug logs that are
+ publicly available. Note that some include information that has some
+ information from paypal: addresses, cookies, email addresses, ip addresses.
+ # Date: Sunday Sept. 23, 2018
+ # Exploit Author: Dhruv Gramopadhye (dgramop)
+ # Vendor Homepage: https://www.gravityforms.com/
+ # Version: 2.3.2
+ # Contact: https://dgramop.xyz
+ 
+ Version number estimated, future versions may be affected.
+ 

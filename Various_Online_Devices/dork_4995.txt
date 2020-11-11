@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4995
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2018-10-23
 Author:           dekingofcyber
@@ -6,4 +7,9 @@ GoogleDork:       inurl:/Portal/Portal.mwsl?PriNav=FileBrowser
 Description:      inurl:/Portal/Portal.mwsl?PriNav=FileBrowser
 
 
-inurl:/Portal/Portal.mwsl?PriNav=FileBrowser  Access into simatic step 7 plc software systems   by dekingofcyber.... 
+inurl:/Portal/Portal.mwsl?PriNav=FileBrowser
+ 
+ Access into simatic step 7 plc software systems 
+ 
+ by dekingofcyber....
+ 

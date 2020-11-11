@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6523
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-09-07
 Author:           Prasad Lingamaiah
@@ -6,4 +7,13 @@ GoogleDork:       inurl:/userportal/webpages/myaccount/login.jsp
 Description:      inurl:/userportal/webpages/myaccount/login.jsp
 
 
-Dorks: inurl:/userportal/webpages/myaccount/login.jsp  Summary: A Google dork that gives login page for the Sophos XG firewall  --  Thanks &amp; Regards, Prasad Lingamaiah 
+Dorks:
+ inurl:/userportal/webpages/myaccount/login.jsp
+ 
+ Summary:
+ A Google dork that gives login page for the Sophos XG firewall
+ 
+ -- 
+ Thanks & Regards,
+ Prasad Lingamaiah
+ 

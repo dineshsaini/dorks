@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5082
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2019-01-21
 Author:           Sohaib E.B.
@@ -6,4 +7,10 @@ GoogleDork:       "Please click here to download and install the latest plug-in.
 Description:      "Please click here to download and install the latest plug-in. Close your browser before installation."
 
 
-# Exploit Title: NVR Login Portal. # Google Dork: "Please click here to download and install the latest plug-in. Close your browser before installation." # Description: Find NVR (Network Video Recorder) login portals. # Date: 18/01/2019. # Exploit Author: Sohaib E.B. # Category: Pages Containing Login Portals 
+# Exploit Title: NVR Login Portal.
+ # Google Dork: "Please click here to download and install the latest plug-in. Close your browser before installation."
+ # Description: Find NVR (Network Video Recorder) login portals.
+ # Date: 18/01/2019.
+ # Exploit Author: Sohaib E.B.
+ # Category: Pages Containing Login Portals
+ 

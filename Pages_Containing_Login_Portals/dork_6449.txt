@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6449
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-07-26
 Author:           Alexandros Pappas
@@ -6,4 +7,8 @@ GoogleDork:       intitle:"SFXAdmin" intext:"Login Form"
 Description:      intitle:"SFXAdmin" intext:"Login Form"
 
 
-# Google Dork: intitle:"SFXAdmin" intext:"Login Form" # Various pages containing login portals. # Date: 3/07/2020 # Exploit Author: Alexandros Pappas 
+# Google Dork: intitle:"SFXAdmin" intext:"Login Form"
+ # Various pages containing login portals.
+ # Date: 3/07/2020
+ # Exploit Author: Alexandros Pappas
+ 

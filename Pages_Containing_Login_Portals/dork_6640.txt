@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6640
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-10-28
 Author:           Javier Bernardo
@@ -6,4 +7,12 @@ GoogleDork:       inurl:/adfs/ls/idpinitiatedsignon
 Description:      inurl:/adfs/ls/idpinitiatedsignon
 
 
-# Google Dork: inurl:/adfs/ls/idpinitiatedsignon # Date: 10/28/2020 # Exploit Author: Javier Bernardo # Homepage: https://www.hack.com.ar  Javier Bernardo *Ethical Hacker | Information Security Engineer*  
+# Google Dork: inurl:/adfs/ls/idpinitiatedsignon
+ # Date: 10/28/2020
+ # Exploit Author: Javier Bernardo
+ # Homepage: https://www.hack.com.ar
+ 
+ Javier Bernardo
+ *Ethical Hacker | Information Security Engineer*
+ 
+ 

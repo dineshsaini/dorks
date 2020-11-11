@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5674
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-12-20
 Author:           berat isler
@@ -6,4 +7,11 @@ GoogleDork:       inurl:admin/login.php?login= intitle:"CMS"
 Description:      inurl:admin/login.php?login= intitle:"CMS"
 
 
-Google Dorks:  inurl:admin/login.php?login= intitle:"CMS" inurl:admin/login.php?login= intitle:"Dashboard"  This dork finding some useful cms login page.  Berat İşler (root1x) 
+Google Dorks: 
+ inurl:admin/login.php?login= intitle:"CMS"
+ inurl:admin/login.php?login= intitle:"Dashboard"
+ 
+ This dork finding some useful cms login page.
+ 
+ Berat İşler (root1x)
+ 

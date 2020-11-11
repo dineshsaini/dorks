@@ -1,9 +1,10 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3849
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2013-04-22
 Author:           anonymous
-GoogleDork:       filetype:sql insite:pass &amp;&amp; user
-Description:      filetype:sql insite:pass &amp;&amp; user
+GoogleDork:       filetype:sql insite:pass && user
+Description:      filetype:sql insite:pass && user
 
 
-Google Dork: filetype:sql insite:pass &amp;&amp; user We Can get login username and password details from .sql file. Author: BlacK_WooD
+Google Dork: filetype:sql insite:pass && user We Can get login username and password details from .sql file. Author: BlacK_WooD

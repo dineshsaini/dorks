@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4821
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2018-05-16
 Author:           Bruno Schmid
@@ -6,4 +7,11 @@ GoogleDork:       inurl:"?db_backup" | inurl:"dbbackup" -site:github.com "sql.gz
 Description:      inurl:"?db_backup" | inurl:"dbbackup" -site:github.com "sql.gz" | "sql.tgz" | "sql.tar" | "sql.7z"
 
 
-Some database backups. Change the SQL extension for another of your choice. (db, mdb, sl3, sl2, sqlitedb) and so on...   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 
+Some database backups.
+ Change the SQL extension for another of your choice. (db, mdb, sl3,
+ sl2, sqlitedb) and so on...
+ 
+ 
+ Bruno Schmid
+ https://ch.linkedin.com/in/schmidbruno
+ 

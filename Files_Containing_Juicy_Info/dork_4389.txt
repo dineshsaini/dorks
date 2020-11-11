@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4389
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2017-01-26
 Author:           anonymous
@@ -6,4 +7,5 @@ GoogleDork:       inurl:iProber2.php ext:php
 Description:      inurl:iProber2.php ext:php
 
 
+Severity: 5 
 Category:Files Containing Juicy Info Exploit Author:Amine Sanchez

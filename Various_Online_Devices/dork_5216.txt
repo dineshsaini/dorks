@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5216
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2019-05-15
 Author:           Miguel Santareno
@@ -6,4 +7,9 @@ GoogleDork:       inurl:/CFIDE/administrator/index.cfm | inurl:/CFIDE/componentu
 Description:      inurl:/CFIDE/administrator/index.cfm | inurl:/CFIDE/componentutils/login.cfm | inurl:/CFIDE/main/ide.cfm | inurl:/CFIDE/wizards/
 
 
-# Google Dork: inurl:/CFIDE/administrator/index.cfm | inurl:/CFIDE/componentutils/login.cfm | inurl:/CFIDE/main/ide.cfm | inurl:/CFIDE/wizards/ # Description: Google Dork to find ColdFusion management interfaces exposed online # Date: 2019-05-15 # Author: Miguel Santareno # Contact: https://www.linkedin.com/in/miguelsantareno/ 
+# Google Dork: inurl:/CFIDE/administrator/index.cfm | inurl:/CFIDE/componentutils/login.cfm | inurl:/CFIDE/main/ide.cfm | inurl:/CFIDE/wizards/
+ # Description: Google Dork to find ColdFusion management interfaces exposed online
+ # Date: 2019-05-15
+ # Author: Miguel Santareno
+ # Contact: https://www.linkedin.com/in/miguelsantareno/
+ 

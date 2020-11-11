@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5349
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-08-15
 Author:           Reza Abasi
@@ -6,4 +7,9 @@ GoogleDork:       site:*/forum/ucp.php?mode=login
 Description:      site:*/forum/ucp.php?mode=login
 
 
-login portal phpBB  site:*/forum/ucp.php?mode=login  Reza Abasi(Turku) 
+login portal phpBB
+ 
+ site:*/forum/ucp.php?mode=login
+ 
+ Reza Abasi(Turku)
+ 

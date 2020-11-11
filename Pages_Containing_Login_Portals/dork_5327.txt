@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5327
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-08-06
 Author:           Reza Abasi
@@ -6,4 +7,9 @@ GoogleDork:       site:*/joomla/administrator
 Description:      site:*/joomla/administrator
 
 
-Joomla admin login portal  site:*/joomla/administrator  Reza Abasi(Turku) 
+Joomla admin login portal
+ 
+ site:*/joomla/administrator
+ 
+ Reza Abasi(Turku)
+ 

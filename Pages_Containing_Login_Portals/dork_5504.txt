@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5504
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-09-05
 Author:           Reza Abasi
@@ -6,4 +7,19 @@ GoogleDork:       site:*/recover-pass
 Description:      site:*/recover-pass
 
 
-Login Portal:  site:*/recover-pass site:*/users/recover_password site:controlpanel.*.*/recover.cgi inurl:"/login/#forgotpin" site:*/password/email inurl:"/plug.php?e=passrecover" inurl:"/index.php?action=recover_password" site:*/password/new site:*/reminder.php site:cpanel.*.* inurl:"/resetpass?start=1"   Reza Abasi(Turku) 
+Login Portal:
+ 
+ site:*/recover-pass
+ site:*/users/recover_password
+ site:controlpanel.*.*/recover.cgi
+ inurl:"/login/#forgotpin"
+ site:*/password/email
+ inurl:"/plug.php?e=passrecover"
+ inurl:"/index.php?action=recover_password"
+ site:*/password/new
+ site:*/reminder.php
+ site:cpanel.*.* inurl:"/resetpass?start=1"
+ 
+ 
+ Reza Abasi(Turku)
+ 

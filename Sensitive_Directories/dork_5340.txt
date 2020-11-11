@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5340
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2019-08-12
 Author:           BLAY ABU SAFIAN
@@ -6,8 +7,14 @@ GoogleDork:       intitle:"index of" sql inurl:./db/
 Description:      intitle:"index of" sql inurl:./db/
 
 
-# Google Dork: intitle:"index of" sql inurl:./db/ # Date: 09th AUGUST 2019 # Author: BLAY ABU SAFIAN  SENSITIVE DATABASE CREDENTIALS 
+# Google Dork: intitle:"index of" sql inurl:./db/
+ # Date: 09th AUGUST 2019
+ # Author: BLAY ABU SAFIAN
+ 
+ SENSITIVE DATABASE CREDENTIALS
+ 
 GHDB URL:         https://www.exploit-db.com/ghdb/5340
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2019-08-12
 Author:           BLAY ABU SAFIAN
@@ -15,4 +22,9 @@ GoogleDork:       intitle:"index of" sql inurl:./db/
 Description:      intitle:"index of" sql inurl:./db/
 
 
-# Google Dork: intitle:"index of" sql inurl:./db/ # Date: 09th AUGUST 2019 # Author: BLAY ABU SAFIAN  SENSITIVE DATABASE CREDENTIALS 
+# Google Dork: intitle:"index of" sql inurl:./db/
+ # Date: 09th AUGUST 2019
+ # Author: BLAY ABU SAFIAN
+ 
+ SENSITIVE DATABASE CREDENTIALS
+ 

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5605
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2019-10-29
 Author:           Ismail Tasdelen
@@ -6,4 +7,12 @@ GoogleDork:       intitle:"Index of" wp-upload
 Description:      intitle:"Index of" wp-upload
 
 
-Dork: intitle:"Index of" wp-upload intitle:"Index of" wp-uploads  Author:Ismail Tasdelen  Info: it contains wordpress sensitive information. 
+Dork:
+ intitle:"Index of" wp-upload
+ intitle:"Index of" wp-uploads
+ 
+ Author:Ismail Tasdelen
+ 
+ Info:
+ it contains wordpress sensitive information.
+ 

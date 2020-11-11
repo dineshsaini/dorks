@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6201
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2020-06-04
 Author:           Abhi Chitkara
@@ -6,4 +7,9 @@ GoogleDork:       inurl:wp-content/plugins/final-tiles-grid-gallery-lite
 Description:      inurl:wp-content/plugins/final-tiles-grid-gallery-lite
 
 
-Dork: inurl:wp-content/plugins/final-tiles-grid-gallery-lite Description: This google dork lists out Advisories and Vulnerabilities regarding the final tiles grid gallery lite wordpress plugin. Ref: https://wpvulndb.com/vulnerabilities/10241 Author: Abhi Chitkara 
+Dork: inurl:wp-content/plugins/final-tiles-grid-gallery-lite
+ Description: This google dork lists out Advisories and Vulnerabilities
+ regarding the final tiles grid gallery lite wordpress plugin. Ref:
+ https://wpvulndb.com/vulnerabilities/10241
+ Author: Abhi Chitkara
+ 

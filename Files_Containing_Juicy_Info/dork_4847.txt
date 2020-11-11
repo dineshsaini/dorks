@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4847
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2018-06-06
 Author:           Amal Jossy
@@ -6,4 +7,7 @@ GoogleDork:       filetype:env intext:mail_host + intext:bluehost
 Description:      filetype:env intext:mail_host + intext:bluehost
 
 
- .env files with Bluehost webmail username and password used by Laravel apps  Amal Jossy 
+ .env files with Bluehost webmail username and password used by Laravel apps
+ 
+ Amal Jossy
+ 

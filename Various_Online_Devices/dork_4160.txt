@@ -1,9 +1,10 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4160
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2015-12-18
 Author:           anonymous
-GoogleDork:       inurl:/index.htm?cat=info&amp;pagesRemaining
-Description:      inurl:/index.htm?cat=info&amp;pagesRemaining
+GoogleDork:       inurl:/index.htm?cat=info&pagesRemaining
+Description:      inurl:/index.htm?cat=info&pagesRemaining
 
 
-inurl:/index.htm?cat=info&amp;pagesRemaining Description: This google dork can access many HP LASER JET PRO printer.. By Sivabalan( CYBER GENIUS ) ...
+inurl:/index.htm?cat=info&pagesRemaining Description: This google dork can access many HP LASER JET PRO printer.. By Sivabalan( CYBER GENIUS ) ...

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5744
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2020-02-20
 Author:           rhinofense.com
@@ -6,4 +7,8 @@ GoogleDork:       inurl:ReportViewer.aspx
 Description:      inurl:ReportViewer.aspx
 
 
-Dork: inurl:ReportViewer.aspx Date: 19 Feb 2020 Author: rhinofense.com  Search for SSRS servers vulnerable to RCE (CVE-2020-0618)
+Dork: inurl:ReportViewer.aspx
+ Date: 19 Feb 2020
+ Author: rhinofense.com
+ 
+ Search for SSRS servers vulnerable to RCE (CVE-2020-0618)

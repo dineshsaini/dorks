@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4587
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2017-10-10
 Author:           anonymous
@@ -6,4 +7,12 @@ GoogleDork:       filetype:tpl intext:mysql_connect
 Description:      filetype:tpl intext:mysql_connect
 
 
-mysql_connect in php template files (db username and db password):    filetype:tpl intext:mysql_connect    -al4r0
+mysql_connect in php template files (db username and db password):
+ 
+ 
+ 
+ filetype:tpl intext:mysql_connect
+ 
+ 
+ 
+ -al4r0

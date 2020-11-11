@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4128
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2015-11-12
 Author:           anonymous

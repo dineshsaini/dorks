@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6103
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-05-20
 Author:           Alexandros Pappas
@@ -6,4 +7,11 @@ GoogleDork:       intext:"W E L C O M E to R O O T" ext:cfg OR ext:log OR ext:tx
 Description:      intext:"W E L C O M E to R O O T" ext:cfg OR ext:log OR ext:txt
 
 
-# Google Dork: intext:"W E L C O M E to R O O T" ext:cfg OR ext:log OR ext:txt  # Juicy and sensitive information.  # Date: 20/05/2020  # Author: Alexandros Pappas 
+# Google Dork: intext:"W E L C O M E to R O O T" ext:cfg OR ext:log OR ext:txt
+ 
+ # Juicy and sensitive information.
+ 
+ # Date: 20/05/2020
+ 
+ # Author: Alexandros Pappas
+ 

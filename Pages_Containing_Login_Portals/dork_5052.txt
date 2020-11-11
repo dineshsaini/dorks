@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5052
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2018-12-05
 Author:           Steph Jensen
@@ -6,4 +7,8 @@ GoogleDork:       inurl:_cpanel/forgotpwd
 Description:      inurl:_cpanel/forgotpwd
 
 
-inurl:_cpanel/forgotpwd  discover cpanel login portals for Neto eCommerce suite users.  ~ B15mu7h
+inurl:_cpanel/forgotpwd
+ 
+ discover cpanel login portals for Neto eCommerce suite users.
+ 
+ ~ B15mu7h

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5805
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2020-03-18
 Author:           Johnny Tech
@@ -6,4 +7,8 @@ GoogleDork:       filetype:psp intitle:"Motorola - FX9500"
 Description:      filetype:psp intitle:"Motorola - FX9500"
 
 
-Exploit Title: RFID reader information unauthenticated Google dork:filetype:psp intitle:"Motorola - FX9500" Date:3/17/2020 Exploit author: techjohnny 
+Exploit Title: RFID reader information unauthenticated
+ Google dork:filetype:psp intitle:"Motorola - FX9500"
+ Date:3/17/2020
+ Exploit author: techjohnny
+ 

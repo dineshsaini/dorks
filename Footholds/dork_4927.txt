@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4927
+Severity: 5 
 Category:         Footholds
 Published Date:   2018-08-20
 Author:           srikwit
@@ -6,4 +7,9 @@ GoogleDork:       "File Manager - Current disk free"
 Description:      "File Manager - Current disk free"
 
 
-# Google Dork: "File Manager - Current disk free" # Date: 18/8/2018 # Exploit Author: srikwit  Google Dork to locate PhpSpy web shells 
+# Google Dork: "File Manager - Current disk free"
+ # Date: 18/8/2018
+ # Exploit Author: srikwit
+ 
+ Google Dork to locate PhpSpy web shells
+ 

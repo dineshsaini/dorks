@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4965
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2018-09-26
 Author:           Gionathan Reale
@@ -6,4 +7,11 @@ GoogleDork:       intitle:Login inurl:login.php intext:admin/admin
 Description:      intitle:Login inurl:login.php intext:admin/admin
 
 
-intitle:Login inurl:login.php intext:admin/admin   This Google Dork discovers login portals with weak default passwords.   - Gionathan "John" Reale (https://www.exploit-db.com/author/?a=9609) 
+intitle:Login inurl:login.php intext:admin/admin
+ 
+ 
+ This Google Dork discovers login portals with weak default passwords.
+ 
+ 
+ - Gionathan "John" Reale (https://www.exploit-db.com/author/?a=9609)
+ 

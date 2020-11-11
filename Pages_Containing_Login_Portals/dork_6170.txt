@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6170
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-06-04
 Author:           Abhinav Porwal
@@ -6,4 +7,13 @@ GoogleDork:       inurl:userlogin.do
 Description:      inurl:userlogin.do
 
 
-Dork: inurl:userlogin.do  Description: This google dork lists out the various pages containing user login portals.  Author: Abhinav Porwal Company: Cyber Defender LinkedIn: https://www.linkedin.com/in/abhinavporwal6/ 
+Dork:
+ inurl:userlogin.do
+ 
+ Description: This google dork lists out the various pages containing user
+ login portals.
+ 
+ Author: Abhinav Porwal
+ Company: Cyber Defender
+ LinkedIn: https://www.linkedin.com/in/abhinavporwal6/
+ 

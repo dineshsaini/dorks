@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4030
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2015-06-30
 Author:           anonymous
@@ -6,4 +7,4 @@ GoogleDork:       site:pastebin.com intext:Username
 Description:      site:pastebin.com intext:Username
 
 
-# Exploit Title: [site:pastebin.com intext:Username] # Google Dork: [Pastebin Username &amp; Password] # Date: [6/29/2015] # Exploit Author: [Daz Holmes]
+# Exploit Title: [site:pastebin.com intext:Username] # Google Dork: [Pastebin Username & Password] # Date: [6/29/2015] # Exploit Author: [Daz Holmes]

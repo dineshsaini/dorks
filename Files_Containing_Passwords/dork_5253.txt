@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5253
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2019-06-06
 Author:           ManhNho
@@ -6,4 +7,9 @@ GoogleDork:       inurl:users.json + "username"
 Description:      inurl:users.json + "username"
 
 
-inurl:users.json + "username"  File contain usernames and passwords  ManhNho 
+inurl:users.json + "username"
+ 
+ File contain usernames and passwords
+ 
+ ManhNho
+ 

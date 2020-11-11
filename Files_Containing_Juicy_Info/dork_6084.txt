@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6084
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-05-14
 Author:           Abhi Chitkara
@@ -6,4 +7,7 @@ GoogleDork:       intitle:"index of" "privkey.pem"
 Description:      intitle:"index of" "privkey.pem"
 
 
-Dork: intitle:"index of" "privkey.pem" Description: This google dork lists out secret private keys of a website. Author: Abhi Chitkara 
+Dork: intitle:"index of" "privkey.pem"
+ Description: This google dork lists out secret private keys of a website.
+ Author: Abhi Chitkara
+ 

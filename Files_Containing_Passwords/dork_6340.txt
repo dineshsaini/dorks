@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6340
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2020-06-30
 Author:           Alexandros Pappas
@@ -6,4 +7,7 @@ GoogleDork:       intitle:"index of" "/master.passwd"
 Description:      intitle:"index of" "/master.passwd"
 
 
-# Google Dork: intitle:"index of" "/master.passwd" # Date: 30/06/2020 # Author: Alexandros Pappas 
+# Google Dork: intitle:"index of" "/master.passwd"
+ # Date: 30/06/2020
+ # Author: Alexandros Pappas
+ 

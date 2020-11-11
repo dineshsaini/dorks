@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6364
+Severity: 5 
 Category:         Footholds
 Published Date:   2020-07-02
 Author:           Emmanuel Karunya
@@ -6,4 +7,17 @@ GoogleDork:       intitle:"index of" "nginx.log"
 Description:      intitle:"index of" "nginx.log"
 
 
-Description : intitle:"index of" "nginx.log"  This google dork gives us the Nginx logs and sensitive details of misconfigured servers.       Regards, Emmanuel Karunya +919743055278 
+Description : intitle:"index of" "nginx.log"
+ 
+ This google dork gives us the Nginx logs and sensitive details of
+ misconfigured servers.
+ 
+ 
+ 
+ 
+ 
+ 
+ Regards,
+ Emmanuel Karunya
+ +919743055278
+ 

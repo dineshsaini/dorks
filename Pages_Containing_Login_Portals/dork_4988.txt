@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4988
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2018-10-16
 Author:           Zulfikar Azhari
@@ -6,4 +7,10 @@ GoogleDork:       intitle:"Log in - WhatsUp Gold"
 Description:      intitle:"Log in - WhatsUp Gold"
 
 
-Description: This google dork can expose the landing log in page for WhatsUp Gold network monitoring tool. Here's the published CVE link for WhatsUp Gold: https://www.cvedetails.com/vulnerability-list/vendor_id-193/product_id-3865/Ipswitch-Whatsup-Gold.html  Author: Zulfikar Azhari 
+Description: This google dork can expose the landing log in page for
+ WhatsUp Gold network monitoring tool.
+ Here's the published CVE link for WhatsUp Gold:
+ https://www.cvedetails.com/vulnerability-list/vendor_id-193/product_id-3865/Ipswitch-Whatsup-Gold.html
+ 
+ Author: Zulfikar Azhari
+ 

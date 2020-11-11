@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5251
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2019-06-06
 Author:           Needa Petkar
@@ -6,4 +7,9 @@ GoogleDork:       intitle:"index of" intext:"Includes wordpress"
 Description:      intitle:"index of" intext:"Includes wordpress"
 
 
-Wordpress based website having sensitive directories.  Google Dork: *intitle:"index of" intext:"Includes wordpress"*  Author: Needa Petkar. 
+Wordpress based website having sensitive directories.
+ 
+ Google Dork: *intitle:"index of" intext:"Includes wordpress"*
+ 
+ Author: Needa Petkar.
+ 

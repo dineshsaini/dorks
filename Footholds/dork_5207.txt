@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5207
+Severity: 5 
 Category:         Footholds
 Published Date:   2019-05-08
 Author:           Dec0y
@@ -6,4 +7,7 @@ GoogleDork:       inurl:"urlstatusgo.html?url=" -intext:"Disallowed by URL filte
 Description:      inurl:"urlstatusgo.html?url=" -intext:"Disallowed by URL filter"
 
 
-Open Redirects.  D 
+Open Redirects.
+ 
+ D
+ 

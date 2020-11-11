@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5189
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-04-22
 Author:           Raj Kiran P
@@ -6,4 +7,7 @@ GoogleDork:       intitle:OmniDB intext:"user. pwd. Sign in."
 Description:      intitle:OmniDB intext:"user. pwd. Sign in."
 
 
-Login page of OmniDB database.  Author : Raj Kiran P 
+Login page of OmniDB database.
+ 
+ Author : Raj Kiran P
+ 

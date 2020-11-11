@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1409
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2006-09-27
 Author:           anonymous
@@ -6,4 +7,4 @@ GoogleDork:       inurl:+:8443/login.php3
 Description:      inurl:+:8443/login.php3
 
 
-Plesk is a multi platform control panel solution for hosting.More information: hxxp://www.swsoft.com/plesk/Vulnerability: PLESK 7.5 Reload (and lower) &amp; PLESK 7.6 for M$ Windows path passing and disclosure] Discovered By: GuanYu
+Plesk is a multi platform control panel solution for hosting.More information: hxxp://www.swsoft.com/plesk/Vulnerability: PLESK 7.5 Reload (and lower) & PLESK 7.6 for M$ Windows path passing and disclosure] Discovered By: GuanYu

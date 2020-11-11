@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5080
+Severity: 5 
 Category:         Footholds
 Published Date:   2019-01-18
 Author:           Burov Konstantin
@@ -6,4 +7,13 @@ GoogleDork:       intitle:"FCKeditor - Uploaders Tests"
 Description:      intitle:"FCKeditor - Uploaders Tests"
 
 
-Dork: intitle:"FCKeditor - Uploaders Tests"   Unauthenticated file upload    Burov Konstantin  
+Dork: intitle:"FCKeditor - Uploaders Tests"
+ 
+ 
+ Unauthenticated file upload
+ 
+ 
+ 
+ Burov Konstantin
+ 
+ 

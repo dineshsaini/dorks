@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4698
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2018-03-15
 Author:           ManhNho
@@ -6,4 +7,9 @@ GoogleDork:       intext:"Dr.Web (R) Anti-virus. Virus base add-on" + ext:txt
 Description:      intext:"Dr.Web (R) Anti-virus. Virus base add-on" + ext:txt
 
 
- intext:"Dr.Web (R) Anti-virus. Virus base add-on" + ext:txt  Dr.Web Anti-virus information  ManhNho 
+ intext:"Dr.Web (R) Anti-virus. Virus base add-on" + ext:txt
+ 
+ Dr.Web Anti-virus information
+ 
+ ManhNho
+ 

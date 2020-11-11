@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4600
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2017-10-23
 Author:           anonymous
@@ -6,4 +7,8 @@ GoogleDork:       inurl:"wp-security-audit-log" ext:log
 Description:      inurl:"wp-security-audit-log" ext:log
 
 
-Finds Wordpress audit logs containing some interesting info about previous attempts to audit the site  Dxtroyer 
+Finds Wordpress audit logs containing some interesting info about previous
+ attempts to audit the site
+ 
+ Dxtroyer
+ 

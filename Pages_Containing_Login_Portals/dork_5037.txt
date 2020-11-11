@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5037
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2018-11-27
 Author:           ManhNho
@@ -6,4 +7,6 @@ GoogleDork:       inurl:/config/authentication_page.htm
 Description:      inurl:/config/authentication_page.htm
 
 
-Cisco Switch Configuration Utility ManhNho 
+Cisco Switch Configuration Utility
+ ManhNho
+ 

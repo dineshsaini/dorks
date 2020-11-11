@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4616
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2017-11-15
 Author:           Cameron Maerz
@@ -6,4 +7,13 @@ GoogleDork:       inurl:"/horde/test.php"
 Description:      inurl:"/horde/test.php"
 
 
-Exploit Title:horde php information disclosure  Google Dork:inurl:"/horde/test.php"  date:11/14/2017  Exploit Author:Cameron Maerz  Vendor Homepage: https://www.horde.org 
+Exploit Title:horde php information disclosure
+ 
+ Google Dork:inurl:"/horde/test.php"
+ 
+ date:11/14/2017
+ 
+ Exploit Author:Cameron Maerz
+ 
+ Vendor Homepage: https://www.horde.org
+ 

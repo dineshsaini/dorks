@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4769
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2018-04-13
 Author:           Parth S. Patel
@@ -6,4 +7,8 @@ GoogleDork:       intitle:index.of home/000~root~000/
 Description:      intitle:index.of home/000~root~000/
 
 
-This Dork lists files under Root Directory.   Author: Parth S. Patel 
+This Dork lists files under Root Directory.
+ 
+ 
+ Author: Parth S. Patel
+ 

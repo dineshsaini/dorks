@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6375
+Severity: 5 
 Category:         Files Containing Usernames
 Published Date:   2020-07-06
 Author:           Jose Praveen
@@ -6,4 +7,6 @@ GoogleDork:       intitle:"index of" "tomcat-users.xml"
 Description:      intitle:"index of" "tomcat-users.xml"
 
 
-Description: intitle:"index of" "tomcat-users.xml" This google dork gives us the web server apache tomcat username, password, roles details.
+Description: intitle:"index of" "tomcat-users.xml"
+ This google dork gives us the web server apache tomcat username, password,
+ roles details.

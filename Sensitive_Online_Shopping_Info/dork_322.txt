@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/322
+Severity: 5 
 Category:         Sensitive Online Shopping Info
 Published Date:   2004-07-12
 Author:           anonymous
@@ -6,4 +7,4 @@ GoogleDork:       Comersus.mdb database
 Description:      Comersus.mdb database
 
 
-Comersus is an e-commerce system and has been installed all over the world in more than 20000 sites. Using Comersus does not require that you know any programming language. BackOffice+ allows you to define virtually all properties of your on-line store through an intuitive, point-&amp;-click interface.This search goes directly for one of the MS Access files used by the shopping cart. Searching Google and the well know security sites for Comersus reveals more security problems.
+Comersus is an e-commerce system and has been installed all over the world in more than 20000 sites. Using Comersus does not require that you know any programming language. BackOffice+ allows you to define virtually all properties of your on-line store through an intuitive, point-&-click interface.This search goes directly for one of the MS Access files used by the shopping cart. Searching Google and the well know security sites for Comersus reveals more security problems.

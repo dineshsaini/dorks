@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5208
+Severity: 5 
 Category:         Footholds
 Published Date:   2019-05-08
 Author:           Dec0y
@@ -6,4 +7,7 @@ GoogleDork:       inurl:"cs.html?url="
 Description:      inurl:"cs.html?url="
 
 
-Open Redirects.  D 
+Open Redirects.
+ 
+ D
+ 

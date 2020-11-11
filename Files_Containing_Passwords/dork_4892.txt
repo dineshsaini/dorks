@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4892
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2018-07-16
 Author:           Sachin Wagh
@@ -6,4 +7,11 @@ GoogleDork:       inurl:configuration.php and intext:"var $password="
 Description:      inurl:configuration.php and intext:"var $password="
 
 
-Dork: *inurl:configuration.php and intext:"var $password=" *  A Google dork that gives the information about target database. Containing username and password in plain text.   Dork discovered by: Sachin Wagh (@tiger_tigerboy)  
+Dork: *inurl:configuration.php and intext:"var $password=" *
+ 
+ A Google dork that gives
+ the information about target database. Containing username and password in
+ plain text. 
+ 
+ Dork discovered by: Sachin Wagh (@tiger_tigerboy) 
+ 

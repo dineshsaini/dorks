@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5143
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2019-03-04
 Author:           PsycoR
@@ -6,4 +7,7 @@ GoogleDork:       inurl:/files/contao
 Description:      inurl:/files/contao
 
 
-This dork show some interested pdf files used in contao CMS.  By Rayen Messaoudi (PsycoR) 
+This dork show some interested pdf files used in contao CMS.
+ 
+ By Rayen Messaoudi (PsycoR)
+ 

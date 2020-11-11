@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4797
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2018-04-25
 Author:           Avles Nas
@@ -6,4 +7,10 @@ GoogleDork:       intitle:"Open Source HRMS" intext:"powered by"
 Description:      intitle:"Open Source HRMS" intext:"powered by"
 
 
-This dork will show Human Resource Management System Login Page  intitle:"Open Source HRMS" intext:"powered by"   Avles Nas 
+This dork will show Human Resource Management System Login Page
+ 
+ intitle:"Open Source HRMS" intext:"powered by"
+ 
+ 
+ Avles Nas
+ 

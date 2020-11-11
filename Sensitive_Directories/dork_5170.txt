@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5170
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2019-04-04
 Author:           Ashwin Rajeev
@@ -6,4 +7,12 @@ GoogleDork:       allintitle: \"index of/admin\"
 Description:      allintitle: \"index of/admin\"
 
 
-# Google Dork: allintitle: \"index of/admin\" # By using this dork it is possible to access some admin login pages and parent directory structures ,we can access some vulnerable information like framework used for the web site technology used for building the web site and etc.  # Date: 04/04/2019 # Author: Ashwin Rajeev 
+# Google Dork: allintitle: \"index of/admin\"
+ # By using this dork it is possible to access some admin login pages
+ and parent directory structures ,we can access some vulnerable information
+ like framework used for the web site technology used for building the
+ web site and etc.
+ 
+ # Date: 04/04/2019
+ # Author: Ashwin Rajeev
+ 

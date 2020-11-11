@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6284
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-06-15
 Author:           Ambadi MP
@@ -6,4 +7,7 @@ GoogleDork:       intitle:"index of /" "*key.pem"
 Description:      intitle:"index of /" "*key.pem"
 
 
-# Dork :intitle:"index of /" "*key.pem" # Sensitive informations : Private Keys # Author : Ambadi MP 
+# Dork :intitle:"index of /" "*key.pem"
+ # Sensitive informations : Private Keys
+ # Author : Ambadi MP
+ 

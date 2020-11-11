@@ -1,9 +1,10 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/2601
+Severity: 5 
 Category:         Advisories and Vulnerabilities
 Published Date:   2010-11-15
 Author:           anonymous
-GoogleDork:       mod.php?mod=publisher&amp;op=printarticle&amp;artid=
-Description:      mod.php?mod=publisher&amp;op=printarticle&amp;artid=
+GoogleDork:       mod.php?mod=publisher&op=printarticle&artid=
+Description:      mod.php?mod=publisher&op=printarticle&artid=
 
 
 eNdonesia 8.4 SQL Injection Vulnerability - CVE: 2010-3461: https://www.exploit-db.com/exploits/15006

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5849
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2020-03-30
 Author:           Nicholas Doropoulos
@@ -6,4 +7,8 @@ GoogleDork:       inurl:/HDDReplay.html
 Description:      inurl:/HDDReplay.html
 
 
-Category: Various Online Devices Nicholas Doropoulos  
+Severity: 5 
+Category: Various Online Devices
+ Nicholas Doropoulos
+ 
+ 

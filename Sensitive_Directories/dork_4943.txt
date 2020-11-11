@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4943
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2018-09-11
 Author:           Sang Bui
@@ -6,4 +7,8 @@ GoogleDork:       intitle:backup+index of
 Description:      intitle:backup+index of
 
 
-Checking for the public backup folder on the web server, It might include the sensitive files or database.  Sang Bui 
+Checking for the public backup folder on the web server, It might include
+ the sensitive files or database.
+ 
+ Sang Bui
+ 

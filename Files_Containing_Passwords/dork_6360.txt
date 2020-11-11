@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6360
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2020-07-01
 Author:           Mohit khemchandani
@@ -6,4 +7,7 @@ GoogleDork:       "Index of" "/yahoo_site_admin/credentials"
 Description:      "Index of" "/yahoo_site_admin/credentials"
 
 
-Google Dork: "Index of" "/yahoo_site_admin/credentials" Title: File containing passwords Date: 01/07/2020 Author : Mohit Khemchandani
+Google Dork: "Index of" "/yahoo_site_admin/credentials"
+ Title: File containing passwords
+ Date: 01/07/2020
+ Author : Mohit Khemchandani

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5165
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2019-04-03
 Author:           Inspira Enterprise Pvt Ltd
@@ -6,4 +7,17 @@ GoogleDork:       intitle:"index of" ".cpanel/caches/config/"
 Description:      intitle:"index of" ".cpanel/caches/config/"
 
 
-Search: Cpanel Caches Config Directory Listing  Google Dorks: intitle:"index of" ".cpanel/caches/config/"  Category : Sensitive Directories  Exploit Authors:- Om Ahuja Jayesh Thakur Mukul Kulshrestha Harsh Mukeshbhai Joshi Sagar Shetty  https://www.inspiraenterprise.com/ 
+Search: Cpanel Caches Config Directory Listing
+ 
+ Google Dorks: intitle:"index of" ".cpanel/caches/config/"
+ 
+ Category : Sensitive Directories
+ 
+ Exploit Authors:- Om Ahuja
+ Jayesh Thakur
+ Mukul Kulshrestha
+ Harsh Mukeshbhai Joshi
+ Sagar Shetty
+ 
+ https://www.inspiraenterprise.com/
+ 

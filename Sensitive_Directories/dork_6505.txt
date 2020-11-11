@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6505
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2020-08-31
 Author:           Alexandros Pappas
@@ -6,4 +7,8 @@ GoogleDork:       "-- Dump completed" ext:sql | ext:txt | ext:log
 Description:      "-- Dump completed" ext:sql | ext:txt | ext:log
 
 
-# Google Dork: "-- Dump completed" ext:sql | ext:txt | ext:log # Sensitive directories. # Date: 29/08/2020 # Exploit Author: Alexandros Pappas 
+# Google Dork: "-- Dump completed" ext:sql | ext:txt | ext:log
+ # Sensitive directories.
+ # Date: 29/08/2020
+ # Exploit Author: Alexandros Pappas
+ 

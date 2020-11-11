@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5907
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2020-04-16
 Author:           Siddhesh Thakur
@@ -6,4 +7,9 @@ GoogleDork:       intitle:"index of" default.rdp
 Description:      intitle:"index of" default.rdp
 
 
-Description: intitle:"index of" default.rdp This google dork gives us the Remote Desktop Protocol Connection Information. RDP contains juicy information about settings and credentials of windows computer. 
+Description: intitle:"index of" default.rdp
+ This google dork gives us the Remote Desktop Protocol Connection
+ Information.
+ RDP contains juicy information about settings and credentials of windows
+ computer.
+ 

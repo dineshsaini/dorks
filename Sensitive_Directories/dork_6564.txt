@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6564
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2020-09-23
 Author:           Alexandros Pappas
@@ -6,4 +7,10 @@ GoogleDork:       "-- Dumping data for table `users` | `people` | `member`" ext:
 Description:      "-- Dumping data for table `users` | `people` | `member`" ext:sql | ext:txt | ext:log | ext:env
 
 
-# Google Dork:"-- Dumping data for table `users` | `people` | `member`" ext:sql | ext:txt | ext:log | ext:env  # Sensitive directories including usernames, passwords and more. # Date: 23/09/2020 # Exploit Author: Alexandros Pappas 
+# Google Dork:"-- Dumping data for table `users` | `people` | `member`"
+ ext:sql | ext:txt | ext:log | ext:env
+ 
+ # Sensitive directories including usernames, passwords and more.
+ # Date: 23/09/2020
+ # Exploit Author: Alexandros Pappas
+ 

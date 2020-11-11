@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4931
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2018-08-27
 Author:           Gionathan Reale
@@ -6,4 +7,10 @@ GoogleDork:       "index of" "database_log"
 Description:      "index of" "database_log"
 
 
-"index of" "database_log"  This Google Dork discovers servers exposing sensitive SQL log data.   - Gionathan "John" Reale (https://www.exploit-db.com/author/?a=9609) 
+"index of" "database_log"
+ 
+ This Google Dork discovers servers exposing sensitive SQL log data.
+ 
+ 
+ - Gionathan "John" Reale (https://www.exploit-db.com/author/?a=9609)
+ 

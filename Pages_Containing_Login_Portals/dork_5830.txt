@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5830
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2020-03-26
 Author:           Nicholas Doropoulos
@@ -6,4 +7,7 @@ GoogleDork:       intext:"This computer system is the property of" -error
 Description:      intext:"This computer system is the property of" -error
 
 
-Category: Pages Containing Login Portals  Nicholas Doropoulos
+Severity: 5 
+Category: Pages Containing Login Portals
+ 
+ Nicholas Doropoulos

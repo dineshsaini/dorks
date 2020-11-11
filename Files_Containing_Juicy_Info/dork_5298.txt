@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5298
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2019-07-30
 Author:           Mayur Parmar
@@ -6,4 +7,12 @@ GoogleDork:       intitle:"Index of" pass.txt
 Description:      intitle:"Index of" pass.txt
 
 
-dork: intitle:"Index of" pass.txt  Author:Mayur parmar  Info: it contains files that have pass.txt name some juicy information 
+dork:
+ intitle:"Index of" pass.txt
+ 
+ Author:Mayur parmar
+ 
+ Info:
+ it contains files that have pass.txt name
+ some juicy information
+ 

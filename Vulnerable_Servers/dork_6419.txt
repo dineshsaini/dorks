@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6419
+Severity: 5 
 Category:         Vulnerable Servers
 Published Date:   2020-07-17
 Author:           Alexandros Pappas
@@ -6,4 +7,9 @@ GoogleDork:       intitle:"Wing FTP Server - Web"
 Description:      intitle:"Wing FTP Server - Web"
 
 
-# Google Dork: intitle:"Wing FTP Server - Web" # Wing FTP Server 6.2.5 - Privilege Escalation. This dork is linked to the # following existing exploit: https://www.exploit-db.com/exploits/48154 # Date: 15/07/2020 # Exploit Author: Alexandros Pappas 
+# Google Dork: intitle:"Wing FTP Server - Web"
+ # Wing FTP Server 6.2.5 - Privilege Escalation. This dork is linked to the
+ # following existing exploit: https://www.exploit-db.com/exploits/48154
+ # Date: 15/07/2020
+ # Exploit Author: Alexandros Pappas
+ 

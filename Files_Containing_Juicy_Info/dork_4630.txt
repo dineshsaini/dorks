@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4630
+Severity: 5 
 Category:         Files Containing Juicy Info
 Published Date:   2017-12-07
 Author:           Dxtroyer
@@ -6,4 +7,7 @@ GoogleDork:       "Do not distribute" (ext:pdf | ext:doc | ext:docx | ext:rtf)
 Description:      "Do not distribute" (ext:pdf | ext:doc | ext:docx | ext:rtf)
 
 
-Finds confidential documents with the "DO NOT DISTRIBUTE" tag  Dxtroyer 
+Finds confidential documents with the "DO NOT DISTRIBUTE" tag
+ 
+ Dxtroyer
+ 

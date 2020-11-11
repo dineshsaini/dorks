@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5454
+Severity: 5 
 Category:         Pages Containing Login Portals
 Published Date:   2019-08-26
 Author:           Reza Abasi
@@ -6,4 +7,12 @@ GoogleDork:       site:*/wp-login?redirect_to= intitle:"login"
 Description:      site:*/wp-login?redirect_to= intitle:"login"
 
 
-Login Page:  site:*/wp-login?redirect_to= intitle:"login" inurl:/wordpress/wp-login?action=lostpassword -site:stackexchange.com inurl:"/wp-login.php?redirect_to=" intitle:"Log In" inurl:"/wp-login.php?action=lostpassword"  Reza Abasi(Turku) 
+Login Page:
+ 
+ site:*/wp-login?redirect_to= intitle:"login"
+ inurl:/wordpress/wp-login?action=lostpassword -site:stackexchange.com
+ inurl:"/wp-login.php?redirect_to=" intitle:"Log In"
+ inurl:"/wp-login.php?action=lostpassword"
+ 
+ Reza Abasi(Turku)
+ 

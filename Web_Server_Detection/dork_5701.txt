@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5701
+Severity: 5 
 Category:         Web Server Detection
 Published Date:   2020-01-23
 Author:           Bruno Schmid
@@ -6,4 +7,9 @@ GoogleDork:       intitle:"index of" "server at"
 Description:      intitle:"index of" "server at"
 
 
-Another way to spot Apache web servers in case the service name is hidden.   Bruno Schmid https://ch.linkedin.com/in/schmidbruno 
+Another way to spot Apache web servers in case the service name is hidden.
+ 
+ 
+ Bruno Schmid
+ https://ch.linkedin.com/in/schmidbruno
+ 

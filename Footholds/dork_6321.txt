@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6321
+Severity: 5 
 Category:         Footholds
 Published Date:   2020-06-22
 Author:           Arpit Kubadia
@@ -6,4 +7,12 @@ GoogleDork:       intitle:"index of" and intext:"vendor" and intext:"phpunit"
 Description:      intitle:"index of" and intext:"vendor" and intext:"phpunit"
 
 
-# Dork: intitle:"index of" and intext:"vendor" and intext:"phpunit" # Author: Arpit Kubadia # This dork searches both for directory listings, # as well as a well-known PHP file called PHPUnit that is often vulnerable to # remote code execution. # Attaching below the same dork in attachment  # Regards. 
+# Dork: intitle:"index of" and intext:"vendor" and intext:"phpunit"
+ # Author: Arpit Kubadia
+ # This dork searches both for directory listings,
+ # as well as a well-known PHP file called PHPUnit that is often vulnerable to
+ # remote code execution.
+ # Attaching below the same dork in attachment
+ 
+ # Regards.
+ 

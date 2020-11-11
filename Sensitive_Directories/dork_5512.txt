@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5512
+Severity: 5 
 Category:         Sensitive Directories
 Published Date:   2019-09-10
 Author:           Paras Arora
@@ -6,4 +7,10 @@ GoogleDork:       site:ftp.* index of /ftp/backup
 Description:      site:ftp.* index of /ftp/backup
 
 
-To View *Backup* files on *FTP* server of various websites  *Dork: site:ftp.* index of /ftp/backup* *Author: Paras Arora(PAC Security)* *Date: 9th September 2019* *Category: Backup files on FTP Server* 
+To View *Backup* files on *FTP* server of various websites
+ 
+ *Dork: site:ftp.* index of /ftp/backup*
+ *Author: Paras Arora(PAC Security)*
+ *Date: 9th September 2019*
+ *Category: Backup files on FTP Server*
+ 

@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5408
+Severity: 5 
 Category:         Various Online Devices
 Published Date:   2019-08-20
 Author:           Reza Abasi
@@ -6,4 +7,12 @@ GoogleDork:       site:member.*.*/auth/login
 Description:      site:member.*.*/auth/login
 
 
-Login Pages:  site:member.*.*/auth/login site:members.*.*/auth/login site:portal.*.*/auth/login site:user.*.*/auth/login  Reza Abasi(Turku) 
+Login Pages:
+ 
+ site:member.*.*/auth/login
+ site:members.*.*/auth/login
+ site:portal.*.*/auth/login
+ site:user.*.*/auth/login
+ 
+ Reza Abasi(Turku)
+ 

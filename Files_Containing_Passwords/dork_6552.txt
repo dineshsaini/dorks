@@ -1,4 +1,5 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6552
+Severity: 5 
 Category:         Files Containing Passwords
 Published Date:   2020-09-21
 Author:           malaikarastogi
@@ -6,4 +7,8 @@ GoogleDork:       ext:xls intext:@gmail.com intext:password
 Description:      ext:xls intext:@gmail.com intext:password
 
 
-Dork: ext:xls intext:@gmail.com intext: password It will return the spreadsheets(xls) that contains some email and passwords which can be exploited by anyone.  
+Dork: ext:xls intext:@gmail.com intext: password
+ It will return the spreadsheets(xls) that contains some email and passwords
+ which can be exploited by anyone.
+ 
+ 
