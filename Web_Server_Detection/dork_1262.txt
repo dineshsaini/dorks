@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1262
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  4 
+Category:         web_server_detection
 Published Date:   2006-02-08
 Author:           anonymous
 GoogleDork:       inurl:wl.exe inurl:?SS1= intext:"Operating system:" -edu -gov -mil

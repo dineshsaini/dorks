@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6417
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.wordpress.async-javascript
 Published Date:   2020-07-17
 Author:           Sachin Kattimani
 GoogleDork:       inurl:wp-content/plugins/async-javascript

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5226
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  6 
+Category:         web_server_detection.wamp
 Published Date:   2019-05-29
 Author:           Rootkit_Pentester
 GoogleDork:       intitle:"WAMPSERVER homepage" "Server Configuration" "Apache Version"

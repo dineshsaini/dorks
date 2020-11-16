@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/905
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  5 
+Category:         various_online_devices.router.actiontec
 Published Date:   2005-03-20
 Author:           anonymous
 GoogleDork:       intitle:"actiontec" main setup status "Copyright 2001 Actiontec Electronics Inc"

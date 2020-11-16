@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5720
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  5 
+Category:         sensitive_directories
 Published Date:   2020-01-29
 Author:           Pankaj Kumar Thakur
 GoogleDork:       intitle:"index of" "/Cloudflare-CPanel-7.0.1"

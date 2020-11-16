@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1261
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  3 
+Category:         various_online_devices
 Published Date:   2006-02-08
 Author:           anonymous
 GoogleDork:       intext:"Welcome to Taurus" "The Taurus Server Appliance" intitle:"The Taurus Server Appliance"

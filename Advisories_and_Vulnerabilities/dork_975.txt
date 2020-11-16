@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/975
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.mybloggie
 Published Date:   2005-05-07
 Author:           anonymous
 GoogleDork:       intitle:"myBloggie 2.1.1..2 - by myWebland"

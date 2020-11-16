@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6564
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  7 
+Category:         sensitive_directories
 Published Date:   2020-09-23
 Author:           Alexandros Pappas
 GoogleDork:       "-- Dumping data for table `users` | `people` | `member`" ext:sql | ext:txt | ext:log | ext:env

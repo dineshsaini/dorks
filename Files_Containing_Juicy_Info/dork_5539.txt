@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5539
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  5 
+Category:         files_containing_juicy_info
 Published Date:   2019-09-17
 Author:           Deepak Kumar
 GoogleDork:       site:ftp.*.* index of: manifest.xml

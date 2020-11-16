@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4470
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  6 
+Category:         files_containing_passwords.zebra
 Published Date:   2017-05-08
 Author:           anonymous
 GoogleDork:       inurl:"/zebra.conf" ext:conf -git

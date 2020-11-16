@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/2544
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.cve-2008-5787
 Published Date:   2010-11-15
 Author:           anonymous
 GoogleDork:       Powered by: Arab Portal inurl:mod.php?mod=html

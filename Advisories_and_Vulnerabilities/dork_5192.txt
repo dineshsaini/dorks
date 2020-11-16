@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5192
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.cve-2013-4649 
 Published Date:   2019-04-23
 Author:           F1uffyGoat
 GoogleDork:       inurl:dnn.js

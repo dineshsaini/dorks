@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6210
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  3 
+Category:         files_containing_juicy_info
 Published Date:   2020-06-04
 Author:           Ritik Sahni
 GoogleDork:       "index of" /private/logs

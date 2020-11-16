@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4560
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  3 
+Category:         files_containing_juicy_info
 Published Date:   2017-07-28
 Author:           anonymous
 GoogleDork:       "TX_start" "card_name" ext:log

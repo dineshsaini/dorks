@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5644
-Severity: 5 
-Category:         Error Messages
+Severity:		  3 
+Category:         error_messages
 Published Date:   2019-11-11
 Author:           Dhaiwat Mehta
 GoogleDork:       intitle:"Error log for /LM/"

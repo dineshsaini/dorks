@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/2638
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.cve-2010-1113
 Published Date:   2010-11-15
 Author:           anonymous
 GoogleDork:       All right reserved 2002-2003 (MSN/Web Server Creator)

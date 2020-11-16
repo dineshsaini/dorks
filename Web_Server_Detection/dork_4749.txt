@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4749
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  6 
+Category:         web_server_detection
 Published Date:   2018-04-06
 Author:           _palonE
 GoogleDork:       intitle:"miniProxy"

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/360
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  4 
+Category:         web_server_detection
 Published Date:   2004-07-19
 Author:           anonymous
 GoogleDork:       fitweb-wwws * server at intitle:index.of

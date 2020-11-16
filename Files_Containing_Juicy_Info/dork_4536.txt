@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4536
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  3 
+Category:         files_containing_juicy_info
 Published Date:   2017-06-23
 Author:           anonymous
 GoogleDork:       intext:uploadOverwrite || intext:OPEN || intext:cwd

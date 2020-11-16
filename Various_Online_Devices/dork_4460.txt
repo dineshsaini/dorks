@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4460
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  7 
+Category:         various_online_devices.phpmyadmin
 Published Date:   2017-05-04
 Author:           anonymous
 GoogleDork:       intext:VIEWS · Server: - Database: information_schema - Table: SCHEMA_PRIVILEGES · Browse · Structure · SQL · Search · Export

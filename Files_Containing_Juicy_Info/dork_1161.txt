@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1161
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  3 
+Category:         files_containing_juicy_info
 Published Date:   2005-10-04
 Author:           anonymous
 GoogleDork:       intitle:"urchin (5|3|admin)" ext:cgi

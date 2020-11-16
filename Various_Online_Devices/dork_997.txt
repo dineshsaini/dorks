@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/997
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  5 
+Category:         various_online_devices.camera.kpix
 Published Date:   2005-06-01
 Author:           anonymous
 GoogleDork:       (cam1java)|(cam2java)|(cam3java)|(cam4java)|(cam5java)|(cam6java) -navy.mil -backflip -power.ne.jp

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/673
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities.nucleuscms
 Published Date:   2004-11-12
 Author:           anonymous
 GoogleDork:       "running: Nucleus v3.1" -.nucleuscms.org -demo

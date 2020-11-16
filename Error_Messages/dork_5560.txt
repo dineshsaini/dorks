@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5560
-Severity: 5 
-Category:         Error Messages
+Severity:		  3 
+Category:         error_messages.cgi
 Published Date:   2019-09-30
 Author:           Reza Abasi
 GoogleDork:       site:*/cgi-sys/defaultwebpage.cgi intext:"SORRY!"

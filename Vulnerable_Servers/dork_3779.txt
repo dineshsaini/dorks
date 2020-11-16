@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3779
-Severity: 5 
-Category:         Vulnerable Servers
+Severity:		  3 
+Category:         vulnerable_servers
 Published Date:   2012-05-15
 Author:           anonymous
 GoogleDork:       intitle:"-N3t" filetype:php undetectable

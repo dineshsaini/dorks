@@ -1,12 +1,11 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5884
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  5 
+Category:         web_server_detection
 Published Date:   2020-04-16
 Author:           Nicholas Doropoulos
 GoogleDork:       intext:"This is the default welcome page used to test the correct operation of the Apache2 server"
 Description:      intext:"This is the default welcome page used to test the correct operation of the Apache2 server"
 
 
-Severity: 5 
 Category: Web Server Detection
  Nicholas Doropoulos

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/109
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  3 
+Category:         web_server_detection
 Published Date:   2004-03-04
 Author:           anonymous
 GoogleDork:       intitle:"Test Page for Apache" "It Worked!" "on this web"

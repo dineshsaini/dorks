@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5222
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  6 
+Category:         various_online_devices.printer.hp
 Published Date:   2019-05-23
 Author:           Robert Marmorstein
 GoogleDork:       intitle:"LaserJet" "Device status" "Supplies summary"

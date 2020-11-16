@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1867
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.cve-2008-0287
 Published Date:   2010-11-15
 Author:           anonymous
 GoogleDork:       Powered by "vcart 3.3.2"

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1097
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  4 
+Category:         files_containing_juicy_info
 Published Date:   2005-09-08
 Author:           anonymous
 GoogleDork:       rdbqds -site:.edu -site:.mil -site:.gov

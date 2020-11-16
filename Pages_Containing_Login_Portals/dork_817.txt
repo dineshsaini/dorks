@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/817
-Severity: 5 
-Category:         Pages Containing Login Portals
+Severity:		  3
+Category:         pages_containing_login_portals
 Published Date:   2005-01-15
 Author:           anonymous
 GoogleDork:       "pcANYWHERE EXPRESS Java Client"

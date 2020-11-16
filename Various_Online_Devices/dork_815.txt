@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/815
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  4 
+Category:         various_online_devices.printserver
 Published Date:   2005-01-12
 Author:           anonymous
 GoogleDork:       intitle:"Network Print Server" filetype:shtm ( inurl:u_printjobs | inurl:u_server | inurl:a_server | inurl:u_generalhelp | u_printjobs )

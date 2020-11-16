@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4507
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  4 
+Category:         various_online_devices.router.dlink
 Published Date:   2017-05-31
 Author:           anonymous
 GoogleDork:       inurl:"http://ftp.dlink"

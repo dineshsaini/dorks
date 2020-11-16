@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4646
-Severity: 5 
-Category:         Footholds
+Severity:		  7 
+Category:         footholds.webshell.java
 Published Date:   2018-01-02
 Author:           Huijun Chen
 GoogleDork:       ext:jsp  intext:"jspspy" intitle:"Jspspy web~shell V1.0"

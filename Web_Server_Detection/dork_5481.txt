@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5481
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  5 
+Category:         web_server_detection.iis7
 Published Date:   2019-09-02
 Author:           Reza Abasi
 GoogleDork:       inurl:/iisstart.htm intitle:"IIS7"

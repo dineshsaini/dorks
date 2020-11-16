@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4931
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  5 
+Category:         sensitive_directories
 Published Date:   2018-08-27
 Author:           Gionathan Reale
 GoogleDork:       "index of" "database_log"

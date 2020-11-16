@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4296
 Severity: 5 
-Category:         Advisories and Vulnerabilities
+Category:         advisories_and_vulnerabilities.upload.wordpress.wp-mobile-detector-3-5
 Published Date:   2016-06-06
 Author:           anonymous
 GoogleDork:       inurl:"/wp-content/plugins/wp-mobile-detector/" ext:php

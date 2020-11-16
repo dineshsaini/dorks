@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5234
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  8 
+Category:         files_containing_passwords.amazon-aws
 Published Date:   2019-05-31
 Author:           acc3ssp0int
 GoogleDork:       s3 site:amazonaws.com filetype:xls password

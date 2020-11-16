@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5419
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  4 
+Category:         sensitive_directories
 Published Date:   2019-08-21
 Author:           Nanda Krishna
 GoogleDork:       intitle:index.of.?.mysql

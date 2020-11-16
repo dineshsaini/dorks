@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1282
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  4 
+Category:         various_online_devices.hdd.nas
 Published Date:   2006-03-18
 Author:           anonymous
 GoogleDork:       intitle:"NAS" inurl:indexeng.html

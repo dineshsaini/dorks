@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4625
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  7 
+Category:         various_online_devices.printer.brother
 Published Date:   2017-11-29
 Author:           Ankit Anubhav
 GoogleDork:       inurl:"/address/speeddial.html?start" and intext:"Please configure the password" and intitle:"Brother"

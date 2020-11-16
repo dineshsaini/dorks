@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/989
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  4 
+Category:         various_online_devices
 Published Date:   2005-05-19
 Author:           anonymous
 GoogleDork:       intitle:"PacketShaper Customer Login"

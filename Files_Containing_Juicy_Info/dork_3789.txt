@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3789
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  4 
+Category:         files_containing_juicy_info
 Published Date:   2012-08-21
 Author:           anonymous
 GoogleDork:       inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]"

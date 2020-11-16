@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/190
-Severity: 5 
-Category:         Vulnerable Servers
+Severity:		  4 
+Category:         vulnerable_servers
 Published Date:   2004-04-28
 Author:           anonymous
 GoogleDork:       inurl:pls/admin_/gateway.htm

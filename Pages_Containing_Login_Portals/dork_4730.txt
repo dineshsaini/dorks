@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4730
-Severity: 5 
-Category:         Pages Containing Login Portals
+Severity:		  3
+Category:         pages_containing_login_portals
 Published Date:   2018-04-02
 Author:           Bruno Schmid
 GoogleDork:       intitle:"login credit" "login"

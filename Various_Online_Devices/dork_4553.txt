@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4553
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  5 
+Category:         various_online_devices.gitbucket
 Published Date:   2017-07-20
 Author:           anonymous
 GoogleDork:       intitle:"GitBucket" intext:"Recent updated repositories" intext:"Sign In"

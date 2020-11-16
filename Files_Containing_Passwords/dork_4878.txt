@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4878
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  7 
+Category:         files_containing_passwords.wordpress
 Published Date:   2018-07-02
 Author:           Mattias Borg
 GoogleDork:       intext:define('AUTH_KEY',     ' wp-config.php filetype:txt

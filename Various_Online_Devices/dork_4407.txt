@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4407
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  6 
+Category:         various_online_devices.radio
 Published Date:   2017-03-08
 Author:           anonymous
 GoogleDork:       inurl:cgi-bin/lsnodes_web?node

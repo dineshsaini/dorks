@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1311
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities
 Published Date:   2006-02-28
 Author:           anonymous
 GoogleDork:       intext:"Powered By Geeklog" -geeklog.net

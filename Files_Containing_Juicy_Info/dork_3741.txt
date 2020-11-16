@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3741
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  3 
+Category:         files_containing_juicy_info
 Published Date:   2011-09-26
 Author:           anonymous
 GoogleDork:       +intext:"AWSTATS DATA FILE" filetype:txt

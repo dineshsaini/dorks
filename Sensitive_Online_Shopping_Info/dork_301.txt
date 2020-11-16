@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/301
-Severity: 5 
-Category:         Sensitive Online Shopping Info
+Severity:         4 
+Category:         sensitive_online_shopping_info.vp-asp
 Published Date:   2004-06-25
 Author:           anonymous
 GoogleDork:       VP-ASP Shop Administrators only

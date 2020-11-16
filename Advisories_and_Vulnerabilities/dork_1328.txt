@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1328
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities
 Published Date:   2006-04-10
 Author:           anonymous
 GoogleDork:       "powered by phplist" | inurl:"lists/?p=subscribe" | inurl:"lists/index.php?p=subscribe" -ubbi -bugs +phplist -tincan.co.uk

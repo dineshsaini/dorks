@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/746
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  5 
+Category:         various_online_devices.printer.brother
 Published Date:   2004-12-03
 Author:           anonymous
 GoogleDork:       inurl:"printer/main.html" intext:"settings"

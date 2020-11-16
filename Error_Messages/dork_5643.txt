@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5643
-Severity: 5 
-Category:         Error Messages
+Severity:		  4 
+Category:         error_messages
 Published Date:   2019-11-11
 Author:           Dhaiwat Mehta
 GoogleDork:       inurl:elmah.axd ext:axd

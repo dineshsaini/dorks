@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4158
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  4 
+Category:         various_online_devices
 Published Date:   2015-12-18
 Author:           anonymous
 GoogleDork:       inurl:/cgi-bin/luci/freifunk/graph/olsrd/topology/

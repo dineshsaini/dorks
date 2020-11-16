@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5275
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  3 
+Category:         files_containing_juicy_info
 Published Date:   2019-07-11
 Author:           Francis Al Victoriano
 GoogleDork:       site:https://docs.google.com/spreadsheets responses

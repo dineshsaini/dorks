@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6612
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  7 
+Category:         files_containing_juicy_info
 Published Date:   2020-10-14
 Author:           Sajan Dhakate
 GoogleDork:       allintext:"index of" "oauth-private.key"

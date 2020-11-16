@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6246
-Severity: 5 
-Category:         Vulnerable Files
+Severity:		  4 
+Category:         vulnerable_files.fckeditor
 Published Date:   2020-06-08
 Author:           Priyanka Prasad
 GoogleDork:       index of admin/fckeditor/editor/filemanager/

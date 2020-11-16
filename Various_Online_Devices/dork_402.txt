@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/402
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  2 
+Category:         various_online_devices.printer.xerox
 Published Date:   2004-08-05
 Author:           anonymous
 GoogleDork:       Phasers 4500/6250/8200/8400

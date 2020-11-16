@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6298
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  6 
+Category:         web_server_detection.sql
 Published Date:   2020-06-17
 Author:           krushna Lipane
 GoogleDork:       inurl:"id=*" & intext:"warning mysql_fetch_array()"

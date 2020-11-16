@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6137
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities
 Published Date:   2020-05-27
 Author:           Abhi Chitkara
 GoogleDork:       inurl:wp-content/plugins/drag-and-drop-multiple-file-upload-contact-form-7

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5530
-Severity: 5 
-Category:         Error Messages
+Severity:		  5 
+Category:         error_messages.saml2
 Published Date:   2019-09-16
 Author:           Reza Abasi
 GoogleDork:       site:*/Shibboleth.sso/SAML2/POST

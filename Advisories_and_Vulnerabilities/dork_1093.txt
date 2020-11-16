@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1093
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities.rce
 Published Date:   2005-09-05
 Author:           anonymous
 GoogleDork:       "Powered by MD-Pro" | "made with MD-Pro"

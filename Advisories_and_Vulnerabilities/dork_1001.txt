@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1001
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities
 Published Date:   2005-06-03
 Author:           anonymous
 GoogleDork:       intitle:"PowerDownload" ("PowerDownload v3.0.2 Ãƒâ€šÃ‚Â©" | "PowerDownload v3.0.3 Ãƒâ€šÃ‚Â©" ) -site:powerscripts.org

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/707
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  4 
+Category:         files_containing_passwords.duware
 Published Date:   2004-11-23
 Author:           anonymous
 GoogleDork:       "powered by dudownload" -site:duware.com

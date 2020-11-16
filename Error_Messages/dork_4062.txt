@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4062
-Severity: 5 
-Category:         Error Messages
+Severity:		  4 
+Category:         error_messages.java.jsp
 Published Date:   2015-08-27
 Author:           anonymous
 GoogleDork:       intitle:Error Page pageWrapper.jsp?

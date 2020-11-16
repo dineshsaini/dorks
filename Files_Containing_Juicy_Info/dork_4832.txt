@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4832
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  4 
+Category:         files_containing_juicy_info
 Published Date:   2018-05-29
 Author:           ManhNho
 GoogleDork:       AndroidManifest ext:xml -github -gitlab -googlesource

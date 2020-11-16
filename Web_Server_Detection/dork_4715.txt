@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4715
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  4 
+Category:         web_server_detection
 Published Date:   2018-03-27
 Author:           Alwin Warringa
 GoogleDork:       intitle:"Axis Happiness Page" "Examining webapp configuration"

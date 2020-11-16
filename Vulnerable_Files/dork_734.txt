@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/734
-Severity: 5 
-Category:         Vulnerable Files
+Severity:		  4 
+Category:         vulnerable_files
 Published Date:   2004-12-01
 Author:           anonymous
 GoogleDork:       filetype:pl -intext:"/usr/bin/perl" inurl:webcal (inurl:webcal | inurl:add | inurl:delete | inurl:config)

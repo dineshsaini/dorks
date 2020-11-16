@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/776
-Severity: 5 
-Category:         Footholds
+Severity:		  3 
+Category:         footholds.phporacleadmin
 Published Date:   2004-12-19
 Author:           anonymous
 GoogleDork:       inurl:"phpOracleAdmin/php" -download -cvs

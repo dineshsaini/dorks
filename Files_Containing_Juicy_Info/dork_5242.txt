@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5242
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  3 
+Category:         files_containing_juicy_info
 Published Date:   2019-06-03
 Author:           Bruno Schmid
 GoogleDork:       intitle:"index of" "W3SVC1"

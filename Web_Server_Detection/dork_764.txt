@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/764
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  3 
+Category:         web_server_detection
 Published Date:   2004-12-13
 Author:           anonymous
 GoogleDork:       allintext:"Powered by LionMax Software" "WWW File Share"

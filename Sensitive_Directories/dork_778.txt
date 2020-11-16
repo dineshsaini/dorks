@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/778
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  3 
+Category:         sensitive_directories
 Published Date:   2004-12-19
 Author:           anonymous
 GoogleDork:       "Powered by Invision Power File Manager" (inurl:login.php) | (intitle:"Browsing directory /" )

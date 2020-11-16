@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/767
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  4 
+Category:         various_online_devices.camera
 Published Date:   2004-12-13
 Author:           anonymous
 GoogleDork:       intitle:"iVISTA.Main.Page"

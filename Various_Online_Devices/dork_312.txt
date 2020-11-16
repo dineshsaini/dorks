@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/312
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  2 
+Category:         various_online_devices.camera.sony
 Published Date:   2004-07-10
 Author:           anonymous
 GoogleDork:       sony SNC-RZ30 Network Cameras

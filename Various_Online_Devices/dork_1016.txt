@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1016
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  1 
+Category:         various_online_devices.printer.ricoh
 Published Date:   2005-06-07
 Author:           anonymous
 GoogleDork:       "RICOH Network Printer D model-Restore Factory"

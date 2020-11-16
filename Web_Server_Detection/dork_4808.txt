@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4808
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  5 
+Category:         web_server_detection.rdserver
 Published Date:   2018-05-07
 Author:           ManhNho
 GoogleDork:       "RDServer Product information" | inurl:"/rdagent.jsp"

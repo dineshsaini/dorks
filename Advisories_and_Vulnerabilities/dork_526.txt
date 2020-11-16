@@ -1,10 +1,10 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/526
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities
 Published Date:   2004-10-05
 Author:           anonymous
-GoogleDork:       intitle:"WordPress &gt; * &gt; Login form" inurl:"wp-login.php"
-Description:      intitle:"WordPress &gt; * &gt; Login form" inurl:"wp-login.php"
+GoogleDork:       intitle:"WordPress > * > Login form" inurl:"wp-login.php"
+Description:      intitle:"WordPress > * > Login form" inurl:"wp-login.php"
 
 
 WordPress is a semantic personal publishing platform.. it suffers from a possible XSS attacks.http://www.securityfocus.com/bid/11268/info/

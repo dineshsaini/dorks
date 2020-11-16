@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6259
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  4 
+Category:         sensitive_directories
 Published Date:   2020-06-10
 Author:           Mahesh Rai
 GoogleDork:       "index of" "svg"

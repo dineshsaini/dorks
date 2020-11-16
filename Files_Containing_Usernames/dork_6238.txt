@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6238
-Severity: 5 
-Category:         Files Containing Usernames
+Severity:		  6 
+Category:         files_containing_usernames
 Published Date:   2020-06-08
 Author:           Shivanshu Sharma
 GoogleDork:       allintext:username filetype:log

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/958
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  2 
+Category:         files_containing_juicy_info
 Published Date:   2005-04-27
 Author:           anonymous
 GoogleDork:       ext:DCA DCA

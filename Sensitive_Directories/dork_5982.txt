@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5982
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  5 
+Category:         sensitive_directories
 Published Date:   2020-05-01
 Author:           Tushar Kurunkar
 GoogleDork:       intitle:"index of" "/admin_backup"

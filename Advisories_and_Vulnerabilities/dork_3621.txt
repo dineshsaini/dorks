@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3621
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities.sqli
 Published Date:   2010-11-25
 Author:           anonymous
 GoogleDork:       inurl:"index.php?option=com_storedirectory"

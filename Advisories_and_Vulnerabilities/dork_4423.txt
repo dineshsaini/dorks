@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4423
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities
 Published Date:   2017-04-10
 Author:           Dxtroyer
 GoogleDork:       inurl:"/admin/index.php?msg=" inurl:"%20"

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3659
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.sqli.uno-com-my
 Published Date:   2010-12-29
 Author:           anonymous
 GoogleDork:       "Powered by UNO.com.my"

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4467
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  6 
+Category:         sensitive_directories
 Published Date:   2017-05-08
 Author:           anonymous
 GoogleDork:       inurl:"/drive/folders/" site:drive.google.com

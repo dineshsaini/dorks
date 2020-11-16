@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4539
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  3 
+Category:         files_containing_juicy_info
 Published Date:   2017-06-26
 Author:           anonymous
 GoogleDork:       "Blocking Reason:" ext:log -git

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4893
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  4 
+Category:         files_containing_juicy_info
 Published Date:   2018-07-17
 Author:           Aamir Rehman
 GoogleDork:       inurl:"debug/default/view?panel=config"

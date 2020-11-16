@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4960
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  4 
+Category:         files_containing_juicy_info
 Published Date:   2018-09-21
 Author:           Miguel Santareno
 GoogleDork:       inurl:robots.txt intext:Disallow: /web.config

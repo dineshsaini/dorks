@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1223
-Severity: 5 
-Category:         Pages Containing Login Portals
+Severity:		  3
+Category:         pages_containing_login_portals
 Published Date:   2005-12-19
 Author:           anonymous
 GoogleDork:       inurl:/Merchant2/admin.mv | inurl:/Merchant2/admin.mvc | intitle:"Miva Merchant Administration Login" -inurl:cheap-malboro.net

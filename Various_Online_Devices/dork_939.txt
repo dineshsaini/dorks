@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/939
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  1 
+Category:         various_online_devices.winamp
 Published Date:   2005-04-11
 Author:           anonymous
 GoogleDork:       Winamp Web Interface

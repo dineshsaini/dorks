@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/468
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.rce.e-market
 Published Date:   2004-09-10
 Author:           anonymous
 GoogleDork:       E-market remote code execution

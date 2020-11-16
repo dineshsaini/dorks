@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6470
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  7 
+Category:         files_containing_juicy_info
 Published Date:   2020-08-10
 Author:           Alexandros Pappas
 GoogleDork:       allintext:"API_SECRET*" ext:env | ext:yml

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4593
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities
 Published Date:   2017-10-17
 Author:           anonymous
 GoogleDork:       filetype:php "Git Deployment Script v0.1"

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4478
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  5 
+Category:         various_online_devices.voicemail
 Published Date:   2017-05-10
 Author:           anonymous
 GoogleDork:       inurl:"http://voicemail."

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5072
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  6 
+Category:         sensitive_directories
 Published Date:   2019-01-09
 Author:           FlyingFrog
 GoogleDork:       inurl:"/webdynpro/resources/sap.com/"

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5932
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  8 
+Category:         files_containing_passwords
 Published Date:   2020-04-21
 Author:           Alexandros Pappas
 GoogleDork:       intitle:"index of" "database.ini" OR "database.ini.old"

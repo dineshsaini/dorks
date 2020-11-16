@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1252
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  4 
+Category:         files_containing_juicy_info
 Published Date:   2006-01-16
 Author:           anonymous
 GoogleDork:       intext:ViewCVS inurl:Settings.php

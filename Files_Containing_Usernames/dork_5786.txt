@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5786
-Severity: 5 
-Category:         Files Containing Usernames
+Severity:		  6 
+Category:         files_containing_usernames
 Published Date:   2020-03-16
 Author:           Alexandros Pappas
 GoogleDork:       intitle:"index of" service.grp

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1257
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  3 
+Category:         files_containing_passwords.windows-reg
 Published Date:   2006-02-05
 Author:           anonymous
 GoogleDork:       filetype:reg reg +intext:ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂWINVNC3ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â

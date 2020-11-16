@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1195
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  3 
+Category:         files_containing_juicy_info
 Published Date:   2005-11-16
 Author:           anonymous
 GoogleDork:       intitle:"Welcome to F-Secure Policy Manager Server Welcome Page"

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3823
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  4 
+Category:         files_containing_juicy_info
 Published Date:   2012-12-06
 Author:           anonymous
 GoogleDork:       inurl:newsnab/www/ automated.config.php

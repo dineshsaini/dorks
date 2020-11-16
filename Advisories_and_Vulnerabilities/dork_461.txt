@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/461
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.rce.ikonbord
 Published Date:   2004-09-07
 Author:           anonymous
 GoogleDork:       "Powered by Ikonboard 3.1.1"

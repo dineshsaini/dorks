@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3831
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  5 
+Category:         files_containing_passwords
 Published Date:   2013-02-05
 Author:           anonymous
 GoogleDork:       ext:xml ("proto='prpl-'" | "prpl-yahoo" | "prpl-silc" | "prpl-icq")

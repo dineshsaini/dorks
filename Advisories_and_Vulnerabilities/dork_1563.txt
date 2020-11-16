@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1563
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.cve-2007-1299
 Published Date:   2010-11-15
 Author:           anonymous
 GoogleDork:       "2006 by www.mani-stats-reader.de.vu"

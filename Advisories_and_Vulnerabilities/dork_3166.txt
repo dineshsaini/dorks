@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3166
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities.e107
 Published Date:   2010-11-15
 Author:           anonymous
 GoogleDork:       This site is powered by e107, which is released under the terms of the GNU GPL License.

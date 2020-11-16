@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5173
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  4 
+Category:         files_containing_juicy_info
 Published Date:   2019-04-10
 Author:           Miguel Santareno
 GoogleDork:       inurl:_vti_bin/sites.asmx?wsdl | intitle:_vti_bin/sites.asmx?wsdl

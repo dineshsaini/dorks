@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/323
-Severity: 5 
-Category:         Footholds
+Severity:		  3 
+Category:         footholds.php.phpfm
 Published Date:   2004-07-12
 Author:           anonymous
 GoogleDork:       Public PHP FileManagers

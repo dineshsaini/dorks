@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/285
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  4 
+Category:         files_containing_passwords.ccbill
 Published Date:   2004-06-18
 Author:           anonymous
 GoogleDork:       inurl:ccbill filetype:log

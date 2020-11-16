@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6194
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  6 
+Category:         various_online_devices.camera.dlink
 Published Date:   2020-06-04
 Author:           Alexandros Pappas
 GoogleDork:       allinurl:top.htm?Currenttime

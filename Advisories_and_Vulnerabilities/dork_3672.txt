@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3672
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities
 Published Date:   2011-01-11
 Author:           anonymous
 GoogleDork:       inurl:"/modules.php?name=" "Maximus CMS"

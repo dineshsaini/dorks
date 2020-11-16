@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6103
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  5 
+Category:         files_containing_juicy_info
 Published Date:   2020-05-20
 Author:           Alexandros Pappas
 GoogleDork:       intext:"W E L C O M E to R O O T" ext:cfg OR ext:log OR ext:txt

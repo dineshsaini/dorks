@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1095
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities.rce
 Published Date:   2005-09-08
 Author:           anonymous
 GoogleDork:       "Powered by and copyright class-1" 0.24.4

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/932
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  3 
+Category:         web_server_detection
 Published Date:   2005-04-16
 Author:           anonymous
 GoogleDork:       intitle:"Welcome to Windows Small Business Server 2003"

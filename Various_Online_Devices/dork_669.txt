@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/669
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  4 
+Category:         various_online_devices.priter.xerox
 Published Date:   2004-11-13
 Author:           anonymous
 GoogleDork:       intext:"Ready with 10/100T Ethernet"

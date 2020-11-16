@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4670
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  4 
+Category:         various_online_devices
 Published Date:   2018-02-13
 Author:           Rootkit_Pentester
 GoogleDork:       "ADS-B Receiver Live Dump1090 Map "

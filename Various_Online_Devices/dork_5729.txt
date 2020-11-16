@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5729
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  4 
+Category:         various_online_devices.hadoop
 Published Date:   2020-02-10
 Author:           vocuzi
 GoogleDork:       intext:"Security is Off" intitle:"Namenode information"

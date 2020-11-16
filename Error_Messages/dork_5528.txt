@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5528
-Severity: 5 
-Category:         Error Messages
+Severity:		  2 
+Category:         error_messages
 Published Date:   2019-09-13
 Author:           Reza Abasi
 GoogleDork:       site:*/404/404.html intitle:"404"

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4821
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  6 
+Category:         files_containing_juicy_info
 Published Date:   2018-05-16
 Author:           Bruno Schmid
 GoogleDork:       inurl:"?db_backup" | inurl:"dbbackup" -site:github.com "sql.gz" | "sql.tgz" | "sql.tar" | "sql.7z"

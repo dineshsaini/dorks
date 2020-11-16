@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4292
-Severity: 5 
-Category:         Footholds
+Severity:		  5 
+Category:         footholds.backdoor
 Published Date:   2016-06-06
 Author:           anonymous
 GoogleDork:       intitle:"Hamdida X_Shell Backd00r"

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1214
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  3 
+Category:         sensitive_directories
 Published Date:   2005-12-01
 Author:           anonymous
 GoogleDork:       "Warning: Installation directory exists at" "Powered by Zen Cart" -demo

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4637
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  6 
+Category:         files_containing_passwords.cisco
 Published Date:   2017-12-11
 Author:           Dxtroyer
 GoogleDork:       "enable secret" ext:cfg -git -cisco.com

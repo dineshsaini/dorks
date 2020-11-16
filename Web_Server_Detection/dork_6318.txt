@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6318
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  5 
+Category:         web_server_detection
 Published Date:   2020-06-22
 Author:           Rishabh Chaplot
 GoogleDork:       intext:"index of /" "Index of" access_log

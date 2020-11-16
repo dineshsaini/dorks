@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5208
-Severity: 5 
-Category:         Footholds
+Severity:		  8 
+Category:         footholds.openredirects
 Published Date:   2019-05-08
 Author:           Dec0y
 GoogleDork:       inurl:"cs.html?url="

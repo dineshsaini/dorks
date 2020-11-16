@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1911
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.cve-2007-3811
 Published Date:   2010-11-15
 Author:           anonymous
 GoogleDork:       Â© 2005-2006 Powered by eSyndiCat Directory Software

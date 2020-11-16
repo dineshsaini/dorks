@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6390
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  4 
+Category:         files_containing_juicy_info
 Published Date:   2020-07-10
 Author:           Sai Prashanth Pulisetti
 GoogleDork:       intitle:"index of" exception.log

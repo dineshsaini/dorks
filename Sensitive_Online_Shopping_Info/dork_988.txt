@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/988
-Severity: 5 
-Category:         Sensitive Online Shopping Info
+Severity:         5
+Category:         sensitive_online_shopping_info.hosting_controller
 Published Date:   2005-05-29
 Author:           anonymous
 GoogleDork:       intext:"powered by Hosting Controller" intitle:Hosting.Controller

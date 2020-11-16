@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5059
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  3 
+Category:         various_online_devices.nexus
 Published Date:   2018-12-17
 Author:           Alfie
 GoogleDork:       intitle: "Nexus Repository Manager"

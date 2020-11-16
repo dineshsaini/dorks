@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3971
-Severity: 5 
-Category:         Vulnerable Servers
+Severity:		  4 
+Category:         vulnerable_servers
 Published Date:   2014-11-03
 Author:           anonymous
 GoogleDork:       inurl:CHANGELOG.txt intext:drupal intext:"SA-CORE" -intext:7.32 -site:github.com -site:drupal.org

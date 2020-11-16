@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/620
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities.wowbb
 Published Date:   2004-10-26
 Author:           anonymous
 GoogleDork:       "Powered by WowBB" -site:wowbb.com

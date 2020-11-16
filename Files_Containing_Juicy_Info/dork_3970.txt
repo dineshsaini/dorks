@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3970
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  4 
+Category:         files_containing_juicy_info
 Published Date:   2014-10-21
 Author:           anonymous
 GoogleDork:       filetype:log intext:org.apache.hadoop.hdfs

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1346
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.sqli
 Published Date:   2006-04-25
 Author:           anonymous
 GoogleDork:       "You have not provided a survey identification number" ERROR -xoops.org "please contact"

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/557
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  3 
+Category:         web_server_detection
 Published Date:   2004-10-12
 Author:           anonymous
 GoogleDork:       intitle:"Directory Listing, Index of /*/"

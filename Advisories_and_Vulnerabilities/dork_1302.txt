@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1302
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities
 Published Date:   2006-02-13
 Author:           anonymous
 GoogleDork:       ("This DragonflyÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ installation was" | "Thanks for downloading Dragonfly") -inurl:demo -inurl:cpgnuke.com

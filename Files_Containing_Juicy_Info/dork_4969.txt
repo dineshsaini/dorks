@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4969
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  3 
+Category:         files_containing_juicy_info
 Published Date:   2018-10-01
 Author:           Gionathan Reale
 GoogleDork:       intext:Modified files in JOE when it aborted on JOE was aborted because the terminal closed

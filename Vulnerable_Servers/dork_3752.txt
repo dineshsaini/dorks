@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3752
-Severity: 5 
-Category:         Vulnerable Servers
+Severity:		  4 
+Category:         vulnerable_servers
 Published Date:   2011-11-19
 Author:           anonymous
 GoogleDork:       inurl:php intitle:"Cpanel , FTP CraCkeR"

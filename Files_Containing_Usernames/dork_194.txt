@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/194
-Severity: 5 
-Category:         Files Containing Usernames
+Severity:		  4 
+Category:         files_containing_usernames
 Published Date:   2004-04-28
 Author:           anonymous
 GoogleDork:       inurl:php inurl:hlstats intext:"Server Username"

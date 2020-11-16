@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/101
-Severity: 5 
-Category:         Error Messages
+Severity:		  4 
+Category:         error_messages.php
 Published Date:   2004-03-04
 Author:           anonymous
 GoogleDork:       "Warning: Cannot modify header information - headers already sent"

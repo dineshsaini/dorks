@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/518
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  4 
+Category:         various_online_devices.lantronix
 Published Date:   2004-09-29
 Author:           anonymous
 GoogleDork:       intitle:"lantronix web-manager"

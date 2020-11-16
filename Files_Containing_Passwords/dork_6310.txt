@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6310
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  8 
+Category:         files_containing_passwords
 Published Date:   2020-06-18
 Author:           Alexandros Pappas
 GoogleDork:       "MYSQL_ROOT_PASSWORD:" ext:env OR ext:yml -git

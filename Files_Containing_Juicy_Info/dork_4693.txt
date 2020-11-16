@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4693
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  7 
+Category:         files_containing_juicy_info
 Published Date:   2018-03-12
 Author:           oni49
 GoogleDork:       ext:pem "PRIVATE KEY" -site:facebook.com -example -test*

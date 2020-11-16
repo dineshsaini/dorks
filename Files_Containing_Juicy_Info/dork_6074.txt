@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6074
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  6 
+Category:         files_containing_juicy_info
 Published Date:   2020-05-11
 Author:           Alexandros Pappas
 GoogleDork:       intitle:"index of" "refresh_token.txt" OR "access_token.txt" OR "jsapi_ticket.txt"

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4054
-Severity: 5 
-Category:         Footholds
+Severity:		  4 
+Category:         footholds.ddos
 Published Date:   2015-08-18
 Author:           anonymous
 GoogleDork:       intitle:SN0X SHELL: WEEEEEEEEEEEEEEEEED

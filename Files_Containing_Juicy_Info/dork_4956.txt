@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4956
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  4 
+Category:         files_containing_juicy_info
 Published Date:   2018-09-17
 Author:           ManhNho
 GoogleDork:       inurl:/yum.log | intitle:yum.log + ext:log

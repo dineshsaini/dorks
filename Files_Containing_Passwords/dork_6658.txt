@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6658
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  8 
+Category:         files_containing_passwords.oracle
 Published Date:   2020-11-06
 Author:           Alexandros Pappas
 GoogleDork:       jdbc:oracle://localhost: + username + password ext:yml | ext:java -git -gitlab

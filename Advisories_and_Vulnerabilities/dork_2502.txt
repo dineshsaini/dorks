@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/2502
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilitiessqli.form2list
 Published Date:   2010-11-15
 Author:           anonymous
 GoogleDork:       Powered By form2list

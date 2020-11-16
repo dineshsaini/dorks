@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4898
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  7 
+Category:         sensitive_directories
 Published Date:   2018-08-02
 Author:           Securitybits.io
 GoogleDork:       intitle:index.of id_rsa -id_rsa.pub

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3636
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities
 Published Date:   2010-12-07
 Author:           anonymous
 GoogleDork:       "Powered by SOOP Portal Raven 1.0b"

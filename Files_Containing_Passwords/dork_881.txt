@@ -1,10 +1,10 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/881
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  4 
+Category:         files_containing_passwords
 Published Date:   2005-02-23
 Author:           anonymous
-GoogleDork:       filetype:sql (&quot;passwd values&quot; | &quot;password values&quot; | &quot;pass values&quot; )
-Description:      filetype:sql (&quot;passwd values&quot; | &quot;password values&quot; | &quot;pass values&quot; )
+GoogleDork:       filetype:sql ("passwd values" | "password values" | "pass values" )
+Description:      filetype:sql ("passwd values" | "password values" | "pass values" )
 
 
 Find insert statements where the field (or table name) preceding the operator VALUES will be 'password' or 'passwd' or 'pass'. The rest of the statement should contain encrypted or plaintext password.An attacker can use these files to acquire database permissions that normally would not be given to the masses.

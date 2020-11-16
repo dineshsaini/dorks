@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1258
-Severity: 5 
-Category:         Footholds
+Severity:		  3 
+Category:         footholds.invision
 Published Date:   2006-02-08
 Author:           anonymous
 GoogleDork:       "Please re-enter your password It must match exactly"

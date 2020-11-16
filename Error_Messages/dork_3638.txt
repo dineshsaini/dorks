@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3638
-Severity: 5 
-Category:         Error Messages
+Severity:		  3 
+Category:         error_messages.wordpress
 Published Date:   2010-12-08
 Author:           anonymous
 GoogleDork:       "plugins/wp-db-backup/wp-db-backup.php"

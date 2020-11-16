@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6632
-Severity: 5 
-Category:         Pages Containing Login Portals
+Severity:		  3
+Category:         pages_containing_login_portals
 Published Date:   2020-10-21
 Author:           Sanu Jose M
 GoogleDork:       inurl:weblogin.cgi?=0

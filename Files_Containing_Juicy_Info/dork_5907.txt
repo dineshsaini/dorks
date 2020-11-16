@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5907
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  4 
+Category:         files_containing_juicy_info
 Published Date:   2020-04-16
 Author:           Siddhesh Thakur
 GoogleDork:       intitle:"index of" default.rdp

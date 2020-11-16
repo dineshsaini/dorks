@@ -1,10 +1,10 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4521
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  2 
+Category:         files_containing_juicy_info
 Published Date:   2017-06-12
 Author:           anonymous
 GoogleDork:       "Consola de Joomla! Debug" inurl:index.php
 Description:      "Consola de Joomla! Debug" inurl:index.php
 
 
-Dork to find the Joomla Debug console that gives us the following information &gt; Session &gt; Profile Information &gt; Memory usage &gt; Database Registration "Consola de Joomla! Debug" inurl:index.php Drok3r
+Dork to find the Joomla Debug console that gives us the following information > Session > Profile Information > Memory usage > Database Registration "Consola de Joomla! Debug" inurl:index.php Drok3r

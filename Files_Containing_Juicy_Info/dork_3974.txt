@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3974
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  4 
+Category:         files_containing_juicy_info
 Published Date:   2014-11-18
 Author:           anonymous
 GoogleDork:       ext:txt inurl:gov intext:"Content-Type: text/plain; charset=utf-8" AND intext:"Received: from "

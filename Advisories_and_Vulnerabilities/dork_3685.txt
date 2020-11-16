@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3685
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.xss
 Published Date:   2011-02-11
 Author:           anonymous
 GoogleDork:       site:ebay.com inurl:callback

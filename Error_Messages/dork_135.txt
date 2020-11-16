@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/135
-Severity: 5 
-Category:         Error Messages
+Severity:		  5 
+Category:         error_messages.sablotron
 Published Date:   2004-03-11
 Author:           anonymous
 GoogleDork:       warning "error on line" php sablotron

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3902
-Severity: 5 
-Category:         Vulnerable Servers
+Severity:		  4 
+Category:         vulnerable_servers.struts
 Published Date:   2013-11-25
 Author:           anonymous
 GoogleDork:       inurl:"struts" filetype:action

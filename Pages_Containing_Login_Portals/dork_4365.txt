@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4365
-Severity: 5 
-Category:         Pages Containing Login Portals
+Severity:		  3
+Category:         pages_containing_login_portals
 Published Date:   2016-11-29
 Author:           anonymous
 GoogleDork:       intitle:"Integrated Dell Remote Access Controller 6 - Enterprise"

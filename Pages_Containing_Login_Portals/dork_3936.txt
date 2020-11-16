@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3936
-Severity: 5 
-Category:         Pages Containing Login Portals
+Severity:		  3
+Category:         pages_containing_login_portals
 Published Date:   2014-02-28
 Author:           anonymous
 GoogleDork:       intitle:Admin inurl:login.php site:.co.in

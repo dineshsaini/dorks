@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4003
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  4 
+Category:         various_online_devices.hdd.nas
 Published Date:   2015-04-30
 Author:           anonymous
 GoogleDork:       inurl:ftp inurl:Seagate inurl:Backup inurl:Plus inurl:Drive

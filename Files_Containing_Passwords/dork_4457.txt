@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4457
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  5 
+Category:         files_containing_passwords.cisco
 Published Date:   2017-05-03
 Author:           Dxtroyer
 GoogleDork:       "[main]" "enc_GroupPwd=" ext:txt

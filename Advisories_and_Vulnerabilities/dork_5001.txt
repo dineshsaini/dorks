@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5001
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.cve-2017-10271
 Published Date:   2018-10-29
 Author:           Sh3llb0y
 GoogleDork:       inurl:wls-wsat intext:"weblogic.wsee.wstx.wsat"

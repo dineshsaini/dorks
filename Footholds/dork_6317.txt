@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6317
-Severity: 5 
-Category:         Footholds
+Severity:		  5 
+Category:         footholds.arcgis
 Published Date:   2020-06-22
 Author:           Tolga Kayaş
 GoogleDork:       inurl:"/arcgis/rest/services"

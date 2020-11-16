@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1149
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  4 
+Category:         sensitive_directories
 Published Date:   2005-09-26
 Author:           anonymous
 GoogleDork:       "Directory Listing for" "Hosted by Xerver"

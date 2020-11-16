@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/277
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  4 
+Category:         files_containing_passwords
 Published Date:   2004-06-10
 Author:           anonymous
 GoogleDork:       filetype:pwd service

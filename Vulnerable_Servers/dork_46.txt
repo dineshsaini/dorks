@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/46
-Severity: 5 
-Category:         Vulnerable Servers
+Severity:		  3 
+Category:         vulnerable_servers
 Published Date:   2003-07-08
 Author:           anonymous
 GoogleDork:       Hassan Consulting's Shopping Cart Version 1.18

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5227
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities
 Published Date:   2019-05-29
 Author:           Deepak Joshi
 GoogleDork:       intitle:"report" ("qualys" | "acunetix" | "nessus" | "netsparker" | "nmap") filetype:pdf

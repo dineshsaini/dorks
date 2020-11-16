@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/290
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  4 
+Category:         web_server_detection
 Published Date:   2004-06-18
 Author:           anonymous
 GoogleDork:       allinurl:".nsconfig" -sample -howto -tutorial

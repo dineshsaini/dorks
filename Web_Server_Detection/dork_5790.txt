@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5790
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  7 
+Category:         web_server_detection
 Published Date:   2020-03-16
 Author:           Rohit Gautam
 GoogleDork:       intitle:"index of" "powered by apache " "port 80"

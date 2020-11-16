@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4094
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  3 
+Category:         sensitive_directories
 Published Date:   2015-10-16
 Author:           anonymous
 GoogleDork:       private parent intitle:index.of

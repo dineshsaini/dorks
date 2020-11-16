@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5654
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  7 
+Category:         various_online_devices.cisco
 Published Date:   2019-11-21
 Author:           Miguel Santareno
 GoogleDork:       inurl:CGI/Java/Serviceability?adapter=device.statistics.device

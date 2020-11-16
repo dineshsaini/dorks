@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5994
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.fortios
 Published Date:   2020-05-04
 Author:           Alexandros Pappas
 GoogleDork:       intext:"Please Login" inurl:"/remote/login"

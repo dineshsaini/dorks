@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1375
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.x7-chat
 Published Date:   2006-05-04
 Author:           anonymous
 GoogleDork:       intitle:"X7 Chat Help Center" | "Powered By X7 Chat" -milw0rm -exploit

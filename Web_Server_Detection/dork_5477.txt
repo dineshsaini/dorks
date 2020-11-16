@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5477
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  4 
+Category:         web_server_detection
 Published Date:   2019-08-30
 Author:           24Nitin
 GoogleDork:       inurl:/phpmyadmin/changelog.php -github -gitlab

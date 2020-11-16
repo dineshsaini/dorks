@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/976
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  3 
+Category:         files_containing_passwords.exguestbook
 Published Date:   2005-05-11
 Author:           anonymous
 GoogleDork:       intext:"powered by EZGuestbook"

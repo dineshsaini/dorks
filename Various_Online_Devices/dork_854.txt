@@ -1,10 +1,10 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/854
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  3 
+Category:         various_online_devices.router
 Published Date:   2005-02-02
 Author:           anonymous
-GoogleDork:       intitle:&quot;Connection Status&quot; intext:&quot;Current login&quot;
-Description:      intitle:&quot;Connection Status&quot; intext:&quot;Current login&quot;
+GoogleDork:       intitle:"Connection Status" intext:"Current login"
+Description:      intitle:"Connection Status" intext:"Current login"
 
 
 This is an intriguing way of finding various '5861 DMT Routers' - the presence of a web-interface to the router also indicates the presence of a telnet interface to the router!

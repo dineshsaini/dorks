@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1731
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.rfi.ultimate-fun-book-1-02
 Published Date:   2010-11-15
 Author:           anonymous
 GoogleDork:       Ultimate-Fun-Book 1.02

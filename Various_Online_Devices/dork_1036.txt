@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1036
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  2 
+Category:         various_online_devices
 Published Date:   2005-07-22
 Author:           anonymous
 GoogleDork:       intitle:"Middle frame of Videoconference Management System" ext:htm

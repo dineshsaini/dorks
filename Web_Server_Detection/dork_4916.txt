@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4916
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  4 
+Category:         web_server_detection
 Published Date:   2018-08-13
 Author:           Athira M
 GoogleDork:       inurl:tests/mocks intext:autoloader

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/985
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  2 
+Category:         various_online_devices.modem
 Published Date:   2005-05-20
 Author:           anonymous
 GoogleDork:       "To view the Web interface of the SpeedTouch, JavaScript must be supported and enabled on your browser!" -site:webblernet.nl -site:ihackstuff.com -sit

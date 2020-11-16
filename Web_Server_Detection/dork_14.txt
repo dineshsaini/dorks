@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/14
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  2 
+Category:         web_server_detection.iis
 Published Date:   2003-06-24
 Author:           anonymous
 GoogleDork:       IIS 4.0

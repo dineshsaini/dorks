@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1312
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.code-inject.admbook
 Published Date:   2006-02-28
 Author:           anonymous
 GoogleDork:       intitle:admbook intitle:version filetype:php

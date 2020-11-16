@@ -1,10 +1,10 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/938
-Severity: 5 
-Category:         Pages Containing Login Portals
+Severity:		  3
+Category:         pages_containing_login_portals
 Published Date:   2005-04-11
 Author:           anonymous
-GoogleDork:       intitle:&quot;inc. vpn 3000 concentrator&quot;
-Description:      intitle:&quot;inc. vpn 3000 concentrator&quot;
+GoogleDork:       intitle:"inc. vpn 3000 concentrator"
+Description:      intitle:"inc. vpn 3000 concentrator"
 
 
 This search will show the login page for Cisco VPN 3000 concentrators. Since the default user id and password are readily available on the Cisco website, an out-of-the-box or test device could be wide open to mischief.

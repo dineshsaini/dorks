@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5219
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  6 
+Category:         sensitive_directories.gcp
 Published Date:   2019-05-21
 Author:           acc3ssp0int
 GoogleDork:       inurl:bc.googleusercontent.com intitle:index of

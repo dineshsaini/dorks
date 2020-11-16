@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5020
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  3 
+Category:         various_online_devices.wamp
 Published Date:   2018-11-08
 Author:           ManhNho
 GoogleDork:       intitle:"VertrigoServ" + "Welcome to VertrigoServ"

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3965
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  4 
+Category:         files_containing_juicy_info
 Published Date:   2014-10-09
 Author:           anonymous
 GoogleDork:       (intext:mail AND intext:samAccountName) AND (filetype:xlsx OR filetype:xls OR filetype:csv OR filetype:txt)

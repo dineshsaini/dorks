@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6341
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  6 
+Category:         sensitive_directories
 Published Date:   2020-06-30
 Author:           Pratik Khalane
 GoogleDork:       Index of: /services/aadhar card/

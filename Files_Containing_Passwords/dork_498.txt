@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/498
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  5 
+Category:         files_containing_passwords
 Published Date:   2004-09-17
 Author:           anonymous
 GoogleDork:       "index of/" "ws_ftp.ini" "parent directory"

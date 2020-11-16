@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4599
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  6 
+Category:         various_online_devices.printer.hp
 Published Date:   2017-10-23
 Author:           anonymous
 GoogleDork:       inurl:"set_config_networkIPv6.html"

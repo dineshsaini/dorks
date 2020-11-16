@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6120
-Severity: 5 
-Category:         Pages Containing Login Portals
+Severity:		  3
+Category:         pages_containing_login_portals
 Published Date:   2020-05-25
 Author:           Nitesh kumar pandey
 GoogleDork:       "You need to be logged in to see your course progress."

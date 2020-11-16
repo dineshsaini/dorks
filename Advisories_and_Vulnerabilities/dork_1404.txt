@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1404
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.rce.sendcard
 Published Date:   2006-08-13
 Author:           anonymous
 GoogleDork:       "Powered by sendcard - an advanced PHP e-card program" -site:sendcard.org

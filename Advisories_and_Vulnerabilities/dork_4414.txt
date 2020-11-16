@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4414
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  4
+Category:         advisories_and_vulnerabilities.sqli
 Published Date:   2017-04-06
 Author:           Dxtroyer
 GoogleDork:       inurl:".php?cat=" inurl:"'"

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6457
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  7 
+Category:         various_online_devices
 Published Date:   2020-07-29
 Author:           Alexandros Pappas
 GoogleDork:       inurl:8081/ "Pan, Tilt & Zoom"

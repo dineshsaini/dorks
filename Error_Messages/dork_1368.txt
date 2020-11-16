@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1368
-Severity: 5 
-Category:         Error Messages
+Severity:		  3 
+Category:         error_messages.apache.tomcat
 Published Date:   2006-06-15
 Author:           anonymous
 GoogleDork:       intitle:"Apache Tomcat" "Error Report"

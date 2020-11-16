@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/280
-Severity: 5 
-Category:         Sensitive Online Shopping Info
+Severity:         5 
+Category:         sensitive_online_shopping_info.hit_jammer
 Published Date:   2004-06-06
 Author:           anonymous
 GoogleDork:       POWERED BY HIT JAMMER 1.0!

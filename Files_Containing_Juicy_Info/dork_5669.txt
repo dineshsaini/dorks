@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5669
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  3 
+Category:         files_containing_juicy_info
 Published Date:   2019-12-18
 Author:           Leandro Naranjo
 GoogleDork:       inurl:"/fmi/webd" intitle:"FileMaker WebDirect"

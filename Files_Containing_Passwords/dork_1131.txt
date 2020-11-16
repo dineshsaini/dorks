@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1131
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  4 
+Category:         files_containing_passwords
 Published Date:   2005-09-24
 Author:           anonymous
 GoogleDork:       "your password is" filetype:log

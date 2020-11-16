@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/951
-Severity: 5 
-Category:         Pages Containing Login Portals
+Severity:		  3
+Category:         pages_containing_login_portals
 Published Date:   2005-04-27
 Author:           anonymous
 GoogleDork:       intitle:"SFXAdmin - sfx_global" | intitle:"SFXAdmin - sfx_local" | intitle:"SFXAdmin - sfx_test"

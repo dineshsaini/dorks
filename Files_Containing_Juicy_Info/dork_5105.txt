@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5105
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  7 
+Category:         files_containing_juicy_info
 Published Date:   2019-02-15
 Author:           Bruno Schmid
 GoogleDork:       intitle:"index of" users.csv | credentials.csv | accounts.csv

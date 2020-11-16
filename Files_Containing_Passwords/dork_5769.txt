@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5769
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  5 
+Category:         files_containing_passwords.wpengine
 Published Date:   2020-03-05
 Author:           Hilary Soita
 GoogleDork:       intext:"WPENGINE_SESSION_DB_USERNAME" || "WPENGINE_SESSION_DB_PASSWORD"

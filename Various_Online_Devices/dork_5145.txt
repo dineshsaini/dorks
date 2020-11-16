@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5145
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  6 
+Category:         various_online_devices.router.pioneer
 Published Date:   2019-03-07
 Author:           CrimsonTorso
 GoogleDork:       "/1000/system_information.asp"

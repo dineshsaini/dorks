@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/245
-Severity: 5 
-Category:         Files Containing Usernames
+Severity:		  5 
+Category:         files_containing_usernames
 Published Date:   2004-05-20
 Author:           anonymous
 GoogleDork:       filetype:conf inurl:proftpd.conf -sample

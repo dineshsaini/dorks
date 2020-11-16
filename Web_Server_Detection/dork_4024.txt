@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4024
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  3 
+Category:         web_server_detection
 Published Date:   2015-06-23
 Author:           anonymous
 GoogleDork:       filetype:asmx inurl:(_vti_bin|api|webservice)

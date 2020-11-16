@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/136
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  2 
+Category:         files_containing_juicy_info
 Published Date:   2004-03-22
 Author:           anonymous
 GoogleDork:       "Most Submitted Forms and Scripts" "this section"

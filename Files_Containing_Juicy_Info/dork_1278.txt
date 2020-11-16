@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1278
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  4 
+Category:         files_containing_juicy_info
 Published Date:   2006-03-18
 Author:           anonymous
 GoogleDork:       (intitle:"PRTG Traffic Grapher" inurl:"allsensors")|(intitle:"PRTG Traffic Grapher - Monitoring Results")

@@ -1,12 +1,11 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5937
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  6 
+Category:         various_online_devices
 Published Date:   2020-04-22
 Author:           Nicholas Doropoulos
 GoogleDork:       inurl:/index.htm intext:"Oki Data Corporation"
 Description:      inurl:/index.htm intext:"Oki Data Corporation"
 
 
-Severity: 5 
 Category: Various Online Devices
  Nicholas Doropoulos

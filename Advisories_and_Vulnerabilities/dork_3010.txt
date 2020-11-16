@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3010
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities.sqli.sports-accelerator
 Published Date:   2010-11-15
 Author:           anonymous
 GoogleDork:       "Designed and powered by AWS Sports"

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1198
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  5 
+Category:         various_online_devices.hdd.nas
 Published Date:   2005-11-16
 Author:           anonymous
 GoogleDork:       intitle:"Iomega NAS Manager" -ihackstuff.com

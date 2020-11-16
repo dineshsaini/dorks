@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/309
-Severity: 5 
-Category:         Error Messages
+Severity:		  3 
+Category:         error_messages.php
 Published Date:   2004-07-09
 Author:           anonymous
 GoogleDork:       intext:"Warning: Failed opening" "on line" "include_path"

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/610
-Severity: 5 
-Category:         Footholds
+Severity:		  3 
+Category:         footholds.sun.cobalt
 Published Date:   2004-10-22
 Author:           anonymous
 GoogleDork:       (inurl:81/cgi-bin/.cobalt/) | (intext:"Welcome to the Cobalt RaQ")

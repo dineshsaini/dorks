@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6202
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.wordpress.wp-ecommerce-shop-styling
 Published Date:   2020-06-04
 Author:           Akash Solanki
 GoogleDork:       inurl:/wp-content/plugins/wp-ecommerce-shop-styling/

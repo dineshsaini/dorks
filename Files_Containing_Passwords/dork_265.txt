@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/265
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  5 
+Category:         files_containing_passwords.snmp
 Published Date:   2004-06-02
 Author:           anonymous
 GoogleDork:       filetype:cfg mrtg "target[*]" -sample -cvs -example

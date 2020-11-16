@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4621
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  6 
+Category:         files_containing_juicy_info
 Published Date:   2017-11-27
 Author:           Vishnu Santhosh
 GoogleDork:       inurl:composer.json filetype:json -site:github.com

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5963
-Severity: 5 
-Category:         Error Messages
+Severity:		  5 
+Category:         error_messages
 Published Date:   2020-04-29
 Author:           Abhi Chitkara
 GoogleDork:       intitle:"index of" errors.log

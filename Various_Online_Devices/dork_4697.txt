@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4697
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  6 
+Category:         various_online_devices.camera.yawcam
 Published Date:   2018-03-14
 Author:           Sohaib E.B.
 GoogleDork:       intitle:"Yawcam" inurl:8081

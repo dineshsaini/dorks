@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5745
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  1 
+Category:         various_online_devices.swagger
 Published Date:   2020-02-20
 Author:           MuckT
 GoogleDork:       inurl:/swagger/index.html

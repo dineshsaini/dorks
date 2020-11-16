@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/751
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  3 
+Category:         files_containing_juicy_info
 Published Date:   2004-12-05
 Author:           anonymous
 GoogleDork:       php-addressbook "This is the addressbook for *" -warning

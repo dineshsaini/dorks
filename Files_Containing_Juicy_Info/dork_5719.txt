@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5719
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  7 
+Category:         files_containing_juicy_info
 Published Date:   2020-01-29
 Author:           Bruno Schmid
 GoogleDork:       -pub -pool intitle:"index of" db.key OR server.key OR ftp.key OR exchange.key OR host.key OR mail.key

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1000
-Severity: 5 
-Category:         Sensitive Online Shopping Info
+Severity:         3 
+Category:         sensitive_online_shopping_info.x-cart
 Published Date:   2005-06-03
 Author:           anonymous
 GoogleDork:       intext:"Powered by X-Cart: shopping cart software" -site:x-cart.com

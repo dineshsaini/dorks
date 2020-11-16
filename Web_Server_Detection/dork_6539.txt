@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6539
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  4 
+Category:         web_server_detection.sharepoint
 Published Date:   2020-09-15
 Author:           Alexandros Pappas
 GoogleDork:       intitle:"Lists Web Service"
@@ -11,4 +11,4 @@ Description:      intitle:"Lists Web Service"
  # Exposed SharePoint (Lists Web Service).
  # Date: 15/09/2020
  # Exploit Author: Alexandros Pappas
- 
+

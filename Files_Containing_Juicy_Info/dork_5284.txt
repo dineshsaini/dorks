@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5284
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  5 
+Category:         files_containing_juicy_info
 Published Date:   2019-07-24
 Author:           Ayan Saha
 GoogleDork:       site:*.com intitle:"Thank You For Your Order" intext:Click Here to Download

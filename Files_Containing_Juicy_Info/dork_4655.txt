@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4655
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  3 
+Category:         files_containing_juicy_info
 Published Date:   2018-01-11
 Author:           Cr33pB0y
 GoogleDork:       inurl:"test/php/test.html" Plesk File

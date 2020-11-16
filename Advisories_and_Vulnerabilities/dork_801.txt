@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/801
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities
 Published Date:   2005-01-02
 Author:           anonymous
 GoogleDork:       "Powered by WordPress" -html filetype:php -demo -wordpress.org -bugtraq

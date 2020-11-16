@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4642
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  5 
+Category:         various_online_devices
 Published Date:   2017-12-22
 Author:           Ankit Anubhav
 GoogleDork:       intitle:"Status & Control" + "Thermostat Status" +"HVAC Settings" +"Zone Temperature"

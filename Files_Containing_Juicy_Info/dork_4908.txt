@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4908
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  3 
+Category:         files_containing_juicy_info
 Published Date:   2018-08-07
 Author:           Bruno Schmid
 GoogleDork:       hardware | software "migration" intitle:index.of ext:xls | xlsx | doc | docx | pdf

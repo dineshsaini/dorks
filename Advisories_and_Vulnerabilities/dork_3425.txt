@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3425
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.cve-2006-4963
 Published Date:   2010-11-15
 Author:           anonymous
 GoogleDork:       "Welcome to Exponent CMS" | "my new exponent site"

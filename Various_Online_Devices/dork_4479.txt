@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4479
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  7 
+Category:         various_online_devices.tor2web
 Published Date:   2017-05-11
 Author:           anonymous
 GoogleDork:       (site:onion.link | site:onion.cab | site:tor2web.org | site:onion.sh | site:tor2web.fi | site:onion.direct)

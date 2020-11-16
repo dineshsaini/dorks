@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6531
-Severity: 5 
-Category:         Footholds
+Severity:		  4 
+Category:         footholds
 Published Date:   2020-09-11
 Author:           AjithKumar
 GoogleDork:       mail/u/0 filetype:pdf

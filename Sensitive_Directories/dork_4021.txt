@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4021
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  4 
+Category:         sensitive_directories
 Published Date:   2015-06-17
 Author:           anonymous
 GoogleDork:       intitle:"index of" inurl:"no-ip.com"

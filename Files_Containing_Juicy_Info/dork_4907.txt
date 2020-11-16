@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4907
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  4 
+Category:         files_containing_juicy_info
 Published Date:   2018-08-07
 Author:           Bruno Schmid
 GoogleDork:       employee "training" intitle:index.of ext:doc | pdf | xls |docx |xlsx

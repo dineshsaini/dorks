@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4547
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  4 
+Category:         various_online_devices.auraportal
 Published Date:   2017-07-14
 Author:           anonymous
 GoogleDork:       inurl:"/ap/recuperadocumentossql.aspx"

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6278
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  3 
+Category:         files_containing_juicy_info
 Published Date:   2020-06-15
 Author:           Abinesh kamal K U
 GoogleDork:       intext:"index of /" "*.yaml"

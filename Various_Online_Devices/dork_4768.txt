@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4768
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  6 
+Category:         various_online_devices.cpanel
 Published Date:   2018-04-13
 Author:           Parth S. Patel
 GoogleDork:       inurl:":2083/login/?user="

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6408
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.xss.wordpress.realestate
 Published Date:   2020-07-14
 Author:           Jose Praveen
 GoogleDork:       inurl:/wp-content/themes/realestate-7
@@ -15,5 +15,5 @@ Dork : inurl:/wp-content/themes/realestate-7
  Ref: https://wpvulndb.com/vulnerabilities/10024 ,
  https://wpvulndb.com/vulnerabilities/9492
  
- Real Estate 7 &lt; 2.9.5 - Multiple Vulnerabilities
+ Real Estate 7 < 2.9.5 - Multiple Vulnerabilities
  Real Estate 7 

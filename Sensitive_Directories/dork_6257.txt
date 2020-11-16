@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6257
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  4 
+Category:         sensitive_directories
 Published Date:   2020-06-09
 Author:           Hemant Patidar
 GoogleDork:       "index of" "fileadmin"

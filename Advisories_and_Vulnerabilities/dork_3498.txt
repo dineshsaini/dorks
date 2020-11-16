@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3498
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.cve-2009-1910
 Published Date:   2010-11-15
 Author:           anonymous
 GoogleDork:       "2007 Rafal Kucharski"							

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4181
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  6 
+Category:         files_containing_passwords.wordpress
 Published Date:   2016-01-11
 Author:           anonymous
 GoogleDork:       inurl:wp-config -intext:wp-config "'DB_PASSWORD'"

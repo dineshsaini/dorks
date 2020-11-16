@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1155
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  5 
+Category:         various_online_devices.camera.visiongs
 Published Date:   2005-09-29
 Author:           anonymous
 GoogleDork:       (intitle:"VisionGS Webcam Software")|(intext:"Powered by VisionGS Webcam") -showthread.php -showpost.php -"Search Engine" -computersglobal.com -site:g

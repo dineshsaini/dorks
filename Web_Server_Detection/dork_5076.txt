@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5076
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  3 
+Category:         web_server_detection
 Published Date:   2019-01-14
 Author:           FlyingFrog
 GoogleDork:       intext:" - 2019 Cott Systems, Inc."

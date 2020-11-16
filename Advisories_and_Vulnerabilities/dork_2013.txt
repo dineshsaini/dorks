@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/2013
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities
 Published Date:   2010-11-15
 Author:           anonymous
 GoogleDork:       "Powered by Glossword 1.8.11" OR "Powered by Glossword 1.8.6"

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6535
-Severity: 5 
-Category:         Files Containing Usernames
+Severity:		  5 
+Category:         files_containing_usernames
 Published Date:   2020-09-14
 Author:           Sahil Saxena
 GoogleDork:       "index of" "users.frm"

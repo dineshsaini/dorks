@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/671
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  4 
+Category:         web_server_detection
 Published Date:   2004-11-13
 Author:           anonymous
 GoogleDork:       intitle:"Welcome to Your New Home Page!" "by the Debian release"

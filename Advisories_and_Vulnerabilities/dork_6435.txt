@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6435
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities
 Published Date:   2020-07-26
 Author:           cyb3rmx0
 GoogleDork:       intitle:ePMP 1000 intext:Log In -site:*.com -site:com.*

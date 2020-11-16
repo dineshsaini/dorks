@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4686
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  6 
+Category:         files_containing_passwords.symfony
 Published Date:   2018-03-02
 Author:           Alfie
 GoogleDork:       "database_password" filetype:yml "config/parameters.yml"

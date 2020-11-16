@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1197
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  5 
+Category:         various_online_devices.vpn.cisco
 Published Date:   2005-11-16
 Author:           anonymous
 GoogleDork:       intitle:Cisco "You are using an old browser or have disabled javascript. You must use version 4 or higher of Netscape Navigator/Communicator"

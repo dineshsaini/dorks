@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4638
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  7 
+Category:         files_containing_juicy_info
 Published Date:   2017-12-12
 Author:           amon k3b
 GoogleDork:       intext:----- Begin SAP License ----- ext:txt

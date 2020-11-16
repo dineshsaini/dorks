@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1429
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  4 
+Category:         sensitive_directories
 Published Date:   2010-11-10
 Author:           anonymous
 GoogleDork:       intitle:index.of cisco asa -site:cisco.com

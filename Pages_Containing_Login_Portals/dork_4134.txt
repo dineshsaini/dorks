@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4134
-Severity: 5 
-Category:         Pages Containing Login Portals
+Severity:		  3
+Category:         pages_containing_login_portals
 Published Date:   2015-11-19
 Author:           anonymous
 GoogleDork:       intext:"Roundcube Webmail" intitle:"Welcome to Roundcube Webmail" -site:roundcube.net

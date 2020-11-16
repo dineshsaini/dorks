@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4300
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  5 
+Category:         various_online_devices
 Published Date:   2016-06-22
 Author:           anonymous
 GoogleDork:       inurl:/awcuser/cgi-bin/

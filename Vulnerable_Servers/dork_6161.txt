@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6161
-Severity: 5 
-Category:         Vulnerable Servers
+Severity:		  5 
+Category:         vulnerable_servers.jira
 Published Date:   2020-06-02
 Author:           Alexandros Pappas
 GoogleDork:       "Powered by Jira Service Desk"

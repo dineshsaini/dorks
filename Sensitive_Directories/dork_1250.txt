@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1250
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  5 
+Category:         sensitive_directories
 Published Date:   2006-01-16
 Author:           anonymous
 GoogleDork:       inurl:install.pl intext:"Reading path paramaters" -edu

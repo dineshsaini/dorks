@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1263
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  5 
+Category:         various_online_devices.camera
 Published Date:   2006-02-08
 Author:           anonymous
 GoogleDork:       inurl:setdo.cgi intext:"Set DO OK"

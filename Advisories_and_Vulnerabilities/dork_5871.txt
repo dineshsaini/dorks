@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5871
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.lfi.podcast-generator
 Published Date:   2020-03-31
 Author:           Alexandros Pappas
 GoogleDork:       "Powered by Podcast Generator"

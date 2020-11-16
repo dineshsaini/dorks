@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3948
-Severity: 5 
-Category:         Vulnerable Servers
+Severity:		  6 
+Category:         vulnerable_servers.ssl
 Published Date:   2014-05-05
 Author:           anonymous
 GoogleDork:       "OpenSSL" AND "1.0.1 Server at" OR "1.0.1a Server at" OR "1.0.1b Server at" OR "1.0.1c Server at" OR "1.0.1d Server at" OR "1.0.1e Server at" OR "1.0.1f Server at"

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4056
-Severity: 5 
-Category:         Error Messages
+Severity:		  4 
+Category:         error_messages.asp
 Published Date:   2015-08-19
 Author:           anonymous
 GoogleDork:       intext:"Unexpected Problem Occurred!" ext:aspx

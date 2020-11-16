@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5655
-Severity: 5 
-Category:         Footholds
+Severity:		  7 
+Category:         footholds.webshell
 Published Date:   2019-11-22
 Author:           Santhosh Kumar Kuppan
 GoogleDork:       inurl:"index of" wso

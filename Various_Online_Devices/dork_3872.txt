@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3872
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  5 
+Category:         various_online_devices.netbotz
 Published Date:   2013-08-08
 Author:           anonymous
 GoogleDork:       intitle:"NetBotz Network Monitoring Appliance"

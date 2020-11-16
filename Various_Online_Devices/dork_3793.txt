@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3793
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  5 
+Category:         various_online_devices.printer.hp
 Published Date:   2012-08-21
 Author:           anonymous
 GoogleDork:       intitle:"hp laserjet" inurl:info_configuration.htm

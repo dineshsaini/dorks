@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5264
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  4 
+Category:         sensitive_directories
 Published Date:   2019-06-20
 Author:           l0n1s
 GoogleDork:       Inurl : /list/hdd1

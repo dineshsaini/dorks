@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/446
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  4 
+Category:         files_containing_juicy_info
 Published Date:   2004-08-19
 Author:           anonymous
 GoogleDork:       "phone * * *" "address *" "e-mail" intitle:"curriculum vitae"

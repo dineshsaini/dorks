@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5149
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  5 
+Category:         various_online_devices
 Published Date:   2019-03-11
 Author:           Thalysson Sarmento
 GoogleDork:       inurl:/portal/apis/fileExplorer/

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4437
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  3 
+Category:         files_containing_juicy_info
 Published Date:   2017-04-17
 Author:           anonymous
 GoogleDork:       "SERVER_ADDR" "SERVER_PORT" "SERVER_NAME" ext:log

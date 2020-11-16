@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/535
-Severity: 5 
-Category:         Vulnerable Files
+Severity:		  4 
+Category:         vulnerable_files
 Published Date:   2004-10-06
 Author:           anonymous
 GoogleDork:       inurl:" WWWADMIN.PL" intitle:"wwwadmin"

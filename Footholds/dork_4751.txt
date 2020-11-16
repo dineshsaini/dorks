@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4751
-Severity: 5 
-Category:         Footholds
+Severity:		  4 
+Category:         footholds.typo3
 Published Date:   2018-04-09
 Author:           _palonE
 GoogleDork:       intitle:"Installing TYPO3 CMS"

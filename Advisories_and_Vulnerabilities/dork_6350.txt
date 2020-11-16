@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6350
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities
 Published Date:   2020-06-30
 Author:           Ritik Kumar Jain
 GoogleDork:       inurl:wp-content/plugins/coming-soon
@@ -11,7 +11,7 @@ Google Dork: inurl:wp-content/plugins/coming-soon
  This google dork lists out Advisories and Vulnerabilities regarding
  the coming soon page,maintenance and under construction pages.
  Ref:https://wpvulndb.com/vulnerabilities/10283
- Coming Soon Page, Under Construction & Maintenance Mode by SeedProd &lt; 5.1.2
+ Coming Soon Page, Under Construction & Maintenance Mode by SeedProd < 5.1.2
  - Authenticated Stored Cross Site Scripting (XSS)
  
  

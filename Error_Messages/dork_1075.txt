@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1075
-Severity: 5 
-Category:         Error Messages
+Severity:		  3 
+Category:         error_messages
 Published Date:   2005-08-16
 Author:           anonymous
 GoogleDork:       "There seems to have been a problem with the" " Please try again by clicking the Refresh button in your web browser."

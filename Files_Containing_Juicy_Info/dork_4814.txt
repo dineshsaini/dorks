@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4814
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  4 
+Category:         files_containing_juicy_info
 Published Date:   2018-05-11
 Author:           Dec0y
 GoogleDork:       inurl:fisheye AND inurl:changelog -site:atlassian.com -site:github.com -intext:"Log in to FishEye"

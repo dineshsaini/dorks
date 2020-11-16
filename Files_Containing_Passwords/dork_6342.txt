@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6342
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  8 
+Category:         files_containing_passwords
 Published Date:   2020-06-30
 Author:           Sandeep Kumar
 GoogleDork:       inurl:logs intext:GET https:// ext:txt intext:password intext:username

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6636
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  7 
+Category:         files_containing_juicy_info
 Published Date:   2020-10-26
 Author:           Alexandros Pappas
 GoogleDork:       ext:txt | ext:log | ext:cfg | ext:yml "administrator:500:"

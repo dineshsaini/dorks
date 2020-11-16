@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1411
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities
 Published Date:   2006-09-13
 Author:           anonymous
 GoogleDork:       "Powered by Vsns Lemon" intitle:"Vsns Lemon"

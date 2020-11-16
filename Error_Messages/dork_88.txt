@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/88
-Severity: 5 
-Category:         Error Messages
+Severity:		  2 
+Category:         error_messages.postgres
 Published Date:   2004-03-04
 Author:           anonymous
 GoogleDork:       supplied argument is not a valid PostgreSQL result

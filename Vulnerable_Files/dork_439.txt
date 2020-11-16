@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/439
-Severity: 5 
-Category:         Vulnerable Files
+Severity:		  5 
+Category:         vulnerable_files
 Published Date:   2004-08-20
 Author:           anonymous
 GoogleDork:       intitle:"PHP Explorer" ext:php (inurl:phpexplorer.php | inurl:list.php | inurl:browse.php)

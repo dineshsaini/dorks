@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4153
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  5 
+Category:         various_online_devices.dd-wrt
 Published Date:   2015-12-15
 Author:           anonymous
 GoogleDork:       intitle:(build 13064) - Info

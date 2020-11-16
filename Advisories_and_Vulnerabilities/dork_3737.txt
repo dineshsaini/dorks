@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3737
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  3
+Category:         advisories_and_vulnerabilities.vtiger-crm-5
 Published Date:   2011-08-06
 Author:           anonymous
 GoogleDork:       intitle:"vtiger CRM 5 - Commercial Open Source CRM"

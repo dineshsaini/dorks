@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4420
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  6 
+Category:         files_containing_juicy_info
 Published Date:   2017-04-10
 Author:           anonymous
 GoogleDork:       intext:Table structure for table `wp_users` filetype:sql

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/913
-Severity: 5 
-Category:         Vulnerable Servers
+Severity:		  4 
+Category:         vulnerable_servers.vbulletin
 Published Date:   2005-03-19
 Author:           anonymous
 GoogleDork:       "Powered by: vBulletin Version 1.1.5"

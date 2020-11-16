@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/977
-Severity: 5 
-Category:         Pages Containing Login Portals
+Severity:		  4
+Category:         pages_containing_login_portals
 Published Date:   2005-05-11
 Author:           anonymous
 GoogleDork:       inurl::2082/frontend -demo

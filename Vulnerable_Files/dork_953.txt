@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/953
-Severity: 5 
-Category:         Vulnerable Files
+Severity:		  4 
+Category:         vulnerable_files
 Published Date:   2005-04-27
 Author:           anonymous
 GoogleDork:       inurl:cgi-bin inurl:bigate.cgi

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1090
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  6 
+Category:         files_containing_passwords
 Published Date:   2005-08-31
 Author:           anonymous
 GoogleDork:       ext:inc "pwd=" "UID="

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3656
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities
 Published Date:   2010-12-24
 Author:           anonymous
 GoogleDork:       "Powered by CubeCart 3.0.4"

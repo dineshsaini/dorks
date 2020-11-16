@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6600
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  7 
+Category:         files_containing_passwords
 Published Date:   2020-10-08
 Author:           Alexandros Pappas
 GoogleDork:       ext:cfg "g_password" | "sv_privatepassword" | "rcon_password" -git -gitlab

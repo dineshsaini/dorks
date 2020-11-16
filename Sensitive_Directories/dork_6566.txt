@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6566
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  6 
+Category:         sensitive_directories
 Published Date:   2020-09-24
 Author:           mittal.pratham
 GoogleDork:       "-- Dumping data for table * " ext:sql | ext:xls intext:db | intext:database | intext:password | username

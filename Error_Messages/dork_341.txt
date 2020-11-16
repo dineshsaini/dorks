@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/341
-Severity: 5 
-Category:         Error Messages
+Severity:		  4 
+Category:         error_messages.oracle
 Published Date:   2004-07-16
 Author:           anonymous
 GoogleDork:       "ORA-12541: TNS:no listener" intitle:"error occurred"

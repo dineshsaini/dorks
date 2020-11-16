@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/474
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  3 
+Category:         various_online_devices
 Published Date:   2004-09-10
 Author:           anonymous
 GoogleDork:       intitle:"dreambox web"

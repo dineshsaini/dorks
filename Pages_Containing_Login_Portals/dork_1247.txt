@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1247
-Severity: 5 
-Category:         Pages Containing Login Portals
+Severity:		  3
+Category:         pages_containing_login_portals
 Published Date:   2006-01-16
 Author:           anonymous
 GoogleDork:       intitle:Ovislink inurl:private/login

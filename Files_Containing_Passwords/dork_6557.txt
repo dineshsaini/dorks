@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6557
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  5 
+Category:         files_containing_passwords.php
 Published Date:   2020-09-22
 Author:           Alexandros Pappas
 GoogleDork:       intitle:"database.php" inurl:"database.php" intext:"db_password" -git -gitlab

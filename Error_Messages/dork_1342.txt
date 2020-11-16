@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1342
-Severity: 5 
-Category:         Error Messages
+Severity:		  2 
+Category:         error_messages
 Published Date:   2006-04-25
 Author:           anonymous
 GoogleDork:       "Warning:" "failed to open stream: HTTP request failed" "on line"

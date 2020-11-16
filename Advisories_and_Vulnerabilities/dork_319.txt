@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/319
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities
 Published Date:   2004-07-12
 Author:           anonymous
 GoogleDork:       Invision Power Board SSI.PHP SQL Injection

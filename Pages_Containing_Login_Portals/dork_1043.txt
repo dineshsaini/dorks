@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1043
-Severity: 5 
-Category:         Pages Containing Login Portals
+Severity:		  3
+Category:         pages_containing_login_portals
 Published Date:   2005-07-24
 Author:           anonymous
 GoogleDork:       intitle:"Member Login" "NOTE: Your browser must have cookies enabled in order to log into the site." ext:php OR ext:cgi

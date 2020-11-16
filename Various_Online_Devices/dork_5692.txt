@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5692
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  7 
+Category:         various_online_devices.server.rockwell
 Published Date:   2020-01-21
 Author:           Srini
 GoogleDork:       intitle:rsview32 ext:asp

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4487
-Severity: 5 
-Category:         Error Messages
+Severity:		  2 
+Category:         error_messages.webview
 Published Date:   2017-05-15
 Author:           anonymous
 GoogleDork:       "--- WebView Livescope Http Server Error ---" -git

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1392
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  5 
+Category:         various_online_devices.camera.axis
 Published Date:   2006-06-25
 Author:           anonymous
 GoogleDork:       intitle:"Live View / - AXIS" | inurl:view/view.shtml OR inurl:view/indexFrame.shtml | intitle:"MJPG Live Demo" | "intext:Select preset position"

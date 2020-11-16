@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1883
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.cve-2009-0535
 Published Date:   2010-11-15
 Author:           anonymous
 GoogleDork:       Thyme 1. Â© 2006 eXtrovert Software LLC. All rights reserved

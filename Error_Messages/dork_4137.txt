@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4137
-Severity: 5 
-Category:         Error Messages
+Severity:		  4 
+Category:         error_messages.mysql
 Published Date:   2015-11-23
 Author:           anonymous
 GoogleDork:       inurl:index.php?id= intext:"mysql_fetch_array"

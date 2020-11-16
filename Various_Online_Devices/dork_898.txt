@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/898
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  4 
+Category:         various_online_devices
 Published Date:   2005-03-20
 Author:           anonymous
 GoogleDork:       intitle:"Flash Operator Panel" -ext:php -wiki -cms -inurl:asternic -inurl:sip -intitle:ANNOUNCE -inurl:lists

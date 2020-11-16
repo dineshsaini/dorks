@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6323
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.cve-2020-8512
 Published Date:   2020-06-23
 Author:           Vanshal Gaur
 GoogleDork:       inurl:/webmail intext:Tecnologia fornecida por IceWarp Server

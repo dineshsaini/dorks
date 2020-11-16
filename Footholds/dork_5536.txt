@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5536
-Severity: 5 
-Category:         Footholds
+Severity:		  5 
+Category:         footholds
 Published Date:   2019-09-16
 Author:           The Dexter
 GoogleDork:       inurl:"index.php?db="

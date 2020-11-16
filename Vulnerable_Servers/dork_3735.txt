@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3735
-Severity: 5 
-Category:         Vulnerable Servers
+Severity:		  3 
+Category:         vulnerable_servers
 Published Date:   2011-07-26
 Author:           anonymous
 GoogleDork:       intitle:m1n1 1.01

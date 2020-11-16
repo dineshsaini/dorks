@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4480
-Severity: 5 
-Category:         Footholds
+Severity:		  8 
+Category:         footholds.cgi
 Published Date:   2017-05-11
 Author:           anonymous
 GoogleDork:       inurl:"go.cgi?url="

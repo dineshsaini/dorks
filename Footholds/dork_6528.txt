@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6528
-Severity: 5 
-Category:         Footholds
+Severity:		  4 
+Category:         footholds.jira
 Published Date:   2020-09-10
 Author:           Pratik Khalane
 GoogleDork:       inurl:"/plugins/servlet/Wallboard/"

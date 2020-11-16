@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/877
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  3 
+Category:         various_online_devices
 Published Date:   2005-03-05
 Author:           anonymous
 GoogleDork:       allintitle:Brains, Corp. camera

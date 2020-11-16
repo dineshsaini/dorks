@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/768
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  4 
+Category:         web_server_detection
 Published Date:   2004-12-13
 Author:           anonymous
 GoogleDork:       inurl:2506/jana-admin

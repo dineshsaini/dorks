@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/672
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  4 
+Category:         sensitive_directories
 Published Date:   2004-11-07
 Author:           anonymous
 GoogleDork:       "intitle:Index.Of /" stats merchant cgi-* etc

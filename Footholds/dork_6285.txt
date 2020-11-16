@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6285
-Severity: 5 
-Category:         Footholds
+Severity:		  7 
+Category:         footholds.microsoft-lync
 Published Date:   2020-06-16
 Author:           Kevin Randall
 GoogleDork:       allinurl:XFrame.html

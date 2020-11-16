@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  1 
+Category:         web_server_detection
 Published Date:   2003-06-24
 Author:           anonymous
 GoogleDork:       Apache online documentation

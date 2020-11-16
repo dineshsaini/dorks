@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5751
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  4 
+Category:         web_server_detection.jboss
 Published Date:   2020-02-24
 Author:           PUNIT DARJI
 GoogleDork:       intitle:"Welcome to JBoss"

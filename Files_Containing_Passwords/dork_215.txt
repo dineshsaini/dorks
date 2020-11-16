@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/215
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  6 
+Category:         files_containing_passwords.windows-reg
 Published Date:   2004-05-11
 Author:           anonymous
 GoogleDork:       filetype:reg reg HKEY_CURRENT_USER SSHHOSTKEYS

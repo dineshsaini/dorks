@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/165
-Severity: 5 
-Category:         Error Messages
+Severity:		  3 
+Category:         error_messages.coldfusion
 Published Date:   2004-04-19
 Author:           anonymous
 GoogleDork:       intitle:"Error Occurred" "The error occurred in" filetype:cfm

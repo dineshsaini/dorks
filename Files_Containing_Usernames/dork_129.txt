@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/129
-Severity: 5 
-Category:         Files Containing Usernames
+Severity:		  3 
+Category:         files_containing_usernames
 Published Date:   2004-03-16
 Author:           anonymous
 GoogleDork:       inurl:admin filetype:asp inurl:userlist

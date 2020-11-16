@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4057
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  3 
+Category:         sensitive_directories
 Published Date:   2015-08-19
 Author:           anonymous
 GoogleDork:       intitle:"Index of" "DCIM"

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5565
-Severity: 5 
-Category:         Error Messages
+Severity:		  4 
+Category:         error_messages.wordpress
 Published Date:   2019-10-07
 Author:           Reza Abasi
 GoogleDork:       site:*/wp-admin/maint/repair.php intext:"define(WP_ALLOW_REPAIR,true);"

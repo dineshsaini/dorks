@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/996
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  6 
+Category:         files_containing_passwords.mirc
 Published Date:   2005-06-06
 Author:           anonymous
 GoogleDork:       inurl:perform.ini filetype:ini

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5812
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  5 
+Category:         web_server_detection.phpbb
 Published Date:   2020-03-20
 Author:           Alexandros Pappas
 GoogleDork:       "Powered by phpBB" inurl:"index.php?s" OR inurl:"index.php?style"

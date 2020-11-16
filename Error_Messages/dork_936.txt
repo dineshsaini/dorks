@@ -1,10 +1,10 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/936
-Severity: 5 
-Category:         Error Messages
+Severity:		  3 
+Category:         error_messages.sql
 Published Date:   2005-04-07
 Author:           anonymous
-GoogleDork:       &quot;SQL Server Driver][SQL Server]Line 1: Incorrect syntax near&quot;
-Description:      &quot;SQL Server Driver][SQL Server]Line 1: Incorrect syntax near&quot;
+GoogleDork:       "SQL Server Driver][SQL Server]Line 1: Incorrect syntax near"
+Description:      "SQL Server Driver][SQL Server]Line 1: Incorrect syntax near"
 
 
 you can find many servers infected with sql injection

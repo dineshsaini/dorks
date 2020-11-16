@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3956
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  5 
+Category:         various_online_devices.modem.touchstone
 Published Date:   2014-07-21
 Author:           anonymous
 GoogleDork:       inurl:"phy.htm" intitle:"Touchstone Status"

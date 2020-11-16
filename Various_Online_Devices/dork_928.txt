@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/928
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  4 
+Category:         various_online_devices.printer
 Published Date:   2005-04-12
 Author:           anonymous
 GoogleDork:       inurl:/en/help.cgi "ID=*"

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/334
-Severity: 5 
-Category:         Error Messages
+Severity:		  3 
+Category:         error_messages.discuz
 Published Date:   2004-07-16
 Author:           anonymous
 GoogleDork:       filetype:php inurl:"logging.php" "Discuz" error

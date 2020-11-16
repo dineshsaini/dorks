@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6364
-Severity: 5 
-Category:         Footholds
+Severity:		  4 
+Category:         footholds.nginx
 Published Date:   2020-07-02
 Author:           Emmanuel Karunya
 GoogleDork:       intitle:"index of" "nginx.log"

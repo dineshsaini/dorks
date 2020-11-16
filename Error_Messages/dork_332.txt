@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/332
-Severity: 5 
-Category:         Error Messages
+Severity:		  3 
+Category:         error_messages
 Published Date:   2004-07-16
 Author:           anonymous
 GoogleDork:       "Internal Server Error" "server at"

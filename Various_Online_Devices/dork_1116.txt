@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1116
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  4 
+Category:         various_online_devices.monitor
 Published Date:   2005-09-16
 Author:           anonymous
 GoogleDork:       intitle:"netbotz appliance" -inurl:.php -inurl:.asp -inurl:.pdf -inurl:securitypipeline -announces

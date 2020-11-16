@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5375
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  6 
+Category:         various_online_devices.apache.couchdb
 Published Date:   2019-08-19
 Author:           Mohammed*_*
 GoogleDork:       intitle:apache couchdb - futon: overview inurl:/_utils

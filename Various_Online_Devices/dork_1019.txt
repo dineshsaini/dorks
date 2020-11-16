@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1019
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  5 
+Category:         various_online_devices.camera.axis
 Published Date:   2005-06-10
 Author:           anonymous
 GoogleDork:       intitle:"AXIS 240 Camera Server" intext:"server push" -help

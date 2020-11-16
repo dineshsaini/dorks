@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1048
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  4 
+Category:         files_containing_passwords.winframe-client
 Published Date:   2005-07-27
 Author:           anonymous
 GoogleDork:       [WFClient] Password= filetype:ica

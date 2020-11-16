@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4929
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  4 
+Category:         files_containing_juicy_info
 Published Date:   2018-08-21
 Author:           NSIDE Attack Logic GmbH
 GoogleDork:       inurl:elmah.axd intext:"Powered by ELMAH" -inurl:detail

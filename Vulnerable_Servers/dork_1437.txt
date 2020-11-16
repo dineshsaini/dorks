@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1437
-Severity: 5 
-Category:         Vulnerable Servers
+Severity:		  5 
+Category:         vulnerable_servers
 Published Date:   2010-11-13
 Author:           anonymous
 GoogleDork:       inurl:index.php?pagedb=rss -Vulnerability -inurl

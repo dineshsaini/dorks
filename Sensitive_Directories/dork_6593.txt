@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6593
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  7 
+Category:         sensitive_directories
 Published Date:   2020-10-05
 Author:           Alexandros Pappas
 GoogleDork:       intitle:"index of" "slapd.conf"

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1216
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.rce.sugarcrm
 Published Date:   2005-12-07
 Author:           anonymous
 GoogleDork:       "2005 SugarCRM Inc. All Rights Reserved" "Powered By SugarCRM"

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6264
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities.wordpress.backupbuddy
 Published Date:   2020-06-10
 Author:           Abhinav Porwal
 GoogleDork:       index of /wp-content/uploads/backupbuddy

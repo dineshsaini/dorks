@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4915
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  6 
+Category:         files_containing_juicy_info
 Published Date:   2018-08-13
 Author:           Bruno Schmid
 GoogleDork:       intext:APIKey ext:js | xml | yml | txt | conf | py -github -stackoverflow intitle:"index of"

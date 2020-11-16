@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4623
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  3 
+Category:         sensitive_directories
 Published Date:   2017-11-28
 Author:           Melvin Varkey
 GoogleDork:       intitle:index.of .bashrc

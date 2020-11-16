@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6650
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  6 
+Category:         sensitive_directories
 Published Date:   2020-11-04
 Author:           Prasad Lingamaiah
 GoogleDork:       intitle:index of .git/hooks/

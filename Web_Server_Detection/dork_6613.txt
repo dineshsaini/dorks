@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6613
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  6 
+Category:         web_server_detection
 Published Date:   2020-10-14
 Author:           Sajan Dhakate
 GoogleDork:       allintext:"Index Of" "sftp-config.json"

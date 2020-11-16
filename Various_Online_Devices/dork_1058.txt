@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1058
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  6 
+Category:         various_online_devices.sensorprobe
 Published Date:   2005-08-07
 Author:           anonymous
 GoogleDork:       "Summary View of Sensors" | "sensorProbe8 v *" | "cameraProbe 3.0" -filetype:pdf -filetype:html

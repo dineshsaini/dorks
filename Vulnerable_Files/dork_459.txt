@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/459
-Severity: 5 
-Category:         Vulnerable Files
+Severity:		  2 
+Category:         vulnerable_files
 Published Date:   2004-09-06
 Author:           anonymous
 GoogleDork:       link:http://www.toastforums.com/

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/2549
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities
 Published Date:   2010-11-15
 Author:           anonymous
 GoogleDork:       "index.php?section=post_upload" 						

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4155
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities
 Published Date:   2015-12-17
 Author:           anonymous
 GoogleDork:       inurl:/node/add/event

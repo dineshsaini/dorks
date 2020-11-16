@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4652
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  3 
+Category:         files_containing_juicy_info
 Published Date:   2018-01-04
 Author:           Pancaker
 GoogleDork:       ruTorrent/rTorrent - Web UI (BitTorrent Client - Download/Upload/Seed/Control/File Explorer)

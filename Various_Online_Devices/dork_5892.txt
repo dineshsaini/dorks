@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5892
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  4 
+Category:         various_online_devices.cvsweb
 Published Date:   2020-04-16
 Author:           Siddhesh Thakur
 GoogleDork:       intitle:"index of" "cvsweb.cgi"

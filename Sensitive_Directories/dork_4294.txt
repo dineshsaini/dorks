@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4294
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  6 
+Category:         sensitive_directories
 Published Date:   2016-06-06
 Author:           anonymous
 GoogleDork:       inurl:.ssh intitle:index.of authorized_keys

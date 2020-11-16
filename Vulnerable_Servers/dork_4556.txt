@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4556
-Severity: 5 
-Category:         Vulnerable Servers
+Severity:		  5 
+Category:         vulnerable_servers
 Published Date:   2017-07-24
 Author:           DigiP
 GoogleDork:       inurl:/proc/self/cwd

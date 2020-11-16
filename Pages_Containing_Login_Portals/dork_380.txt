@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/380
-Severity: 5 
-Category:         Pages Containing Login Portals
+Severity:		  3
+Category:         pages_containing_login_portals
 Published Date:   2004-07-26
 Author:           anonymous
 GoogleDork:       ASP.login_aspx "ASP.NET_SessionId"

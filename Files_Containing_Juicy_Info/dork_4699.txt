@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4699
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  5 
+Category:         files_containing_juicy_info
 Published Date:   2018-03-16
 Author:           screetsec
 GoogleDork:       filetype:sql intext:password | pass | passwd intext:username intext:INSERT INTO `users` VALUES

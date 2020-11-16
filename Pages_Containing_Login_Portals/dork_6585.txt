@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6585
-Severity: 5 
-Category:         Pages Containing Login Portals
+Severity:		  3
+Category:         pages_containing_login_portals
 Published Date:   2020-10-01
 Author:           Alexandros Pappas
 GoogleDork:       inurl:/phpPgAdmin/browser.php intext:"Servers" | "PostgreSQL*"

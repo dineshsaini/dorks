@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/2696
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.cve-2009-3252
 Published Date:   2010-11-15
 Author:           anonymous
 GoogleDork:       "Powered by Rock Band CMS 0.10"		

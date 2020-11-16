@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4827
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  4 
+Category:         sensitive_directories
 Published Date:   2018-05-17
 Author:           Bruno Schmid
 GoogleDork:       inurl:"RootFolder=" Allitems "confidential" | "classified" | "passwords" | username

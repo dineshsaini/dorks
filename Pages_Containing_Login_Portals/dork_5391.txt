@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5391
-Severity: 5 
-Category:         Pages Containing Login Portals
+Severity:		  3
+Category:         pages_containing_login_portals
 Published Date:   2019-08-19
 Author:           Reza Abasi
 GoogleDork:       site:*/admin-login intitle:"Admin Login"

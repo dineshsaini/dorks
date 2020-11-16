@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/559
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  4 
+Category:         web_server_detection
 Published Date:   2004-10-12
 Author:           anonymous
 GoogleDork:       intitle:"Open WebMail" "Open WebMail version (2.20|2.21|2.30) "

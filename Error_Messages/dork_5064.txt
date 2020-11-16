@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5064
-Severity: 5 
-Category:         Error Messages
+Severity:		  4 
+Category:         error_messages.cs-cart
 Published Date:   2019-01-02
 Author:           deadroot
 GoogleDork:       "dispatch=debugger."

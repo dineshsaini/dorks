@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3595
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.smartermail-enterprise-7-1
 Published Date:   2010-11-15
 Author:           anonymous
 GoogleDork:       insite: SmarterMail Enterprise 7.1

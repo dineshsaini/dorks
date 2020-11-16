@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5287
-Severity: 5 
-Category:         Pages Containing Login Portals
+Severity:		  3
+Category:         pages_containing_login_portals
 Published Date:   2019-07-24
 Author:           Vishnu Padmakumar
 GoogleDork:       inurl:Dashboard.jspa intext:"Atlassian Jira Project Management Software"

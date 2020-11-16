@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1613
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.cve-2008-0814
 Published Date:   2010-11-15
 Author:           anonymous
 GoogleDork:       TRUC 0.11.0 :: Â© 2006 by ASDIS :

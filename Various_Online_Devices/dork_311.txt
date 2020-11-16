@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/311
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  1 
+Category:         various_online_devices.camera.panasonic
 Published Date:   2004-07-10
 Author:           anonymous
 GoogleDork:       Panasonic Network Cameras

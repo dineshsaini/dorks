@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4516
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  7 
+Category:         various_online_devices.java.jmx
 Published Date:   2017-06-09
 Author:           anonymous
 GoogleDork:       inurl:"8080/jmx-console"

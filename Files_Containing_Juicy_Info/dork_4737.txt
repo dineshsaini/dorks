@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4737
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  6 
+Category:         files_containing_juicy_info
 Published Date:   2018-04-02
 Author:           ManhNho
 GoogleDork:       intext:"[***] Results from" + ext:txt + "snort-"

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4694
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  6 
+Category:         various_online_devices.camera
 Published Date:   2018-03-12
 Author:           Rootkit_Pentester
 GoogleDork:       inurl:control/camerainfo

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5901
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities.upload.xfilesharing
 Published Date:   2020-04-16
 Author:           Alexandros Pappas
 GoogleDork:       inurl:/?op=registration

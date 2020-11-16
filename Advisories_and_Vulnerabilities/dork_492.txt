@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/492
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.turboseek
 Published Date:   2004-09-21
 Author:           anonymous
 GoogleDork:       filetype:cgi inurl:tseekdir.cgi

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/654
-Severity: 5 
-Category:         Vulnerable Servers
+Severity:		  3 
+Category:         vulnerable_servers
 Published Date:   2004-11-07
 Author:           anonymous
 GoogleDork:       inurl:newsdesk.cgi? inurl:"t="

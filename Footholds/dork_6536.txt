@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6536
-Severity: 5 
-Category:         Footholds
+Severity:		  4 
+Category:         footholds.java
 Published Date:   2020-09-14
 Author:           Javier Bernardo
 GoogleDork:       inurl:wsnavigator/jsps

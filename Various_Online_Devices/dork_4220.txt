@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4220
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  4 
+Category:         various_online_devices.printer.dell
 Published Date:   2016-03-11
 Author:           anonymous
 GoogleDork:       inurl:"cgi-bin/dynamic/" inurl:"html" intitle:"Printer Status"

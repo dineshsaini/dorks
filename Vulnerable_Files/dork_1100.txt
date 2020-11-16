@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1100
-Severity: 5 
-Category:         Vulnerable Files
+Severity:		  4 
+Category:         vulnerable_files
 Published Date:   2005-09-13
 Author:           anonymous
 GoogleDork:       "maxwebportal" inurl:"default" "snitz forums" +"homepage" -intitle:maxwebportal

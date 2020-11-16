@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4679
-Severity: 5 
-Category:         Footholds
+Severity:		  4 
+Category:         footholds.moodle
 Published Date:   2018-02-21
 Author:           Nisankh Acharjya
 GoogleDork:       inurl:/install/stringnames.txt

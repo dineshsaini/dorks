@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/64
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.earlyimpact-productcart
 Published Date:   2004-03-04
 Author:           anonymous
 GoogleDork:       EarlyImpact Productcart

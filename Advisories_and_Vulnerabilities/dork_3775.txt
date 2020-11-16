@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3775
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities
 Published Date:   2012-01-10
 Author:           anonymous
 GoogleDork:       inurl:wp-content/plugins/age-verification/age-verification.php

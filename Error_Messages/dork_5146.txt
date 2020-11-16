@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5146
-Severity: 5 
-Category:         Error Messages
+Severity:		  5 
+Category:         error_messages.php
 Published Date:   2019-03-11
 Author:           Thalysson Sarmento
 GoogleDork:       inurl:/php-errors.log filetype:log

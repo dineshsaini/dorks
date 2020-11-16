@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1189
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  5 
+Category:         files_containing_passwords.ruby.rails
 Published Date:   2005-11-14
 Author:           anonymous
 GoogleDork:       ext:yml database inurl:config

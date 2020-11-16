@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4790
-Severity: 5 
-Category:         Error Messages
+Severity:		  4 
+Category:         error_messages.wordpress
 Published Date:   2018-04-25
 Author:           ManhNho
 GoogleDork:       inurl:?wp-commentsrss2.php -git

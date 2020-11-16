@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1021
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities
 Published Date:   2005-06-21
 Author:           anonymous
 GoogleDork:       intext:"Powered By: Snitz Forums 2000 Version 3.4.00..03"

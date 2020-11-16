@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5132
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  5 
+Category:         sensitive_directories
 Published Date:   2019-02-22
 Author:           Inspira Enterprise Pvt Ltd
 GoogleDork:       intitle:"index of" "/bitcoin/"

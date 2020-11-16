@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6460
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.upload.wordpress.wpdiscuz
 Published Date:   2020-08-04
 Author:           Gal Nagli
 GoogleDork:       inurl:wp-content/plugins/wpdiscuz

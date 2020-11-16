@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5780
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  6 
+Category:         web_server_detection
 Published Date:   2020-03-09
 Author:           Ubaid Ahmed
 GoogleDork:       intitle:"Web Server's Default Page" intext:"hosting using Plesk" -www

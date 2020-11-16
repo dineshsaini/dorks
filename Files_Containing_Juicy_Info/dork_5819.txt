@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5819
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  7 
+Category:         files_containing_juicy_info
 Published Date:   2020-03-20
 Author:           Alexandros Pappas
 GoogleDork:       inurl:cfg intext:"srb.username.1=" "srb.password.1 = "

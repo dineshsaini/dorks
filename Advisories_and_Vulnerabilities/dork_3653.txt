@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3653
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities.lfi
 Published Date:   2010-12-19
 Author:           anonymous
 GoogleDork:       inurl:com_jeauto

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1236
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  4 
+Category:         files_containing_passwords.mssql
 Published Date:   2006-01-01
 Author:           anonymous
 GoogleDork:       filetype:bak createobject sa

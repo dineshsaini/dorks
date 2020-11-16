@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3639
-Severity: 5 
-Category:         Vulnerable Servers
+Severity:		  6 
+Category:         vulnerable_servers.shell.c99
 Published Date:   2010-12-08
 Author:           anonymous
 GoogleDork:       "www.*.com - c99shell" OR "www.*.net - c99shell" OR "www.*.org - c99shell"

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6235
-Severity: 5 
-Category:         Vulnerable Servers
+Severity:		  3 
+Category:         vulnerable_servers.struts
 Published Date:   2020-06-08
 Author:           Sushant Kamble
 GoogleDork:       site: target.com ext:action | ext:struts | ext:do

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/2118
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.sqli.apt-webservice
 Published Date:   2010-11-15
 Author:           anonymous
 GoogleDork:       powered by apt-webservice ;apt-webshop-system v3.0

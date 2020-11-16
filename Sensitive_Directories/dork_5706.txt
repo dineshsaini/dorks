@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5706
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  6 
+Category:         sensitive_directories
 Published Date:   2020-01-27
 Author:           Bruno Schmid
 GoogleDork:       intitle:"index of" .zshrc~ OR .zshrc OR .zshenv OR .zshenv~ -pool -public

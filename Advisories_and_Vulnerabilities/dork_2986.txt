@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/2986
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.sqli.joomla.com-qcontacts
 Published Date:   2010-11-15
 Author:           anonymous
 GoogleDork:       "index.php?option=com_qcontacts"

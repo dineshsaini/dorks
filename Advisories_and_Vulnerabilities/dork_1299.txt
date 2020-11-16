@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1299
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.info-disclosure.b2evo
 Published Date:   2006-02-08
 Author:           anonymous
 GoogleDork:       intitle:"b2evo installer" intext:"Installer fÃƒÆ’Ã‚Â¼r Version"

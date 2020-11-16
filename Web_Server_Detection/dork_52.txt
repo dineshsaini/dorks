@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/52
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  3 
+Category:         web_server_detection.printer.xerox
 Published Date:   2003-08-11
 Author:           anonymous
 GoogleDork:       aboutprinter.shtml (More Xerox printers on the web!)

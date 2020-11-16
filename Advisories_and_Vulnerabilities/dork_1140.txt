@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1140
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities
 Published Date:   2005-09-25
 Author:           anonymous
 GoogleDork:       "Powered by autolinks pro 2.1" inurl:register.php

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4395
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  3 
+Category:         various_online_devices
 Published Date:   2017-02-08
 Author:           anonymous
 GoogleDork:       inurl:"/graphs" intext:"Traffic and system resource graphing"

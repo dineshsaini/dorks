@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6232
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  3 
+Category:         files_containing_juicy_info
 Published Date:   2020-06-08
 Author:           Reza Abasi
 GoogleDork:       "microsoft internet information services" ext:log

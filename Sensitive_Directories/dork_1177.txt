@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1177
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  3 
+Category:         sensitive_directories
 Published Date:   2005-11-11
 Author:           anonymous
 GoogleDork:       log inurl:linklint filetype:txt -"checking"

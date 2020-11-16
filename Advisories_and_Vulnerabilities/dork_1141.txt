@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1141
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.sqli.cosmosshop
 Published Date:   2005-09-25
 Author:           anonymous
 GoogleDork:       "CosmoShop by Zaunz Publishing" inurl:"cgi-bin/cosmoshop/lshop.cgi" -johnny.ihackstuff.com -V8.10.106 -V8.10.100 -V.8.10.85 -V8.10.108 -V8.11*

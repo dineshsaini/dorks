@@ -1,10 +1,10 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1244
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities
 Published Date:   2006-01-02
 Author:           anonymous
 GoogleDork:       intitle:"phpDocumentor web interface"
 Description:      intitle:"phpDocumentor web interface"
 
 
-Php Documentor &lt; = 1.3.0 rc4 remote code xctn dork: intitle:"phpDocumentor web interface"advisory & poc exploit:http://rgod.altervista.org/phpdocumentor_130rc4_incl_expl.html
+Php Documentor < = 1.3.0 rc4 remote code xctn dork: intitle:"phpDocumentor web interface"advisory & poc exploit:http://rgod.altervista.org/phpdocumentor_130rc4_incl_expl.html

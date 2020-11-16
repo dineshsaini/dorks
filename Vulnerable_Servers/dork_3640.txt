@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3640
-Severity: 5 
-Category:         Vulnerable Servers
+Severity:		  5 
+Category:         vulnerable_servers.shell
 Published Date:   2010-12-09
 Author:           anonymous
 GoogleDork:       "CGI-Telnet Unit-x Team Connected to *.com" OR "CGI-Telnet Unit-x Team Connected to"

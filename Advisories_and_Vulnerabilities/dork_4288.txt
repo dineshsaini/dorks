@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4288
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities.sqli.xenapi
 Published Date:   2016-05-26
 Author:           anonymous
 GoogleDork:       ext:php inurl:"api.php?action="

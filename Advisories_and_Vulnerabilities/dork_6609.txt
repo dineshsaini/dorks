@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6609
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.cve-2020-25213
 Published Date:   2020-10-13
 Author:           Kathan Patel
 GoogleDork:       inurl:/wp-content/plugins/wp-file-manager/readme.txt

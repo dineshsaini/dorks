@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1418
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  5 
+Category:         various_online_devices.snapgear
 Published Date:   2006-10-02
 Author:           anonymous
 GoogleDork:       "SnapGear Management Console" "Welcome to the SnapGear Unit!" -pdf

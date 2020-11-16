@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6312
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.cve-2020-8512
 Published Date:   2020-06-22
 Author:           Sagar Yadav
 GoogleDork:       intext:Basato su IceWarp Server

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3690
-Severity: 5 
-Category:         Vulnerable Servers
+Severity:		  2 
+Category:         vulnerable_servers
 Published Date:   2011-02-24
 Author:           anonymous
 GoogleDork:       intitle:cyber anarchy shell

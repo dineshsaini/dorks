@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/53
-Severity: 5 
-Category:         Error Messages
+Severity:		  4 
+Category:         error_messages
 Published Date:   2003-08-15
 Author:           anonymous
 GoogleDork:       "Chatologica MetaSearch" "stack tracking"

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5167
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  6 
+Category:         various_online_devices.3cx
 Published Date:   2019-04-03
 Author:           Kevin Randall
 GoogleDork:       allintitle:"3cx phone system management console"

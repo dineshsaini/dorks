@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/130
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  3 
+Category:         sensitive_directories
 Published Date:   2004-03-16
 Author:           anonymous
 GoogleDork:       inurl:backup intitle:index.of inurl:admin

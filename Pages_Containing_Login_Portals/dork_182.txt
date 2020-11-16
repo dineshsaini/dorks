@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/182
-Severity: 5 
-Category:         Pages Containing Login Portals
+Severity:		  4
+Category:         pages_containing_login_portals
 Published Date:   2004-04-26
 Author:           anonymous
 GoogleDork:       intitle:"MikroTik RouterOS Managing Webpage"

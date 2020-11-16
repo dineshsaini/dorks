@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5904
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  6 
+Category:         files_containing_juicy_info
 Published Date:   2020-04-16
 Author:           berat isler
 GoogleDork:       intitle:"index of" "vpn-config.*"

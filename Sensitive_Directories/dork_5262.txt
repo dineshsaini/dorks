@@ -1,14 +1,14 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5262
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  5 
+Category:         sensitive_directories
 Published Date:   2019-06-19
 Author:           Isaiah Puzon
-GoogleDork:       "To Parent Directory" AND "dir&gt;" AND "web.config"
-Description:      "To Parent Directory" AND "dir&gt;" AND "web.config"
+GoogleDork:       "To Parent Directory" AND "dir>" AND "web.config"
+Description:      "To Parent Directory" AND "dir>" AND "web.config"
 
 
 Dork:
- "To Parent Directory" AND "dir&gt;" AND "web.config"
+ "To Parent Directory" AND "dir>" AND "web.config"
  
  Description:
  Web Servers with Open Directory Listing containing web.config file

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5121
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  4 
+Category:         sensitive_directories
 Published Date:   2019-02-15
 Author:           Bruno Schmid
 GoogleDork:       inurl:"/.Trash" intitle:"index of" ~

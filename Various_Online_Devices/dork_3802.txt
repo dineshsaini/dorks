@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3802
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  5 
+Category:         various_online_devices.php
 Published Date:   2012-08-21
 Author:           anonymous
 GoogleDork:       'apc info' 'apc.php?SCOPE='

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6099
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities.dir-traversal.joomla.com-fabrik
 Published Date:   2020-05-19
 Author:           Alexandros Pappas
 GoogleDork:       inurl:"index.php?option=com_fabrik"

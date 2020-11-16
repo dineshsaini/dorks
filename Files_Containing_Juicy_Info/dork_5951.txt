@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5951
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  5 
+Category:         files_containing_juicy_info
 Published Date:   2020-04-27
 Author:           Alexandros Pappas
 GoogleDork:       "DBPassword" ext:cfg OR ext:log OR ext:txt OR ext:sql -git

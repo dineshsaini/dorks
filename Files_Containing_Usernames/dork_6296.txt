@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6296
-Severity: 5 
-Category:         Files Containing Usernames
+Severity:		  6 
+Category:         files_containing_usernames
 Published Date:   2020-06-16
 Author:           Ambadi MP
 GoogleDork:       intitle:"index of" "users.sql"

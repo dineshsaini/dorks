@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5228
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  7 
+Category:         sensitive_directories
 Published Date:   2019-05-29
 Author:           Alfie
 GoogleDork:       filetype:git -github.com inurl:"/.git"

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4806
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  7 
+Category:         files_containing_passwords
 Published Date:   2018-05-07
 Author:           ManhNho
 GoogleDork:       inurl:"/App.Config" + ext:config + "password=" -github -git

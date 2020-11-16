@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/2969
-Severity: 5 
-Category:         Vulnerable Servers
+Severity:		  2 
+Category:         vulnerable_servers
 Published Date:   2010-11-15
 Author:           anonymous
 GoogleDork:       EDB 9347

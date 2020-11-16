@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3771
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  4 
+Category:         various_online_devices.router
 Published Date:   2011-12-27
 Author:           anonymous
 GoogleDork:       inurl:RgFirewallRL.asp | inurl:RgDmzHost.asp | inurl:RgMacFiltering.asp | inurl:RgConnect.asp | inurl:RgEventLog.asp | inurl:RgSecurity.asp | inurl:RgContentFilter.asp | inurl:wlanRadio.asp

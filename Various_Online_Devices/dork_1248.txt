@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1248
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  5 
+Category:         various_online_devices.camera
 Published Date:   2006-01-16
 Author:           anonymous
 GoogleDork:       intitle:"::::: INTELLINET IP Camera Homepage :::::" OR inurl:/main_activex.asp OR inurl:/main_applet.cgi

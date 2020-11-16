@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1082
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.rce.phpldapadmin
 Published Date:   2005-08-29
 Author:           anonymous
 GoogleDork:       phpLDAPadmin intitle:phpLDAPadmin filetype:php inurl:tree.php | inurl:login.php | inurl:donate.php (0.9.6 | 0.9.7)

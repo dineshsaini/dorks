@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4883
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  6 
+Category:         sensitive_directories
 Published Date:   2018-07-04
 Author:           Bl4kd43m0n
 GoogleDork:       inurl:/wp-includes/certificates/

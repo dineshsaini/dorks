@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4247
-Severity: 5 
-Category:         Error Messages
+Severity:		  5 
+Category:         error_messages.sso
 Published Date:   2016-03-29
 Author:           anonymous
 GoogleDork:       inurl:/siteminderagent/ | app:"Error 404: java.io.FileNotFoundException: SRVE0190E: File not found: /siteminderagent/"

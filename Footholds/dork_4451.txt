@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4451
-Severity: 5 
-Category:         Footholds
+Severity:		  4 
+Category:         footholds.webshell.whmcs
 Published Date:   2017-05-01
 Author:           anonymous
 GoogleDork:       "WHMCS Auto Xploiter"

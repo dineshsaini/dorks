@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/2065
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.cve-2008-6057
 Published Date:   2010-11-15
 Author:           anonymous
 GoogleDork:       "Liberum Help Desk, Copyright (C) 2001 Doug Luxem"

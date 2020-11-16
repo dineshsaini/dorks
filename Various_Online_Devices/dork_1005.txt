@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1005
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  6 
+Category:         various_online_devices.camera
 Published Date:   2005-06-07
 Author:           anonymous
 GoogleDork:       inurl:"S=320x240" | inurl:"S=160x120" inurl:"Q=Mobile"

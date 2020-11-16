@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/56
-Severity: 5 
-Category:         Footholds
+Severity:		  3 
+Category:         footholds
 Published Date:   2003-09-09
 Author:           anonymous
 GoogleDork:       intitle:admin intitle:login

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5175
-Severity: 5 
-Category:         Pages Containing Login Portals
+Severity:		  3
+Category:         pages_containing_login_portals
 Published Date:   2019-04-10
 Author:           botsec0
 GoogleDork:       site:com inurl:b2blogin ext:cfm | jsp | php | aspx

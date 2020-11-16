@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6409
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities
 Published Date:   2020-07-14
 Author:           Ritik Kumar Jain
 GoogleDork:       inurl:/wp-content/plugins/angwp
@@ -11,7 +11,7 @@ Google Dork: inurl:/wp-content/plugins/angwp
  This google dork lists out Advisories and Vulnerabilities regarding Adning
  Advertising plugin.
  Ref: https://wpvulndb.com/vulnerabilities/10293
- Adning Advertising &lt; 1.5.6 - Unauthenticated Arbitrary File Upload/Deletion
+ Adning Advertising < 1.5.6 - Unauthenticated Arbitrary File Upload/Deletion
  Author: Ritik Kumar Jain (Dasagreeva)
  LinkedIn: https://www.linkedin.com/in/ritik-kumar-jain-57675419b/
  Twitter: https://twitter.com/Dasagreeva1

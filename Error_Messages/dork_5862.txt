@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5862
-Severity: 5 
-Category:         Error Messages
+Severity:		  5 
+Category:         error_messages.laravel
 Published Date:   2020-03-31
 Author:           Debashis Pal
 GoogleDork:       inurl:("/storage/logs/laravel.log") AND intext:("local.ERROR" | "NULL.ERROR" | "EMERGENCY:")

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4944
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  6 
+Category:         files_containing_juicy_info
 Published Date:   2018-09-11
 Author:           ManhNho
 GoogleDork:       inurl:/wp-json/wp/v2/users/ "id":1,"name":" -wordpress.stackexchange.com -stackoverflow.com

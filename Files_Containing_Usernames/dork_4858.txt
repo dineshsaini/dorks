@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4858
-Severity: 5 
-Category:         Files Containing Usernames
+Severity:		  6 
+Category:         files_containing_usernames
 Published Date:   2018-06-14
 Author:           ManhNho
 GoogleDork:       "username.xlsx" ext:xlsx

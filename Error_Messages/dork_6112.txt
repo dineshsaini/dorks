@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6112
-Severity: 5 
-Category:         Error Messages
+Severity:		  7 
+Category:         error_messages
 Published Date:   2020-05-21
 Author:           Abhi Chitkara
 GoogleDork:       intitle:"index of" "stacktrace.log"

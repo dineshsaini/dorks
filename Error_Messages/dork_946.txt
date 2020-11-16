@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/946
-Severity: 5 
-Category:         Error Messages
+Severity:		  2 
+Category:         error_messages.plesk
 Published Date:   2005-04-26
 Author:           anonymous
 GoogleDork:       intitle:"Default PLESK Page"

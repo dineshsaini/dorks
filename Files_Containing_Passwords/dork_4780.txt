@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4780
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  6 
+Category:         files_containing_passwords
 Published Date:   2018-04-16
 Author:           Bruno Schmid
 GoogleDork:       ext:ini Robust.ini filetype:ini "password"

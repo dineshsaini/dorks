@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4663
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  5 
+Category:         files_containing_juicy_info
 Published Date:   2018-01-26
 Author:           Rootkit_Pentester
 GoogleDork:       "Email delivery powered by Google" ext:pdf OR ext:txt

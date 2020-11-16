@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3932
-Severity: 5 
-Category:         Vulnerable Servers
+Severity:		  3 
+Category:         vulnerable_servers.oracle
 Published Date:   2014-02-05
 Author:           anonymous
 GoogleDork:       inurl:"/reports/rwservlet" intext:"Oracle"

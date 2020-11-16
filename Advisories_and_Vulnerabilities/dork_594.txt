@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/594
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.sqli.cubecart-2-0-1
 Published Date:   2004-10-19
 Author:           anonymous
 GoogleDork:       "Powered by CubeCart"

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6363
-Severity: 5 
-Category:         Pages Containing Login Portals
+Severity:		  3
+Category:         pages_containing_login_portals
 Published Date:   2020-07-02
 Author:           Dharmveer Singh
 GoogleDork:       site:gov.*.*/ intext:"login" intitle:"login"

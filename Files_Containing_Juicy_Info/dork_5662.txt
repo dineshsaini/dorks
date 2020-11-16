@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5662
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  6 
+Category:         files_containing_juicy_info
 Published Date:   2019-12-02
 Author:           Parth S. Patel
 GoogleDork:       ext:sql intext:@gmail.com intext:e10adc3949ba59abbe56e057f20f883e

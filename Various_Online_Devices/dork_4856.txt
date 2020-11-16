@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4856
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  4 
+Category:         various_online_devices.router
 Published Date:   2018-06-14
 Author:           ManhNho
 GoogleDork:       intext:"default values: admin/1234"

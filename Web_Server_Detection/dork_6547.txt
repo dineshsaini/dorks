@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6547
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  6 
+Category:         web_server_detection
 Published Date:   2020-09-17
 Author:           Alexandros Pappas
 GoogleDork:       allintitle:"Pi-hole Admin Console"

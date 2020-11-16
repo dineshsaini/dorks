@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1469
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities.sqli.snipe-gallery
 Published Date:   2010-11-15
 Author:           anonymous
 GoogleDork:       Snipe Gallery v.3.1.5 by Snipe.Net

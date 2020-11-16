@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1130
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.htmli.mimicboard2
 Published Date:   2005-09-23
 Author:           anonymous
 GoogleDork:       "Mimicboard2 086"+"2000 Nobutaka Makino"+"password"+"message" inurl:page=1

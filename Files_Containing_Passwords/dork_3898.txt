@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3898
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  6 
+Category:         files_containing_passwords.sftp
 Published Date:   2013-11-25
 Author:           anonymous
 GoogleDork:       site:github.com inurl:sftp-config.json

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1064
-Severity: 5 
-Category:         Footholds
+Severity:		  5 
+Category:         footholds.php.myshell
 Published Date:   2005-08-15
 Author:           anonymous
 GoogleDork:       intitle:MyShell 1.1.0 build 20010923

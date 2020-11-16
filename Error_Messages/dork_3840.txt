@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3840
-Severity: 5 
-Category:         Error Messages
+Severity:		  6 
+Category:         error_messages.sqli
 Published Date:   2013-04-09
 Author:           anonymous
 GoogleDork:       inurl:advsearch.php?module= & intext:sql syntax

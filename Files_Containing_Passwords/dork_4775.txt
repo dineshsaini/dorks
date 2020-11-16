@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4775
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  7 
+Category:         files_containing_passwords
 Published Date:   2018-04-16
 Author:           Bruno Schmid
 GoogleDork:       intitle:"index.of" "places.sqlite" "key3.db" -mozilla.org
@@ -23,28 +23,28 @@ This dork finds Mozilla Firefox stored passwords, bookmarks, history and
  
  Other files are:
  
- Bookmarks, Downloads and Browsing History  -&gt;   places.sqlite
+ Bookmarks, Downloads and Browsing History  ->   places.sqlite
  
  
- Site-specific preferences  -&gt;   permissions.sqlite
+ Site-specific preferences  ->   permissions.sqlite
  
  
- Search engines  -&gt;   search.json.mozlz4
+ Search engines  ->   search.json.mozlz4
  
  
- Personal dictionary  -&gt;   persdict.dat
+ Personal dictionary  ->   persdict.dat
  
  
- Autocomplete history  -&gt;   formhistory.sqlite
+ Autocomplete history  ->   formhistory.sqlite
  
  
- Cookies  -&gt;   cookies.sqlite
+ Cookies  ->   cookies.sqlite
  
  
- Security certificate settings  -&gt;    cert8.dbcert9.db
+ Security certificate settings  ->    cert8.dbcert9.db
  
  
- File types and download actions  -&gt;   mimeTypes.rdfhandlers.json
+ File types and download actions  ->   mimeTypes.rdfhandlers.json
  
  
  

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1199
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities
 Published Date:   2005-11-17
 Author:           anonymous
 GoogleDork:       "This website was created with phpWebThings 1.4"

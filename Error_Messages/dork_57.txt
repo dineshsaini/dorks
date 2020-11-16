@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/57
-Severity: 5 
-Category:         Error Messages
+Severity:		  4 
+Category:         error_messages.oracle
 Published Date:   2004-01-09
 Author:           anonymous
 GoogleDork:       ORA-00921: unexpected end of SQL command

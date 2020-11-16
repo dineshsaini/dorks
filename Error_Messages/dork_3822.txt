@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3822
-Severity: 5 
-Category:         Error Messages
+Severity:		  3 
+Category:         error_messages.wordpress
 Published Date:   2012-12-06
 Author:           anonymous
 GoogleDork:       intext:"Fatal error: Class 'Red_Action' not found in"

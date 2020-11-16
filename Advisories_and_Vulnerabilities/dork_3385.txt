@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3385
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.cve-2008-3128
 Published Date:   2010-11-15
 Author:           anonymous
 GoogleDork:       "by Pivot - 1.40.5" +'Dreadwind' -pivotlog.net

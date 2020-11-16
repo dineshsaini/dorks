@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4385
-Severity: 5 
-Category:         Vulnerable Servers
+Severity:		  5 
+Category:         vulnerable_servers
 Published Date:   2017-01-19
 Author:           anonymous
 GoogleDork:       "dirLIST - PHP Directory Lister" "Banned files: php | php3 | php4 | php5 | htaccess | htpasswd | asp | aspx" "index of" ext:php

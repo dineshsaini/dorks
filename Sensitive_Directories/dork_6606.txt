@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6606
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  6 
+Category:         sensitive_directories
 Published Date:   2020-10-13
 Author:           SARATH G
 GoogleDork:       intitle: "Index of" inurl:admin/uploads

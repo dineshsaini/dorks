@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6561
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  6 
+Category:         sensitive_directories
 Published Date:   2020-09-23
 Author:           Muralikrishna Janga
 GoogleDork:       GitLab ssh.log ext:log

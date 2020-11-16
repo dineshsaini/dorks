@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4643
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.xss.wordpress.mgl-instagram-gallery
 Published Date:   2018-01-01
 Author:           Drok3r
 GoogleDork:       inurl:"mgl-instagram-gallery/single-gallery.php?media"

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6398
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities.wordpress.wise-chat
 Published Date:   2020-07-14
 Author:           Tanmay Bhattacharjee
 GoogleDork:       inurl:wp-content/plugins/wise-chat

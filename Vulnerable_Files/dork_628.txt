@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/628
-Severity: 5 
-Category:         Vulnerable Files
+Severity:		  3 
+Category:         vulnerable_files
 Published Date:   2004-10-27
 Author:           anonymous
 GoogleDork:       "File Upload Manager v1.3" "rename to"

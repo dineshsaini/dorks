@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5896
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  4 
+Category:         files_containing_juicy_info
 Published Date:   2020-04-16
 Author:           Alexandros Pappas
 GoogleDork:       intext:"Current Configuration:" ext:cfg -git

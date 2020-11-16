@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/980
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  5 
+Category:         various_online_devices
 Published Date:   2005-05-14
 Author:           anonymous
 GoogleDork:       intitle:"--- VIDEO WEB SERVER ---" intext:"Video Web Server" "Any time & Any where" username password

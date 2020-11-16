@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/408
-Severity: 5 
-Category:         Pages Containing Login Portals
+Severity:		  3
+Category:         pages_containing_login_portals
 Published Date:   2004-08-05
 Author:           anonymous
 GoogleDork:       (inurl:"ars/cgi-bin/arweb?O=0" | inurl:arweb.jsp) -site:remedy.com -site:mil

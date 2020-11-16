@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/17
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  6 
+Category:         files_containing_passwords.pgp
 Published Date:   2003-06-24
 Author:           anonymous
 GoogleDork:       intitle:index.of intext:"secring.skr"|"secring.pgp"|"secring.bak"

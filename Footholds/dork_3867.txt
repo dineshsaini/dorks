@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3867
-Severity: 5 
-Category:         Footholds
+Severity:		  5 
+Category:         footholds.cpanel.1337w0rm
 Published Date:   2013-08-08
 Author:           anonymous
 GoogleDork:       inurl:1337w0rm.php intitle:1337w0rm

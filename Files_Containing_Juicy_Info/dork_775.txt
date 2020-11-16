@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/775
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  6 
+Category:         files_containing_juicy_info
 Published Date:   2004-12-19
 Author:           anonymous
 GoogleDork:       ext:conf inurl:rsyncd.conf -cvs -man

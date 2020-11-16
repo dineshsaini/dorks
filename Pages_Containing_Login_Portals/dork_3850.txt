@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3850
-Severity: 5 
-Category:         Pages Containing Login Portals
+Severity:		  3
+Category:         pages_containing_login_portals
 Published Date:   2013-04-22
 Author:           anonymous
 GoogleDork:       Serv-U (c) Copyright 1995-2013 Rhino Software, Inc. All Rights.Reserved.

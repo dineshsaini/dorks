@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1135
-Severity: 5 
-Category:         Error Messages
+Severity:		  4 
+Category:         error_messages
 Published Date:   2005-09-25
 Author:           anonymous
 GoogleDork:       "Warning:" "SAFE MODE Restriction in effect." "The script whose uid is" "is not allowed to access owned by uid 0 in" "on line"

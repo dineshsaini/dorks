@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/825
-Severity: 5 
-Category:         Pages Containing Login Portals
+Severity:		  3
+Category:         pages_containing_login_portals
 Published Date:   2005-01-13
 Author:           anonymous
 GoogleDork:       PhotoPost PHP Upload

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1433
-Severity: 5 
-Category:         Error Messages
+Severity:		  4 
+Category:         error_messages.wordpress
 Published Date:   2010-11-11
 Author:           DigiP
 GoogleDork:       allintext:"fs-admin.php"

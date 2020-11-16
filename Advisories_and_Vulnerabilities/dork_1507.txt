@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1507
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.cve-2008-6388
 Published Date:   2010-11-15
 Author:           anonymous
 GoogleDork:       intext:Â©2003-2008 RC v3.1 Developed by: GA Soft

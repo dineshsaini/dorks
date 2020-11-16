@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1290
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  4 
+Category:         various_online_devices.dvr
 Published Date:   2006-03-21
 Author:           anonymous
 GoogleDork:       intitle:"DVR Client" -the -free -pdf -downloads -blog -download -dvrtop

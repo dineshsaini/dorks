@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3071
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.cve-2008-3564
 Published Date:   2010-11-15
 Author:           anonymous
 GoogleDork:       Powered by Dayfox Designs This is a port of WordPress

@@ -1,9 +1,9 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1125
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities.sqli.web-news
 Published Date:   2005-09-23
 Author:           anonymous
-GoogleDork:       http://www.google.com/search?q=intitle:%22WEB//NEWS+Personal+Newsmanagement%22+intext:%22%C2%A9+2002-2004+by+Christian+Scheb+-+Stylemotion.de%22%2B%22
+GoogleDork:       intitle:"WEB//NEWS Personal Newsmanagement" intext:"© 2002-2004 by Christian Scheb - Stylemotion.de"+"
 Description:      http://www.google.com/search?q=intitle:%22WEB//NEWS+Personal+Newsmanagement%22+intext:%22%C2%A9+2002-2004+by+Christian+Scheb+-+Stylemotion.de%22%2B%22
 
 

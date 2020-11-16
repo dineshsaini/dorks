@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4632
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  3 
+Category:         files_containing_juicy_info
 Published Date:   2017-12-07
 Author:           Dxtroyer
 GoogleDork:       "OTL Extras logfile created on:" ext:txt

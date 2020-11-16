@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/539
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  5 
+Category:         various_online_devices.cisco
 Published Date:   2004-10-09
 Author:           anonymous
 GoogleDork:       intitle:"switch home page" "cisco systems" "Telnet - to"

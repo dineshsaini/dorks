@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1025
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.htmli.calendar
 Published Date:   2005-06-24
 Author:           anonymous
 GoogleDork:       intext:"Calendar Program Ãƒâ€šÃ‚Â© Copyright 1999 Matt Kruse" "Add an event"

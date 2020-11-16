@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5716
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  6 
+Category:         sensitive_directories
 Published Date:   2020-01-28
 Author:           Pankaj Kumar Thakur
 GoogleDork:       intitle:"index of" "ftp.log"

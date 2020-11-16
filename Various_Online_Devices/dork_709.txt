@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/709
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  4 
+Category:         various_online_devices.firewall.smoothwall
 Published Date:   2004-11-24
 Author:           anonymous
 GoogleDork:       intitle:"Smoothwall Express" inurl:cgi-bin "up * days"

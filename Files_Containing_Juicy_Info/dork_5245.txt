@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5245
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  4 
+Category:         files_containing_juicy_info
 Published Date:   2019-06-04
 Author:           Dec0y
 GoogleDork:       s3 site:amazonaws.com filetype:sql

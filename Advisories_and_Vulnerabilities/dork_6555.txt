@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6555
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.cve-2018-14418
 Published Date:   2020-09-21
 Author:           Alexandros Pappas
 GoogleDork:       inurl:"images/lists?cid=13"

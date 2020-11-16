@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6621
-Severity: 5 
-Category:         Files Containing Usernames
+Severity:		  7 
+Category:         files_containing_usernames
 Published Date:   2020-10-19
 Author:           Alexandros Pappas
 GoogleDork:       intitle:"index of" "/parameters.yml*"

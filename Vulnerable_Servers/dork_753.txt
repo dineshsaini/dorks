@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/753
-Severity: 5 
-Category:         Vulnerable Servers
+Severity:		  4 
+Category:         vulnerable_servers
 Published Date:   2004-12-04
 Author:           anonymous
 GoogleDork:       intitle:"Mail Server CMailServer Webmail" "5.2"

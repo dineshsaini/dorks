@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1080
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  4 
+Category:         various_online_devices.camera
 Published Date:   2005-09-06
 Author:           anonymous
 GoogleDork:       intitle:"NetCam Live Image" -.edu -.gov -johnny.ihackstuff.com

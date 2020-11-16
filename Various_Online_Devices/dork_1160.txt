@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1160
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  5 
+Category:         various_online_devices.camera.iqeye
 Published Date:   2005-10-03
 Author:           anonymous
 GoogleDork:       intitle:"IQeye302 | IQeye303 | IQeye601 | IQeye602 | IQeye603" intitle:"Live Images"

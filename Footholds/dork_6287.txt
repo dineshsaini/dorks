@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6287
-Severity: 5 
-Category:         Footholds
+Severity:		  3 
+Category:         footholds
 Published Date:   2020-06-16
 Author:           Rishabh Chaplot
 GoogleDork:       inurl:/download_file/ intext:"index of /"

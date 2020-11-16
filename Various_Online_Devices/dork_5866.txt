@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5866
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  7 
+Category:         various_online_devices.printer
 Published Date:   2020-03-31
 Author:           Debashis Pal
 GoogleDork:       intitle:"Printer Status" AND inurl:"/PrinterStatus.html"

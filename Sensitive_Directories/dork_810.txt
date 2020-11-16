@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/810
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  3 
+Category:         sensitive_directories
 Published Date:   2005-01-07
 Author:           anonymous
 GoogleDork:       "Web File Browser" "Use regular expression"

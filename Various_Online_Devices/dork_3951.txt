@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3951
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  4 
+Category:         various_online_devices.hadoop
 Published Date:   2014-05-19
 Author:           anonymous
 GoogleDork:       inurl:dfshealth.jsp

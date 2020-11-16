@@ -1,12 +1,11 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5947
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  5 
+Category:         various_online_devices
 Published Date:   2020-04-27
 Author:           Nicholas Doropoulos
 GoogleDork:       intitle:"Kyocera Command Center" inurl:index.htm
 Description:      intitle:"Kyocera Command Center" inurl:index.htm
 
 
-Severity: 5 
 Category: Various Online Devices
  Nicholas Doropoulos

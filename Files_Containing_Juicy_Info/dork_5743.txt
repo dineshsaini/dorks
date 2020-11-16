@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5743
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  6 
+Category:         files_containing_juicy_info
 Published Date:   2020-02-20
 Author:           Magrabur Alam Sofily
 GoogleDork:       intitle:"index of" "smtp.log"

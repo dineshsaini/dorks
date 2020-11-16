@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5941
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  7 
+Category:         web_server_detection
 Published Date:   2020-04-22
 Author:           Alexandros Pappas
 GoogleDork:       intitle:"index of" "debug.log" OR "debug-log"

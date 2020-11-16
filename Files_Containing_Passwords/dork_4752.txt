@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4752
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  5 
+Category:         files_containing_passwords.microsoft-visual
 Published Date:   2018-04-09
 Author:           vocuzi
 GoogleDork:       intitle:"Index Of" intext:".vscode"

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3866
-Severity: 5 
-Category:         Pages Containing Login Portals
+Severity:		  3
+Category:         pages_containing_login_portals
 Published Date:   2013-08-08
 Author:           anonymous
 GoogleDork:       intitle:"Internet Security Appliance" & intext:"Enter Password and click Login"

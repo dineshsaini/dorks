@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5495
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  3 
+Category:         files_containing_juicy_info
 Published Date:   2019-09-03
 Author:           Abhishek Samaddar
 GoogleDork:       inurl: /config.txt ext:txt intext:

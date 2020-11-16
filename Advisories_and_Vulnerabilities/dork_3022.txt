@@ -1,10 +1,10 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3022
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.cve-2009-4822
 Published Date:   2010-11-15
 Author:           anonymous
 GoogleDork:       Copyright ©2007-2009 by Kasseler CMS. All rights reserved.
 Description:      Copyright ©2007-2009 by Kasseler CMS. All rights reserved.
 
 
-Kasseler CMS 2.0.5 =&gt; By Pass / Download Backup Vulnerability - CVE: 2009-4822: https://www.exploit-db.com/exploits/12402
+Kasseler CMS 2.0.5 => By Pass / Download Backup Vulnerability - CVE: 2009-4822: https://www.exploit-db.com/exploits/12402

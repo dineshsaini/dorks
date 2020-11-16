@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/934
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities.sqli
 Published Date:   2005-04-04
 Author:           anonymous
 GoogleDork:       intext:"Powered by phpBB 2.0.13" inurl:"cal_view_month.php"|inurl:"downloads.php"

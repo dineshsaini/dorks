@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/197
-Severity: 5 
-Category:         Files Containing Usernames
+Severity:		  4 
+Category:         files_containing_usernames
 Published Date:   2004-05-03
 Author:           anonymous
 GoogleDork:       +intext:"webalizer" +intext:"Total Usernames" +intext:"Usage Statistics for"

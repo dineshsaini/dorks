@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3684
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities
 Published Date:   2011-02-06
 Author:           anonymous
 GoogleDork:       "Powered By Dew-NewPHPLinks v.2.1b"

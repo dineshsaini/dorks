@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5084
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  4 
+Category:         sensitive_directories
 Published Date:   2019-01-25
 Author:           FlyingFrog
 GoogleDork:       intitle:"index of /" ssh
@@ -22,7 +22,7 @@ AUTHOR: FlyingFrog
      - SSH Logins
      - SSH .exe files
  
- I found a lot of servers using &lt; SSH 1.4.*
+ I found a lot of servers using < SSH 1.4.*
  These are usually +5 years old and full of security holes
  A search in Exploit DB for SSH 1. turns up +40.000 exploits for these
  some may work.

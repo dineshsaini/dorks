@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1230
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  3 
+Category:         various_online_devices.camera.linksys
 Published Date:   2005-12-31
 Author:           anonymous
 GoogleDork:       inurl:/img/vr.htm

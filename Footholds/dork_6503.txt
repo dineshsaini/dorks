@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6503
-Severity: 5 
-Category:         Footholds
+Severity:		  3 
+Category:         footholds.kibana
 Published Date:   2020-08-31
 Author:           Adithya Chandra
 GoogleDork:       inurl::/app/kibana "Kibana" -discuss -ipaddress -git

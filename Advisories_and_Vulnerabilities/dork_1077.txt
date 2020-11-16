@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1077
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities.upload
 Published Date:   2005-08-30
 Author:           anonymous
 GoogleDork:       "Powered by FUDForum 2.6" -site:fudforum.org -johnny.ihackstuff

@@ -1,13 +1,12 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4992
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.cve-2014-4241
 Published Date:   2018-10-17
 Author:           Zulfikar Azhari
 GoogleDork:       inurl="/uddiexplorer/SetupUDDIExplorer.jsp"
 Description:      inurl="/uddiexplorer/SetupUDDIExplorer.jsp"
 
 
-Severity: 5 
 Category: Page containing log in portal & Web Server Detection
  
  Description: This dork allows user to access default page of Oracle Weblogic Server - UDDI Explorer. Some of scanner tools would detect SSRF vulnerability for weblogic uddi explorer. Moreover, there is a flaw regarding the weblogic server version which vulnerables to XSS.

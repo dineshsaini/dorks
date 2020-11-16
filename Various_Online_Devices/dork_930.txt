@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/930
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  2 
+Category:         various_online_devices.printer
 Published Date:   2005-04-16
 Author:           anonymous
 GoogleDork:       "display printer status" intitle:"Home"

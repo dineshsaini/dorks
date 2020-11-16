@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1335
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  5 
+Category:         various_online_devices.camera.mobotix
 Published Date:   2006-04-19
 Author:           anonymous
 GoogleDork:       (intitle:MOBOTIX intitle:PDAS) | (intitle:MOBOTIX intitle:Seiten) | (inurl:/pda/index.html +camera)

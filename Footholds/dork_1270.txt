@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1270
-Severity: 5 
-Category:         Footholds
+Severity:		  7 
+Category:         footholds
 Published Date:   2006-03-06
 Author:           anonymous
 GoogleDork:       "index of /" ( upload.cfm | upload.asp | upload.php | upload.cgi | upload.jsp | upload.pl )

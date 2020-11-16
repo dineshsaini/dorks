@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3903
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  4 
+Category:         files_containing_juicy_info
 Published Date:   2013-11-25
 Author:           anonymous
 GoogleDork:       filetype:php intext:"PROJECT HONEY POT ADDRESS DISTRIBUTION SCRIPT"

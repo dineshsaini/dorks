@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5081
-Severity: 5 
-Category:         Footholds
+Severity:		  7 
+Category:         footholds.fckeditor
 Published Date:   2019-01-18
 Author:           Burov Konstantin
 GoogleDork:       intitle:"FCKeditor - Connectors Tests"

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6280
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.cve-2019-12748
 Published Date:   2020-06-15
 Author:           Abhinav Porwal
 GoogleDork:       "powered by Typo3"

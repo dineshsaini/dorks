@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3845
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  3 
+Category:         files_containing_juicy_info
 Published Date:   2013-04-22
 Author:           anonymous
 GoogleDork:       filetype:php -site:php.net intitle:phpinfo "published by the PHP Group"

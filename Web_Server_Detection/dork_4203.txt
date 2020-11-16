@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4203
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  3 
+Category:         web_server_detection
 Published Date:   2016-02-17
 Author:           anonymous
 GoogleDork:       intext:Apache/2.2.29 (Unix) mod_ssl/2.2.29 | intitle:"Index of /"

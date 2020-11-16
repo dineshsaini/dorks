@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4309
-Severity: 5 
-Category:         Sensitive Online Shopping Info
+Severity:         5 
+Category:         sensitive_online_shopping_info
 Published Date:   2016-07-07
 Author:           anonymous
 GoogleDork:       intext:"Dumping data for table `orders`"

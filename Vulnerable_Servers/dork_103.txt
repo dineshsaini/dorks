@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/103
-Severity: 5 
-Category:         Vulnerable Servers
+Severity:		  4 
+Category:         vulnerable_servers
 Published Date:   2004-03-04
 Author:           anonymous
 GoogleDork:       intitle:osCommerce inurl:admin intext:"redistributable under the GNU"intext:"Online Catalog" -demo -site:oscommerce.com

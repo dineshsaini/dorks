@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1422
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  3 
+Category:         files_containing_juicy_info
 Published Date:   2006-10-02
 Author:           anonymous
 GoogleDork:       intitle:"AppServ Open Project *" "AppServ is a merging open source software installer package" -phpbb

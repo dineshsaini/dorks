@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5867
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  6 
+Category:         sensitive_directories
 Published Date:   2020-03-31
 Author:           Alexandros Pappas
 GoogleDork:       intitle:"index of" cvsroot

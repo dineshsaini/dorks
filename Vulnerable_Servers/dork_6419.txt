@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6419
-Severity: 5 
-Category:         Vulnerable Servers
+Severity:		  5 
+Category:         vulnerable_servers
 Published Date:   2020-07-17
 Author:           Alexandros Pappas
 GoogleDork:       intitle:"Wing FTP Server - Web"

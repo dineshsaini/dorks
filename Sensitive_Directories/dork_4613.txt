@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4613
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  5 
+Category:         sensitive_directories
 Published Date:   2017-11-15
 Author:           Fu2x2000
 GoogleDork:       intext:/wp-content/plugins/woocommerce/templates/emails/plain/

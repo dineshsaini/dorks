@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/642
-Severity: 5 
-Category:         Vulnerable Servers
+Severity:		  3 
+Category:         vulnerable_servers
 Published Date:   2004-11-05
 Author:           anonymous
 GoogleDork:       natterchat inurl:home.asp -site:natterchat.co.uk

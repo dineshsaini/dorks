@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5168
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  4 
+Category:         sensitive_directories
 Published Date:   2019-04-03
 Author:           Jayson Zabate
 GoogleDork:       intitle:"Directory Listing For" "Filename" intext:Tomcat/5.0.28

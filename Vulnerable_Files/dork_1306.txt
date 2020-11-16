@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1306
-Severity: 5 
-Category:         Vulnerable Files
+Severity:		  3 
+Category:         vulnerable_files
 Published Date:   2006-02-28
 Author:           anonymous
 GoogleDork:       inurl:updown.php | intext:"Powered by PHP Uploader Downloader"

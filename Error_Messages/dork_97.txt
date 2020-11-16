@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/97
-Severity: 5 
-Category:         Error Messages
+Severity:		  4 
+Category:         error_messages.postgres
 Published Date:   2004-08-25
 Author:           anonymous
 GoogleDork:       "Warning: pg_connect(): Unable to connect to PostgreSQL server: FATAL"

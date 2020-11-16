@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3742
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  6 
+Category:         files_containing_passwords
 Published Date:   2011-09-26
 Author:           anonymous
 GoogleDork:       inurl:ftp "password" filetype:xls

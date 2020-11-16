@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3807
-Severity: 5 
-Category:         Footholds
+Severity:		  4 
+Category:         footholds
 Published Date:   2012-11-02
 Author:           anonymous
 GoogleDork:       intitle:Priv8 SCR

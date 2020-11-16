@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/667
-Severity: 5 
-Category:         Error Messages
+Severity:		  3 
+Category:         error_messages.softcart
 Published Date:   2004-11-13
 Author:           anonymous
 GoogleDork:       intitle:Configuration.File inurl:softcart.exe

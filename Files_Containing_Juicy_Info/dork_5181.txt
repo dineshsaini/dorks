@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5181
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  6 
+Category:         files_containing_juicy_info
 Published Date:   2019-04-12
 Author:           Miguel Santareno
 GoogleDork:       ext:txt | ext:sql | ext:cnf | ext:config | ext:log & intext:"admin" | intext:"root" | intext:"administrator" & intext:"password" | intext:"root" | intext:"admin" | intext:"administrator"

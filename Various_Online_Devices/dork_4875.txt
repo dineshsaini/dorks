@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4875
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  3 
+Category:         various_online_devices.ultradns
 Published Date:   2018-06-26
 Author:           ManhNho
 GoogleDork:       intitle:"UltraDNS Client Redirection Service"

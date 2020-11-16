@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4105
-Severity: 5 
-Category:         Pages Containing Login Portals
+Severity:		  3
+Category:         pages_containing_login_portals
 Published Date:   2015-10-26
 Author:           anonymous
 GoogleDork:       inurl:webgps intitle:"GPS Monitoring System"

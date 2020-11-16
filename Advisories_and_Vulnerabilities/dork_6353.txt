@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6353
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities.wordpress
 Published Date:   2020-06-30
 Author:           Ritik Kumar Jain
 GoogleDork:       inurl:wp-content/themes/traveler
@@ -11,7 +11,7 @@ Google Dork: inurl:wp-content/themes/traveler
  This google dork lists out Advisories and Vulnerabilities regarding the
  Travel Booking themes.
  Ref:https://wpvulndb.com/vulnerabilities/10276
- *Travel Booking &lt; 2.8.2 - Unauthenticated Reflected XSS*
+ *Travel Booking < 2.8.2 - Unauthenticated Reflected XSS*
  Author: Ritik Kumar Jain (Dasagreeva)
  LinkedIn: https://www.linkedin.com/in/ritik-kumar-jain-57675419b/
  

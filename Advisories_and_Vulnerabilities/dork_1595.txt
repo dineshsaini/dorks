@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1595
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.cve-2010-0698
 Published Date:   2010-11-15
 Author:           anonymous
 GoogleDork:       Realizzato con WSC CMS by Dynamicsoft

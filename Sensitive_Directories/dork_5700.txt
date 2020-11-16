@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5700
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  4 
+Category:         sensitive_directories
 Published Date:   2020-01-23
 Author:           Bruno Schmid
 GoogleDork:       "key" OR key.jar intitle:"index of" webstart

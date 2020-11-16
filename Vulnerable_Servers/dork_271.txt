@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/271
-Severity: 5 
-Category:         Vulnerable Servers
+Severity:		  4 
+Category:         vulnerable_servers
 Published Date:   2004-06-04
 Author:           anonymous
 GoogleDork:       "Welcome to the Prestige Web-Based Configurator"

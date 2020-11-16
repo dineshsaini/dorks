@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5908
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  4 
+Category:         sensitive_directories
 Published Date:   2020-04-16
 Author:           Kartik Adak
 GoogleDork:       intitle: "index of" "MySQL-Router"

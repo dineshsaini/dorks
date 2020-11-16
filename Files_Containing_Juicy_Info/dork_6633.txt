@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6633
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  5 
+Category:         files_containing_juicy_info
 Published Date:   2020-10-21
 Author:           Sibi Mathew George
 GoogleDork:       "index of" "/home/000~ROOT~000/etc"

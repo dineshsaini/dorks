@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3643
-Severity: 5 
-Category:         Vulnerable Servers
+Severity:		  4 
+Category:         vulnerable_servers.vbulletin
 Published Date:   2010-12-10
 Author:           anonymous
 GoogleDork:       inurl:/vb/install/upgrade.php

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5131
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  5 
+Category:         various_online_devices.cisco
 Published Date:   2019-02-20
 Author:           Kevin Randall
 GoogleDork:       allinurl:asdm.jnlp

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3894
-Severity: 5 
-Category:         Various Online Devices
+Severity:		   
+Category:         various_online_devices
 Published Date:   2013-09-24
 Author:           anonymous
 GoogleDork:       inurl:*/graphs* intitle:"Traffic and system resource graphing"

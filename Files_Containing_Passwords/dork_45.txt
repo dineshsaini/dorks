@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/45
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  4 
+Category:         files_containing_passwords
 Published Date:   2003-06-30
 Author:           anonymous
 GoogleDork:       filetype:xls username password email

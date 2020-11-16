@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1279
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  4 
+Category:         various_online_devices
 Published Date:   2006-03-18
 Author:           anonymous
 GoogleDork:       intitle:"AR-*" "browser of frame dealing is necessary"

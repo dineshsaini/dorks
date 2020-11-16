@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4431
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  5 
+Category:         files_containing_juicy_info
 Published Date:   2017-04-12
 Author:           anonymous
 GoogleDork:       inurl:"/fb_ca_chain_bundle.crt" ext:crt

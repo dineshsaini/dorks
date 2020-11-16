@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6430
-Severity: 5 
-Category:         Footholds
+Severity:		  4 
+Category:         footholds.java.jmx
 Published Date:   2020-07-21
 Author:           Tanmay Bhattacharjee
 GoogleDork:       intitle:"index.of" +jmx-console

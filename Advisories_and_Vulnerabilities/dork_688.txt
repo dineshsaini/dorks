@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/688
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities
 Published Date:   2004-11-18
 Author:           anonymous
 GoogleDork:       intext:("UBB.threadsÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ 6.2"|"UBB.threadsÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ 6.3") intext:"You * not logged *" -site:ubbcentral.com

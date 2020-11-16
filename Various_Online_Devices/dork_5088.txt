@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5088
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  6 
+Category:         various_online_devices.screenly-ose
 Published Date:   2019-02-05
 Author:           Brain Reflow
 GoogleDork:       intitle:"Screenly OSE" intext:"Schedule Overview" AND "Active Assets" AND "Inactive Assets"

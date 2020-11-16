@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5752
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  5 
+Category:         sensitive_directories
 Published Date:   2020-02-24
 Author:           Sagar Banwa
 GoogleDork:       inurl:concrete/config/

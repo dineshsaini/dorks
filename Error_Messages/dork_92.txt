@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/92
-Severity: 5 
-Category:         Error Messages
+Severity:		  3 
+Category:         error_messages.db2
 Published Date:   2004-03-04
 Author:           anonymous
 GoogleDork:       "detected an internal error [IBM][CLI Driver][DB2/6000]"

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5783
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  4 
+Category:         various_online_devices
 Published Date:   2020-03-11
 Author:           Riku Dola
 GoogleDork:       "VB Viewer" inurl:/viewer/live/ja/live.html

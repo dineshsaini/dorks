@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5033
-Severity: 5 
-Category:         Error Messages
+Severity:		  2 
+Category:         error_messages
 Published Date:   2018-11-21
 Author:           CrimsonTorso
 GoogleDork:       "syd_apply.cfm"

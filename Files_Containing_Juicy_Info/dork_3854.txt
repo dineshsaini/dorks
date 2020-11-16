@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3854
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  3 
+Category:         files_containing_juicy_info
 Published Date:   2013-08-08
 Author:           anonymous
 GoogleDork:       inurl:"zendesk.com/attachments/token" site:zendesk.com

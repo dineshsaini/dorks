@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3693
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.softman
 Published Date:   2011-03-07
 Author:           anonymous
 GoogleDork:       "Powered by SOFTMAN"

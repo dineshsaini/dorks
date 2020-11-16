@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/710
-Severity: 5 
-Category:         Footholds
+Severity:		  4 
+Category:         footholds.php.filemanager
 Published Date:   2004-11-28
 Author:           anonymous
 GoogleDork:       filetype:php HAXPLORER "Server Files Browser"

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1129
-Severity: 5 
-Category:         Pages Containing Login Portals
+Severity:		  3
+Category:         pages_containing_login_portals
 Published Date:   2005-09-23
 Author:           anonymous
 GoogleDork:       intitle:"Login Forum Powered By AnyBoard" intitle:"If you are a new user:" intext:"Forum Powered By AnyBoard" inurl:gochat -edu

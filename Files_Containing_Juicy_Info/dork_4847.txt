@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4847
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  4 
+Category:         files_containing_juicy_info
 Published Date:   2018-06-06
 Author:           Amal Jossy
 GoogleDork:       filetype:env intext:mail_host + intext:bluehost

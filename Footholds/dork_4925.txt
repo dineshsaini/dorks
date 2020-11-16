@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4925
-Severity: 5 
-Category:         Footholds
+Severity:		  6 
+Category:         footholds.webshell.misterspy
 Published Date:   2018-08-17
 Author:           Gionathan Reale
 GoogleDork:       inurl: "Mister Spy" | intext:"Mister Spy & Souheyl Bypass Shell"

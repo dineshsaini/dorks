@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/67
-Severity: 5 
-Category:         Error Messages
+Severity:		  2 
+Category:         error_messages.windows2000
 Published Date:   2004-03-04
 Author:           anonymous
 GoogleDork:       Windows 2000 web server error messages

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4486
-Severity: 5 
-Category:         Footholds
+Severity:		  7 
+Category:         footholds.ransomware.wannacry
 Published Date:   2017-05-15
 Author:           anonymous
 GoogleDork:       intitle:index of intext:wncry

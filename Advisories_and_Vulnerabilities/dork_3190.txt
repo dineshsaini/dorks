@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3190
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.cve-2008-4357
 Published Date:   2010-11-15
 Author:           anonymous
 GoogleDork:       intext:"pLink 2.07"

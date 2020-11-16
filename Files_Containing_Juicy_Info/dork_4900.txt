@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4900
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  4 
+Category:         files_containing_juicy_info
 Published Date:   2018-08-03
 Author:           ManhNho
 GoogleDork:       inurl:"/p3p.xml" | intitle: "p3p.xml" -github.com

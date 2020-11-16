@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1056
-Severity: 5 
-Category:         Vulnerable Files
+Severity:		  3 
+Category:         vulnerable_files
 Published Date:   2005-08-07
 Author:           anonymous
 GoogleDork:       "Powered by FlexPHPNews" inurl:news | inurl:press

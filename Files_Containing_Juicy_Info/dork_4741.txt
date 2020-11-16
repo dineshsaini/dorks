@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4741
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  5 
+Category:         files_containing_juicy_info
 Published Date:   2018-04-03
 Author:           Pancaker
 GoogleDork:       Deluge - Web UI (BitTorrent Client - Download/Upload/Seed/Control/File Explorer) v1+v2
@@ -47,7 +47,7 @@ GoogleDork v1 ~ `intitle:"Deluge: Web UI 1.3" `
  --noprompt \
  'intitle:"Deluge: Web UI 1.3" -exploit -vulnerability' \
  | awk -F'"' '/"url"/ {print $4}' \
- &gt; /tmp/results.txt
+ > /tmp/results.txt
  
  for x in $( cat /tmp/results.txt ); do
  curl \

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/743
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities
 Published Date:   2004-12-01
 Author:           anonymous
 GoogleDork:       +"Powered by phpBB 2.0.6..10" -phpbb.com -phpbb.pl

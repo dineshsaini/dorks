@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6625
-Severity: 5 
-Category:         Files Containing Usernames
+Severity:		  7 
+Category:         files_containing_usernames.sql
 Published Date:   2020-10-20
 Author:           Alexandros Pappas
 GoogleDork:       jdbc:mysql://localhost:3306/ + username + password ext:yml | ext:java -git -gitlab

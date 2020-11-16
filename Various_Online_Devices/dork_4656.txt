@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4656
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  3 
+Category:         various_online_devices.monitor
 Published Date:   2018-01-11
 Author:           ak1t4
 GoogleDork:       intitle:Armstrong Hot Water System Monitoring

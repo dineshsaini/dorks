@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6649
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  6 
+Category:         sensitive_directories
 Published Date:   2020-11-04
 Author:           Alexandros Pappas
 GoogleDork:       "-- Dumping data for table `admin`" | "-- INSERT INTO `admin`" "VALUES" ext:sql | ext:txt | ext:log | ext:env

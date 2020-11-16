@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4680
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  5 
+Category:         files_containing_juicy_info
 Published Date:   2018-02-22
 Author:           Nishaanth Guna
 GoogleDork:       allinurl:awstats.pl?config=

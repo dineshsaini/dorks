@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/632
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  3 
+Category:         files_containing_juicy_info
 Published Date:   2004-10-31
 Author:           anonymous
 GoogleDork:       intitle:"AppServ Open Project" -site:www.appservnetwork.com

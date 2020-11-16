@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3808
-Severity: 5 
-Category:         Footholds
+Severity:		  1 
+Category:         footholds
 Published Date:   2012-11-02
 Author:           anonymous
 GoogleDork:       intitle:C0ded By web.sniper

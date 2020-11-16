@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1641
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.cve-2007-4439
 Published Date:   2010-11-15
 Author:           anonymous
 GoogleDork:       inurl:"/squirrelcart/" -squirrelcart.com

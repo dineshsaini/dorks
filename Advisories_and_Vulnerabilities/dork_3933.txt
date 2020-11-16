@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3933
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities
 Published Date:   2014-02-05
 Author:           anonymous
 GoogleDork:       intitle:"pChart 2.x - examples" intext:"2.1.3"

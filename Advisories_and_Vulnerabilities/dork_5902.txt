@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5902
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  4
+Category:         advisories_and_vulnerabilities
 Published Date:   2020-04-16
 Author:           Alexandros Pappas
 GoogleDork:       intext:"Powered by YouPHPTube"

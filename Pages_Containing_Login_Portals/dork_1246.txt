@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1246
-Severity: 5 
-Category:         Pages Containing Login Portals
+Severity:		  3
+Category:         pages_containing_login_portals
 Published Date:   2006-01-14
 Author:           anonymous
 GoogleDork:       "intitle:3300 Integrated Communications Platform" inurl:main.htm

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4748
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  6 
+Category:         files_containing_passwords.keepass
 Published Date:   2018-04-06
 Author:           _palonE
 GoogleDork:       intitle:"index of /" inanchor:.kdbx

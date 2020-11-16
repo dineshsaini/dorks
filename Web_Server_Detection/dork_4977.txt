@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4977
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  3 
+Category:         web_server_detection
 Published Date:   2018-10-16
 Author:           Bruno Schmid
 GoogleDork:       Coldbox | contentbox | commandbox "Powered by ContentBox"

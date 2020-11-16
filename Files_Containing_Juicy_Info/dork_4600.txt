@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4600
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  4 
+Category:         files_containing_juicy_info
 Published Date:   2017-10-23
 Author:           anonymous
 GoogleDork:       inurl:"wp-security-audit-log" ext:log

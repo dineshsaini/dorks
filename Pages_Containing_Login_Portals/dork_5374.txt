@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5374
-Severity: 5 
-Category:         Pages Containing Login Portals
+Severity:		  5
+Category:         pages_containing_login_portals
 Published Date:   2019-08-19
 Author:           Reza Abasi
 GoogleDork:       site:/*:81 -site:/*:8080 intitle:"::: Login :::"

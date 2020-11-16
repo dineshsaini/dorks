@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4409
-Severity: 5 
-Category:         Footholds
+Severity:		  6 
+Category:         footholds.wordpress.webshell
 Published Date:   2017-03-27
 Author:           anonymous
 GoogleDork:       ( ext:php ) ( inurl:/wp-content/uploads/AAPL/loaders/ )

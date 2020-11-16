@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4757
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  5 
+Category:         files_containing_passwords
 Published Date:   2018-04-12
 Author:           Bruno Schmid
 GoogleDork:       inurl:"config.xml" "password" ext:xml -stackoverflow.com -github.com

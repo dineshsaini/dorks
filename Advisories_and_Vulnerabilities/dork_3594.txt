@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3594
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.cve-2007-0502
 Published Date:   2010-11-15
 Author:           anonymous
 GoogleDork:       "this site is using the webspell script (version: 4.01.02)"

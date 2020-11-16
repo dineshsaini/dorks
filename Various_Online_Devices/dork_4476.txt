@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4476
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  4 
+Category:         various_online_devices.printer
 Published Date:   2017-05-10
 Author:           anonymous
 GoogleDork:       inurl:"this.LCDispatcher?nav="

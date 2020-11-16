@@ -1,10 +1,10 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3650
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.xss.pageadmin
 Published Date:   2010-12-15
 Author:           anonymous
 GoogleDork:       "Powered By PageAdmin CMS Free Version"
 Description:      "Powered By PageAdmin CMS Free Version"
 
 
-Author: Sun Army XSS: /include/search.aspx?keycode="&gt;xss ByTakpar&type=1&language=en
+Author: Sun Army XSS: /include/search.aspx?keycode=">xss ByTakpar&type=1&language=en

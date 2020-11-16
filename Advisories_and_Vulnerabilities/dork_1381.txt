@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1381
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.phpfusion
 Published Date:   2006-05-30
 Author:           anonymous
 GoogleDork:       "Powered by PHP-Fusion v6.00.110" | "Powered by PHP-Fusion v6.00.2.." | "Powered by PHP-Fusion v6.00.3.." -v6.00.400 -johnny.ihackstuff

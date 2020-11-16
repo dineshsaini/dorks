@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/287
-Severity: 5 
-Category:         Error Messages
+Severity:		  3 
+Category:         error_messages.hypernews
 Published Date:   2004-06-15
 Author:           anonymous
 GoogleDork:       intitle:"Error using Hypernews" "Server Software"

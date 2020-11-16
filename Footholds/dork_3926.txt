@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3926
-Severity: 5 
-Category:         Footholds
+Severity:		  5 
+Category:         footholds.webshell
 Published Date:   2014-01-03
 Author:           anonymous
 GoogleDork:       intitle:"=[ 1n73ct10n privat shell ]="

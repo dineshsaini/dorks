@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/29
-Severity: 5 
-Category:         Error Messages
+Severity:		  3 
+Category:         error_messages.mysql
 Published Date:   2003-06-24
 Author:           anonymous
 GoogleDork:       MYSQL error message: supplied argument....

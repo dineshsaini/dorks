@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4630
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  4 
+Category:         files_containing_juicy_info
 Published Date:   2017-12-07
 Author:           Dxtroyer
 GoogleDork:       "Do not distribute" (ext:pdf | ext:doc | ext:docx | ext:rtf)

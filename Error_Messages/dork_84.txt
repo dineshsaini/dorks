@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/84
-Severity: 5 
-Category:         Error Messages
+Severity:		  4 
+Category:         error_messages.sql
 Published Date:   2004-03-04
 Author:           anonymous
 GoogleDork:       "Unclosed quotation mark before the character string"

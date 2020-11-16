@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5953
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  8 
+Category:         files_containing_passwords
 Published Date:   2020-04-27
 Author:           Alexandros Pappas
 GoogleDork:       "/etc/shadow root:$" ext:cfg OR ext:log OR ext:txt OR ext:sql -git

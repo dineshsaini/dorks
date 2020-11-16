@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6618
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  6 
+Category:         web_server_detection
 Published Date:   2020-10-19
 Author:           Sibi Mathew George
 GoogleDork:       inurl:/phpPgAdmin/browser.php

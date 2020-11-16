@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/471
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  4 
+Category:         files_containing_juicy_info
 Published Date:   2004-09-10
 Author:           anonymous
 GoogleDork:       filetype:xls inurl:"email.xls"

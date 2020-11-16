@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5853
-Severity: 5 
-Category:         Error Messages
+Severity:		  4 
+Category:         error_messages
 Published Date:   2020-03-30
 Author:           MiningOmerta
 GoogleDork:       intext:"\TCPDF\tcpdf.php on line 17778" -stackoverflow -wordpress -github

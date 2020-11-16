@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4087
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  5 
+Category:         various_online_devices
 Published Date:   2015-10-05
 Author:           anonymous
 GoogleDork:       intitle:Global Traffic Statistics "Ntop"

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4839
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  6 
+Category:         web_server_detection
 Published Date:   2018-06-04
 Author:           Anwar Ayoob
 GoogleDork:       inurl:composer.json codeigniter -site:github.com

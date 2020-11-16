@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/585
-Severity: 5 
-Category:         Vulnerable Files
+Severity:		  3 
+Category:         vulnerable_files.fileman
 Published Date:   2004-10-19
 Author:           anonymous
 GoogleDork:       intitle:"ASP FileMan" Resend -site:iisworks.com

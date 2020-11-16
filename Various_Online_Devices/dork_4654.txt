@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4654
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  8 
+Category:         various_online_devices.camera
 Published Date:   2018-01-09
 Author:           Rootkit_Pentester
 GoogleDork:       inurl:embed.html inurl:dvr

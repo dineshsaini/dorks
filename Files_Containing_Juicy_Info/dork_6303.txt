@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6303
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  4 
+Category:         files_containing_juicy_info
 Published Date:   2020-06-17
 Author:           Alexandros Pappas
 GoogleDork:       intext:"Not to be distributed" ext:doc OR ext:pdf OR ext:xls OR ext:xlsx

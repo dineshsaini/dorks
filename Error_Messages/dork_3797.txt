@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3797
-Severity: 5 
-Category:         Error Messages
+Severity:		  1 
+Category:         error_messages
 Published Date:   2012-08-21
 Author:           anonymous
 GoogleDork:       "CHARACTER_SETS" "COLLATION_CHARACTER_SET_APPLICABILITY"

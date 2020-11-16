@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1314
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.plogger
 Published Date:   2006-03-28
 Author:           anonymous
 GoogleDork:       intext:"Powered by Plogger!" -plogger.org -ihackstuff -exploit

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4081
-Severity: 5 
-Category:         Error Messages
+Severity:		  2 
+Category:         error_messages.oracle.webcenter
 Published Date:   2015-09-17
 Author:           anonymous
 GoogleDork:       intitle:Content Server Error IdcService=DOC_INFO

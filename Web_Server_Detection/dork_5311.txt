@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5311
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  3 
+Category:         web_server_detection
 Published Date:   2019-07-31
 Author:           Reza Abasi
 GoogleDork:       intitle:"Apache2 Ubuntu Default Page: It works"

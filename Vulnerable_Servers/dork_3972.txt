@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3972
-Severity: 5 
-Category:         Vulnerable Servers
+Severity:		  4 
+Category:         vulnerable_servers
 Published Date:   2014-11-03
 Author:           anonymous
 GoogleDork:       inurl:robots.txt intext:CHANGELOG.txt intext:disallow ext:txt -site:github.com

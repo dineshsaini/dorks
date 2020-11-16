@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1207
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities
 Published Date:   2005-11-25
 Author:           anonymous
 GoogleDork:       "Powered by UPB" (b 1.0)|(1.0 final)|(Public Beta 1.0b)

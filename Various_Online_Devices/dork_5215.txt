@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5215
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  6 
+Category:         various_online_devices.jboss
 Published Date:   2019-05-15
 Author:           Miguel Santareno
 GoogleDork:       inurl:/web-console/ServerInfo.jsp | inurl:/status?full=true

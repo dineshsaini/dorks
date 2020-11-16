@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5721
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  6 
+Category:         various_online_devices.proliant
 Published Date:   2020-01-30
 Author:           Bruno Schmid
 GoogleDork:       "Firmware Version" intitle:"iLO" ProLiant Login -hpe.com -update

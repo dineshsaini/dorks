@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/536
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  4 
+Category:         files_containing_juicy_info
 Published Date:   2004-10-09
 Author:           anonymous
 GoogleDork:       inurl:odbc.ini ext:ini -cvs

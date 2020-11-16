@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/748
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  6 
+Category:         various_online_devices.hdd.storpoint
 Published Date:   2004-12-04
 Author:           anonymous
 GoogleDork:       axis storpoint "file view" inurl:/volumes/

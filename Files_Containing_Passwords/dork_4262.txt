@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4262
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  7 
+Category:         files_containing_passwords.pastebin
 Published Date:   2016-04-14
 Author:           anonymous
 GoogleDork:       site:pastebin.com intext:@gmail.com | @yahoo.com | @hotmail.com daterange:2457388-2457491

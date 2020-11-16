@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3800
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  3 
+Category:         various_online_devices
 Published Date:   2012-08-21
 Author:           anonymous
 GoogleDork:       intext:"You may also donate through the Moneybookers account mb@dd-wrt"

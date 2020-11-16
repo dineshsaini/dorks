@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4793
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  1 
+Category:         files_containing_juicy_info
 Published Date:   2018-04-25
 Author:           edm0nd
 GoogleDork:       inurl:/.well-known/security.txt

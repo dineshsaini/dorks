@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4484
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  6 
+Category:         various_online_devices.zyxel
 Published Date:   2017-05-12
 Author:           anonymous
 GoogleDork:       intitle:"Welcome to ZyXEL" -zyxel.com

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5156
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  4 
+Category:         web_server_detection
 Published Date:   2019-03-18
 Author:           CrimsonTorso
 GoogleDork:       "Powered by BOINC"

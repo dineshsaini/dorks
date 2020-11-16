@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3738
-Severity: 5 
-Category:         Vulnerable Files
+Severity:		  5 
+Category:         vulnerable_files
 Published Date:   2011-08-25
 Author:           DigiP
 GoogleDork:       allinurl:forcedownload.php?file=

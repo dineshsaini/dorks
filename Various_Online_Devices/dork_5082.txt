@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5082
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  2 
+Category:         various_online_devices
 Published Date:   2019-01-21
 Author:           Sohaib E.B.
 GoogleDork:       "Please click here to download and install the latest plug-in. Close your browser before installation."

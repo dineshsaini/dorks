@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1398
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  3 
+Category:         sensitive_directories
 Published Date:   2006-07-14
 Author:           anonymous
 GoogleDork:       intitle:index.of.config

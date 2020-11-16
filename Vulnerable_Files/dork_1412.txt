@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1412
-Severity: 5 
-Category:         Vulnerable Files
+Severity:		  3 
+Category:         vulnerable_files
 Published Date:   2006-09-13
 Author:           anonymous
 GoogleDork:       inurl:"simplenews/admin"

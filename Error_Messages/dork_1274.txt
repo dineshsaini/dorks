@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1274
-Severity: 5 
-Category:         Error Messages
+Severity:		  5 
+Category:         error_messages.sql
 Published Date:   2006-03-13
 Author:           anonymous
 GoogleDork:       filetype:asp + "[ODBC SQL"

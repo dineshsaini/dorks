@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1020
-Severity: 5 
-Category:         Vulnerable Servers
+Severity:		  3 
+Category:         vulnerable_servers
 Published Date:   2005-06-11
 Author:           anonymous
 GoogleDork:       "html allowed" guestbook

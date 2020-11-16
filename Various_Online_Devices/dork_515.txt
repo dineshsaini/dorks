@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/515
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  5 
+Category:         various_online_devices.printer.konica
 Published Date:   2004-09-29
 Author:           anonymous
 GoogleDork:       Konica Network Printer Administration

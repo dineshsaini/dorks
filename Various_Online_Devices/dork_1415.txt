@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1415
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  6 
+Category:         various_online_devices.dsl.lancom
 Published Date:   2006-10-02
 Author:           anonymous
 GoogleDork:       "LANCOM DSL/*-* Office *" "Entry Page"

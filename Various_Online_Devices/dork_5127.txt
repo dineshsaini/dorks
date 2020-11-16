@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5127
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  6 
+Category:         various_online_devices.printer.cups
 Published Date:   2019-02-18
 Author:           Bruno Schmid
 GoogleDork:       intitle:"Home-CUPS" intext:printers -mugs

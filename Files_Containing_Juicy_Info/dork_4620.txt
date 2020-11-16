@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4620
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  3 
+Category:         files_containing_juicy_info
 Published Date:   2017-11-27
 Author:           Fu2x2000
 GoogleDork:       intext:"softperms.txt" ext:TXT

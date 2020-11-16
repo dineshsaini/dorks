@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/835
-Severity: 5 
-Category:         Error Messages
+Severity:		  4 
+Category:         error_messages.cgi
 Published Date:   2005-01-26
 Author:           anonymous
 GoogleDork:       intext:"Error Message : Error loading required libraries."

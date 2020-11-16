@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/895
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  3 
+Category:         files_containing_juicy_info
 Published Date:   2005-02-28
 Author:           anonymous
 GoogleDork:       "#mysql dump" filetype:sql 21232f297a57a5a743894a0e4a801fc3

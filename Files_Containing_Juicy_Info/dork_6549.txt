@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6549
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  6 
+Category:         files_containing_juicy_info
 Published Date:   2020-09-18
 Author:           Alexandros Pappas
 GoogleDork:       "putty.log" ext:log | ext:cfg | ext:txt

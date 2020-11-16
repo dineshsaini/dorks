@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5458
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  5 
+Category:         sensitive_directories
 Published Date:   2019-08-27
 Author:           Reza Abasi
 GoogleDork:       intitle:"index of" /config.ini

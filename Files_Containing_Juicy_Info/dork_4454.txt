@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4454
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  2 
+Category:         files_containing_juicy_info
 Published Date:   2017-05-01
 Author:           anonymous
 GoogleDork:       "Scan result of Farbar Recovery Scan Tool" ext:txt

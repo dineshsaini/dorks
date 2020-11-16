@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/125
-Severity: 5 
-Category:         Error Messages
+Severity:		  3 
+Category:         error_messages.asp
 Published Date:   2004-03-16
 Author:           anonymous
 GoogleDork:       filetype:asp "Custom Error Message" Category Source

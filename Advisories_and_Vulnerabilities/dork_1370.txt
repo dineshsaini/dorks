@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1370
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.sqli.pcpin
 Published Date:   2006-05-04
 Author:           anonymous
 GoogleDork:       intext:"Powered by PCPIN.com" -site:pcpin.com -ihackstuff -"works with" -findlaw

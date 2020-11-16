@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1002
-Severity: 5 
-Category:         Vulnerable Files
+Severity:		  3 
+Category:         vulnerable_files
 Published Date:   2005-06-03
 Author:           anonymous
 GoogleDork:       intitle:"PHPstat" intext:"Browser" intext:"PHPstat setup"

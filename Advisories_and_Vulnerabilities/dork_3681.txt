@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3681
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.xss.tinywebgallery
 Published Date:   2011-02-01
 Author:           anonymous
 GoogleDork:       Photo Gallery powered by TinyWebGallery 1.8.3

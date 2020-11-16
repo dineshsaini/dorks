@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6269
-Severity: 5 
-Category:         Vulnerable Files
+Severity:		  7 
+Category:         vulnerable_files
 Published Date:   2020-06-11
 Author:           Swapnil Talele
 GoogleDork:       Dork: "Index of" "upload_image.php"

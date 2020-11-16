@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6586
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  5 
+Category:         various_online_devices.camera
 Published Date:   2020-10-01
 Author:           Raghotham Mruthike
 GoogleDork:       inurl:/8080 "windows" "live view"

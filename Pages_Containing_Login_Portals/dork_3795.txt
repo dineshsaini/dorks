@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3795
-Severity: 5 
-Category:         Pages Containing Login Portals
+Severity:		  3
+Category:         pages_containing_login_portals
 Published Date:   2012-08-21
 Author:           anonymous
 GoogleDork:       intitle:"Log In" "Access unsecured content without logging in"

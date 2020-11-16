@@ -1,10 +1,27 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4569
-Severity: 5 
-Category:         Pages Containing Login Portals
+Severity:		  3
+Category:         pages_containing_login_portals
 Published Date:   2017-08-02
 Author:           anonymous
 GoogleDork:       inurl:front/central.php
 Description:      inurl:front/central.php
 
 
-GLPI login screen. Default login: Advisories_and_Vulnerabilities dork_1240.txt dork_1241.txt dork_1242.txt dork_1243.txt dork_1244.txt dork_1245.txt dork_1246.txt dork_1247.txt dork_1248.txt dork_1249.txt dork_1250.txt dork_1251.txt dork_1252.txt dork_1253.txt dork_1254.txt Error_Messages failed_dorks.txt Files_Containing_Juicy_Info Files_Containing_Passwords Files_Containing_Usernames Footholds ghdb_dorks.sh logs.txt Network_or_Vulnerability_Data Pages_Containing_Login_Portals Sensitive_Directories Sensitive_Online_Shopping_Info Various_Online_Devices Vulnerable_Files Vulnerable_Servers Web_Server_Detection glpi/glpi (super-admin) Advisories_and_Vulnerabilities dork_1240.txt dork_1241.txt dork_1242.txt dork_1243.txt dork_1244.txt dork_1245.txt dork_1246.txt dork_1247.txt dork_1248.txt dork_1249.txt dork_1250.txt dork_1251.txt dork_1252.txt dork_1253.txt dork_1254.txt Error_Messages failed_dorks.txt Files_Containing_Juicy_Info Files_Containing_Passwords Files_Containing_Usernames Footholds ghdb_dorks.sh logs.txt Network_or_Vulnerability_Data Pages_Containing_Login_Portals Sensitive_Directories Sensitive_Online_Shopping_Info Various_Online_Devices Vulnerable_Files Vulnerable_Servers Web_Server_Detection tech/tech Advisories_and_Vulnerabilities dork_1240.txt dork_1241.txt dork_1242.txt dork_1243.txt dork_1244.txt dork_1245.txt dork_1246.txt dork_1247.txt dork_1248.txt dork_1249.txt dork_1250.txt dork_1251.txt dork_1252.txt dork_1253.txt dork_1254.txt Error_Messages failed_dorks.txt Files_Containing_Juicy_Info Files_Containing_Passwords Files_Containing_Usernames Footholds ghdb_dorks.sh logs.txt Network_or_Vulnerability_Data Pages_Containing_Login_Portals Sensitive_Directories Sensitive_Online_Shopping_Info Various_Online_Devices Vulnerable_Files Vulnerable_Servers Web_Server_Detection postonly/postonly (only for helpdesk) Advisories_and_Vulnerabilities dork_1240.txt dork_1241.txt dork_1242.txt dork_1243.txt dork_1244.txt dork_1245.txt dork_1246.txt dork_1247.txt dork_1248.txt dork_1249.txt dork_1250.txt dork_1251.txt dork_1252.txt dork_1253.txt dork_1254.txt Error_Messages failed_dorks.txt Files_Containing_Juicy_Info Files_Containing_Passwords Files_Containing_Usernames Footholds ghdb_dorks.sh logs.txt Network_or_Vulnerability_Data Pages_Containing_Login_Portals Sensitive_Directories Sensitive_Online_Shopping_Info Various_Online_Devices Vulnerable_Files Vulnerable_Servers Web_Server_Detection normal/normal -- @verovan
+GLPI login screen. Default login:
+
+
+
+ * glpi/glpi (super-admin)
+
+ * tech/tech
+
+ * postonly/postonly (only for helpdesk)
+
+ * normal/normal
+
+
+
+--
+
+@verovan
+

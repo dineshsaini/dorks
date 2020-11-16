@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4801
-Severity: 5 
-Category:         Footholds
+Severity:		  5 
+Category:         footholds.ajax
 Published Date:   2018-05-02
 Author:           Parth S. Patel
 GoogleDork:       intitle:Upload inurl:/cgi-bin/filechucker.cgi

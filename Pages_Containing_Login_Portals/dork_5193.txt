@@ -1,9 +1,9 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5193
-Severity: 5 
-Category:         Pages Containing Login Portals
+Severity:		  5
+Category:         pages_containing_login_portals
 Published Date:   2019-04-24
 Author:           Pancaker
-GoogleDork:       qBittorrent - Web UI
+GoogleDork:       intitle:"qBittorrent Web UI" inurl:8080
 Description:      qBittorrent - Web UI
 
 

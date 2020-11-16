@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5101
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  6 
+Category:         sensitive_directories
 Published Date:   2019-02-15
 Author:           Bruno Schmid
 GoogleDork:       "sasl_passwd" | smtpd.conf intitle:"index of"

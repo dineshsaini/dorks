@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6578
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  6 
+Category:         various_online_devices.printer.ricoh
 Published Date:   2020-09-28
 Author:           Alexandros Pappas
 GoogleDork:       inurl:"webArch/mainFrame.cgi" + "Web Image Monitor"

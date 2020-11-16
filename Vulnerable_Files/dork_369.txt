@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/369
-Severity: 5 
-Category:         Vulnerable Files
+Severity:		  5 
+Category:         vulnerable_files
 Published Date:   2004-07-21
 Author:           anonymous
 GoogleDork:       filetype:cnf my.cnf -cvs -example

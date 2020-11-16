@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5096
-Severity: 5 
-Category:         Footholds
+Severity:         7 
+Category:         footholds.ruby.sidekiq
 Published Date:   2019-02-11
 Author:           Alfie
 GoogleDork:       inurl:"/sidekiq/busy"

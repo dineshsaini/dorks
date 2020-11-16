@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5556
-Severity: 5 
-Category:         Footholds
+Severity:		  3 
+Category:         footholds.wordpress
 Published Date:   2019-09-26
 Author:           Reza Abasi
 GoogleDork:       site:*/wp-admin/install.php intitle:WordPress Installation

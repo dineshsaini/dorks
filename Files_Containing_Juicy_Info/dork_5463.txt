@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5463
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  5 
+Category:         files_containing_juicy_info
 Published Date:   2019-08-28
 Author:           Reza Abasi
 GoogleDork:       site:*/robots.txt intext:User-agent:

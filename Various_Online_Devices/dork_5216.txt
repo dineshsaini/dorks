@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5216
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  6 
+Category:         various_online_devices.coldfusion
 Published Date:   2019-05-15
 Author:           Miguel Santareno
 GoogleDork:       inurl:/CFIDE/administrator/index.cfm | inurl:/CFIDE/componentutils/login.cfm | inurl:/CFIDE/main/ide.cfm | inurl:/CFIDE/wizards/

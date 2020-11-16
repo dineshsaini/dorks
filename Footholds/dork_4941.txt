@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4941
-Severity: 5 
-Category:         Footholds
+Severity:		  7 
+Category:         footholds.backdoor
 Published Date:   2018-09-10
 Author:           ManhNho
 GoogleDork:       intext:"M3R1C4 SHELL BACKDOOR"

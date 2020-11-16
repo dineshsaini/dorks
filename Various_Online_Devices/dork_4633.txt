@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4633
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  5 
+Category:         various_online_devices.printer
 Published Date:   2017-12-07
 Author:           Dxtroyer
 GoogleDork:       inurl:"/websys/webArch/mainFrame.cgi" -hatana

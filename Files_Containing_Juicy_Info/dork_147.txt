@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/147
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  2 
+Category:         files_containing_juicy_info
 Published Date:   2004-03-30
 Author:           anonymous
 GoogleDork:       "Host Vulnerability Summary Report"

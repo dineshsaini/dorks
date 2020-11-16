@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6244
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.wordpress.sportspress
 Published Date:   2020-06-08
 Author:           Abhi Chitkara
 GoogleDork:       inurl:wp-content/plugins/sportspress

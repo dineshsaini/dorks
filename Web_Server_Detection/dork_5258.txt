@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5258
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  5 
+Category:         web_server_detection
 Published Date:   2019-06-17
 Author:           Zerconil
 GoogleDork:       intext:"Brought to you by eVetSites"

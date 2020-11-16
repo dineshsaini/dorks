@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/814
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  3 
+Category:         sensitive_directories
 Published Date:   2005-01-09
 Author:           anonymous
 GoogleDork:       "Index of" rar r01 nfo Modified 2004

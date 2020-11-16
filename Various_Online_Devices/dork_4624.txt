@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4624
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  6 
+Category:         various_online_devices.printer.dell
 Published Date:   2017-11-28
 Author:           Ankit Anubhav
 GoogleDork:       inurl:"ews/setting/setews.htm"

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1203
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  5 
+Category:         various_online_devices.sony.video-network
 Published Date:   2005-11-21
 Author:           anonymous
 GoogleDork:       intitle:"Sony SNT-V304 Video Network Station" inurl:hsrindex.shtml

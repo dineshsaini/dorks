@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4403
-Severity: 5 
-Category:         Footholds
+Severity:		  7 
+Category:         footholds.webshell.asp
 Published Date:   2017-03-01
 Author:           anonymous
 GoogleDork:       inurl:?filesrc=**** ~"Current" ~"asp"

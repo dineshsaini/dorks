@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6305
-Severity: 5 
-Category:         Footholds
+Severity:		  5 
+Category:         footholds.citrix
 Published Date:   2020-06-17
 Author:           Harsh Bothra
 GoogleDork:       inurl:logon/LogonPoint/index.html

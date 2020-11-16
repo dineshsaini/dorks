@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3912
-Severity: 5 
-Category:         Footholds
+Severity:		  4 
+Category:         footholds.php
 Published Date:   2013-11-25
 Author:           anonymous
 GoogleDork:       intitle:"uploader by ghost-dz" ext:php

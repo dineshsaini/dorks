@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/651
-Severity: 5 
-Category:         Footholds
+Severity:		  3 
+Category:         footholds.windows-business-server2003
 Published Date:   2004-11-06
 Author:           anonymous
 GoogleDork:       inurl:ConnectComputer/precheck.htm | inurl:Remote/logon.aspx

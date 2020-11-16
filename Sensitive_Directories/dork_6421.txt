@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6421
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  6 
+Category:         sensitive_directories
 Published Date:   2020-07-21
 Author:           Siddharth Hingol
 GoogleDork:       intitle:"index of" /var/logs filetype:'"log | txt | csv"

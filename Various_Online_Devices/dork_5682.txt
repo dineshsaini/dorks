@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5682
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  7 
+Category:         various_online_devices.zabbix
 Published Date:   2020-01-06
 Author:           Reza Abasi
 GoogleDork:       inurl:"8080/dashboard/" intitle:"Dashboard"

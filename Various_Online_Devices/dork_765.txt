@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/765
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  4 
+Category:         various_online_devices.printer
 Published Date:   2004-12-13
 Author:           anonymous
 GoogleDork:       inurl:":631/printers" -php -demo

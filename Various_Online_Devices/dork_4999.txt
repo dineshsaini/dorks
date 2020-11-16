@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4999
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  6 
+Category:         various_online_devices.phppgadmin
 Published Date:   2018-10-26
 Author:           sandeep
 GoogleDork:       inurl:phpPgAdmin intext:"Cappuccino" | intext:"Blue/Green"

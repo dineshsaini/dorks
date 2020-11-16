@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5043
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  3 
+Category:         web_server_detection
 Published Date:   2018-12-04
 Author:           CrimsonTorso
 GoogleDork:       "Powered by vShare"

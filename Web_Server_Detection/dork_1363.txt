@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1363
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  4 
+Category:         web_server_detection
 Published Date:   2006-05-03
 Author:           anonymous
 GoogleDork:       intext:"Target Multicast Group" "beacon"

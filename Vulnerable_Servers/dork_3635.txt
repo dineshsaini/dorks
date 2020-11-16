@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3635
-Severity: 5 
-Category:         Vulnerable Servers
+Severity:		  4 
+Category:         vulnerable_servers.shell.r57
 Published Date:   2010-12-07
 Author:           anonymous
 GoogleDork:       "r57shell"

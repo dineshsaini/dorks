@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5480
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  6 
+Category:         various_online_devices.hp
 Published Date:   2019-09-02
 Author:           MiningOmerta
 GoogleDork:       inurl:"/hp_login.html"

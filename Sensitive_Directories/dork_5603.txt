@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5603
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  4 
+Category:         sensitive_directories
 Published Date:   2019-10-29
 Author:           Reza Abasi
 GoogleDork:       site:*/logs/default.htm

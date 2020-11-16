@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/806
-Severity: 5 
-Category:         Vulnerable Servers
+Severity:		  4 
+Category:         vulnerable_servers.phpnuke
 Published Date:   2004-12-27
 Author:           anonymous
 GoogleDork:       "There are no Administrators Accounts" inurl:admin.php -mysql_fetch_row

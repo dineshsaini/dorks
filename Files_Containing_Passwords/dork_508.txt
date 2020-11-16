@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/508
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  3 
+Category:         files_containing_passwords.elite-forum
 Published Date:   2004-09-24
 Author:           anonymous
 GoogleDork:       "Powered By Elite Forum Version *.*"

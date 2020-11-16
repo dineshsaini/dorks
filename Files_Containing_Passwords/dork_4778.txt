@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4778
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  7 
+Category:         files_containing_passwords.asp
 Published Date:   2018-04-16
 Author:           Bruno Schmid
 GoogleDork:       filetype:config "" "password" "web.config" -stackoverflow -youtube.com -github

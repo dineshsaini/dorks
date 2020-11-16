@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3927
-Severity: 5 
-Category:         Footholds
+Severity:		  7 
+Category:         footholds.webshell
 Published Date:   2014-01-03
 Author:           anonymous
 GoogleDork:       intitle:"WSO 2.4" [ Sec. Info ], [ Files ], [ Console ], [ Sql ], [ Php ], [ Safe mode ], [ String tools ], [ Bruteforce ], [ Network ], [ Self remove ]

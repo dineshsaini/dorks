@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4618
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  5 
+Category:         various_online_devices.printer.hp
 Published Date:   2017-11-24
 Author:           Ankit Anubhav
 GoogleDork:       "Use these fields to set or change the Administrator Password. When set, the Administrator Password is required before you can access and change configuration parameters. To disable the Administrator Password, leave the entries blank."

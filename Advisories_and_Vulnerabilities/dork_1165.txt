@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1165
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.sqli.versatilebulletinboard 
 Published Date:   2005-10-10
 Author:           anonymous
 GoogleDork:       "Welcome to the versatileBulletinBoard" | "Powered by versatileBulletinBoard"

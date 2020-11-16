@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/986
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  4 
+Category:         web_server_detection
 Published Date:   2005-05-30
 Author:           anonymous
 GoogleDork:       (intitle:"502 Proxy Error")|(intitle:"503 Proxy Error") "The proxy server could not handle the request" -topic -mail -4suite -list -site:geocrawler.co

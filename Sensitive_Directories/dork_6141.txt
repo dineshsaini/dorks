@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6141
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  5 
+Category:         sensitive_directories
 Published Date:   2020-05-28
 Author:           Manish Kumar
 GoogleDork:       intitle:"index of" "admin/config"

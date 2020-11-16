@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3415
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.cve-2006-2857
 Published Date:   2010-11-15
 Author:           anonymous
 GoogleDork:       "Powered by LifeType" "RSS 0.90" "RSS 1.0" "RSS 2.0" "Valid XHTML 1.0 Strict and CSS"

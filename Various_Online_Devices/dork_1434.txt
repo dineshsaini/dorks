@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1434
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  5 
+Category:         various_online_devices.printer.samsung
 Published Date:   2010-11-11
 Author:           anonymous
 GoogleDork:       allintitle:"SyncThru Web Service"

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5557
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities
 Published Date:   2019-09-26
 Author:           IdeaEngine007
 GoogleDork:       intext:Powered By vBulletin 5.5.4 inurl:forum.

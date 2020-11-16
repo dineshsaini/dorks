@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3676
-Severity: 5 
-Category:         Error Messages
+Severity:		  4 
+Category:         error_messages.mysql
 Published Date:   2011-01-21
 Author:           anonymous
 GoogleDork:       inurl:"index.php?m=content+c=rss+catid=10"

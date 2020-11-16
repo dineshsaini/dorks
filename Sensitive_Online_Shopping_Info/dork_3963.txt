@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3963
-Severity: 5 
-Category:         Sensitive Online Shopping Info
+Severity:         2
+Category:         sensitive_online_shopping_info
 Published Date:   2014-10-02
 Author:           anonymous
 GoogleDork:       dcid= bn= pin code=

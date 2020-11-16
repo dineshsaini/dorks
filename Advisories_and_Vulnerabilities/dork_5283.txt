@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5283
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.cve-2019-11581
 Published Date:   2019-07-16
 Author:           Sachin Wagh
 GoogleDork:       inurl:/secure/ContactAdministrators!default.jspa intext:"Request Details" -intext:"Your Jira administrator has not yet configured this contact form"

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/942
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  4 
+Category:         various_online_devices.nero
 Published Date:   2005-04-20
 Author:           anonymous
 GoogleDork:       intitle:"NeroNET - burning online"

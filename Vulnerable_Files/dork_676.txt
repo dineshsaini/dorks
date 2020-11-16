@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/676
-Severity: 5 
-Category:         Vulnerable Files
+Severity:		  4 
+Category:         vulnerable_files
 Published Date:   2004-11-16
 Author:           anonymous
 GoogleDork:       ext:asp inurl:DUgallery intitle:"3.0" -site:dugallery.com -site:duware.com

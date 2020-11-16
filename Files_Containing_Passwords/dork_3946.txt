@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3946
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  5 
+Category:         files_containing_passwords.xampp
 Published Date:   2014-04-28
 Author:           anonymous
 GoogleDork:       xamppdirpasswd.txt filetype:txt

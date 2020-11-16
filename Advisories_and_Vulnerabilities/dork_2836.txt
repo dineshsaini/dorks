@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/2836
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.upload.buillt2go
 Published Date:   2010-11-15
 Author:           anonymous
 GoogleDork:       "PHP Link Portal v1.95.1 Â© Big Resources, Inc."

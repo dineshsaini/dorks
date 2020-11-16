@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/659
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  3 
+Category:         files_containing_juicy_info
 Published Date:   2004-11-07
 Author:           anonymous
 GoogleDork:       ext:conf NoCatAuth -cvs

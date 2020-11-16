@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5065
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  3 
+Category:         web_server_detection.nginx
 Published Date:   2019-01-02
 Author:           ManhNho
 GoogleDork:       intitle:Test Page for the Nginx HTTP Server on Fedora

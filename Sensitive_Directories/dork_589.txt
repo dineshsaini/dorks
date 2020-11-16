@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/589
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  5 
+Category:         sensitive_directories
 Published Date:   2004-10-19
 Author:           anonymous
 GoogleDork:       intitle:"Directory Listing For" intext:Tomcat -intitle:Tomcat

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6344
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  6 
+Category:         various_online_devices.printer.samsung
 Published Date:   2020-06-30
 Author:           Prasad Lingamaiah
 GoogleDork:       inurl:/sws/index.html

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/322
-Severity: 5 
-Category:         Sensitive Online Shopping Info
+Severity:         2
+Category:         sensitive_online_shopping_info.comersus
 Published Date:   2004-07-12
 Author:           anonymous
 GoogleDork:       Comersus.mdb database

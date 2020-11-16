@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3675
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities
 Published Date:   2011-01-20
 Author:           anonymous
 GoogleDork:       intext:"Powered by DZOIC Handshakes Professional"

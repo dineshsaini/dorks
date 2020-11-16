@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4241
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  4 
+Category:         various_online_devices.modem
 Published Date:   2016-03-23
 Author:           anonymous
 GoogleDork:       intitle:"Residential Gateway Configuration:" intext:"Cable Modem Information."

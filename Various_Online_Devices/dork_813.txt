@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/813
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  4 
+Category:         various_online_devices.router.belkin
 Published Date:   2005-01-10
 Author:           anonymous
 GoogleDork:       intitle:"Setup Home" "You will need * log in before * * change * settings"

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3834
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  6 
+Category:         files_containing_passwords.mysql
 Published Date:   2013-04-09
 Author:           anonymous
 GoogleDork:       filetype:config inurl:web.config inurl:ftp

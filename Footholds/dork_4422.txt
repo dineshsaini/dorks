@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4422
-Severity: 5 
-Category:         Footholds
+Severity:		  4 
+Category:         footholds.php.mailer
 Published Date:   2017-04-10
 Author:           anonymous
 GoogleDork:       intitle:"Priv8 Mailer Inbox 2015" ext:php

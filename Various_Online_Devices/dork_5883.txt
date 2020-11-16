@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5883
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  6 
+Category:         various_online_devices.vpn.pulse
 Published Date:   2020-04-16
 Author:           idealphase
 GoogleDork:       inurl:/dana-cached/sc/

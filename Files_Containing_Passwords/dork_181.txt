@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/181
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  4 
+Category:         files_containing_passwords
 Published Date:   2004-04-26
 Author:           anonymous
 GoogleDork:       intitle:"index of" intext:connect.inc

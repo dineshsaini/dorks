@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4416
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  4 
+Category:         files_containing_juicy_info
 Published Date:   2017-04-07
 Author:           anonymous
 GoogleDork:       "PGP SIGNED MESSAGE-----" inurl:"md5sums"

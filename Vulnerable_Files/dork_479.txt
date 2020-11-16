@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/479
-Severity: 5 
-Category:         Vulnerable Files
+Severity:		  4 
+Category:         vulnerable_files
 Published Date:   2004-09-18
 Author:           anonymous
 GoogleDork:       filetype:lit lit (books|ebooks)

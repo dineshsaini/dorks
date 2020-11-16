@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3787
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  3 
+Category:         various_online_devices.dvr
 Published Date:   2012-05-15
 Author:           anonymous
 GoogleDork:       inurl:Settings.aspx intitle:Beyond TV

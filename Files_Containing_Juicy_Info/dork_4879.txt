@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4879
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  3 
+Category:         files_containing_juicy_info
 Published Date:   2018-07-03
 Author:           Bruno Schmid
 GoogleDork:       filetype:xls | xlsx intext:software license site:.gov

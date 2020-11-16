@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1741
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.cve-2007-6139
 Published Date:   2010-11-15
 Author:           anonymous
 GoogleDork:       intitle:Mp3 ToolBox 1.0

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5022
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  5 
+Category:         sensitive_directories
 Published Date:   2018-11-12
 Author:           blackcat
 GoogleDork:       inurl:/proc/tty/ index of

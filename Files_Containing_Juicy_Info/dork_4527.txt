@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4527
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  2 
+Category:         files_containing_juicy_info
 Published Date:   2017-06-15
 Author:           anonymous
 GoogleDork:       "random's system information tool" ext:txt

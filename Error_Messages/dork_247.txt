@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/247
-Severity: 5 
-Category:         Error Messages
+Severity:		  4 
+Category:         error_messages.cocoon
 Published Date:   2004-07-29
 Author:           anonymous
 GoogleDork:       "error found handling the request" cocoon filetype:xml

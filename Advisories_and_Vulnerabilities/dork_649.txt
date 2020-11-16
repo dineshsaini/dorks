@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/649
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities
 Published Date:   2004-11-05
 Author:           anonymous
 GoogleDork:       inurl:"forumdisplay.php" +"Powered by: vBulletin Version 3.0.0..4"

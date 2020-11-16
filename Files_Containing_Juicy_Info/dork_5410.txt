@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5410
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  6 
+Category:         files_containing_juicy_info
 Published Date:   2019-08-20
 Author:           Reza Abasi
 GoogleDork:       site:*/phpinfo.php intitle:"phpinfo()"

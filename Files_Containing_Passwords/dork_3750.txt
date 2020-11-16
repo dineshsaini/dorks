@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3750
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  5 
+Category:         files_containing_passwords.filezilla
 Published Date:   2011-11-19
 Author:           anonymous
 GoogleDork:       inurl:"/Application Data/Filezilla/*" OR inurl:"/AppData/Filezilla/*" filetype:xml

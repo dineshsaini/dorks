@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/540
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  5 
+Category:         various_online_devices.switch.hp
 Published Date:   2004-10-09
 Author:           anonymous
 GoogleDork:       intitle:"DEFAULT_CONFIG - HP"

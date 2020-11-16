@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1065
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  4 
+Category:         various_online_devices
 Published Date:   2005-08-12
 Author:           anonymous
 GoogleDork:       intitle:"Network Storage Link for USB 2.0 Disks" Firmware

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6225
-Severity: 5 
-Category:         Vulnerable Servers
+Severity:		  6 
+Category:         vulnerable_servers
 Published Date:   2020-06-04
 Author:           Simgamsetti Manikanta
 GoogleDork:       inurl:/+CSCOE+/logon.html

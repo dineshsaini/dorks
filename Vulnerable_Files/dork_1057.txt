@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1057
-Severity: 5 
-Category:         Vulnerable Files
+Severity:		  2 
+Category:         vulnerable_files
 Published Date:   2005-08-08
 Author:           anonymous
 GoogleDork:       "Powered by FunkBoard"

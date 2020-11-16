@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4681
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  5 
+Category:         sensitive_directories
 Published Date:   2018-02-23
 Author:           r00t3rXCrypt0
 GoogleDork:       inurl:/openwebmail/cgi-bin/openwebmail/etc/

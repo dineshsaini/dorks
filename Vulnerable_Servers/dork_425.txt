@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/425
-Severity: 5 
-Category:         Vulnerable Servers
+Severity:		  4 
+Category:         vulnerable_servers
 Published Date:   2004-08-13
 Author:           anonymous
 GoogleDork:       intext:"Warning: * am able * write ** configuration file" "includes/configure.php" -Forums

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4244
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  4 
+Category:         various_online_devices.camera
 Published Date:   2016-03-24
 Author:           anonymous
 GoogleDork:       intext:"powered by webcamXP 5"

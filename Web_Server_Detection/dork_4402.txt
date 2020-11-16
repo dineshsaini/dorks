@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4402
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  5 
+Category:         web_server_detection
 Published Date:   2017-03-01
 Author:           anonymous
 GoogleDork:       ext:svc inurl:wsdl

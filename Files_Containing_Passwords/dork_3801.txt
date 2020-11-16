@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3801
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  5 
+Category:         files_containing_passwords
 Published Date:   2012-08-21
 Author:           anonymous
 GoogleDork:       intext:charset_test= email= default_persistent=

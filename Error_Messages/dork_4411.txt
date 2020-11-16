@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4411
-Severity: 5 
-Category:         Error Messages
+Severity:		  6 
+Category:         error_messages
 Published Date:   2017-03-27
 Author:           anonymous
 GoogleDork:       "Below is a rendering of the page up to the first error." ext:xml

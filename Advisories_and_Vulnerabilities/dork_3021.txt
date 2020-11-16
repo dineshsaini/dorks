@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3021
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.xss.subrion
 Published Date:   2010-11-15
 Author:           anonymous
 GoogleDork:       © 2010 Powered by Subrion CMS

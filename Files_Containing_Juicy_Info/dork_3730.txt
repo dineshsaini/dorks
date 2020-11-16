@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3730
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  4 
+Category:         files_containing_juicy_info
 Published Date:   2011-07-18
 Author:           anonymous
 GoogleDork:       site:mediafire.com cv Or resume OR curriculum vitae filetype:pdf OR doc

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5457
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  6 
+Category:         sensitive_directories.wordpress
 Published Date:   2019-08-27
 Author:           Reza Abasi
 GoogleDork:       site:*/wordpress/wordpress.bak/

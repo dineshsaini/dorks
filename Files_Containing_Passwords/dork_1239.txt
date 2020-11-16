@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1239
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  5 
+Category:         files_containing_passwords
 Published Date:   2006-01-02
 Author:           anonymous
 GoogleDork:       ext:passwd -intext:the -sample -example

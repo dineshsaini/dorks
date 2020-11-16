@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/15
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  2 
+Category:         sensitive_directories
 Published Date:   2003-06-24
 Author:           anonymous
 GoogleDork:       Look in my backup directories! Please?

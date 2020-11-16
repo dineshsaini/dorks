@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/918
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities
 Published Date:   2005-03-29
 Author:           anonymous
 GoogleDork:       "Powered by Coppermine Photo Gallery" ( "v1.2.2 b" | "v1.2.1" | "v1.2" | "v1.1" | "v1.0")

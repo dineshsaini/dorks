@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/248
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  3 
+Category:         files_containing_juicy_info
 Published Date:   2004-05-24
 Author:           anonymous
 GoogleDork:       intitle:"Big Sister" +"OK Attention Trouble"

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4512
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  4 
+Category:         files_containing_juicy_info
 Published Date:   2017-06-07
 Author:           anonymous
 GoogleDork:       "KVP_ENCDATA:Version=1.0" ext:log

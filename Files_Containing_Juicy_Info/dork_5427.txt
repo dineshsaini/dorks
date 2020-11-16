@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5427
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  3 
+Category:         files_containing_juicy_info
 Published Date:   2019-08-21
 Author:           Mohammed*_*
 GoogleDork:       site:docs.google.com inurl:forms | viewanalytics intext:see previous responses

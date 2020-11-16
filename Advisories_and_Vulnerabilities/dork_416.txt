@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/416
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.formmail
 Published Date:   2004-08-09
 Author:           anonymous
 GoogleDork:       ext:pl inurl:cgi intitle:"FormMail *" -"*Referrer" -"* Denied" -sourceforge -error -cvs -input

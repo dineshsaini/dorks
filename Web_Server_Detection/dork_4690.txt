@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4690
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  5 
+Category:         web_server_detection
 Published Date:   2018-03-07
 Author:           Aamir Rehman
 GoogleDork:       inurl:"server-status" "Server Version: Apache/" "Server Built: " "Server uptime:" "Total accesses" "CPU Usage:"

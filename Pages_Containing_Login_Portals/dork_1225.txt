@@ -1,10 +1,10 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1225
-Severity: 5 
-Category:         Pages Containing Login Portals
+Severity:		  3
+Category:         pages_containing_login_portals
 Published Date:   2005-12-19
 Author:           anonymous
-GoogleDork:       intitle:"b2evo &gt; Login form" "Login form. You must log in! You will have to accept cookies in order to log in" -demo -site:b2evolution.net
-Description:      intitle:"b2evo &gt; Login form" "Login form. You must log in! You will have to accept cookies in order to log in" -demo -site:b2evolution.net
+GoogleDork:       intitle:"b2evo > Login form" "Login form. You must log in! You will have to accept cookies in order to log in" -demo -site:b2evolution.net
+Description:      intitle:"b2evo > Login form" "Login form. You must log in! You will have to accept cookies in order to log in" -demo -site:b2evolution.net
 
 
 b2evolution is a free open-source blogging system from b2evolution.net. This dork finds the admin login.

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/858
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities
 Published Date:   2005-02-07
 Author:           anonymous
 GoogleDork:       "IceWarp Web Mail 5.3.0" "Powered by IceWarp"

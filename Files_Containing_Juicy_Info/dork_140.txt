@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/140
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  3 
+Category:         files_containing_juicy_info
 Published Date:   2004-03-29
 Author:           anonymous
 GoogleDork:       "Thank you for your order" +receipt

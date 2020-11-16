@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4566
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  6 
+Category:         various_online_devices.firewall.netgear
 Published Date:   2017-07-31
 Author:           anonymous
 GoogleDork:       inurl:scgi-bin intitle:"NETGEAR ProSafe"

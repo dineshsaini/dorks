@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4518
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  7 
+Category:         files_containing_juicy_info
 Published Date:   2017-06-12
 Author:           anonymous
 GoogleDork:       "-----BEGIN X509 CERTIFICATE-----" ext:pem -git

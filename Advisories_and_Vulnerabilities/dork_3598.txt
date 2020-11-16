@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3598
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.cve-2007-3138
 Published Date:   2010-11-15
 Author:           anonymous
 GoogleDork:       "Powered by Quick.Cart"

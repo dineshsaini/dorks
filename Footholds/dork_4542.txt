@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4542
-Severity: 5 
-Category:         Footholds
+Severity:		  7 
+Category:         footholds.botnet
 Published Date:   2017-06-27
 Author:           anonymous
 GoogleDork:       "Sorting Logs:" "Please enter your password" "Powered By" -urlscan -alamy

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/126
-Severity: 5 
-Category:         Error Messages
+Severity:		  3 
+Category:         error_messages
 Published Date:   2004-03-16
 Author:           anonymous
 GoogleDork:       "Fatal error: Call to undefined function" -reply -the -next

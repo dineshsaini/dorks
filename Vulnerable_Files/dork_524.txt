@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/524
-Severity: 5 
-Category:         Vulnerable Files
+Severity:		  3 
+Category:         vulnerable_files
 Published Date:   2004-10-05
 Author:           anonymous
 GoogleDork:       inurl:cgi.asx?StoreID

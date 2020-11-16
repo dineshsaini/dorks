@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3744
-Severity: 5 
-Category:         Footholds
+Severity:		  4 
+Category:         footholds.php
 Published Date:   2011-09-26
 Author:           anonymous
 GoogleDork:       inurl:"amfphp/browser/servicebrowser.swf"

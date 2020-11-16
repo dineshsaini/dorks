@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6240
-Severity: 5 
-Category:         Footholds
+Severity:		  2 
+Category:         footholds
 Published Date:   2020-06-08
 Author:           Shamika Shewale
 GoogleDork:       site:linkedin.com employees target.com

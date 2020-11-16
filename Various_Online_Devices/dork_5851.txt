@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5851
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  7 
+Category:         various_online_devices.camera
 Published Date:   2020-03-30
 Author:           Siddhesh Thakur
 GoogleDork:       intitle:"webcamXP 5" inurl:8080 'Live'

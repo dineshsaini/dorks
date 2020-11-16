@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3817
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  4 
+Category:         files_containing_passwords.dbman
 Published Date:   2012-11-02
 Author:           ratdance
 GoogleDork:       inurl:"/dbman/default.pass"

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1137
-Severity: 5 
-Category:         Footholds
+Severity:		  3 
+Category:         footholds.php.net2ftp
 Published Date:   2005-09-25
 Author:           anonymous
 GoogleDork:       intitle:"net2ftp" "powered by net2ftp" inurl:ftp OR intext:login OR inurl:login

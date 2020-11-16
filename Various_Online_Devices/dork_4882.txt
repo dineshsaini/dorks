@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4882
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  6 
+Category:         various_online_devices.moniter.tautulli
 Published Date:   2018-07-03
 Author:           Gerard Fuguet
 GoogleDork:       (intitle:"plexpy - home" OR "intitle:tautulli - home") AND intext:"libraries"

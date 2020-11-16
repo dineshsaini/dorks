@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1318
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.upload.xhp
 Published Date:   2006-03-28
 Author:           anonymous
 GoogleDork:       "Powered by XHP CMS" -ihackstuff -exploit -xhp.targetit.ro

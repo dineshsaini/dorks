@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/313
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  5 
+Category:         various_online_devices.camera.flexwatch
 Published Date:   2004-07-10
 Author:           anonymous
 GoogleDork:       seyeon FlexWATCH cameras

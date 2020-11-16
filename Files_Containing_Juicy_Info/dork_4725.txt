@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4725
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  5 
+Category:         files_containing_juicy_info
 Published Date:   2018-04-02
 Author:           Rootkit_Pentester
 GoogleDork:       allinurl:mc4wp-debug.log ext:log

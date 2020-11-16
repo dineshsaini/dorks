@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5406
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  3 
+Category:         files_containing_juicy_info
 Published Date:   2019-08-19
 Author:           Cristi Vlad
 GoogleDork:       ext:sql intext:clave

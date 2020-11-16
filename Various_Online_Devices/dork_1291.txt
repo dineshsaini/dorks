@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1291
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  4 
+Category:         various_online_devices.camera
 Published Date:   2006-03-21
 Author:           anonymous
 GoogleDork:       "OK logout" inurl:vb.htm?logout=1

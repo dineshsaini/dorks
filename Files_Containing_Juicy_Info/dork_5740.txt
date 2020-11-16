@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5740
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  6 
+Category:         files_containing_juicy_info
 Published Date:   2020-02-19
 Author:           Hilary Soita
 GoogleDork:       intitle:index.of "awsconfig.json"

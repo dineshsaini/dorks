@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5804
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  7 
+Category:         files_containing_passwords
 Published Date:   2020-03-18
 Author:           Alexandros Pappas
 GoogleDork:       intitle:"index of" "credentials.yml"

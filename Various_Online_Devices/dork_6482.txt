@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6482
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  5 
+Category:         various_online_devices
 Published Date:   2020-08-17
 Author:           Jitendra Kumar Tripathi
 GoogleDork:       inurl:.*eservices/login

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/639
-Severity: 5 
-Category:         Vulnerable Servers
+Severity:		  3 
+Category:         vulnerable_servers.phpmyadmin
 Published Date:   2004-10-31
 Author:           anonymous
 GoogleDork:       intitle:phpMyAdmin "Welcome to phpMyAdmin ***" "running on * as root@*"

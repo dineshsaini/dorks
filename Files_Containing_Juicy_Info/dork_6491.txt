@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6491
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  6 
+Category:         files_containing_juicy_info
 Published Date:   2020-08-21
 Author:           Anshul T
 GoogleDork:       intext:admin ext:sql inurl:admin

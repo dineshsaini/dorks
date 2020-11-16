@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3991
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  3 
+Category:         sensitive_directories.joomla
 Published Date:   2015-02-11
 Author:           anonymous
 GoogleDork:       "jos_users" intitle:"Index of"

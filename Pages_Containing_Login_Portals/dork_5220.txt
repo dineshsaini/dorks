@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5220
-Severity: 5 
-Category:         Pages Containing Login Portals
+Severity:		  3
+Category:         pages_containing_login_portals
 Published Date:   2019-05-21
 Author:           acc3ssp0int
 GoogleDork:       intitle:"admin console" inurl:login site:"*.edu"|site:"*.gov"|site:"*.net" -site:*.com -help -guide -documentation -release -notes -configure -support -price -cant

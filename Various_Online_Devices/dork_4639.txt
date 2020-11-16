@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4639
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  6 
+Category:         various_online_devices.sementec
 Published Date:   2017-12-19
 Author:           Fu2x2000
 GoogleDork:       inurl:"apps/console/sepm"

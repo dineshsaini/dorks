@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4413
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  3 
+Category:         files_containing_juicy_info
 Published Date:   2017-04-04
 Author:           anonymous
 GoogleDork:       "Fatal NI connect error" ", connecting to:" ext:log

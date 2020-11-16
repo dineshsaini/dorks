@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/264
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  3 
+Category:         sensitive_directories
 Published Date:   2004-06-02
 Author:           anonymous
 GoogleDork:       intitle:"album permissions" "Users who can modify photos" "EVERYBODY"

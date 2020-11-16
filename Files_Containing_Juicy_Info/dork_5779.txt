@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5779
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  6 
+Category:         files_containing_juicy_info
 Published Date:   2020-03-09
 Author:           Reza Abasi
 GoogleDork:       intitle:"index of" accounts.xml

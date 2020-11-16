@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5031
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  7 
+Category:         sensitive_directories
 Published Date:   2018-11-16
 Author:           nuria_pp
 GoogleDork:       intitle:"index of /" authorized_keys

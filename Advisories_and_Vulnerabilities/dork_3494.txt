@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3494
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.rce.flatnuke
 Published Date:   2010-11-15
 Author:           anonymous
 GoogleDork:       "FlatNuke" "Valid HTML 4.01!" "Valid CSS!" "Get RSS 2.0 Feed" "Get RSS

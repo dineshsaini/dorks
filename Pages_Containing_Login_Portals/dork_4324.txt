@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4324
-Severity: 5 
-Category:         Pages Containing Login Portals
+Severity:		  3
+Category:         pages_containing_login_portals
 Published Date:   2016-09-01
 Author:           anonymous
 GoogleDork:       intitle:Sign In inurl:/adfs/ls/?wa=wsignin1.0

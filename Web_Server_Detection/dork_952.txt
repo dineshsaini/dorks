@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/952
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  3 
+Category:         web_server_detection
 Published Date:   2005-04-27
 Author:           anonymous
 GoogleDork:       intitle:"Welcome to the Advanced Extranet Server, ADVX!"

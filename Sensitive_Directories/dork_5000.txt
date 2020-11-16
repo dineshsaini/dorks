@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5000
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  6 
+Category:         sensitive_directories
 Published Date:   2018-10-29
 Author:           Aman Bhardwaj
 GoogleDork:       intitle:"docker" intitle:"index of" config

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1150
-Severity: 5 
-Category:         Pages Containing Login Portals
+Severity:		  3
+Category:         pages_containing_login_portals
 Published Date:   2005-09-26
 Author:           anonymous
 GoogleDork:       intitle:"Supero Doctor III" -inurl:supermicro

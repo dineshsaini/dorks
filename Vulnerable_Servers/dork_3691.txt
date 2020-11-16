@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3691
-Severity: 5 
-Category:         Vulnerable Servers
+Severity:		  4 
+Category:         vulnerable_servers.shell
 Published Date:   2011-02-24
 Author:           anonymous
 GoogleDork:       MySQL: ON MSSQL: OFF Oracle: OFF MSSQL: OFF PostgreSQL: OFF cURL: ON WGet: ON Fetch: OFF Perl: ON

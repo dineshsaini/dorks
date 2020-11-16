@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6375
-Severity: 5 
-Category:         Files Containing Usernames
+Severity:		  8 
+Category:         files_containing_usernames
 Published Date:   2020-07-06
 Author:           Jose Praveen
 GoogleDork:       intitle:"index of" "tomcat-users.xml"

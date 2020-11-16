@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1134
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities.dir-traversal
 Published Date:   2005-09-25
 Author:           anonymous
 GoogleDork:       "Maintained with Subscribe Me 2.044.09p"+"Professional" inurl:"s.pl"

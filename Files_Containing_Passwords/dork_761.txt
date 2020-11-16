@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/761
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  3 
+Category:         files_containing_passwords.webwiz
 Published Date:   2004-12-13
 Author:           anonymous
 GoogleDork:       intext:"powered by Web Wiz Journal"

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4930
-Severity: 5 
-Category:         Footholds
+Severity:		  9 
+Category:         footholds.wordpress.webshell
 Published Date:   2018-08-21
 Author:           Gionathan Reale
 GoogleDork:       "index of" /wp-content/uploads/shell.php

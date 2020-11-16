@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3701
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities.sqli.voicecms
 Published Date:   2011-03-16
 Author:           anonymous
 GoogleDork:       intext:"Powered by VoiceCMS"

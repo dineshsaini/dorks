@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1172
-Severity: 5 
-Category:         Vulnerable Files
+Severity:		  3 
+Category:         vulnerable_files
 Published Date:   2005-10-26
 Author:           anonymous
 GoogleDork:       intitle:"CJ Link Out V1"

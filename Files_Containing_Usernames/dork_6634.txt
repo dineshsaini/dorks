@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6634
-Severity: 5 
-Category:         Files Containing Usernames
+Severity:		  6 
+Category:         files_containing_usernames
 Published Date:   2020-10-21
 Author:           Alexandros Pappas
 GoogleDork:       "DefaultPassword" ext:reg "[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon]"

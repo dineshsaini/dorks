@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3459
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.php-advanced-transfer-manager
 Published Date:   2010-11-15
 Author:           anonymous
 GoogleDork:       "Powered by PHP Advanced Transfer Manager v1.30"

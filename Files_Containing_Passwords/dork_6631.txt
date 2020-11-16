@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6631
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  8 
+Category:         files_containing_passwords.spring
 Published Date:   2020-10-21
 Author:           Alexandros Pappas
 GoogleDork:       "spring.datasource.password=" + "spring.datasource.username=" ext:properties -git -gitlab

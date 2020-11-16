@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6483
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  3 
+Category:         files_containing_juicy_info
 Published Date:   2020-08-17
 Author:           Sahil Saxena
 GoogleDork:       "index of" "user.MYD"

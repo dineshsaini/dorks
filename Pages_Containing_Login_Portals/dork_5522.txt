@@ -1,16 +1,16 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5522
-Severity: 5 
-Category:         Pages Containing Login Portals
+Severity:		  3
+Category:         pages_containing_login_portals
 Published Date:   2019-09-12
 Author:           Reza Abasi
-GoogleDork:       intext:"Please log on to use the mikrotik hotspot service" intitle:"mikrotik hotspot &gt;login" -github -site:mikrotik.com
-Description:      intext:"Please log on to use the mikrotik hotspot service" intitle:"mikrotik hotspot &gt;login" -github -site:mikrotik.com
+GoogleDork:       intext:"Please log on to use the mikrotik hotspot service" intitle:"mikrotik hotspot >login" -github -site:mikrotik.com
+Description:      intext:"Please log on to use the mikrotik hotspot service" intitle:"mikrotik hotspot >login" -github -site:mikrotik.com
 
 
 mikrotik hotspot login:
  
  intext:"Please log on to use the mikrotik hotspot service"
- intitle:"mikrotik hotspot &gt;login" -github -site:mikrotik.com
+ intitle:"mikrotik hotspot >login" -github -site:mikrotik.com
  
  Reza Abasi(Turku)
  

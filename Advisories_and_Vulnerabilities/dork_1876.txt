@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1876
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.cve-2006-3520
 Published Date:   2010-11-15
 Author:           anonymous
 GoogleDork:       "© Sabdrimer CMS"

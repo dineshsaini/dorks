@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6195
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  6 
+Category:         files_containing_juicy_info
 Published Date:   2020-06-04
 Author:           Abhi Chitkara
 GoogleDork:       intitle:"index of" "log.bak"

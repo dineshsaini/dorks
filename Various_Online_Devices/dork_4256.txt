@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4256
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  5 
+Category:         various_online_devices.camera
 Published Date:   2016-04-08
 Author:           anonymous
 GoogleDork:       inurl:/view/viewer_index.shtml

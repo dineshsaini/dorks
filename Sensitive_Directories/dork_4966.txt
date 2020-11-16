@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4966
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  3 
+Category:         sensitive_directories
 Published Date:   2018-09-26
 Author:           SMII Mondher
 GoogleDork:       intext:"KRAB-DECRYPT.txt" intitle:"index of"

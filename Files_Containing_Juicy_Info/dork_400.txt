@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/400
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  3 
+Category:         files_containing_juicy_info
 Published Date:   2004-08-02
 Author:           anonymous
 GoogleDork:       filetype:fp5 fp5 -site:gov -site:mil -"cvs log"

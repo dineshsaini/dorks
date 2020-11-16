@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6601
-Severity: 5 
-Category:         Files Containing Usernames
+Severity:		  8 
+Category:         files_containing_usernames
 Published Date:   2020-10-09
 Author:           Alexandros Pappas
 GoogleDork:       "CREATE ROLE" + "ENCRYPTED PASSWORD" ext:sql | ext:txt | ext:ini -git -gitlab

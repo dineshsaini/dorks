@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/816
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  5 
+Category:         various_online_devices.printserver
 Published Date:   2005-01-12
 Author:           anonymous
 GoogleDork:       intitle:"Network Print Server" intext:"http://www.axis.com" filetype:shtm

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/537
-Severity: 5 
-Category:         Footholds
+Severity:		  4 
+Category:         footholds.asp
 Published Date:   2004-10-09
 Author:           anonymous
 GoogleDork:       intitle:"Web Data Administrator - Login"

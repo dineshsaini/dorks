@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/296
-Severity: 5 
-Category:         Error Messages
+Severity:		  3 
+Category:         error_messages.coldfusion
 Published Date:   2004-06-24
 Author:           anonymous
 GoogleDork:       intitle:"Error Occurred While Processing Request" +WHERE (SELECT|INSERT) filetype:cfm

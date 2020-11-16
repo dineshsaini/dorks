@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/466
-Severity: 5 
-Category:         Vulnerable Files
+Severity:		  3 
+Category:         vulnerable_files
 Published Date:   2004-09-09
 Author:           anonymous
 GoogleDork:       inurl:"nph-proxy.cgi" "Start browsing through this CGI-based proxy"

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3969
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  4 
+Category:         various_online_devices
 Published Date:   2014-10-15
 Author:           anonymous
 GoogleDork:       inurl:cgi-bin/mailgraph.cgi

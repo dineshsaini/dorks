@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/3764
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  3 
+Category:         files_containing_juicy_info
 Published Date:   2011-12-19
 Author:           anonymous
 GoogleDork:       Microsoft-IIS/7.0 intitle:index.of name size

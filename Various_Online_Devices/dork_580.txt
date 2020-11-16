@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/580
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  4 
+Category:         various_online_devices.tivo
 Published Date:   2004-10-18
 Author:           anonymous
 GoogleDork:       inurl:TiVoConnect?Command=QueryServer

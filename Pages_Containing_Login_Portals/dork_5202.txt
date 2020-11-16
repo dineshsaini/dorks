@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5202
-Severity: 5 
-Category:         Pages Containing Login Portals
+Severity:		  4
+Category:         pages_containing_login_portals
 Published Date:   2019-05-07
 Author:           Miguel Santareno
 GoogleDork:       inurl:+CSCOE+/logon.html

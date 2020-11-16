@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/842
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  4 
+Category:         web_server_detection.oracle
 Published Date:   2005-01-27
 Author:           anonymous
 GoogleDork:       inurl:oraweb -site:oraweb.org

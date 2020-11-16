@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6461
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  5 
+Category:         web_server_detection.iis
 Published Date:   2020-08-04
 Author:           Sibi Mathew George
 GoogleDork:       intitle:"Microsoft Internet Information Services 8" -IIS

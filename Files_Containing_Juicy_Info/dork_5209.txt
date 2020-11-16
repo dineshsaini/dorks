@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5209
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  6 
+Category:         files_containing_juicy_info
 Published Date:   2019-05-13
 Author:           edm0nd
 GoogleDork:       "keyed alike" site:gov filetype:pdf

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6354
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities.wordpress
 Published Date:   2020-06-30
 Author:           Ritik Kumar Jain
 GoogleDork:       inurl:wp-content/plugins/gift
@@ -14,6 +14,6 @@ Google Dork:inurl:wp-content/plugins/gift
  1.WordPress Plugin Gift Voucher 1.0.5 - (Authenticated) 'template_id' SQL
  Injection
  https://www.exploit-db.com/exploits/45255
- 2.WooCommerce Smart Coupons &lt; 4.6.5 - Unauthenticated Coupon Creation
+ 2.WooCommerce Smart Coupons < 4.6.5 - Unauthenticated Coupon Creation
  https://wpvulndb.com/vulnerabilities/10109
  3. Gift Certificate Creator 

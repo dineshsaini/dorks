@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4955
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  6 
+Category:         various_online_devices.googledrive
 Published Date:   2018-09-17
 Author:           Akalanka Ekanayake
 GoogleDork:       site:drive.google.com /preview intext:movie inurl:flv | wmv | mp4 -pdf -edit -view

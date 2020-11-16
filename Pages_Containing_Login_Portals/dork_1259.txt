@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1259
-Severity: 5 
-Category:         Pages Containing Login Portals
+Severity:		  3
+Category:         pages_containing_login_portals
 Published Date:   2006-02-08
 Author:           anonymous
 GoogleDork:       intext:"Fill out the form below completely to change your password and user name. If new username is left blank, your old one will be assumed." -edu

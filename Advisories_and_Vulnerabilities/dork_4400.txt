@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4400
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities
 Published Date:   2017-02-24
 Author:           anonymous
 GoogleDork:       "CF-Host-Origin-IP" "CF-Int-Brand-ID" "CF-RAY" "CF-Visitor" "github" -site:github.com -site:cloudfare.com

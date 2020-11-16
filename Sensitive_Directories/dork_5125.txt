@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5125
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  4 
+Category:         sensitive_directories
 Published Date:   2019-02-15
 Author:           Bruno Schmid
 GoogleDork:       intitle:"index of" "Application Data/Microsoft/Credentials"

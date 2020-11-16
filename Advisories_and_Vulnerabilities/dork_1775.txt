@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1775
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  5 
+Category:         advisories_and_vulnerabilities.upload.fake-hit-generator
 Published Date:   2010-11-15
 Author:           anonymous
 GoogleDork:       "Upload unique IP List:" AND "The Ultimate Fake Hit Generator - BOOST YOUR ALEXA RANK"

@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5272
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  6 
+Category:         various_online_devices
 Published Date:   2019-07-03
 Author:           Dec0y
 GoogleDork:       inurl:8443 AND -intitle:8443 AND -intext:8443 prohibited|restricted|unauthorized

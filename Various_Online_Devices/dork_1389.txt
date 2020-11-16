@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/1389
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  3 
+Category:         various_online_devices
 Published Date:   2006-06-25
 Author:           anonymous
 GoogleDork:       allintitle: EDR400 login | Welcome

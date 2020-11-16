@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5268
-Severity: 5 
-Category:         Web Server Detection
+Severity:		  6 
+Category:         web_server_detection
 Published Date:   2019-06-24
 Author:           dorian
 GoogleDork:       inurl:phpinfo.php intext:build 2600

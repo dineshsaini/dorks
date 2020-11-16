@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6628
-Severity: 5 
-Category:         Files Containing Usernames
+Severity:		  7 
+Category:         files_containing_usernames
 Published Date:   2020-10-21
 Author:           amrabee
 GoogleDork:       filetype:csv intext:"Secret access key"

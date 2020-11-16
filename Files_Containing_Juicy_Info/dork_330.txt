@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/330
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  7 
+Category:         files_containing_juicy_info
 Published Date:   2004-07-15
 Author:           anonymous
 GoogleDork:       inurl:ssl.conf filetype:conf

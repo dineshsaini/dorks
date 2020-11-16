@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4650
-Severity: 5 
-Category:         Files Containing Juicy Info
+Severity:		  3 
+Category:         files_containing_juicy_info
 Published Date:   2018-01-04
 Author:           Pancaker
 GoogleDork:       Kodi/Chorus - Web UI (View addons/Currently Playing/Remote Control/Stream/Change Settings) v2

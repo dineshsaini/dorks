@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/6314
-Severity: 5 
-Category:         Advisories and Vulnerabilities
+Severity:		  6
+Category:         advisories_and_vulnerabilities.cve-2020-7246
 Published Date:   2020-06-22
 Author:           Alexandros Pappas
 GoogleDork:       intitle:qdPM 9.1. Copyright (c) 2020 qdpm.net

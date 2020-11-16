@@ -1,13 +1,12 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5850
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  6 
+Category:         various_online_devices
 Published Date:   2020-03-30
 Author:           Nicholas Doropoulos
 GoogleDork:       inurl:8000 intext:"Copyright CANON INC. 2012"
 Description:      inurl:8000 intext:"Copyright CANON INC. 2012"
 
 
-Severity: 5 
 Category: Various Online Devices
  Nicholas Doropoulos
  

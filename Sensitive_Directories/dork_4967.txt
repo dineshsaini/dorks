@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4967
-Severity: 5 
-Category:         Sensitive Directories
+Severity:		  6 
+Category:         sensitive_directories
 Published Date:   2018-09-26
 Author:           Gionathan Reale
 GoogleDork:       intext:pure-ftpd.conf intitle:index of

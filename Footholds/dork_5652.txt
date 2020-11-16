@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/5652
-Severity: 5 
-Category:         Footholds
+Severity:		  5 
+Category:         footholds.webshell
 Published Date:   2019-11-20
 Author:           Jakob Denlinger
 GoogleDork:       intitle:"freedom is real - 1945"

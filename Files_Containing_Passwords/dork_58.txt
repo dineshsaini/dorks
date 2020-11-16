@@ -1,6 +1,6 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/58
-Severity: 5 
-Category:         Files Containing Passwords
+Severity:		  4 
+Category:         files_containing_passwords
 Published Date:   2004-01-23
 Author:           anonymous
 GoogleDork:       passlist.txt (a better way)

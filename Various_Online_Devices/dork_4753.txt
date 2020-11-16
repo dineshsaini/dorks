@@ -1,9 +1,9 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/4753
-Severity: 5 
-Category:         Various Online Devices
+Severity:		  7 
+Category:         various_online_devices
 Published Date:   2018-04-09
 Author:           Carlos E. Vieira
-GoogleDork:       intext:"https://chat.whatsapp.com/invite/" intitle:"Your Search For Company/Subject/Whatever"
+GoogleDork:       intext:"https://chat.whatsapp.com/invite/"
 Description:      intext:"https://chat.whatsapp.com/invite/" intitle:"Your Search For Company/Subject/Whatever"
 
 

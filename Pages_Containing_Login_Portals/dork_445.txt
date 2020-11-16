@@ -1,10 +1,10 @@
 GHDB URL:         https://www.exploit-db.com/ghdb/445
-Severity: 5 
-Category:         Pages Containing Login Portals
+Severity:		  3
+Category:         pages_containing_login_portals
 Published Date:   2004-08-20
 Author:           anonymous
 GoogleDork:       inurl:"gs/adminlogin.aspx"
 Description:      inurl:"gs/adminlogin.aspx"
 
 
-GradeSpeed seems to be a .NET application to administer school results for several schools using the web. If you do not select a school an error is reported. The HTML source code shows path information, for example: option value="E:\GRADESPEED\DRHARMONWKELLEYELEMENTARY\|Dr H. W K. E.|101"&gt;Dr ...
+GradeSpeed seems to be a .NET application to administer school results for several schools using the web. If you do not select a school an error is reported. The HTML source code shows path information, for example: option value="E:\GRADESPEED\DRHARMONWKELLEYELEMENTARY\|Dr H. W K. E.|101">Dr ...
